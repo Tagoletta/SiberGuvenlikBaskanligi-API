@@ -601,7 +601,6 @@ a-101-de-extra-sadece-bugune-ozel-mobilde-tr.bireysel-shop-tr.sbs
 a-101-de-extra-sadece-bugune-ozel-sepette-tr.bireysel-shop-tr.online
 a-101-de-extra-sponsor-mobil-tr.online-bireysel-mobil-tr.click
 a-101-de-sadece-bugune-ozel-tr.online-shop-cepte-tr.site
-a-101-de-sadece-bugune-ozel-tr.online-shop-tr.site
 a-101-de-sadece-extra-bugune-ozel-indirimli-siparis-tr.onlinecep-tr.site
 a-101-extra-bugune-ozel-indirim.mobil-cepte-extra-tr.site
 a-101-extra-bugune-ozel-siparis-tr.onlinecep-tr.site
@@ -4430,7 +4429,6 @@ fbstadalex.xyz
 fbwbgo.cc
 fbyatirim.info
 fcimk41t9e8w.icu
-fct-trsl.xyz
 fcuzdan.com
 fdfdgfgfghfhdf.duckdns.org
 fdgfd1hsgsdgsis.sbs
