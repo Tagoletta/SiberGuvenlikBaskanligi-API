@@ -32,6 +32,7 @@ INC_MAX_DELAY = float(os.environ.get("INC_MAX_DELAY", "6"))
 TIME_BUDGET_SECONDS = float(os.environ.get("TIME_BUDGET_SECONDS", "18000"))
 INCREMENTAL_MAX_PAGES = int(os.environ.get("INCREMENTAL_MAX_PAGES", "50"))
 FULL_RESYNC_DAYS = float(os.environ.get("FULL_RESYNC_DAYS", "7"))
+FORCE_FULL_RESYNC = os.environ.get("FORCE_FULL_RESYNC", "0") == "1"
 SEED_COMPLETE_FRACTION = float(os.environ.get("SEED_COMPLETE_FRACTION", "0.8"))
 WINDOWS = [30, 60, 90, 120]
 REQUEST_TIMEOUT = float(os.environ.get("REQUEST_TIMEOUT", "30"))
@@ -475,12 +476,12 @@ def main() -> int:
 
     if not all_types_complete(state):
         return run_full_crawl(session, db, state, start_time)
-    elif full_resync_due(state):
+    elif FORCE_FULL_RESYNC or full_resync_due(state):
         state["pass_id"] = int(state["pass_id"]) + 1
         for t in ALL_TYPES:
             state["types"][t]["full_crawl_complete"] = False
             state["types"][t]["next_page"] = 1
-        print(f"[resync] pass={state['pass_id']}")
+        print(f"[resync] pass={state['pass_id']} forced={FORCE_FULL_RESYNC}")
         return run_full_crawl(session, db, state, start_time)
     else:
         return run_incremental(session, db, state)

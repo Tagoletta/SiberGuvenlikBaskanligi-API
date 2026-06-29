@@ -1,8 +1,8 @@
-name: Update blocklists
+name: Nightly full resync
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 21 * * *"
   workflow_dispatch:
 
 concurrency:
@@ -13,7 +13,7 @@ permissions:
   contents: write
 
 jobs:
-  update:
+  resync:
     runs-on: ubuntu-latest
     timeout-minutes: 330
     steps:
@@ -28,15 +28,13 @@ jobs:
       - name: Install dependencies
         run: pip install -r scraper/requirements.txt
 
-      - name: Fetch & regenerate lists
+      - name: Full resync
         env:
           TZ: Europe/Istanbul
           DATA_DIR: data
+          FORCE_FULL_RESYNC: "1"
           MIN_DELAY: "5"
           MAX_DELAY: "12"
-          INC_MIN_DELAY: "2"
-          INC_MAX_DELAY: "6"
-          FULL_RESYNC_DAYS: "0"
           TIME_BUDGET_SECONDS: "18000"
         run: |
           set +e
@@ -56,7 +54,7 @@ jobs:
             echo "No changes to commit."
             exit 0
           fi
-          git commit -m "chore: update blocklists ($(TZ='Europe/Istanbul' date +'%Y-%m-%d %H:%M UTC+3'))"
+          git commit -m "chore: nightly resync ($(TZ='Europe/Istanbul' date +'%Y-%m-%d %H:%M UTC+3'))"
           for attempt in 1 2 3 4 5; do
             if git push origin HEAD:main; then
               exit 0
