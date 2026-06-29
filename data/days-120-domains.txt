@@ -6404,7 +6404,6 @@ garanti-bank-bireysel.ph
 garanti-bankasionline.ph
 garanti-bbva-mobil.com
 garanti-kredi-basvuru.sbs
-garanti-kredi-basvurusu.myonlineportal.ch
 garanti-kredi-basvurusu.sbs
 garanti-krediniz-frsatlar.shop
 garanti-krediye-basvur.sbs
@@ -8266,6 +8265,7 @@ hukukpaneli.org
 hukukuzlasma.org
 hukumvesorusturma.org
 huldereteyesede.lol
+hulubikasa-deresefu.xyz
 huluguhufuere-sede.xyz
 human-check.top
 humorfilms.lol
@@ -13453,6 +13453,7 @@ profitra.vip
 profitsphere.site
 profitutor.pro
 profitzs.com
+projects-poker-championships-selecting.trycloudflare.com
 prolance.study
 promaroz.com
 promlardanmbgnler.duckdns.org
