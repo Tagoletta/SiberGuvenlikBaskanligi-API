@@ -1,139 +1,175 @@
-# SGBList — siberguvenlik.gov.tr blocklist generator
+# SiberGuvenlikBaskanligi-API
 
-Fetches the full address index from `https://siberguvenlik.gov.tr/api/address/index`,
-keeps a database of every record with its original date, and regenerates
-time-windowed blocklists on every run.
+> **T.C. Siber Güvenlik Başkanlığı** tarafından yayımlanan tehdit istihbaratı listelerini otomatik olarak çeken, zaman penceresine göre filtreleyen ve ham metin olarak sunan açık kaynak araç.
 
-**Runs entirely on GitHub Actions — no server needed.** A scheduled workflow
-fetches the data hourly and commits the refreshed lists back to the repo, so your
-firewall can pull them straight from raw GitHub URLs. A Docker setup is also
-included for optional self-hosting, but it is not required.
+---
 
-## Output files (in `data/`)
+## 🇹🇷 Türkçe
 
-Domains and IPs are kept in **separate** files:
+### Nedir?
 
-| Window | Domains | IPs |
-| ------ | ------- | --- |
-| All time | `full-domains.txt` | `full-ips.txt` |
-| Last 30 days | `days-30-domains.txt` | `days-30-ips.txt` |
-| Last 60 days | `days-60-domains.txt` | `days-60-ips.txt` |
-| Last 90 days | `days-90-domains.txt` | `days-90-ips.txt` |
-| Last 120 days | `days-120-domains.txt` | `days-120-ips.txt` |
+`https://siberguvenlik.gov.tr/api/address/index` adresindeki genel API'den **5 farklı adres tipini** (domain, url, ip, ip6, ip6net) çeker; her kaydın tarihini veritabanında saklar ve her çalışmada zaman penceresine göre güncel listeler üretir.
 
-Each file is **one bare domain or IP per line** — no quotes, no surrounding
-whitespace, LF line endings — sorted (domains alphabetically, IPs numerically)
-for clean diffs. Point your firewall (pfSense / OPNsense / MikroTik / ipset, etc.)
-at whichever files you need. (`database.jsonl` and `_state.json` are internal
-bookkeeping; the firewall should ignore them.)
+**Sunucu gerekmez.** GitHub Actions saatlik olarak çalışır, listeleri `data/` klasörüne commit eder. Güvenlik duvarınız listeleri doğrudan ham GitHub URL'sinden çekebilir.
 
-`data/database.jsonl` is the source of truth (id, url, type, date). The `.txt`
-lists are **derived from it plus the current clock on every run**, so ageing is
-automatic: a record that turns 31 days old drops out of `days-30-*` but is still
-present in `days-60-*`, `days-90-*`, `days-120-*` and `full-*`. No entry is ever
-lost from the wider windows.
+### Çıktı dosyaları (`data/` klasörü)
 
-## How it decides what to do
+Her adres tipi ayrı dosyada tutulur:
 
-* **First run** (no `full-*` lists yet): state is wiped and a **full crawl** of
-  every page begins, with a randomised `MIN_DELAY..MAX_DELAY` pause between pages
-  so the API is not hammered. The crawl is resumable and checkpointed. The GitHub
-  Actions workflow is set to **5–12 s/page** (≈2 days to seed everything); the
-  code/Docker default is the more conservative **10–50 s**.
-* **After the full crawl completes**: each run does a fast **incremental** update
-  — only the newest pages are fetched until a record we already have is reached —
-  then the lists are regenerated. The workflow runs this **once per hour**.
-* **Periodically (every `FULL_RESYNC_DAYS`, default 7)**: instead of an
-  incremental update, a fresh full crawl runs to detect entries the source has
-  **removed** (see below).
+| Pencere | Domainler | URL'ler | IPv4 | IPv6 | IPv6 Ağları |
+| ------- | --------- | ------- | ---- | ---- | ----------- |
+| Tüm zamanlar | `full-domains.txt` | `full-urls.txt` | `full-ips.txt` | `full-ip6.txt` | `full-ip6net.txt` |
+| Son 30 gün | `days-30-domains.txt` | `days-30-urls.txt` | `days-30-ips.txt` | `days-30-ip6.txt` | `days-30-ip6net.txt` |
+| Son 60 gün | `days-60-domains.txt` | `days-60-urls.txt` | `days-60-ips.txt` | `days-60-ip6.txt` | `days-60-ip6net.txt` |
+| Son 90 gün | `days-90-domains.txt` | `days-90-urls.txt` | `days-90-ips.txt` | `days-90-ip6.txt` | `days-90-ip6net.txt` |
+| Son 120 gün | `days-120-domains.txt` | `days-120-urls.txt` | `days-120-ips.txt` | `days-120-ip6.txt` | `days-120-ip6net.txt` |
 
-## Removals (delisting)
+Her dosya: satır başına bir kayıt, tırnak yok, boşluk yok, LF satır sonu. Domain'ler alfabetik, IP'ler sayısal sıralı.
 
-The incremental update only ever adds; it cannot see that the source dropped an
-entry. To catch removals, every `FULL_RESYNC_DAYS` (default **7**) the fetcher
-re-crawls the whole index. Each record is stamped with the pass that last saw it,
-and when a full pass finishes, any record **not** seen during it is treated as
-removed at the source:
+> `database.jsonl` ve `_state.json` dahili kayıt dosyalarıdır; güvenlik duvarı bunları görmezden gelir.
 
-* it is deleted from the database, so it disappears from **all** lists
-  (`full-*` and every `days-*` window) on the next regeneration, and
-* it is appended to **`data/removed.log`** — one tab-separated line per removal:
+### Yaklaşık kayıt sayıları (güncel)
 
-  ```
-  2026-06-08T17:34:38	REMOVED	removed-x.com	type=domain	id=3	added=2026-06-01 10:00:00
-  ```
+| Tip | Kayıt Sayısı |
+| --- | ------------ |
+| Domain | ~458.000 |
+| URL (query string dahil) | ~7.000 |
+| IPv4 | ~14.700 |
+| IPv6 | ~10 |
+| IPv6 Ağ Bloğu | ~0–10 |
 
-Set `FULL_RESYNC_DAYS=0` to disable periodic re-syncs (removals then won't be
-detected). `removed.log` is append-only history; the firewall ignores it.
-
-> ⚠️ The index has ~475k records (~23,760 pages), **including historical /
-> backdated entries** — the full crawl walks every page to the end, so nothing
-> old is missed. On GitHub Actions this happens automatically across many runs:
-> each run crawls for up to ~5 h, commits its progress, and the next run resumes
-> where it left off until the crawl is complete. At the configured 5–12 s/page the
-> initial seed takes **~2 days**; after that, every hourly run is just a quick
-> incremental update.
-
-## User-Agent
-
-Requests use an ordinary browser User-Agent:
+### Güvenlik duvarı URL örnekleri
 
 ```
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/Tagoletta/SiberGuvenlikBaskanligi-API/main/data/full-domains.txt
+https://raw.githubusercontent.com/Tagoletta/SiberGuvenlikBaskanligi-API/main/data/days-30-domains.txt
+https://raw.githubusercontent.com/Tagoletta/SiberGuvenlikBaskanligi-API/main/data/full-ips.txt
+https://raw.githubusercontent.com/Tagoletta/SiberGuvenlikBaskanligi-API/main/data/full-urls.txt
 ```
 
-Override it with the `USER_AGENT` environment variable (in `update-lists.yml` or
-`docker-compose.yml`).
+pfSense, OPNsense, MikroTik, ipset, Pi-hole, Squid ve benzeri sistemlerle uyumludur.
 
-## Optional: self-host with Docker
+### Nasıl çalışır?
 
-Not needed if you use GitHub Actions. Provided for running on your own server.
+- **İlk çalışma** (full liste yok): tüm tipler için tam tarama başlar. Her tip `per-page=1000` parametresiyle çekilir (~481 sayfa toplamda). Ortalama 5–12 s/sayfa ile ilk tarama **~1–2 saatte** tamamlanır.
+- **Tam tarama sonrası**: her saatlik çalışmada yalnızca yeni sayfalar çekilir (incremental), listeler yeniden üretilir.
+- **Her 7 günde bir**: kaynaktan silinen kayıtları yakalamak için tam yeniden tarama yapılır. Silinen kayıtlar `data/removed.log` dosyasına eklenir.
+
+### Yaşlandırma mantığı
+
+Listeler her çalışmada veritabanı + güncel saatten türetilir. 31 günlük bir kayıt `days-30-*`'dan düşer ama `days-60-*`, `days-90-*`, `days-120-*` ve `full-*`'da kalmaya devam eder. Hiçbir kayıt geniş pencerelerden kaybolmaz.
+
+### Docker ile çalıştırma (isteğe bağlı)
+
+GitHub Actions kullanıyorsanız Docker gerekmez. Kendi sunucunuzda çalıştırmak için:
 
 ```bash
 docker compose up -d --build
-docker compose logs -f          # watch progress
+docker compose logs -f
 ```
 
-Lists appear under `./data`. Override pacing/behaviour via environment variables
-in `docker-compose.yml`:
+Listeler `./data` klasöründe oluşur.
 
-| Variable | Default | Meaning |
-| -------- | ------- | ------- |
-| `MIN_DELAY` / `MAX_DELAY` | `10` / `50` | seconds between pages during the full crawl |
-| `INC_MIN_DELAY` / `INC_MAX_DELAY` | `3` / `10` | seconds between pages during incremental |
-| `TIME_BUDGET_SECONDS` | `3300` | checkpoint the full crawl after this long |
-| `FULL_RESYNC_DAYS` | `7` | re-crawl everything this often to detect removals (0 = off) |
-| `INCREMENTAL_MAX_PAGES` | `200` | safety cap for the incremental update |
-| `DATA_DIR` | `/data` | output directory |
-| `USER_AGENT` | (above) | request User-Agent |
+---
 
-To re-crawl from scratch, just empty `full-domains.txt` and `full-ips.txt` (or
-delete the contents of `data/`): the next run detects empty full lists, wipes
-state and starts a fresh full crawl.
+## 🇬🇧 English
 
-## GitHub Actions (the main way this runs)
+### What is this?
 
-**`.github/workflows/update-lists.yml`** runs every hour, executes the fetcher
-against the committed `data/` state, and commits the refreshed lists back to the
-repo. The first runs perform the resumable full crawl (~5 h budget per run); once
-it is complete, each hourly run is a fast incremental update.
+An open-source tool that pulls **five address types** (domain, url, ip, ip6, ip6net) from the public API of Turkey's Cybersecurity Directorate (`siberguvenlik.gov.tr`), stores each record with its original date, and regenerates time-windowed blocklists on every run.
 
-Your firewall can then consume the lists directly, e.g.:
+**No server required.** A GitHub Actions workflow runs hourly, commits the refreshed lists to `data/`, and your firewall can consume them directly from raw GitHub URLs.
+
+### Output files (`data/` directory)
+
+Each address type is kept in its own file:
+
+| Window | Domains | URLs | IPv4 | IPv6 | IPv6 Nets |
+| ------ | ------- | ---- | ---- | ---- | --------- |
+| All time | `full-domains.txt` | `full-urls.txt` | `full-ips.txt` | `full-ip6.txt` | `full-ip6net.txt` |
+| Last 30 days | `days-30-domains.txt` | `days-30-urls.txt` | `days-30-ips.txt` | `days-30-ip6.txt` | `days-30-ip6net.txt` |
+| Last 60 days | `days-60-domains.txt` | `days-60-urls.txt` | `days-60-ips.txt` | `days-60-ip6.txt` | `days-60-ip6net.txt` |
+| Last 90 days | `days-90-domains.txt` | `days-90-urls.txt` | `days-90-ips.txt` | `days-90-ip6.txt` | `days-90-ip6net.txt` |
+| Last 120 days | `days-120-domains.txt` | `days-120-urls.txt` | `days-120-ips.txt` | `days-120-ip6.txt` | `days-120-ip6net.txt` |
+
+One entry per line, no quotes, no surrounding whitespace, LF line endings. Domains sorted alphabetically, IPs sorted numerically.
+
+> `database.jsonl` and `_state.json` are internal bookkeeping files; firewalls should ignore them.
+
+### Approximate record counts (current)
+
+| Type | Count |
+| ---- | ----- |
+| Domain | ~458,000 |
+| URL (including query strings) | ~7,000 |
+| IPv4 | ~14,700 |
+| IPv6 | ~10 |
+| IPv6 Network Block | ~0–10 |
+
+### Firewall URL examples
 
 ```
-https://raw.githubusercontent.com/<owner>/<repo>/main/data/days-30-domains.txt
-https://raw.githubusercontent.com/<owner>/<repo>/main/data/full-ips.txt
+https://raw.githubusercontent.com/Tagoletta/SiberGuvenlikBaskanligi-API/main/data/full-domains.txt
+https://raw.githubusercontent.com/Tagoletta/SiberGuvenlikBaskanligi-API/main/data/days-30-domains.txt
+https://raw.githubusercontent.com/Tagoletta/SiberGuvenlikBaskanligi-API/main/data/full-ips.txt
+https://raw.githubusercontent.com/Tagoletta/SiberGuvenlikBaskanligi-API/main/data/full-urls.txt
 ```
 
-> 💡 **Make the repo public.** GitHub Actions is unlimited & free for public
-> repos; the multi-day initial crawl would otherwise burn through a private
-> repo's monthly Actions minutes. Public also makes the raw list URLs easy for a
-> firewall to fetch. Scheduled workflows are paused after 60 days of repo
-> inactivity, but the hourly bot commits count as activity, so it stays alive.
+Compatible with pfSense, OPNsense, MikroTik, ipset, Pi-hole, Squid, and similar systems.
 
-## Local run (no Docker)
+### How it works
+
+- **First run** (no full lists present): a full crawl begins for all types. Each type is fetched with `per-page=1000` (~481 pages total). At 5–12 s/page the initial seed completes in **~1–2 hours**.
+- **After the full crawl**: each hourly run does a fast incremental update — only new pages per type are fetched — then lists are regenerated.
+- **Every 7 days**: a full re-crawl runs to detect entries removed at the source. Removed records are appended to `data/removed.log`.
+
+### Ageing logic
+
+Lists are derived from the database + current clock on every run. A record that turns 31 days old drops out of `days-30-*` but remains in `days-60-*`, `days-90-*`, `days-120-*`, and `full-*`. No entry is ever lost from the wider windows.
+
+### Environment variables
+
+| Variable | Default | Description |
+| -------- | ------- | ----------- |
+| `MIN_DELAY` / `MAX_DELAY` | `5` / `12` | Seconds between pages during the full crawl |
+| `INC_MIN_DELAY` / `INC_MAX_DELAY` | `2` / `6` | Seconds between pages during incremental |
+| `TIME_BUDGET_SECONDS` | `18000` | Checkpoint the full crawl after this many seconds |
+| `FULL_RESYNC_DAYS` | `7` | Re-crawl everything this often to detect removals (`0` = off) |
+| `INCREMENTAL_MAX_PAGES` | `50` | Safety cap for incremental pages per type per run |
+| `PER_PAGE` | `1000` | Records per API page (max supported by the API) |
+| `DATA_DIR` | `data` | Output directory |
+| `USER_AGENT` | Chrome/138 | Request User-Agent |
+
+### Docker (optional)
+
+Not needed if you use GitHub Actions.
+
+```bash
+docker compose up -d --build
+docker compose logs -f
+```
+
+Lists appear under `./data`. Override pacing via environment variables in `docker-compose.yml`.
+
+### GitHub Actions
+
+`.github/workflows/update-lists.yml` runs every hour. First runs perform the resumable full crawl; once complete, each hourly run is a fast incremental update.
+
+> 💡 **Keep the repo public.** GitHub Actions is free and unlimited for public repos. Scheduled workflows pause after 60 days of inactivity — the hourly bot commits count as activity, keeping it alive.
+
+### Local run (no Docker)
 
 ```bash
 pip install -r scraper/requirements.txt
 DATA_DIR=data python scraper/fetch.py
 ```
+
+### API source
+
+All data is sourced from the official public API:
+
+```
+GET https://siberguvenlik.gov.tr/api/address/index?type={domain|url|ip|ip6|ip6net}&page={n}&per-page=1000
+```
+
+API documentation: `https://siberguvenlik.gov.tr/api/openapi.yaml`
