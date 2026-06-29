@@ -22,7 +22,7 @@ USER_AGENT = os.environ.get(
 )
 
 DATA_DIR = Path(os.environ.get("DATA_DIR", "data"))
-ALL_TYPES = ["domain", "url", "ip", "ip6", "ip6net"]
+ALL_TYPES = ["url", "ip", "ip6", "ip6net", "domain"]
 PER_PAGE = int(os.environ.get("PER_PAGE", "1000"))
 
 MIN_DELAY = float(os.environ.get("MIN_DELAY", "5"))
