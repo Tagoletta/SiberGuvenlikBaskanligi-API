@@ -1,0 +1,42 @@
+{
+  "pass_id": 1,
+  "last_run": "2026-06-29T10:45:07",
+  "last_full_completed": null,
+  "types": {
+    "domain": {
+      "full_crawl_complete": false,
+      "next_page": 65,
+      "total_pages": 458,
+      "last_max_id": null,
+      "total_count": 457708
+    },
+    "url": {
+      "full_crawl_complete": false,
+      "next_page": 1,
+      "total_pages": null,
+      "last_max_id": null,
+      "total_count": null
+    },
+    "ip": {
+      "full_crawl_complete": false,
+      "next_page": 1,
+      "total_pages": null,
+      "last_max_id": null,
+      "total_count": null
+    },
+    "ip6": {
+      "full_crawl_complete": false,
+      "next_page": 1,
+      "total_pages": null,
+      "last_max_id": null,
+      "total_count": null
+    },
+    "ip6net": {
+      "full_crawl_complete": false,
+      "next_page": 1,
+      "total_pages": null,
+      "last_max_id": null,
+      "total_count": null
+    }
+  }
+}
