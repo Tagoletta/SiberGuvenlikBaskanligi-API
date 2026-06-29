@@ -1,0 +1,12 @@
+.claude/
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.tmp
+data/*.tmp
+data/database.jsonl.tmp
+data/_state.json.tmp
+scraper/_state.json
+scraper/database.jsonl
+scraper/__pycache__/

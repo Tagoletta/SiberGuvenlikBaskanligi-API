@@ -1,0 +1,96 @@
+name: Update blocklists
+
+on:
+  schedule:
+    # Every hour, on the hour (UTC). Runs don't overlap (see the concurrency
+    # group below): a long crawl run keeps the next trigger pending and it
+    # starts the moment the current one finishes.
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+# Never let two runs touch the committed state at the same time. A long initial
+# crawl run will keep the next scheduled run queued instead of clashing.
+concurrency:
+  group: update-lists
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    # GitHub-hosted runners hard-cap at 6h; keep our own budget under that.
+    timeout-minutes: 330
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Fetch & regenerate lists
+        env:
+          TZ: Europe/Istanbul
+          DATA_DIR: data
+          # Per-page wait during the (big) full crawl. 5-12s ~= ~2 days to seed.
+          # Only affects full crawls; the hourly incremental uses INC_* below.
+          MIN_DELAY: "5"
+          MAX_DELAY: "12"
+          INC_MIN_DELAY: "3"
+          INC_MAX_DELAY: "10"
+          # Re-crawl everything weekly to catch entries removed at the source.
+          FULL_RESYNC_DAYS: "7"
+          # Stop & commit progress after ~5h so the initial crawl is resumable
+          # across scheduled runs and never hits the 6h hard limit.
+          TIME_BUDGET_SECONDS: "18000"
+        run: |
+          set +e
+          python scraper/fetch.py
+          rc=$?
+          set -e
+          echo "fetch.py exit code: $rc"
+          # 0 = up to date, 10 = full crawl still in progress (both are fine here).
+          if [ "$rc" -ne 0 ] && [ "$rc" -ne 10 ]; then
+            exit "$rc"
+          fi
+
+      - name: Commit updated lists
+        run: |
+          git config user.name "TagoBot"
+          git config user.email "tagobot@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: update blocklists ($(TZ='Europe/Istanbul' date +'%Y-%m-%d %H:%M UTC+3'))"
+          # main may have moved while the long crawl ran (e.g. code pushes). Our
+          # commit only touches data/, so rebasing replays just that diff onto the
+          # new tip — keeping any code changes intact (a plain reset would revert
+          # them). Works with the shallow checkout. Retry if main moves again.
+          #
+          # If main also moved the generated data/ files (e.g. another run landed),
+          # those same files conflict on every rebase. We just regenerated them from
+          # the authoritative current state, so our version wins: in a rebase our
+          # replayed commit is "theirs", hence -X theirs. Abort any half-finished
+          # rebase before retrying so a stray conflict can't wedge the loop.
+          for attempt in 1 2 3 4 5; do
+            if git push origin HEAD:main; then
+              echo "pushed on attempt $attempt"
+              exit 0
+            fi
+            echo "push rejected; rebasing onto latest main (attempt $attempt)..."
+            git fetch origin main
+            if ! git rebase -X theirs origin/main; then
+              echo "rebase hit an unresolved conflict; aborting and retrying" >&2
+              git rebase --abort || true
+            fi
+          done
+          echo "push still failing after retries" >&2
+          exit 1

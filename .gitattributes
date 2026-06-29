@@ -1,0 +1,11 @@
+# Keep LF for files that run on Linux (Actions runner / Docker container).
+*.sh    text eol=lf
+*.py    text eol=lf
+*.yml   text eol=lf
+*.yaml  text eol=lf
+Dockerfile text eol=lf
+entrypoint.sh text eol=lf
+
+# Treat the generated lists/database as text.
+*.txt   text eol=lf
+*.jsonl text eol=lf
