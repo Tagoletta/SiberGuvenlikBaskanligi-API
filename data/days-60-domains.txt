@@ -475,7 +475,6 @@ a1o1simdi.duckdns.org
 a1o1simdiaktuel.duckdns.org
 a1o1taktak.duckdns.org
 a1o1zzytin.duckdns.org
-a1oo1firsatlarnisanbvsgs.blogdns.com
 a1oo1firsatlarnisanbvstr.blogdns.com
 a2abotnet.com
 a6cfe784-e.b-cdn.net
@@ -738,6 +737,7 @@ araba-cekilisi.com
 arabulucukontrol.org
 aracbakimhizmeti.blogspot.com
 aracbakimhizmetin.blogspot.com
+araccmuayene-tuvturk-randvu.web.app
 aracdetaykontrol.cfd
 aracimindetaylari.cfd
 aracinizhakkinda.com
@@ -1634,6 +1634,7 @@ botmaker.digital
 bozmayinayari.dns.navy
 bozzl.top
 bpfi.digital
+bra-inns-drops-strategic.trycloudflare.com
 bradx23x2ff233.duckdns.org
 braiveeaps.com
 braketiretub.com
@@ -2548,6 +2549,7 @@ ecd31356-d.b-cdn.net
 eceza.org
 ecezaegm.org
 ecezakontrol.org
+ecezamaliye.com
 echomorningsardine.com
 econaturex.com
 ed5ce47d835f-endpoint.com
@@ -3915,7 +3917,6 @@ hizlionline.com
 hizlirgec.click
 hizlisatismerkezi.com
 hizlisdbakieyr.online
-hizlisdbakieyr.store
 hizmetbasvurularimsizde.duckdns.org
 hizmetinkalitesi-burada.shop
 hizmetinkalitesi-dunyasi.shop
@@ -5537,7 +5538,6 @@ mmhhrhhrhrrs21.sbs
 mmhhrhhrhrrs22.sbs
 mmhhrhhrhrrs24.sbs
 mmhhrhhrhrrs31.sbs
-mmhhrhhrhrrs32.sbs
 mmhhrhhrhrrs33.sbs
 mmhhrhhrhrrs35.sbs
 mmhhrhhrhrrs36.sbs
@@ -6821,7 +6821,6 @@ randevularinizigorun.com
 randevuluguncere.com
 randevulugunlere.com
 randevuluzamanninicin.net
-randevunuzolusturun.com
 randevunuzu-goruntuleyin.com
 randevunuzubelirlenin.com
 randevunuzubelirleyin.com
@@ -6829,7 +6828,6 @@ randevunuzugoruntu.com
 randevunuzugoruntuyin.com
 randevunuzuogreni.com
 randevunuzuogrenin.com
-randevunuzuolusturun.com
 randevusaatiolun.com
 randevusalisler.com
 randevuunicin.com
@@ -6956,7 +6954,6 @@ rivluma.com
 rivoraq.vu
 rixoshotelresort.com
 rnavdukkakf.com
-rndhsvizdsfj.store
 rndsuvhhizmetburdss.online
 rndsuvhhizmetburdss.store
 rndvulimonunuz.lat
@@ -7048,7 +7045,6 @@ sadkjhsdakjhsadkjh.com
 sadmsakfdmskqfdfflflfl.net
 sadsahfdagf1.click
 sadsosa1o1onlsfy.blogspot.com
-sadsoslfrisatlarytha1o1o.blogspot.com
 sadsoslfrisatlarytha1o1o1.blogspot.com
 safe-picvault.info
 safedoc-storage.info
@@ -8245,6 +8241,7 @@ taprnbdbvdhgzimet.online
 taprnbdbvdhgzimet.store
 taprndbshuzmerb.online
 taprndbshuzmerb.store
+taprndvhsladnber.store
 taprndvhziusmebtudf.com
 taprnfbvsudhzusd.online
 taprnfbvsudhzusd.store
@@ -8694,6 +8691,7 @@ topicib.com
 topiclibrary.com
 topiclin.com
 topictrail.news
+toplu-konut-idaresi-basvurunuzu.vercel.app
 toplu-konut-idaresi-basvurusu.vercel.app
 toplu-konut-projesi-toki-gov-tr.ph
 toplukonu5391282121.vercel.app
@@ -9080,7 +9078,6 @@ tynarmek.surf
 tyrucakoene.xyz
 tyyyttyyytrt.nicepage.io
 tyyyttyyytrty.nicepage.io
-u155-polisi.online
 u1xm0ctj7nxa5eo1.passau-kleinanzeigen.de
 u2p6e8r4t9a3.cfd
 u8404944.click
@@ -9366,6 +9363,7 @@ watchworldcupfree.online
 watchworldcupfree.xyz
 wawsenti.duckdns.org
 wbnsn-tapurandvusun.com
+wbnsn-tapurandvusun.net
 wbtapss.store
 wbtje64d8o.icu
 wc26-fifa.com
@@ -9605,7 +9603,6 @@ xz21x513z123c321.cfd
 xz21x513z123c321.cyou
 xz21x513z123c321.lat
 xz21x513z123c321.shop
-xz23x123dsdsas.duckdns.org
 xzrt300zx300xrt.cfd
 xzrt300zxdv300xrt.cfd
 xzrt300zxnv300xrt.cfd
@@ -9894,7 +9891,6 @@ zg5mkr7q.apexharvestor.digital
 zgj1tam9.space
 zhghggffghsax6.lol
 zhqsbjc.com
-zifj.top
 ziganaresortcesme.com
 zinavolabs.store
 ziosescsi.net

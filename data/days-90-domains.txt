@@ -421,7 +421,6 @@
 61271268127.webredirect.org
 62354234.net
 6262111.lat
-62987200.servequake.com
 62ce61f5-9.b-cdn.net
 6348732od4we43.click
 64524325235.net
@@ -1126,6 +1125,7 @@ arabulucukontrol.org
 arabulucusistemi.org
 aracbakimhizmeti.blogspot.com
 aracbakimhizmetin.blogspot.com
+araccmuayene-tuvturk-randvu.web.app
 aracdetaykontrol.cfd
 aracimfena.online
 aracimindetaylari.cfd
@@ -2264,6 +2264,7 @@ bozmayinayari.dns.navy
 bozzl.top
 bpfi.digital
 bq7x2m9k4zz.click
+bra-inns-drops-strategic.trycloudflare.com
 bradx23x2ff233.duckdns.org
 braiveeaps.com
 braketiretub.com
@@ -3596,6 +3597,7 @@ ecd31356-d.b-cdn.net
 eceza.org
 ecezaegm.org
 ecezakontrol.org
+ecezamaliye.com
 echomorningsardine.com
 eclipseturkey.com
 econaturex.com
@@ -3865,7 +3867,6 @@ esube.expresgroup.com
 esube.fbavarlikmenkul.com
 esube.fbpiyasa.com
 esube.iknmusteri.online
-esube.prbmenkulyatirim.com
 esubeinf.com
 esubeinfonline.com
 esubem--qnbfinansbank.ph
@@ -5999,7 +6000,6 @@ islem-linkiniz.com
 islem-onay-tr.online
 islem-tamamlaniyor.duckdns.org
 islemerkezler.sbs
-islemi-tamamlayiniz.duckdns.org
 islemkanali.com
 islemler-akbank.ph
 islemler.duckdns.org
@@ -7493,8 +7493,6 @@ lsbnkkmpnyahazir.fwh.is
 lsbnkkmpnyahazrin.fwh.is
 lsbnkmbl.sbs
 lscebimde.xyz
-lscepaninda.click
-lscephizli.click
 lsfckcas31xcas.lat
 lsfckcas31xcas.shop
 lsfckcas31xcas.xyz
@@ -8661,7 +8659,6 @@ oakmeadow.icu
 oakthread.store
 oalsrdasxdasdd.shop
 oaob.top
-obilet-firsat.org
 obilet-firsat.uk
 obilet-www.nl
 obilet-www.online
@@ -11745,6 +11742,7 @@ taprnbdbvdhgzimet.online
 taprnbdbvdhgzimet.store
 taprndbshuzmerb.online
 taprndbshuzmerb.store
+taprndvhsladnber.store
 taprndvhziusmebtudf.com
 taprnfbvsudhzusd.online
 taprnfbvsudhzusd.store
@@ -12259,6 +12257,7 @@ topicib.com
 topiclibrary.com
 topiclin.com
 topictrail.news
+toplu-konut-idaresi-basvurunuzu.vercel.app
 toplu-konut-idaresi-basvurusu.vercel.app
 toplu-konut-projesi-toki-gov-tr.ph
 toplukonu5391282121.vercel.app
@@ -13214,6 +13213,7 @@ wawsenti.duckdns.org
 wazqunor.icu
 wb5sh2enfodu09pr0esw.innovaxazd.icu
 wbnsn-tapurandvusun.com
+wbnsn-tapurandvusun.net
 wbtapss.store
 wbtje64d8o.icu
 wc26-fifa.com
@@ -13762,7 +13762,6 @@ yphizlimobil.xyz
 ypidjitalcebte.click
 ypikrddijisube.xyz
 ypkghd.help
-ypkrddijital.click
 ypmakarss.com
 ypmobildijital.xyz
 ypudhd.buzz
