@@ -715,6 +715,7 @@ aohmanber.duckdns.org
 api-microservice-us1.com
 api.blnance-basvuru.info
 api.eth-fastscan.org
+api.garantibbvakredibasvuru.com
 api.kali365.xyz
 api.masscan.cloud
 api.ra-backup.com
@@ -802,8 +803,6 @@ as1c23jxsadjklcas.sbs
 as1c23jxsadjklcas.xyz
 asaxkakejjsjs11.shop
 asaxkakejjsjs11.xyz
-ascakcl123x123c.click
-ascakcl123x123c.xyz
 asd1sad242330sd.duckdns.org
 asd231256sad03as2d6.duckdns.org
 asdahsdhashdhas824asdha.click
@@ -866,6 +865,7 @@ autodiscover.619378724639012408150.duckdns.org
 autodiscover.73214625721684432190.duckdns.org
 autodiscover.7641713825499140.duckdns.org
 autodiscover.sokmarketekstrakampanya5.duckdns.org
+autodovidka.vip
 autoupdaters.com
 autoupdatet.com
 autoupdatethis.com
@@ -4206,7 +4206,6 @@ isbnk-hizmetleri.duckdns.org
 isbnkbaharetkinlikleri.com
 isbnkpromations.com
 isbqnk-prmosyon.space
-iscebbasvuru.sbs
 iscebimde.co
 iscebimde.com
 iscebindemaxi.com
@@ -6138,6 +6137,7 @@ orynda.site
 orynda.store
 orynt.sbs
 oselt-lgrnlsaok.myonlineportal.ch
+osvitahub.club
 osvitaplus.gifts
 osymodemeekrani.xyz
 otcast.pics
@@ -6257,6 +6257,7 @@ pathfindd.click
 pathsignalpro.com
 patnurd.neocities.org
 patrosnuzs.com
+pavarix.com
 paventa.vu
 pavilora.com
 pavmarto.gifts
@@ -6788,6 +6789,7 @@ rafa0102xadskjx2h3jx12312.cfd
 rafa09lasdck123x123.cfd
 rafa1312xsac123x123123.cfd
 rafa1sackcsakkjx123.shop
+rafa22xadskjqwkjecqw.shop
 rafa23aksdjackdkjx123.cfd
 rafa2acsjcdskjxjakk13x12.cfd
 rafa2askjcaskx123z123.cfd
@@ -8303,6 +8305,7 @@ teb-trade.site
 tebdenpromosyon.my-homeip.de
 techhavenx.com
 techmora.sbs
+technoinfo.xyz
 techroboticslabmade-techie-com-s-account.workers.dev
 techrock.digital
 techva.cyou
