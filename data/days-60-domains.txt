@@ -258,7 +258,6 @@
 583741926.lat
 5896554784fdfd.duckdns.org
 58h0wzk70k8d.icu
-59646894651352.sbs
 5d14vnfb.space
 5e0c6139-1.b-cdn.net
 5kbm66kdabg.icu
@@ -372,7 +371,6 @@ a-101-extra-mobile-ozel-bugun-sepette-tr.online-bireysel-mobil-tr.site
 a-101-extra-online-ozel-indirim-tr.online-shop-bireysel-tr.click
 a-101-extra-sadece-bugune-ozel-mobilde-tr.online-tr-shop-mobil.click
 a-101-extra-sadece-bugune-ozel-online-siparis-tr.bireysel-mobil-shop-tr.com
-a-101-extra-sadece-online-mobile-ozel-tr.online-shop-bireysel-tr.online
 a-101-extra-sadece-online-ozel-mobil-indirim-tr.online
 a-101-extra-sadece-online-ozel-mobil-tr.bilgi-mobil-shop-ozel-tr.sbs
 a-101-extra-sadece-online-ozel-mobilde-tr.shop-tr-online-mobil.site
@@ -2939,7 +2937,6 @@ finventurex.com
 firesalevip.top
 firjacket.top
 firsai.tipshub.net
-firsat-obilet.online
 firsatarackiralama.online
 firsati-kacirma.duckdns.org
 firsatlar-diyari.duckdns.org
@@ -3247,7 +3244,6 @@ giris-yapikredimobil.ip-ddns.com
 girisgelismelersonucbizde.sbs
 girisim-mhrs-randevu.vercel.app
 girisim-mhrs-randevum.vercel.app
-girislerbnasecaktiftr.com
 giriss-times.cfd
 girisss-aktiff-sorsisteme.sbs
 girisssulkesorguekraniniz.sbs
@@ -4632,6 +4628,7 @@ kargotakip.mobilservis-82.sbs
 kargotakip.ptt.com.sistemi.biz.tr
 karijis.top
 karisik.click
+karmab.nicepage.io
 karnpanyalarirn.xyz
 karostmufz.com
 karsepti.gifts
@@ -5103,7 +5100,6 @@ liamseitfor.top
 librarycurrents.duckdns.org
 lichenwispupd.info
 lifebalghance.pro
-lightblue-dove-868441.hostingersite.com
 lightblue-giraffe-327092.hostingersite.com
 lightseagreen-lapwing-100790.hostingersite.com
 ligy-orient-home.myonlineportal.ch
@@ -5304,6 +5300,7 @@ maliyesicil.net
 maliyesicil.org
 maliyesorgutr.org
 maliyet-fark.myonlineportal.ch
+maliyetakip.com
 maliyetalepformu.com
 maliyetebligat.org
 maliyetr.org
@@ -5445,6 +5442,7 @@ mehhearse.com
 mehhrs.dns.navy
 mehrasee.co
 mektupyazsana.com
+meliven.com
 melorinu.top
 meloviraworld.com
 melvexa.gifts
@@ -5965,7 +5963,6 @@ oceanescape.surf
 ocrrrrss.blogspot.com
 octopixeldate.com
 octopox.com
-oda-liegr-l-n-l.myonlineportal.ch
 oddosataninanasinibacisiniarayacagiz.net
 odeme-ilanim-48773.com
 odeme-ilanim-48774.com
@@ -6257,10 +6254,12 @@ paribu.coinsecimi.co
 paribu.hesap-guvenligi.com
 paribuaraba.com
 paribuaraba2026.com
+paribuarabacekilis.com
 paribuarabacekilisi.co
 paribuarabacekilisi.com
 paribuarabacekilisim.co
 paribuarabacekilisim.com
+paribuarabadunyasi.com
 paribuarabafest.com
 paribuarabafirsat.com
 paribuarabafirsati.com
@@ -6275,6 +6274,7 @@ paribuarabasansi.com
 paribucekilis.co
 paribucekilisi.co
 paribucekilisim.co
+paribuodul.com
 parkfauna.com
 parolas.click
 partishoptr.com
@@ -7559,7 +7559,6 @@ sokaraca.shop
 sokarcas.store
 sokayfrstlar.sudehzndrogl.workers.dev
 soketescepte.lat
-sokfrstlaslsad.s0k.workers.dev
 sokindirim-market.com
 sokkampanyaindirimleri.duckdns.org
 sokkampanyalarbayrami.click
@@ -8667,6 +8666,7 @@ toggbasvurum.com
 togghaziran5000.com
 togghizlibasvuru.sbs
 togghizlikayit.com
+togghizlisatis.cfd
 toggkayit.com
 toggotomobil.com
 toggsiparis.com
@@ -9570,7 +9570,6 @@ www155-polisi.online
 wwwbilgilendirmeniz.revise.sbs
 wwwl55-polisi.online
 x00v9c9923jjk3.cfd
-x12lksalclcl123x1ksc.cfd
 x12lksalclcl123x1ksc.lat
 x12lksalclcl123x1ksc.sbs
 x13kkaskckl123x123.cyou
@@ -9914,6 +9913,7 @@ zasede-zaderete.xyz
 zaurevionyzhub.world
 zavirelqomtu.com
 zavorionix.cyou
+zbaforumkf.cfd
 zbnznbhassaxas33.cfd
 zbnznbhassaxas33.cyou
 zbnznbhassaxas33.lat
@@ -9988,7 +9988,6 @@ ziraatdijital.xyz
 ziraatdijital300.sbs
 ziraatdijitalde.sbs
 ziraatledopdolu.fun
-ziraatmobil.wqedasda.cfd
 ziraatselseyler.fun
 zirahot-basvur.vercel.app
 zirat-kredi-basvuru-formu.duckdns.org
