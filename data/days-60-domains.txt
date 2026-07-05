@@ -5,6 +5,7 @@
 00898933.sbs
 008ogwe.icu
 009987b555552.duckdns.org
+010101023x235.duckdns.org
 019d442a-endpoint.com
 019d442e-endpoint.com
 019d6860-endpoint.com
@@ -361,7 +362,6 @@ a-101-extra-sadece-bugune-ozel-online-siparis-tr.bireysel-mobil-shop-tr.com
 a-101-extra-sadece-online-ozel-mobil-indirim-tr.online
 a-101-extra-sadece-online-ozel-mobil-tr.bilgi-mobil-shop-ozel-tr.sbs
 a-101-extra-sadece-online-ozel-mobilde-tr.shop-tr-online-mobil.site
-a-101-extra-sadece-online-ozel-tr.online-shop-bireysel-tr.sbs
 a-101-extra-sadece-online-ozel-tr.online-tr-shop-mobil.sbs
 a-101-extra-sadece-online-siparis-ver-tr.ozel-mobil-shop.sbs
 a-101c0mtlc.shop
@@ -687,7 +687,6 @@ api.eth-fastscan.org
 api.garantibbvakredibasvuru.com
 api.kali365.xyz
 api.masscan.cloud
-api.ra-backup.com
 apiluma.bond
 app-bbva.garantibbvakredibasvuru.com
 app-distribution.net
@@ -945,7 +944,6 @@ basvurhemenkapinda.cfd
 basvurlarabasladi.cloud
 basvursenc.sbs
 basvursend.sbs
-basvursendem.sbs
 basvursender.com.tr
 basvursenders.sbs
 basvursendes.com.tr
@@ -1607,7 +1605,6 @@ cepc4b1scepc4b1sburda84.live
 cepte-sok.shop
 cepte-sokindirim.rf.gd
 ceptehabaerglobalim.shop
-ceptelinks-tr-mobil-tr.online
 ceptepromosyon.my-homeip.de
 ceptesok.guncelfirsatiniz.com
 ceptesok.hizlifirsatim.com
@@ -2127,8 +2124,6 @@ e-ilan-alisveris-sepeti.com
 e-ilan-alisveris-sepetim.com
 e-ilan-online-alisveris-sepetim.com
 e-ilan-online-alisveriz-sepetim.com
-e-merkeziletisimmhrs.digital
-e-mhrsdijitalmerkezl.digital
 e-mhrsilesagligakos.digital
 e-mhrsilesagliikliia.digital
 e-mhrsilesagliklibakislar.digital
@@ -2781,7 +2776,6 @@ gennora.shop
 gennora.site
 gennora.store
 genovixworld.com
-geod-l-g-r-n-l-t.myonlineportal.ch
 geralnewlong.com
 gercekrealistsa.remotewire.net
 gestrak-basavtr.cfd
@@ -3208,6 +3202,7 @@ hansanatn.uk
 haobbao.com
 haploadpin.com
 happyreel.lol
+harberdarolsendeherseydengelbasr.biz
 harcaharca-co.liveon.site
 hardenedraisin.lasergrayscale.com
 hardware-office.cc
@@ -3389,6 +3384,7 @@ hgs-ode-smdii.cfd
 hgs-ode-yukle-simdi.cfd
 hgs-ode-zamani.cfd
 hgs-odemeleri.duckdns.org
+hgs-pttavm.ph
 hgs-simdi-yukleme-zamani.cfd
 hgsaracdolum.web.app
 hgsbakieduragi.web.app
@@ -4101,7 +4097,6 @@ k8v2m9q4x1z7.cfd
 k9mvx2r7q.cfd
 kacirmadanalhemenkapinda.xyz
 kacirmadangelkapinda.com
-kacmayanblb-9h3e.vercel.app
 kacnakolcvama.xyz
 kadikoy-vitrini.shop
 kafamkarsksonradandusundumhakl.info
@@ -4473,6 +4468,7 @@ kommando.live
 kondromalazi.lat
 kontrolpanel3541.com
 konuriskalmaksa.click
+konveyt-giris.duckdns.org
 kopru-bagla-t.myonlineportal.ch
 koralansakadar.co
 korlinnnimmir.com
@@ -6335,6 +6331,7 @@ pusulabetguncelgirislerim.com
 pvasquez-princetonpartners-com-s-account.workers.dev
 pzbsin.com
 pzqpef.click
+q-n-bislem.duckdns.org
 q378373.click
 q52gk1ifewrutsc8.eptt-pttavm.info
 q73449.click
@@ -6423,7 +6420,6 @@ r7mvjl67.space
 r7vx2m.cfd
 r99sadhashdh9asdhahsdsk2.click
 r9m2p6w4k8n1.sbs
-ra-backup.com
 racestrech.info
 raf3134sadacjj1x3jk1jk23x12.shop
 rafa0102xadskjx2h3jx12312.cfd
@@ -6463,14 +6459,12 @@ randevuhastenn.info
 randevuhzimetbudsd.store
 randevuislemleribdusa.online
 randevuislemleribdusa.store
-randevuluguncere.com
 randevuluzamanninicin.net
 randevunuzu-goruntuleyin.com
 randevunuzubelirlenin.com
 randevunuzubelirleyin.com
 randevunuzugoruntu.com
 randevunuzugoruntuyin.com
-randevunuzuogreni.com
 randevunuzuogrenin.com
 randevusaatiolun.com
 randevusalisler.com
@@ -6816,7 +6810,6 @@ satinalonlinesiparis.com
 satinalsepetimodeme.com
 satiskontrol.com
 savcilikhukum.org
-savjsjtnkemmdj129.cfd
 savorlibr.digital
 saxasaxasxasx2.cfd
 saxasdasfagfaf1.cfd
@@ -6844,6 +6837,7 @@ sda321314.duckdns.org
 sdcwww.oss-ap-southeast-1.aliyuncs.com
 sdfbhygbertbqwer.click
 sdfcsdfasdfasd.duckdns.org
+sdfsdasdfsdfsd.duckdns.org
 sdfsdfqweqwef.duckdns.org
 sdkmob.org
 sdvfad1x312asdx13123x1.cfd
@@ -8824,6 +8818,7 @@ zarluna.gifts
 zartzukurt.click
 zasede-zaderete.xyz
 zaurevionyzhub.world
+zauubslru-byyzaz-a1e01-rkatxe.lol
 zavirelqomtu.com
 zavorionix.cyou
 zbaforumkf.cfd
