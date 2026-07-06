@@ -1083,6 +1083,7 @@ denemelergarismenuguncell.xyz
 denionline.com
 deniz-mobil-com-promosyyon-anindan.duckdns.org
 deniz-mobil-com-promosyyon-cebinde.duckdns.org
+deniz-mobil-com-promosyyon-ceptenn.duckdns.org
 deniz-mobil-com-promosyyon-ekrani.duckdns.org
 deniz-mobil-com-promosyyon-guncel.duckdns.org
 deniz-mobil-com-promosyyon-sistemi.duckdns.org
@@ -3193,6 +3194,7 @@ otokocrentcar.com
 otokoctr.net
 otokoctr.rent
 otomatkynlemekampayssendebasvur.info
+otoplus-arac.com
 otosanrentacar.com
 otoxhgsx1l1l1l35.duckdns.org
 outlookturk24x.com
@@ -3231,11 +3233,13 @@ parapulsu.site
 parbuynowshop.com
 paribu--cekilis.com
 paribu--cekilisi.com
+paribu--technology.com
 paribu--tekloloji.com
 paribu-araba.com
 paribu-cekilis.co
 paribu-cekilisi.com
 paribu-cekilisim.co
+paribu-technology.com
 paribu-tr.click
 paribu-tr.site
 paribu.coinsec.co
@@ -4294,6 +4298,7 @@ tiklaoyna.click
 tiktokforbadge.com
 timefocus.watch
 tiravel.gifts
+tiriipsec.net
 tiryakicaylar.com
 tiryakifre.com
 tisssbasfasjfagsax.sbs

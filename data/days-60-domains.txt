@@ -440,7 +440,6 @@ a1o1kampanyalarii.duckdns.org
 a1o1karcafirsabaatrp.blogspot.com
 a1o1korkmazfirsatlari.blogspot.com
 a1o1korkmazkampanya.blogspot.com
-a1o1onfskaracandirmpl.blogdns.com
 a1o1onfskaracandirrmm.blogdns.com
 a1o1onfskaracndirrmm.blogspot.com
 a1o1onlinenisankarkb.blogspot.com
@@ -1902,6 +1901,7 @@ denemelergarismenuguncell.xyz
 denionline.com
 deniz-mobil-com-promosyyon-anindan.duckdns.org
 deniz-mobil-com-promosyyon-cebinde.duckdns.org
+deniz-mobil-com-promosyyon-ceptenn.duckdns.org
 deniz-mobil-com-promosyyon-ekrani.duckdns.org
 deniz-mobil-com-promosyyon-guncel.duckdns.org
 deniz-mobil-com-promosyyon-sistemi.duckdns.org
@@ -2887,7 +2887,6 @@ greenbyte.cyou
 greennest.gifts
 gremonakidux.com
 grestonadim.gifts
-grey-mole-351669.hostingersite.com
 greyhoundwhippetstore.com
 grgewhizlic.click
 grid-push.com
@@ -3776,7 +3775,6 @@ ironbrave.online
 irony.lat
 is1c2kjkdsakjcskj13c213x1.shop
 isbank-basvuruonayiniz.duckdns.org
-isbankasikampanya.duckdns.org
 isbankasiyatirimplatformu.click
 isbankbayrampromation.com
 isbankhgs.sbs
@@ -5300,7 +5298,6 @@ netcheckr.cyou
 netfrontierpro.com
 netgsm-basvuru.com
 netizlenim.com
-netkamrfanparaya.2mydns.net
 netlabs.site
 netorbit.sbs
 netprobe.vu
@@ -5691,6 +5688,7 @@ otokoctr.net
 otokoctr.rent
 otokocturkiye.net
 otomatkynlemekampayssendebasvur.info
+otoplus-arac.com
 otorotaarackiralama.com
 otosanrentacar.com
 otoxhgsx1l1l1l35.duckdns.org
@@ -5747,11 +5745,13 @@ parbuynowshop.com
 parendalikla.click
 paribu--cekilis.com
 paribu--cekilisi.com
+paribu--technology.com
 paribu--tekloloji.com
 paribu-araba.com
 paribu-cekilis.co
 paribu-cekilisi.com
 paribu-cekilisim.co
+paribu-technology.com
 paribu-tr.click
 paribu-tr.site
 paribu.coinsec.co
@@ -7431,7 +7431,6 @@ tenkoff.org
 tepki-stil.myonlineportal.ch
 tera-home.com
 terepoligierese.sbs
-termosindirim.duckdns.org
 termosindiriml.com
 terstdidca.net
 tertmryugmjkty.sbs
@@ -7463,6 +7462,7 @@ tiklaoyna.click
 tiktokforbadge.com
 timefocus.watch
 tiravel.gifts
+tiriipsec.net
 tiryakicaylar.com
 tiryakifre.com
 tisssbasfasjfagsax.sbs
@@ -8274,7 +8274,6 @@ wealthwire.world
 web-182.cfd
 web-182.sbs
 web-182.xyz
-web-basvurum-grntbbva.fixip.org
 web-links-mobil-tr.click
 web-telegram.ug
 webb-182.com

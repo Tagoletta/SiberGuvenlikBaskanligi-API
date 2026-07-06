@@ -235,9 +235,7 @@
 2026-online-notice.cfd
 2026000010101002.duckdns.org
 2026000102001.duckdns.org
-2026evimolacak.sbs
 2026togg.com
-2026toplukonut.sbs
 2026webtoki.sbs
 20binkonutbsvr.com
 20binkonutbsvru.com
@@ -4645,6 +4643,7 @@ denetimsorgu.org
 denionline.com
 deniz-mobil-com-promosyyon-anindan.duckdns.org
 deniz-mobil-com-promosyyon-cebinde.duckdns.org
+deniz-mobil-com-promosyyon-ceptenn.duckdns.org
 deniz-mobil-com-promosyyon-ekrani.duckdns.org
 deniz-mobil-com-promosyyon-guncel.duckdns.org
 deniz-mobil-com-promosyyon-sistemi.duckdns.org
@@ -6024,7 +6023,6 @@ firsatinikacirma.sbs
 firsatiseninle.com.tr
 firsatisindeekran.duckdns.org
 firsatkapida.net
-firsatlar-07-03-2026.me
 firsatlar-diyari.duckdns.org
 firsatlar-tepdecepte.my-homeip.net
 firsatlar101.click
@@ -8994,7 +8992,6 @@ iyilikgunesleri.online
 izaakaaoooq.blogspot.com
 izakakosddd.blogspot.com
 izakaofpa.blogspot.com
-izakasgsdhs.blogspot.com
 izakdos.dnsup.net
 izakfsss.blogspot.com
 izakkfosa.blogspot.com
@@ -11362,7 +11359,6 @@ migrossanalmarketim.net
 migrossanalmarketim.vercel.app
 mikolop.com
 mikulatur.com
-milanousulu.yasuapanitanaik.cfd
 milbiorb.com
 milliegitimbakanligi.xyz
 milosh-solibella-0dcio.sgttommy.workers.dev
@@ -12718,6 +12714,7 @@ otokoctr.net
 otokoctr.rent
 otokocturkiye.net
 otomatkynlemekampayssendebasvur.info
+otoplus-arac.com
 otorotaarackiralama.com
 otosanrentacar.com
 otoxhgsx1l1l1l35.duckdns.org
@@ -12851,11 +12848,13 @@ pardwo.com
 parendalikla.click
 paribu--cekilis.com
 paribu--cekilisi.com
+paribu--technology.com
 paribu--tekloloji.com
 paribu-araba.com
 paribu-cekilis.co
 paribu-cekilisi.com
 paribu-cekilisim.co
+paribu-technology.com
 paribu-tr.click
 paribu-tr.site
 paribu.coinsec.co
@@ -14006,7 +14005,6 @@ ramazan-garanti-kredi.xyz
 ramazan101.duckdns.org
 ramazana101.duckdns.org
 ramazanaozela101.duckdns.org
-ramazanboyuozelfirsat.cloud
 ramazandatavafirsati.cfd
 ramazanfirsaatlari.com
 ramblrr.digital
@@ -14191,7 +14189,6 @@ rejinib509.online
 rejinib509.sbs
 rejinib509.store
 rekabetbizimle.xyz
-reklam-flrsatlari-markette.me
 reklam-flrsatlari-teke-ailesi.me
 reklam-frsatlari-isilmeliscyln.me
 reklam-frsatlari-kapinlzda.me
@@ -15224,7 +15221,6 @@ situationhubs.shop
 situationlabs.shop
 sivokarelun.com
 sixseven-krdili-taruzyuz.xyz
-siyahdaviks.cfd
 siyahtavuk.cfd
 sizekampanya-tr.store
 sizeozel.xyz
@@ -16844,6 +16840,7 @@ tingo.sbs
 tintvera.makeup
 tinytrail.click
 tiravel.gifts
+tiriipsec.net
 tiryakicaylar.com
 tiryakifre.com
 tisssbasfasjfagsax.sbs
