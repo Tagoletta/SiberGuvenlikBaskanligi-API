@@ -717,7 +717,6 @@ aracinizhakkinda.xyz
 aracinizmuayene.xyz
 arackgmkontrol.online
 aracklmtrlerinogren.sbs
-arackmsorgula.com
 aracmuaeyeneislemlerr.com
 aracmuayenehaber.com
 aracmuayeneislem.com
@@ -1903,6 +1902,7 @@ deniz-mobil-com-promosyyon-anindan.duckdns.org
 deniz-mobil-com-promosyyon-cebinde.duckdns.org
 deniz-mobil-com-promosyyon-ceptenn.duckdns.org
 deniz-mobil-com-promosyyon-ekrani.duckdns.org
+deniz-mobil-com-promosyyon-giriss.duckdns.org
 deniz-mobil-com-promosyyon-guncel.duckdns.org
 deniz-mobil-com-promosyyon-sistemi.duckdns.org
 deniz535283637293638.lol
@@ -1944,6 +1944,7 @@ devpilotai.digital
 devstreamo.digital
 dewhurricaneicicle.com
 dfgdfge4gfdgfd.nicepage.io
+dfgdfgerht.duckdns.org
 dfter.netlify.app
 dhamoyush.com
 dhdsjsdjxc.duckdns.org
@@ -3011,6 +3012,7 @@ haber1420.shop
 haber1425.sbs
 haber142512.sbs
 haber1452.sbs
+haber1452.shop
 haber1453.sbs
 haber25-assf.shop
 haber252.shop
@@ -4690,7 +4692,6 @@ lndirim-marketbilgi.com
 lnmlnmlmnlmn.net
 lntlntlntltnltn.net
 lnylntltnllntl.net
-load-craft.com
 localgallery.cyou
 lodolasdenzdeneleser.xyz
 logicalnewrestore.com
@@ -5938,6 +5939,7 @@ pivmarko.gifts
 pixelkeep.cyou
 pixelline.digital
 pixelmira.live
+pixeloza.xyz
 pixoluna.bond
 piyasabizim.click
 pksaonracalara.xyz
@@ -6153,7 +6155,6 @@ pttavm-ilan-satislarim.com
 pttavm-ilanlarim-sepette.com
 pttavm-ilanlarim.com
 pttavm-kilo-metre-sorgulama.web.app
-pttavm-kilometre-ogren.web.app
 pttavm-kilometre-raporu.web.app
 pttavm-km-bilgi.web.app
 pttavm-km-dokumu.firebaseapp.com
@@ -8592,6 +8593,7 @@ yenigelenyaninda.com
 yeniguzelgunlerkapida.com
 yenildigimteksavas.sbs
 yenileniyoruz.online
+yeninokta.abrdns.com
 yeniperspektif.site
 yeniyepyenifirsatlar.com
 yeniyilmlgrsoss.online
