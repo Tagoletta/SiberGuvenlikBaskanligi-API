@@ -6956,11 +6956,9 @@ sahibinden.trguvenlisiparisler.online
 sahibinden.trhizmetservis.online
 sahibinden.trsiparisodeme.online
 sahibindenguvenliadres.com
-sahibindenguvenlikargo.com
 sahibindeni.com.tr
 sahibindenilankargoo.com
 sahibindenile.com.tr
-sahibindenkargoilan.com
 sahibindenkargoo.com
 sahibindenmuhasebe.xyz
 sahibindenmuhasebeodeme.com
