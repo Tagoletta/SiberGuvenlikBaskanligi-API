@@ -295,7 +295,6 @@
 2610692.cloud
 2612952.cloud
 263737.sbs
-2652654651ll11165.duckdns.org
 27478900203.duckdns.org
 278973fea636720-5xrydy.csb.app
 27948323.click
@@ -687,7 +686,6 @@
 8mvq2xr.sbs
 8n6x4f9s7bq2kha5m3.cfd
 8n745c341x32.duckdns.org
-8p2td0dlm9jzu0j2wt1h2aw6p.click
 900lardansangds.biz
 90sadjkajklxk13x12.shop
 9171268.duckdns.org
@@ -2087,6 +2085,7 @@ baseline-include-priority-bar.trycloudflare.com
 basennwrpin.com
 baskwms.top
 basladimibasvuralari.cloud
+basliyoruz13.xyz
 basliyoruz7.xyz
 basralibsru.sbs
 basrolsensiin.lat
@@ -2575,7 +2574,6 @@ beklemedenkgm.net
 beklemekalin.com
 beklemelere.com
 beklemeleregerekduymadan.info
-beklemelereson.net
 beklemelereson.org
 beklemeleresonverdik.com
 beklemeleresonverdim.com
@@ -2784,6 +2782,7 @@ binancxeta.com
 binancxteec.com
 binancxtmbb.com
 binancxtr.com
+binatolme.pro
 binclloudapp.com
 bindeath99.cfd
 bintail.com
@@ -3654,6 +3653,7 @@ campixo.media
 camporaq.com
 campoxo.com
 canavarkampanyaburada.click
+canavarndevusyfasi.duckdns.org
 candankandanbrdayz.xyz
 candrmabrdancandns.shop
 canim-ben-canim-sikilirsa-gencligimi-yakarim.com
@@ -3997,6 +3997,7 @@ cisco-secure-client.es
 cistersaedc.com
 citrusnex.vu
 citycore.gifts
+cityyouguide.info
 civanto.info
 civento.vu
 civicyn.com
@@ -8707,6 +8708,7 @@ isgilan.com
 isikara.com
 isimdesinburada.duckdns.org
 isinyoksaxioburda.com
+isisjaofnsormwo.cfd
 isitanbulbasvurbull.webredirect.org
 iskampanyasum4.xyz
 iskampanyaweb.xyz
@@ -9070,7 +9072,6 @@ iwvhsw.help
 iyigunlerefendim.click
 iyikivarmisiniz.com
 iyilikgunesleri.online
-izaakaaoooq.blogspot.com
 izakakosddd.blogspot.com
 izakdos.dnsup.net
 izakfsss.blogspot.com
@@ -9079,7 +9080,6 @@ izaksofaofos.blogspot.com
 izalkfssq.blogspot.com
 izalkoaoofs.blogspot.com
 izalkoofss.blogspot.com
-izalpoppps.dns.navy
 izaltoqpdf.dns.navy
 izalttsooaopf.blogspot.com
 izaoroppqs.blogspot.com
@@ -11297,7 +11297,6 @@ metramon.com
 metricalo.live
 metrikcs.com
 metrixfolers.pro
-metropol-ulasim.shop
 meyvanto.com
 mezeoldumaskofu.com
 mfagovtr.ph
@@ -13322,6 +13321,7 @@ pla7ina.cfd
 pladorexuni.gifts
 plainraw.com
 plakodirenu.com
+plambe.xyz
 planners-mixing-edmonton-endless.trycloudflare.com
 planti.best
 planti.sbs
@@ -14202,6 +14202,7 @@ randevunuzuolustu.com
 randevunuzuolusturun.com
 randevunuzuyap.com
 randevunuzyapiliyor.com
+randevup-rtali.duckdns.org
 randevup0rtal.duckdns.org
 randevusaatiolun.com
 randevusalisler.com
@@ -15972,6 +15973,7 @@ summitledger.live
 suncatanercan.shop
 sunnyribbon.com
 suntrailan.com
+superfirsatlar.xyz
 superindirimmerkezi1.sbs
 supermarketaglari.click
 supheliislemaktivasyonu.duckdns.org
@@ -17037,7 +17039,6 @@ tmosalmevzular.com
 tnews.tr
 tnlalmnlnata.net
 tnqhcx.click
-to-gg.com
 toadcornswordtune.com
 toaksenawse.ezgateway.net
 toby44292.softr.app
@@ -17132,6 +17133,7 @@ tokibasvuru.pages.dev
 tokibasvuru.shop
 tokifusion.digital
 tokigov-tr.vercel.app
+tokikonut20giris.vercel.app
 tokikonutbasvurulari2.vercel.app
 tokikonuthamurabi.vercel.app
 tokisatis.duckdns.org
@@ -17813,7 +17815,6 @@ tuvturkkyr.com
 tuvturklse.com
 tuvturklsl.digital
 tuvturkmuayene.org
-tuvturkmuhendislikleri.digital
 tuvturkobs.com
 tuvturkos.digital
 tuvturkrandevu.sbs
@@ -18543,6 +18544,7 @@ wellivo.gifts
 welllbeingplace.com
 wellvexa.gifts
 welovechinatown.info
+wenab58919.store
 wensbol.site
 weptody.site
 weqdcy.buzz
@@ -18893,7 +18895,6 @@ xxpscx.homes
 xxrandevuxx.space
 xxrandevuxx.xyz
 xxtrdenemelerixismenuleriguncel.xyz
-xxx3cx31s.duckdns.org
 xxxgr40c0c02xx2.duckdns.org
 xxxrandevuxxx.com
 xxxx2xx24213.duckdns.org
@@ -19216,7 +19217,6 @@ yonlendirsiliyorsunu2a.duckdns.org
 yonlendirsorionuz231.duckdns.org
 yonlendiryorsesd2d.space
 yonlendrildinizsa3.duckdns.org
-yonlenduronu.duckdns.org
 yonleqndiriliyorsiniz.duckdns.org
 yorlenix.asia
 youarases.lat
