@@ -168,7 +168,6 @@
 155polisi.shop
 155polisia.online
 155polisie.online
-155polisitrgov.online
 155trpolisia.online
 155upolisi155.online
 1561512224654657.duckdns.org
@@ -448,7 +447,6 @@
 50tarak.nicepage.io
 5115851547.duckdns.org
 511caa97-a.b-cdn.net
-5121asdafaf.webredirect.org
 512351235.duckdns.org
 512saqqwr12.icu
 5145143214123.duckdns.org
@@ -802,7 +800,6 @@ a.101onlinesiparis.duckdns.org
 a.dev-tunnels.com
 a.garantibbvakredibasvuru.com
 a.sicex.lol
-a1-0-1-snal-mrketim.cfd
 a1-01c0lmtlr.cyou
 a1001.online
 a101-com-tr-onlineozel.duckdns.org
@@ -852,7 +849,6 @@ a101nisankampanyalari.com
 a101onlinebeta.store
 a101onlineislemlermerkezi.pages.dev
 a101pazar.com
-a101ramazan-firsatlari.com
 a101yilinfirsatlar.com
 a102indirimliurunleral.com.tr
 a10bir232x12jj.duckdns.org
@@ -7392,6 +7388,7 @@ haberimnoktasi.shop
 haberims.shop
 haberimtry2.shop
 haberinadresi366.shop
+haberinadresi3786.shop
 haberinadresi4186.shop
 haberindirim.cfd
 haberinkaynagi145.shop
@@ -8310,6 +8307,7 @@ hukukpaneli.org
 hukukuzlasma.org
 hukukyonetim.org
 hukulo-pidezesare.xyz
+hukulugude-redesee.lol
 hukumvesorusturma.org
 huldereteyesede.lol
 hulubikasa-deresefu.xyz
@@ -9349,6 +9347,7 @@ kamosghuzkg.com
 kamoskyuzkfl.com
 kampanya-basvuru-onaylari.duckdns.org
 kampanya-bilgi-sistemim.cfd
+kampanya-cebte.click
 kampanya-karacamobile.vercel.app
 kampanya-paribu.com
 kampanya-saati.duckdns.org
@@ -9683,7 +9682,6 @@ kgm-odemexxxx.com
 kgm-odemexxxx.org
 kgm-odemexxxx.xyz
 kgm-sorgula.com
-kgm-yukle.net
 kgm-yukle.xyz
 kgm-yuklee.xyz
 kgm-yukleex.com
@@ -12550,7 +12548,6 @@ online-hizmet-islemleri.com
 online-hizmet-islemleriniz.com
 online-istanbulkart.shop
 online-kampanyaniz.my-homeip.de
-online-kanalgrant.lat
 online-karaca.vercel.app
 online-kgm.app
 online-kgm.com
@@ -13445,7 +13442,6 @@ pqmpjj.click
 pqvagirisonizlemenugapptr.space
 pralenor.digital
 pranel.click
-pratik-basvurum.cfd
 pratika-basvuru.sbs
 praxemolinu.mom
 praxena.shop
@@ -15753,6 +15749,7 @@ spinuni.com
 splash.garantibbvakredibasvuru.com
 splt-lo-grenad.myonlineportal.ch
 spnosrlukatilmlarim.duckdns.org
+spnsoredreklam.com
 spnsorlu-flrsatlar-epespatos.com
 sponsor-extra-mobil-tr.click
 sponsor-mobil-tr-cep.online
@@ -15945,7 +15942,6 @@ sube-fba.com
 sube-fiba.com
 sube-fibavarlikmenkul.com
 sube-garantl.shop
-sube-grnti.lat
 sube-infoyatirim.com
 sube-matriksmenkultr.com
 sube-t-e-b.my-homeip.net
@@ -18070,7 +18066,6 @@ uxgbyieldwscz.com
 uy347384.click
 uyap-gov-tr.fwh.is
 uyap-sorgu.online
-uyaparsiv.org
 uyapborcsorgulama.org
 uyapdava.com
 uyapdavaesorgu.org
