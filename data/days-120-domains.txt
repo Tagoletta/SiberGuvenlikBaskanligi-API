@@ -1232,7 +1232,6 @@ alcup.sbs
 aldimal.xyz
 aldin-aldin-caylar.net
 aldin-aldin-mart-ayi.net
-aldin-aldin-mart.net
 aldin-cay-paketi.com
 aldin-caymakinesi.lat
 aldin-mart-aldin-anlik.net
@@ -1863,6 +1862,7 @@ aviskirala.com
 aviskiralama.duckdns.org
 aviskurumsal.com
 avisotomobilkiralama.com
+avisrent.net
 avisrental.fun
 avisturkey.vercel.app
 avmhemenal.com
@@ -5551,7 +5551,6 @@ emberzone.cfd
 emekkliiprmsnynkmpnyaa.live
 emekli-pro-teb.my-homeip.de
 emekliiprmsynnkmpnybsvrr.online
-emektarifleri.shop
 emenugarantipluscozummerkezi.space
 emenugiriskayitekranlari.sbs
 emerebelzloglu.com
@@ -6956,8 +6955,6 @@ grande-luna.top
 graniteotter.digital
 grant-kanal.click
 grant-onlin.click
-grant-online.click
-grant-online.lat
 grantc4b1burdabbvakapy.life
 grantipromosynlari.com
 grantkanal.click
@@ -7100,7 +7097,6 @@ guncelsikayet-15.sbs
 guncelsikayet-16.sbs
 guncelsikayet-17.sbs
 guncelsikayet-21.sbs
-guncelsikayet-22.sbs
 guncelsikayet-23.sbs
 guncelsikayet-27.sbs
 guncelsikayetler-213.sbs
@@ -8697,7 +8693,6 @@ iscebbasvuru.sbs
 iscebimde.co
 iscebimde.com
 iscebindemaxi.com
-iscep.kazan.cam
 iscepaninda.cfd
 iscepbankturkey22.netlify.app
 iscepdemayis.sbs
@@ -9323,6 +9318,7 @@ kaisxa12z312sadcasx123.cfd
 kait1xxax123z21sacx23z123.cfd
 kaita1xsadljkackkj13x132.cfd
 kaita2avjfdskjakdsx23.cfd
+kaita2csdkjadkjsadjkx3123x12.sbs
 kaita99asdjkjkqxeqkwe.cfd
 kaitacsdkjck123xk123.sbs
 kaitaelleme3x123z12sacac.cfd
@@ -16626,7 +16622,6 @@ teams-zpfvwnpxuc.edgeone.dev
 teapot-sale.xyz
 teaword.club
 teb-bayramaozel.my-homeip.net
-teb-bireysel-kampanya.gt.tc
 teb-info.info
 teb-nisan-kampanyalari.my-homeip.net
 teb-promosyon.my-homeip.net
@@ -19213,7 +19208,6 @@ yonlen.duckdns.org
 yonlendeiiyonuz7290012.duckdns.org
 yonlendieiliyorsunuzi2334.duckdns.org
 yonlendiliyorsudi2sa.duckdns.org
-yonlendinizkis.duckdns.org
 yonlendirbeni.club
 yonlendirbeni.net
 yonlendirildinisefendimis.duckdns.org
