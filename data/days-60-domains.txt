@@ -986,6 +986,7 @@ basvursens.sbs
 basvursenv.sbs
 basvursenz.sbs
 basvursrc.sbs
+basvursrd.sbs
 basvursrf.sbs
 basvurtamamlana.cloud
 basvuru-cekilis.online
@@ -4649,7 +4650,6 @@ krevont.org
 kripto-btc-turkbonus20.com
 kriptokampanyalar.com
 krkmzcaydanlik.blogspot.com
-kronol-elips-g-r.myonlineportal.ch
 krosapcsaeceka.cfd
 krovazeli.media
 krox020x12jj.duckdns.org
@@ -5071,7 +5071,6 @@ mayis-kampayanlar.com
 mayis-kampayanlari.com
 mayis-kampayasi.com
 mayisayifirsatlarigeldi101.com
-mayisaylarinda.com
 mayisfirsatlarinadresi101.com
 mayisindirimi.cfd
 mayisindirimleriyakala101.com
@@ -9069,7 +9068,6 @@ zavirelqomtu.com
 zavorionix.cyou
 zbaforumkf.cfd
 zbnznbhassaxas33.cfd
-zbnznbhassaxas33.cyou
 zccumhuriyetlr.com
 zdraxenorilpro.world
 zebregts.com

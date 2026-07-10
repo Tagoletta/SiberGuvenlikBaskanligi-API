@@ -521,6 +521,7 @@ basvurevtkixz.sbs
 basvursendsmz.sbs
 basvursendsn.sbs
 basvursrc.sbs
+basvursrd.sbs
 basvursrf.sbs
 basvuru-cekilis.online
 basvuru.avrupagundem.uk

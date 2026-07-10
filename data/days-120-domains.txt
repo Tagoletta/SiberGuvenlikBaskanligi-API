@@ -2142,6 +2142,7 @@ basvursens.sbs
 basvursenv.sbs
 basvursenz.sbs
 basvursrc.sbs
+basvursrd.sbs
 basvursrf.sbs
 basvurtamamlana.cloud
 basvuru-ai.sbs
