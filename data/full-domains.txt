@@ -4834,6 +4834,7 @@
 145455588989998998.duckdns.org
 1454555889899989993.duckdns.org
 1454555889899989994.duckdns.org
+1454555889899989995.duckdns.org
 1455558899990.xyz
 1455558899992.xyz
 1455558899993.xyz
@@ -54907,6 +54908,7 @@ avm-gecisodemesi.com
 avm-guvenliodeme.com
 avm-kampanya-agustos.online
 avm-market-ptt-avm.online
+avm-siparislerim.com
 avm-urunler.com.tr
 avm24online.com
 avm724.xyz
@@ -54916,6 +54918,7 @@ avmagustosalisverisi.online
 avmagustosdepolari.online
 avmalisverisleri-hizli-siparis.online
 avmbakiyem.xyz
+avmbireysel.com
 avmgirisyap.biz.tr
 avmgirisyap.org.tr
 avmgunlukleri1brda0firsat1.com
@@ -76552,8 +76555,8 @@ birgunvkf.com.tr
 birgunvkf.site
 birgunyardim.biz
 birgunyardim.com.tr
-Birgunyardimvakfi.com.tr
 birgunyardimvakfi.com.tr
+Birgunyardimvakfi.com.tr
 birgunyardimvakfi.org
 birgunyardimvakfi.xyz
 birgunyardmvkf.com.tr
@@ -80240,8 +80243,8 @@ blownmgir.pw
 blowpartisan.top
 blowpencalendar.com
 bloxcraft.ddns.net
-BloxHolder.com
 bloxholder.com
+BloxHolder.com
 blpas.click
 blpas.sa.com
 blpes.click
@@ -85336,6 +85339,7 @@ bozolr.ddns.net
 bozpjzu.info
 bozrak.online
 bozro62.xyz
+boztekin-qirevopa.lol
 bozuldudengemxlzlx.com
 bozuntiyz.site
 bozzl.top
@@ -130338,8 +130342,8 @@ drkdvletedvl.online
 drkdybtkwc.com
 drkernsskincare.com
 drkgarantibasvrularim.info
-drkgatevservicceoffice.net
 Drkgatevservicceoffice.net
+drkgatevservicceoffice.net
 drkinvadido.ddns.net
 drkkwtrkbsvrur.com
 drkmnedvvlttbsvuru.info
@@ -147191,10 +147195,10 @@ emdtr.com
 eme2ci.duckdns.org
 EmEditorde.com
 emeditorde.com
-EmEditorgb.com
 emeditorgb.com
-emeditorjp.com
+EmEditorgb.com
 EmEditorjp.com
+emeditorjp.com
 emedoo.ddns.net
 emeeramaontinwrldecp.com
 emek3d.xyz
@@ -181402,8 +181406,8 @@ gomezhasereilaclamasi.site
 gomicrosoft.info
 gomimenyye.ddns.net
 gommeyencemeryes.site
-Gomnd2873yemnenrc.ddns.net
 gomnd2873yemnenrc.ddns.net
+Gomnd2873yemnenrc.ddns.net
 gomnu.com
 gomobile-tor.net
 gomolatori.cyou
@@ -264603,8 +264607,8 @@ loserrq0j1sha8.com
 losev-bagis.com
 losevbagis.com
 losfloresserver.duckdns.org
-losh190sup29asp.top
 Losh190sup29asp.top
+losh190sup29asp.top
 losiesca.ddnsgeek.com
 losiluminati.ddns.net
 lospallos25.com
@@ -266095,8 +266099,8 @@ lzdlpw.top
 lzdq6btw.cn
 lzediamike.trade
 lzeltasfrsatimekanikcanta.blogspot.com
-lzermenmenexcz.net
 Lzermenmenexcz.net
+lzermenmenexcz.net
 lzetosdeme.dns.navy
 lzetwfkjg.com
 lzfcqlpam.com
@@ -266308,8 +266312,8 @@ lzmmxrlllm.net
 lzmmxrlllxmmxxm.net
 lzmmxrlllxxxm.net
 lzmmxrmzrmdlllmxr.blogspot.com
-lzmnelemenemndeyklme.net
 Lzmnelemenemndeyklme.net
+lzmnelemenemndeyklme.net
 lzmr-immykle.com
 lzmr-ykklebbkkyy.net
 lzmr-ykleexmtc.net
@@ -267307,8 +267311,8 @@ macos-browser-update-5y.pages.dev
 macos-browser-update-9n.pages.dev
 Macosapp-apple.com
 macostutorial.com
-macosxappstore.com
 Macosxappstore.com
+macosxappstore.com
 macprograms-pro.com
 macriftan.rf.gd
 macrofocafify.org
@@ -268415,8 +268419,8 @@ mail.sosyal-yardimlasma-basvuru.com
 mail.soylemektencekinmeyinbunlari.net
 mail.spamhuas.com
 mail.springandsummer.lk
-mail.starmech.in
 MAIL.starmech.in
+mail.starmech.in
 mail.starmech.net
 mail.strakonltd.co.ug
 mail.strongserviceip.com
@@ -318564,8 +318568,8 @@ pingrequest.com
 pingvinic1998.dynu.net
 pinkboii.ddns.net
 pinkgoat.com
-Pinkipinevazzey.pw
 pinkipinevazzey.pw
+Pinkipinevazzey.pw
 pinkmandos.ddns.net
 pinkmanstore.ddns.net
 pinkorphan.top
@@ -377846,8 +377850,8 @@ support.us05web-zoom.forum
 support.us05web-zoom.pro
 support.video-meeting.online
 support.video-meeting.xyz
-Support.vmphere.com
 support.vmphere.com
+Support.vmphere.com
 support.worldupdate.live
 support01beserver.ddns.net
 support0b4.ddns.net
@@ -388537,6 +388541,7 @@ ticaretbankasi.org
 ticaretburada.online
 ticaretdeguven-lialisverisanindasiparis.shop
 ticaretdestekleri.click
+ticaretdestekmerkezi.click
 ticaretguvende.com
 ticaretguvenli-anindasiparis.com
 ticaretguvnde-anindasiparis.com
@@ -408249,8 +408254,8 @@ update.flash-installers.com
 update.gdrives.top
 update.githubtestbak.workers.dev
 update.heroisshit.com
-Update.hobiter.com
 update.hobiter.com
+Update.hobiter.com
 update.iap5u1rbety6vifaxsi9vovnc9jjay2l.com
 update.ictdp.com
 update.inet2.org
@@ -419509,8 +419514,8 @@ vkfrhbr.cfd
 vkfrtrrrrrrrr.net
 vkfs-islem.online
 vkfsizlerle.duckdns.org
-vkfsonbsvr.hopto.org
 Vkfsonbsvr.hopto.org
+vkfsonbsvr.hopto.org
 vkfspnorp.duckdns.org
 vkfspnrlutntimli.duckdns.org
 vkfsuperfirsatkatilim.com
@@ -430910,8 +430915,8 @@ www--kuveytturk.com
 www--lnstagram.ml
 www--lnstagram.tk
 www--qnb--finans--bnk.com
-www--turkiye--gov--tr--0r057tkc47e7e.wsipv6.com
 WWW--TURKIYE--GOV--TR--0R057TKC47E7E.WSIPV6.COM
+www--turkiye--gov--tr--0r057tkc47e7e.wsipv6.com
 www--turkiye--gov--tr--0u057tkc47e7e.wsipv6.com
 www--turkiye--gov--tr--0v057tkc47e7e.wsipv6.com
 www--turkiye--gov--tr--0w057tkc47e7e.wsipv6.com

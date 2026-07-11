@@ -155,6 +155,7 @@
 145455588989998998.duckdns.org
 1454555889899989993.duckdns.org
 1454555889899989994.duckdns.org
+1454555889899989995.duckdns.org
 14752563253asd.com
 14755866522sdd.com
 14fd232345saf.click
@@ -382,7 +383,6 @@
 3x2x1c34bg4xwsa2.duckdns.org
 3x3xppp3p0x02302.sbs
 3xkqv7.sbs
-40-000tl-basvuru-onay-prmsyn-1l1.duckdns.org
 4124124.duckdns.org
 41242142142151512421.duckdns.org
 412941234531.com
@@ -1225,7 +1225,6 @@ alabamarecoverycenter.com
 aladeniz.com
 alcup.sbs
 aldimal.xyz
-aldin-aldin-caylar.net
 aldin-cay-paketi.com
 aldin-caymakinesi.lat
 aldin-mart-aldin-anlik.net
@@ -1862,6 +1861,8 @@ avisotomobilkiralama.com
 avisrent.net
 avisrental.fun
 avisturkey.vercel.app
+avm-siparislerim.com
+avmbireysel.com
 avmhemenal.com
 avmkampanyasi.com
 avmsiparislerim.com
@@ -2631,7 +2632,6 @@ beltmealmusic.com
 beltoxer.com
 beltrainstormsnowman.com
 belverisglobal.com
-ben-agizimi-degil-sizin-seklinizi-bozarim.com
 benbunubanlayam.cyou
 benburdaykenkimseekmekyiyemez1.net
 benburdaykenkimseekmekyiyemez2.net
@@ -3075,6 +3075,7 @@ bovlhh.cc
 bozdere-novepaki.lol
 bozkiran-furezopa.lol
 bozmayinayari.dns.navy
+boztekin-qirevopa.lol
 bozzl.top
 bpfi.digital
 bq7x2m9k4zz.click
@@ -4555,7 +4556,6 @@ darvixlabs.store
 dasasasa.nicepage.io
 dasasasas.nicepage.io
 dasasasasas.nicepage.io
-dasdsdadadasddadsad.sbs
 dash.awaydouble.org
 dashgamein.info
 daspcz.help
@@ -4725,7 +4725,6 @@ denonlineservice.com
 denzburadagazede.click
 derbyoni.info
 dertrakds.nicepage.io
-dertz.threesold.cfd
 dertz.yankeecap.cfd
 derzhavainfo.cyou
 descarga-smtr.net
@@ -6107,7 +6106,6 @@ firsatlarburdans.duckdns.org
 firsatlardunyasi.casa
 firsatlardunyasi.ddnsfree.com
 firsatlargunundeyiz.com
-firsatlarikapss.com
 firsatlarim101.click
 firsatlarimburada.com
 firsatlarinadresi101.com
@@ -7594,7 +7592,6 @@ harcaharca-co.liveon.site
 harcaharcabitmedi.com
 hardenedraisin.lasergrayscale.com
 hardware-office.cc
-harikahislerinheppesinde.com
 harikaservisssssz-3aa72187eae1.herokuapp.com
 harikaservissssszyeah-6ad1d6cb379e.herokuapp.com
 harikayizbiz.com
@@ -12819,7 +12816,6 @@ osvitaplus.gifts
 osymodemeekrani.xyz
 otcast.pics
 othgid.help
-otofly.net
 otokocarackirala.com
 otokocfilokurumsal.com
 otokocfilokurumsal.net
@@ -14146,7 +14142,6 @@ ralvoroly.shop
 ralvoroly.store
 ramadan2375liler.sbs
 ramazan-garanti-kredi.xyz
-ramazandatavafirsati.cfd
 ramblrr.digital
 ramsparkgirisi.sbs
 randebulerle.uk
@@ -15154,7 +15149,6 @@ serkanbas57.sbs
 serkancaratan23.cfd
 serke4334cxx.duckdns.org
 serkgftn5jydr4324.duckdns.org
-serkketftn2431231.duckdns.org
 sermayemerkez.site
 seroboybyli.net
 serokvazir.cfd
@@ -16943,6 +16937,7 @@ thykampanyalari.rest
 tibbtkkontrol.com
 ticaretbakanligidestek.click
 ticaretdestekleri.click
+ticaretdestekmerkezi.click
 tidio.cc
 tiklagir101.xyz
 tiklakapinda.duckdns.org
