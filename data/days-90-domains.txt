@@ -616,7 +616,6 @@ a101extrakatalog.site
 a101harca.shop
 a101harcaharcabitmez.duckdns.org
 a101ileindirimegelin.duckdns.org
-a101ileindirimlerburda.duckdns.org
 a101indirimfirsatlarim.xyz
 a101indirimliurunleral.com
 a101indirimmmmm.duckdns.org
@@ -1534,6 +1533,8 @@ basvursenn.sbs
 basvursens.sbs
 basvursenv.sbs
 basvursenz.sbs
+basvursnr.sbs
+basvursnz.sbs
 basvursrc.sbs
 basvursrd.sbs
 basvursrf.sbs
@@ -3593,7 +3594,6 @@ e-dosyasorgu.com
 e-ehliyet.art
 e-giftportal.com
 e-girionlin.cfd
-e-guvenli-online-satis.com
 e-hgs.fun
 e-ilan-alisveris-sepet.com
 e-ilan-alisveris-sepeti.com
@@ -3958,6 +3958,7 @@ etrona.shop
 etrona.site
 etrona.store
 eturkehaberler.world
+etuv-turkl.digital
 eurasiapulsetrtur.cyou
 eurinvestpro.com
 euromarketsignal.de
@@ -5448,7 +5449,6 @@ hgjnertnwernwer.sbs
 hglsakstaafykl.cfd
 hglsyuklegecissystem.cfd
 hglsyuklme.cfd
-hgmslm.cfd
 hgmyrtmy.sbs
 hgs-islemleriniz-sorgulama-hemen.com
 hgs-ode-simdi.com
@@ -5500,7 +5500,6 @@ hgskontrollerims.lat
 hgskurumsal.net
 hgslendifasnxs.xyz
 hgsodeme.com
-hgsodeptt.com
 hgsplakasorgula.store
 hgspttbakiyeyukleyn.web.app
 hgsss-odemeleriniz.com
@@ -6648,6 +6647,7 @@ karagozototamir.com
 karakgmyolgecisbrcnzodyn.com
 karapara.icu
 kararmaliye.org
+karartr.net
 karasoftinterior.com
 karayolda.com
 karca.shop
@@ -7138,7 +7138,6 @@ koravelo.sbs
 korlinnnimmir.com
 korovkamu.com
 korvex.cyou
-kosgebprojelerii.com
 kostugumyollartasti.click
 kotartires.biz
 kotartires.club
@@ -7692,6 +7691,7 @@ makemedigi.com
 makoslzuyt.com
 maleoz.website
 malext.com
+malibirim.com
 malibirim.net
 maliegm.net
 maliegm.org
@@ -8059,6 +8059,7 @@ mhrsvatandasrandevu.duckdns.org
 mhs420dq.com
 mhsaogreen.uk
 mhsaraktiv.uk
+mhshemen.uk
 mhskastogreen.uk
 mhslaatkfff.uk
 mhsscfsrsa.sbs
@@ -8208,7 +8209,6 @@ mobil-obilet.online
 mobil-obilet.org
 mobil-obilet.uk
 mobil-shop-extra-tr.site
-mobil-siparisiniz.com
 mobil-yazda-yakinini-davet.xyz
 mobil-ziraatbasvurulariszie.duckdns.org
 mobil.uyap-gov.com
@@ -8304,7 +8304,6 @@ motovox.bond
 moudtz.cc
 movetosolveno.ink
 moviestorage.pics
-moynssondanismanlik.blogspot.com
 moyrsondanismanlik.blogspot.com
 moyumu.cn
 mphlf7rhoy3n.icu
@@ -9720,6 +9719,7 @@ ptt-avm-sorgulama.firebaseapp.com
 ptt-avm-sorgulama.web.app
 ptt-avm.servislerm-sistem.com
 ptt-hizliaracsorgu-kmsorgula.web.app
+ptt-hizlikm-sorgulama-hizmeti.web.app
 ptt-kargo.servisjeticaret.com
 ptt-km-sorgula-ma.firebaseapp.com
 ptt-km-sorgula-ma.web.app
@@ -9944,6 +9944,7 @@ qanor.bond
 qarevisto.sbs
 qarfelinoz-upadexi.lol
 qarfonixa.capital
+qarfonixa.com
 qarfotreni.capital
 qarimelox.com
 qarovixel.com
@@ -10118,7 +10119,6 @@ randevuhastenn.info
 randevuhastenn.online
 randevuhizmetinburadan.duckdns.org
 randevuhzimetbudsd.store
-randevuicinebekleme.com
 randevuislemleribdusa.online
 randevuislemleribdusa.store
 randevularbugunbasliyor.com
@@ -10135,7 +10135,6 @@ randevumuafynneem.com.tr
 randevunubeleli.com
 randevunubelirle.com
 randevununkolay.com
-randevunuzikne.com
 randevunuzolusturun.com
 randevunuzu-goruntuleyin.com
 randevunuzubelirlenin.com
@@ -10164,7 +10163,6 @@ randkkellaldf.net
 randkvkkakklks.net
 randnvdtv.space
 randv-kontlr-etmek-m.web.app
-randvehuziemtbrudsad.online
 randvuuuakekkeaa.com
 randvykkkddllkkas.net
 raniva.click
@@ -11346,6 +11344,7 @@ sponsorluhaber.com
 sponsorluhizmettler.duckdns.org
 sponsorlureklaml.click
 sponsormail.xyz
+sponsrmention.com
 sportbuzz.vu
 sportivaworldcup.xyz
 sportivoq.com
@@ -11393,6 +11392,7 @@ ssss22232323.duckdns.org
 sssseww23xx.duckdns.org
 sstrak-bsrvat.cfd
 sstss.loseyourip.com
+stabil-olgu-gelisim.myonlineportal.ch
 stablewebsystems.de
 staging.deep-eprime.app
 standart-giris-ler.myonlineportal.ch
@@ -11511,7 +11511,6 @@ svs-verificationdate.beer
 svscnrsondanismanlik.blogspot.com
 svscrsondanismanlik.blogspot.com
 svsrsondanismanlik.blogspot.com
-svxzvntvtruk.com
 swapy-lim-gir.myonlineportal.ch
 sweeffg.online
 sweepquest.info
@@ -12353,6 +12352,8 @@ thunderly.click
 thykampanyalari.cyou
 thykampanyalari.rest
 tibbtkkontrol.com
+ticaretbakanligidestek.click
+ticaretdestekleri.click
 tidio.cc
 tiklagir101.xyz
 tiklakapinda.duckdns.org
@@ -12618,7 +12619,6 @@ torkasaq.gifts
 torkrama.gifts
 torlino.cfd
 torlotiq.gifts
-tormiq.click
 torncakeoanrsa.cfd
 torqami.tr
 torqani.info
@@ -13091,7 +13091,6 @@ tuvturkyys.com
 tuvutkrklelldf.com
 tuvuturk-onl-randvuun.click
 tuvv-turkhizlislemler.com
-tuvvrandevuoperation.site
 tuvvrandevuopertion.site
 tuvvturks.digital
 tuyoahsadhahsd909adsdhas.click
@@ -13377,7 +13376,6 @@ velbayoq.tr
 velbazar.gifts
 velkor.surf
 velnaro.cyou
-velnora.click
 velnyra.xyz
 velocitumedia.com
 velomix.gifts
@@ -13823,7 +13821,6 @@ xbd.garden
 xbsbvagshwsu.lol
 xbsbvagshwsu.shop
 xcasc23klxkallcddas.lol
-xcasc23klxkallcddas.sbs
 xcn23aj234cd.duckdns.org
 xcziby.click
 xddlov.net
@@ -14131,7 +14128,6 @@ yonlendeiiyonuz7290012.duckdns.org
 yonlendieiliyorsunuzi2334.duckdns.org
 yonlendiliyorsudi2sa.duckdns.org
 yonlendirbeni.club
-yonlendirbeni.net
 yonlendirilidisyorsun231.duckdns.org
 yonlendirilidordisuzsw21.duckdns.org
 yonlendirilisordinunuz.duckdns.org

@@ -326,7 +326,6 @@
 7979b423-2.b-cdn.net
 7d3e329f-5.b-cdn.net
 81844dnsnf241.com
-82762724224.duckdns.org
 838466ca-e.b-cdn.net
 8488xx8323.duckdns.org
 867534243.net
@@ -989,6 +988,8 @@ basvursenn.sbs
 basvursens.sbs
 basvursenv.sbs
 basvursenz.sbs
+basvursnr.sbs
+basvursnz.sbs
 basvursrc.sbs
 basvursrd.sbs
 basvursrf.sbs
@@ -1539,7 +1540,6 @@ byebyeeee.click
 bykrmznfrscrfonlin.cfd
 byntra.store
 byntrahubs.store
-byrmkmpn-yasi.xyz
 byrmocankan.duckdns.org
 byrmozel.blogspot.com
 byte-armor.com
@@ -1731,7 +1731,6 @@ cloudguide.in
 cloudmatter.vu
 cloudmetricline.com
 cloudmora.xyz
-cloudservbr.com
 cloudvera.digital
 clubprincess.click
 clueindex.com
@@ -2436,6 +2435,7 @@ etrona.shop
 etrona.site
 etrona.store
 eturkehaberler.world
+etuv-turkl.digital
 eurinvestpro.com
 euromarketsignal.de
 europesignaltrust.de
@@ -3778,7 +3778,6 @@ ibbkrtbsvr6.duckdns.org
 ibneleroncegidipmetibirakin.net
 ibnncexh.webredirect.org
 ic-cep.com
-idarikurum.org
 idarisorusturma.org
 idascsaj1j23123z123.shop
 iddanamesorgu.org
@@ -3862,7 +3861,6 @@ infosube.online
 infovilo.com
 infoyatirimenkul.com
 infportfolio.online
-infra-telemetry.com
 infrastru.digital
 infyra.online
 ingbank-com-tr.ph
@@ -4277,6 +4275,7 @@ karacawz.shop
 karagozototamir.com
 karakgmyolgecisbrcnzodyn.com
 karapara.icu
+karartr.net
 karasoftinterior.com
 karca.shop
 kardeslerorda.click
@@ -4743,7 +4742,6 @@ legitimate-kinda-cut-annotation.trycloudflare.com
 lekimo.info
 leniencyskirttray.com
 lestresot.info
-lesyatsmhzmt.com
 lethasonuc.xyz
 levano.gifts
 levariq.gifts
@@ -4957,6 +4955,7 @@ maintaining-drawings-rand-porter.trycloudflare.com
 makeitupguide.com
 makoslzuyt.com
 maleoz.website
+malibirim.com
 maliegm.net
 maliidariceza.org
 malimahkeme.org
@@ -5189,6 +5188,7 @@ mhrsvatandasrandevu.duckdns.org
 mhs420dq.com
 mhsaogreen.uk
 mhsaraktiv.uk
+mhshemen.uk
 mhskastogreen.uk
 mhslaatkfff.uk
 mi.overlapsnowbound.com
@@ -6323,6 +6323,7 @@ ptt-avm-kmsorgu.web.app
 ptt-avm-sorgulama.firebaseapp.com
 ptt-avm-sorgulama.web.app
 ptt-hizliaracsorgu-kmsorgula.web.app
+ptt-hizlikm-sorgulama-hizmeti.web.app
 ptt-km-sorgula-ma.firebaseapp.com
 ptt-km-sorgula-ma.web.app
 ptt-kmsorgula-aracgecmisiogren.firebaseapp.com
@@ -6498,6 +6499,7 @@ qanor.bond
 qarevisto.sbs
 qarfelinoz-upadexi.lol
 qarfonixa.capital
+qarfonixa.com
 qarfotreni.capital
 qarimelox.com
 qarovixel.com
@@ -7185,7 +7187,6 @@ sizinlegarbasvurusu.duckdns.org
 sizinli-senedi-bilgileri.click
 sizlerads.xyz
 sizlerdesitegir.xyz
-sizleribeklerizzz.sbs
 sizlerle-yunatip-g.myonlineportal.ch
 sizlerleberaber-sorguekraniniz.sbs
 sizlerlehadihemenfirst.sbs
@@ -7386,6 +7387,7 @@ sponsorlu2394239413.click
 sponsorlu23942394135.click
 sponsorluhaber.com
 sponsorlureklaml.click
+sponsrmention.com
 sportbuzz.vu
 sportivaworldcup.xyz
 sportivoq.com
@@ -7425,6 +7427,7 @@ ssss22232323.duckdns.org
 sssseww23xx.duckdns.org
 sstrak-bsrvat.cfd
 sstss.loseyourip.com
+stabil-olgu-gelisim.myonlineportal.ch
 stablewebsystems.de
 staging.deep-eprime.app
 standart-giris-ler.myonlineportal.ch
@@ -7710,6 +7713,8 @@ thoughghtleader.pro
 thykampanyalari.cyou
 thykampanyalari.rest
 tibbtkkontrol.com
+ticaretbakanligidestek.click
+ticaretdestekleri.click
 tidio.cc
 tiklakapinda.duckdns.org
 tiklaoyna.click
@@ -8974,7 +8979,6 @@ youarases.lat
 yoursfind.com
 ypmakarss.com
 yqhalktvmf.com
-yreosaocaknsaaca.cfd
 yrpkrdylefrtrsr.com
 yrprsapcoeceka.cfd
 ytastaub.com
@@ -9007,7 +9011,6 @@ yy44444000044444.duckdns.org
 yy77770007777.duckdns.org
 yy88880008888.duckdns.org
 yy99990009999.duckdns.org
-yydzdcfsrmrket.cfd
 yyeyy.yyuyy.com
 yzbirmrket.cfd
 yzdvrnmrket.cfd

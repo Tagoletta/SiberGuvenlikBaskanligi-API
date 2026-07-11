@@ -733,7 +733,6 @@ a-101-c0lmtl.cyou
 a-101-c0m.cyou
 a-101-c0n.cyou
 a-101-clmt-r.cyou
-a-101-clmtl.cyou
 a-101-de-bugune-ozel-firsatlar-tr.mobil-store-sepet-tr-ekle.site
 a-101-de-bugune-ozel-mobil-tr.internete-ozel-mobil-store-tr.site
 a-101-de-extra-bugune-ozel-sepette-firsat-tr.shop
@@ -2144,6 +2143,8 @@ basvursenn.sbs
 basvursens.sbs
 basvursenv.sbs
 basvursenz.sbs
+basvursnr.sbs
+basvursnz.sbs
 basvursrc.sbs
 basvursrd.sbs
 basvursrf.sbs
@@ -3795,7 +3796,6 @@ cayaypaketsin.lat
 caycial.online
 caydan-lik-indirimleri.net.tr
 caykaraca-11d70fd257ba.herokuapp.com
-caykurmomentum.xyz
 caymakineleri.com
 caymakinesi-aktuel.lat
 caytarifleri.sbs
@@ -4848,7 +4848,6 @@ dijitalkanal-ziraatmobilkampanya.com
 dijitalreklarnencleritr.space
 dijitalrnenuqqvagirisleri.space
 dijitalsbasvurukanal.duckdns.org
-dijitalsorgu.org
 dijitalweb-kampanya.com
 dijitalweb-kampanyalarimiz.com
 dijitalwebkampanya-ziraatmobilin.com
@@ -5725,6 +5724,7 @@ etrona.site
 etrona.store
 ettimsabahsabahdance.shop
 eturkehaberler.world
+etuv-turkl.digital
 eugene-examinations-contained-timber.trycloudflare.com
 eurasiapulsetrtur.cyou
 eurinvestpro.com
@@ -6966,7 +6966,6 @@ gratise.quenumerosalio.com
 gratisle.7s.com.tr
 gratisler.7s.com.tr
 gratisten.7s.com.tr
-gratistr.7s.com.tr
 gravelio.sbs
 grceklerdenrde.cfd
 greenbyte.cyou
@@ -9453,7 +9452,6 @@ karacanisan.vercel.app
 karacanisanbasi.cfd
 karacanisanilk.cfd
 karacaonline.store
-karacaramazan.cfd
 karacastore.club
 karacastoretr.shop
 karacatava.cfd
@@ -9465,6 +9463,7 @@ karakgmyolgcsnz.ddnsgeek.com
 karakgmyolgecisbrcnzodyn.com
 karapara.icu
 kararmaliye.org
+karartr.net
 karasnbayram.sbs
 karasoftinterior.com
 karayolda.com
@@ -10949,6 +10948,7 @@ maleoz.website
 malext.com
 malibilgi.org
 malibilgisistemi.org
+malibirim.com
 malibirim.net
 malibu.seedwarm.cfd
 malidosya.net
@@ -11405,6 +11405,7 @@ mhrsvatandasrandevu.duckdns.org
 mhs420dq.com
 mhsaogreen.uk
 mhsaraktiv.uk
+mhshemen.uk
 mhskastogreen.uk
 mhslaatkfff.uk
 mhsrasras.duckdns.org
@@ -13582,7 +13583,6 @@ prolance.study
 promaroz.com
 promlardanmbgnler.duckdns.org
 promobsvr-is.space
-promosyon.bounceme.net
 promosyon101bgn.duckdns.org
 promosyonbasvurugrnticeponay.com
 promosyonbasvurulari.ascusdusts.sbs
@@ -13634,6 +13634,7 @@ ptt-gae.cyou
 ptt-gav.shop
 ptt-goe.cyou
 ptt-hizliaracsorgu-kmsorgula.web.app
+ptt-hizlikm-sorgulama-hizmeti.web.app
 ptt-kargo.servisjeticaret.com
 ptt-km-sorgula-ma.firebaseapp.com
 ptt-km-sorgula-ma.web.app
@@ -13914,6 +13915,7 @@ qanor.bond
 qarevisto.sbs
 qarfelinoz-upadexi.lol
 qarfonixa.capital
+qarfonixa.com
 qarfotreni.capital
 qarimelox.com
 qarovixel.com
@@ -15753,6 +15755,7 @@ sponsorluhizmettler.duckdns.org
 sponsorlureklaml.click
 sponsorlutanitimmzrst.com
 sponsormail.xyz
+sponsrmention.com
 sportbuzz.vu
 sportivaworldcup.xyz
 sportivoq.com
@@ -15804,6 +15807,7 @@ ssss22232323.duckdns.org
 sssseww23xx.duckdns.org
 sstrak-bsrvat.cfd
 sstss.loseyourip.com
+stabil-olgu-gelisim.myonlineportal.ch
 stablewebsystems.de
 stackbeacon.xyz
 stackgroove.com
@@ -16930,6 +16934,8 @@ thunderly.click
 thykampanyalari.cyou
 thykampanyalari.rest
 tibbtkkontrol.com
+ticaretbakanligidestek.click
+ticaretdestekleri.click
 tidio.cc
 tiklagir101.xyz
 tiklakapinda.duckdns.org
@@ -18976,7 +18982,6 @@ yapisalseyler.co
 yapmakicinyapanlardadavar.sbs
 yapmamisbirligi.click
 yaponayaninda.ooguy.com
-yapt1gnbosyormmsayessnd.net
 yarabandi.sbs
 yardimcioluruzz.com
 yardimcioluruzz.net
