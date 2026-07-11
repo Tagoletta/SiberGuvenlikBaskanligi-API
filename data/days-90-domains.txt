@@ -3609,7 +3609,6 @@ e-odemeler.duckdns.org
 e-online-ilan-sepet.com
 e-online-ilan-sepetim.com
 e-online-ilan.com
-e-online-satici-pazar.com
 e-online-satici-pazari.com
 e-onlineislemlerim.rf.gd
 e-sozlesme.kurumsal-online-islem.com
@@ -9837,7 +9836,6 @@ pttavmkmraporlama.com
 pttavmkmsorguladim.web.app
 pttavmkmsorgulama.com
 pttavmkmsorgumerkezi.web.app
-pttavmonlineguvence.com
 pttavmonlineislemlerim.com
 pttavmonlinesepethemenal.com
 pttavmsatinal.com
