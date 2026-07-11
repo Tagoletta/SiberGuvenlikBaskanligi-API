@@ -918,7 +918,6 @@ aktuselfirsatlarkapinda.xyz
 aktutelfirsatlarkapinda.com
 aktutelfirsatlarkapinda.xyz
 akutelcebinde.xyz
-akutelceplerde.com
 akutelceplerdec.com
 alabamarecoverycenter.com
 aladeniz.com
@@ -3602,7 +3601,6 @@ e-ilan-online-alisveriz-sepetim.com
 e-ilan-online-satici.com
 e-ilan-online-sepet.com
 e-ilan-online.com
-e-loginpagemobil.vercel.app
 e-loginpagemobile.vercel.app
 e-maliyetalepformu.com
 e-merkeziletisimmhrs.digital
@@ -3686,6 +3684,7 @@ edevletuyapgiris.com
 edictoria.sbs
 edilgen-kapigr-entry.myonlineportal.ch
 edilim-entry-kapisi.myonlineportal.ch
+edilim-kapi-dusunce.myonlineportal.ch
 edinimler-aciklayici-klagr.myonlineportal.ch
 editor.gleeze.com
 edosyabirimi.org
@@ -7490,6 +7489,7 @@ lixgooda.gifts
 lixmalliq.com
 lixmartu.gifts
 lixmelya.gifts
+lixshopro.com
 lixshopu.com
 lixvendq.com
 lkatilim-lkredinizz.cfd
@@ -7560,6 +7560,7 @@ lrdansandandandan.shop
 lrdansandands.shop
 lrdansandanll.sbs
 lrdansandansandan.club
+lrdansandansddfgdfg.forum
 lrdanskzordaprrrr.shop
 lrlzlu.cc
 lrniq.cfd
@@ -8087,6 +8088,7 @@ migros-sanal-marketim.vercel.app
 mikolop.com
 mikulatur.com
 milbiorb.com
+millenniuminc.my
 milliegitimbakanligi.xyz
 minaren.com
 minavex.gifts
@@ -9942,6 +9944,7 @@ qarevisto.sbs
 qarfelinoz-upadexi.lol
 qarfonixa.capital
 qarfotreni.capital
+qarimelox.com
 qavdeli.tr
 qavdukan.gifts
 qavlira.club
@@ -11466,6 +11469,7 @@ subeinf.com
 subemiz-garanti.myonlineportal.eu
 suben-bbva.click
 subeportalgiris.com
+subesiz-basvur.myonlineportal.eu
 subterranews.pics
 successfulpro.fit
 suclamadava.org
@@ -13334,6 +13338,7 @@ vasdeli.boats
 vaskelon.live
 vaslosalco.co
 vatandasislemlerionline.fun
+vatandasislemlerionline.sbs
 vatandasislemlerionline.shop
 vatandasislemlerionline.space
 vatandaslrndkktineiletsm.sbs
