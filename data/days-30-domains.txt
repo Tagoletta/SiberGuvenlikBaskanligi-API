@@ -110,6 +110,7 @@
 456345345.net
 485e02db-a.b-cdn.net
 49494oop49x92.duckdns.org
+4hex.online
 500ceb4e.nicepage.io
 50tarak.nicepage.io
 511caa97-a.b-cdn.net
@@ -343,6 +344,7 @@ anindaislemonay.com
 ankara-hizli-yanit-kredddlim.xyz
 ankarabyte.today
 ankarameclisqivo.com
+ankaranest.life
 ankarapulse.cyou
 ankarapusula.live
 ankarasummit.com
@@ -715,7 +717,6 @@ brempak.surf
 brempax.capital
 brempo.org
 bridge-star.cfd
-briefom.com
 briefzone.xyz
 brightfutureview.com
 brightloop.today
@@ -769,7 +770,6 @@ bu-garanti-yaz-ayi-naz-ayi.xyz
 bu-sonfirsatlarhaziran.online
 buaskboylebtmezbrakmaterketmebenatma.online
 bubuhukulugueferesede.xyz
-budgetyn.com
 bugfudafadadsede.xyz
 bugunbakisi.com
 bugunberdahangmacvar.info
@@ -963,7 +963,6 @@ coreaspro.com
 corelyx.vu
 coslyintra.online
 cotrixauvex.ink
-councilom.com
 councilyn.com
 courtneyhambat.fit
 cowsidewalktune.com
@@ -1001,6 +1000,7 @@ credittengine.com
 crfrusa-online.vercel.app
 criminalcloudflare.online
 critical-silver-yak.pages.dev
+crsastore.vercel.app
 cryptotoki.site
 cryptotokimarket.store
 crystaltoki.site
@@ -1050,7 +1050,6 @@ datario.digital
 davamerkezi.org
 davasorusturma.org
 dd3x32ffd2.duckdns.org
-debateyn.com
 debit-funds.com
 december-humans-blend-word.trycloudflare.com
 decosline.com
@@ -1138,7 +1137,6 @@ dipixcanax.click
 dipixcanax.lol
 dipixcanax.sbs
 dipixcanax.xyz
-direktsube-akbank.ph
 disciplinenahidwin.st
 disclaud-password-security.myonlineportal.ch
 discountstock.top
@@ -1329,6 +1327,7 @@ euzlasmateblig.com
 euzlasmateblig.org
 evdeis-cagrimerkezi.online
 eventlogerps1.ink
+evidencescout.com
 evimbasvuruonline.com
 evisa-gov-tr.com
 ewrberveqwrbwerh.click
@@ -1433,7 +1432,6 @@ firsatlarityakalama.xyz
 firsatlarityakalaza.xyz
 firsaturunleral.com
 firstlartukenmkuzere1o1.shop
-fitcore.gifts
 fiyatkarsilastirma.sbs
 fjellstottfinans.com
 flas-smart-umut.org
@@ -1531,10 +1529,8 @@ garanti-bankasionline.ph
 garanti-kredi-basvuru.sbs
 garanti-kredi-basvurusu.sbs
 garanti-krediye-basvur.sbs
-garanti-subesi-giris.ph
 garanti-yesil-kredili-garanti.xyz
 garanti.bb.va-tr.com
-garantibbvabankas.ph
 garantibbvaintl.com
 garantibbvakredi.otzo.com
 garanticepsubem-com.ph
@@ -1587,7 +1583,6 @@ gikarcas.shop
 gikarcas.store
 gilr-laynkarltini.xyz
 gimkupiq.gifts
-giris-hepsibura-auth.soundandshinesolutions.cv
 giris-kampanya.online
 giris-mhrs-randevu.vercel.app
 giris-secim-kampany.sbs
@@ -1626,7 +1621,6 @@ got8rflowes.info
 gotoinvst.com
 goturkishmart.shop
 gov.y4nsmsars.sbs
-govrom.com
 govtop.one
 gozlemnoktasi.com
 gps-establishing-maximize-jefferson.trycloudflare.com
@@ -2109,8 +2103,8 @@ infportfolio.online
 infyra.online
 ingbank-com-tr.ph
 ingbank-hosgeldin2019.ph
-ingbank-mobil.ph
 ingbankasi.ph
+insightbasehq.com
 instatraksf.nicepage.io
 instatraksfa.nicepage.io
 insuarenc-liberty.myonlineportal.ch
@@ -2210,7 +2204,6 @@ istnblwaskrsxt.online
 istnike67.xyz
 istnnmblas.com
 istntblgtrjrg.com
-isubeakbankdirekt.ph
 isxbank-promo.redirectme.net
 ivdharcpulu.com
 ivorilla.cloud
@@ -2276,6 +2269,7 @@ kalibre-g-r-esenlik.myonlineportal.ch
 kamnpannyadevamypkrdi360.click
 kampanya-cebte.click
 kampanya-paribu.com
+kampanya-tebte.click
 kampanya.thykampanyalari.rest
 kampanyabonustana.cloud
 kampanyafirsatlariniz.duckdns.org
@@ -2570,7 +2564,6 @@ kuveytturkkkk.duckdns.org
 kuveytturkmobil.duckdns.org
 kuveytturkresmi.duckdns.org
 kuveytturks.duckdns.org
-kuveytturkyatirim.ph
 kuzey-islem.22web.org
 kuzeymuayene.com
 kveylekrt.duckdns.org
@@ -3147,7 +3140,6 @@ onlinehaziranfirsatlari.com
 onlinehemen.com
 onlinekgmyolgcsbrcodyn.com
 onlinekirasozlesmesi.com
-onlineqnbfinansbank.com.ph
 onlinetemmuzfirsatlari.com
 onliseriesxozel.click
 onlline-sbm.org
@@ -3192,7 +3184,6 @@ ortaksayfalar.com
 ortakverimerkezi.com
 ortakyansima.com
 ortakyasamim.com
-orvani.cyou
 orvyra.xyz
 orynt.sbs
 oselyaonline.com
@@ -3302,11 +3293,13 @@ paribuarabasi.com
 paribuarabasurpriz.com
 paribuarabasurprizi.com
 paribuarabatalih.com
+paribuarabatalihlisi.com
 paribuarabayikazan.com
 paribuarabayolunda.com
 paribuarabazamani.com
 paribuaracfirsat.com
 paribubonuscarki.com
+paribubuyukcekilisi.com
 paribucarkicevir.com
 paribucarkicevirkazan.com
 paribucarkkampanyasi.com
@@ -3465,6 +3458,7 @@ predicttogetherrecruit.store
 prefer-buyers-junction-yearly.trycloudflare.com
 prejointl.info
 prenovalik.capital
+presence-chris-modern-ata.trycloudflare.com
 pressluma.com
 pressspectrum.com
 priceyn.com
@@ -3502,7 +3496,6 @@ promotds.us
 promsyon-isbank.bounceme.net
 proxygrid.cc
 psmsynnnkmpnyaaaa.live
-ptksdasfasxa-sa.cfd
 ptt-avm-arac-km-sorgu-sist.firebaseapp.com
 ptt-avm-arac-km-sorgu-sist.web.app
 ptt-avm-islemleriniz-km.firebaseapp.com
@@ -3672,10 +3665,8 @@ qirshopa.gifts
 qmartelyx.xyz
 qmenkuldegerler.com
 qnasndnasn.vercel.app
-qnb-finansbankasionline.ph
 qnbfinansbank---giris.ph
 qnbfinansbank-intsube.ph
-qnbfinansbank-kampanyakatilim.ph
 qnbfinansbank-kredi.ph
 qnbfinansbank-login.ph
 qnbfinansbnak.ph
@@ -3797,7 +3788,6 @@ roomnest.gifts
 rotoa-upda-lo.com
 rpcsecnoweb.pro
 rs2y15sungu.com
-rsaxasdahgfas-sa.cfd
 rshal.com
 rtkatrbascuru.sbs
 rudvesato-pasta.info
@@ -4208,6 +4198,7 @@ streamcommun1ty.com
 streamnf.live
 stylexa.run
 sube.sekerplatform.pro
+subemiz-garanti.myonlineportal.eu
 suclamadava.org
 sudarhanimport.com
 sukarcas.shop
@@ -4247,7 +4238,6 @@ talvona.store
 tamamhadherseebakgotur.info
 tamamla-sip.com
 tamelix.vu
-tamelora.com
 tamponu-yere-bastirdim.xyz
 tapgncweb.web.app
 tapp-wweeb.com
@@ -4537,7 +4527,6 @@ tpetrolinvest.com
 tplskerjsc.space
 tppsl-032042.com
 tpurandevolstur.uk
-tr-akbank.ph
 tr-binancetr.duckdns.org
 tr-gikarca.shop
 tr-grsnzonln.lat
@@ -4670,6 +4659,7 @@ turkhaberz.com
 turkhavayollari.click
 turkiinvest.com
 turkishbank.online
+turkishplus.click
 turkiyapostasix.com
 turkiye-petrolleri-platform.com
 turkiyeaktifhaber.com
@@ -4696,7 +4686,6 @@ tursabacentasorgula.com
 tursabonlinesorgu.com
 tutnet.vu
 tuv-trk.net
-tuv-turkk.com
 tuv-turkl.digital
 tuv.12855w652.forum
 tuvkdkaksaksaas.com.tr
@@ -4853,7 +4842,6 @@ venturemarket.top
 veonllinevservise.xyz
 verdantcore.biz
 veridica.xyz
-vertlym.com
 vertualstreak.info
 vexalunor.cfd
 vexalunorq.capital
@@ -4938,6 +4926,7 @@ webdisk.73214625721684432160.duckdns.org
 webdisk.862413415907186120.duckdns.org
 webdisk.sokmarketekstrakampanya3.duckdns.org
 webdisk.sokmarketekstrakampanya5.duckdns.org
+webforge.bond
 webmail.6134728541296136547150.duckdns.org
 webmail.73214625721684432160.duckdns.org
 webmail.7641713825499140.duckdns.org
@@ -5007,8 +4996,6 @@ wwdx23b3.duckdns.org
 www-enpara-qnbfinans-com-tr.ph
 www-osym-gov-tr.nproxy.org
 www-pirantech.com
-www-qnb-finansbank.ph
-www-qnbfinansbank-cekilis-firsat-com.ph
 www-qnbfinansbank-cepsubesi-com.ph
 www-toki-gov-tr-ev.vercel.app
 www.guidingstars.ae
@@ -5036,7 +5023,6 @@ xelmunqavero.shop
 xelomarun.com
 xelovarnik.shop
 xelovranta.capital
-xeltra.xyz
 xelunoq.gifts
 xelvoria.gifts
 xelvuroq.tr
