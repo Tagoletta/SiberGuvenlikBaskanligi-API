@@ -1213,7 +1213,6 @@ enonline.help
 enonline.lat
 enpara-mobilsubem.ph
 enpara-qnbfinansnankan.ph
-enparabasvur.xyz
 enparamobilsubem.ph
 enparaonline.online
 enuygun.rent
@@ -1670,6 +1669,7 @@ hakanretto.duckdns.org
 hakanrettoilekeyfinebak.duckdns.org
 hakeiwjs727wj.com
 halk-kredi.vercel.app
+halkacskdjc12k3x123x12.sbs
 halkbanek.cfd
 halkbankkredi.vercel.app
 halkbilgihatti.com
@@ -1791,6 +1791,7 @@ hgsbakiyeyuklmei.web.app
 hgsbakiyukleme.web.app
 hgsbakiyuklemes.firebaseapp.com
 hgsbakiyuklemes.web.app
+hgsbakyeyklesmdi.cfd
 hgsbkyeyklehdi.cfd
 hgseklebkyeykle.cfd
 hgsilegirecemeli.xyz
@@ -2120,6 +2121,7 @@ k8v2m9q4x1z7.cfd
 kacirmadanalhemenkapinda.xyz
 kacmazfirsatlar.shop
 kacsklx1jkl23kxklsadcas13x12.click
+kacsklx1jkl23kxklsadcas13x12.sbs
 kafamkarsksonradandusundumhakl.info
 kafasntutgelburdaalsyap.online
 kai2xaskdamdxasdxads.cfd
@@ -2309,7 +2311,6 @@ kmpnyaaabsvrrrprmsynnn.live
 kmpnyaaabsvrrrprmsynnn.pro
 kmpnyaaaprmsynnbsvrrrfrstlr.info
 kmpnyaaaprmsynnbsvrrrfrstlr.live
-kmpnyaaaprmsynnbsvrrrfrstlr.pro
 kmpnyaaaprmsynnncklssssss.click
 kmpnyaaaprmsynnncklssssss.info
 kmpnyaaemekkliiprmsnyn.live
@@ -2411,7 +2412,6 @@ kuveyttorg.duckdns.org
 kuveytturk-online.duckdns.org
 kuveytturk-umreseyehatleri.duckdns.org
 kuveytturkkkk.duckdns.org
-kuveytturkmobil.duckdns.org
 kuzey-islem.22web.org
 kveylekrt.duckdns.org
 kydrmassanadmdglsn.com
@@ -2583,7 +2583,6 @@ masakaktivasyon.duckdns.org
 masakblokekaldirma.duckdns.org
 masakbncaktivasyon.duckdns.org
 masakdosyasi.org
-masaktrmobilbinance12.duckdns.org
 maspiodaonmb.icu
 masueyenaradnevu.com
 matchoraworldcup.world
@@ -2637,16 +2636,19 @@ mhrldsrandevl.com
 mhrlsahmnal.uk
 mhrlshmnaktv.uk
 mhrs-randevu.vercel.app
+mhrsanlikolarakrandevuhak4nxd.duckdns.org
 mhrsbasvurularinizburadan.duckdns.org
 mhrsbasvuruportali.duckdns.org
 mhrsgiris.sbs
 mhrsgirisportaliburada.digital
 mhrsonlinebasvuru.duckdns.org
+mhrsonlineportalrandevu.duckdns.org
 mhrsportalvatandasgiris.duckdns.org
 mhrsportalvatandasgirisimizdiranlik.duckdns.org
 mhrsrandevu.art
 mhrsrandevualsanala.duckdns.org
 mhrsrandevuburada.duckdns.org
+mhrsrandevularinizbasladi.duckdns.org
 mhrsrandevunburadan.com
 mhrsrandevunburadan.duckdns.org
 mhrsrandevunburadann.duckdns.org
@@ -3511,7 +3513,6 @@ randevuhizmetinburadan.duckdns.org
 randevup-rtali.duckdns.org
 randevup0rtal.duckdns.org
 randevusalisler.com
-randkvkkakklks.net
 randv-kontlr-etmek-m.web.app
 rapidstory.today
 rarearomas.cyou
@@ -3820,7 +3821,6 @@ skklaresta.lat
 skkmakinesicay.lat
 skkmkncere.lat
 skktkrstencere.lat
-sklardayap.click
 sklmkare.shop
 skltncerelas.lat
 skmalkkteretler.shop
@@ -4851,7 +4851,6 @@ yazkampanyalari.com
 ydndnasld.com
 yelkora-zondupika.lol
 yelvanto.com
-yemys.nicepage.io
 yengirzs2026.com
 yengizrisin.com
 yengzlis2026.com
@@ -4968,7 +4967,6 @@ zirtajcsdcadsa1xs12.cfd
 zitrkfs.cfd
 ziyaret-prise-lov.myonlineportal.ch
 ziytratgx.cfd
-zkooperatif.cfd
 zkopera.cfd
 zkoperatiedfi.cfd
 zkoperatifi.cfd
