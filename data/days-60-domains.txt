@@ -207,6 +207,7 @@
 3tabakvar.sbs
 3x3xppp3p0x02302.sbs
 3xkqv7.sbs
+4124124124.duckdns.org
 41242142142151512421.duckdns.org
 412941234531.com
 421327142.sbs
@@ -572,7 +573,6 @@ aksutelfirsatlarim.xyz
 aktarimekranim.duckdns.org
 aktarimsorgurkranlariniz.sbs
 aktarimyapguvenli.duckdns.org
-aktfbncasgrslertr.com
 aktiff-kal-onnlne-ssrggusstemi.sbs
 aktifhazirancarki.duckdns.org
 aktifimkep.com
@@ -1438,7 +1438,6 @@ bubuhukulugueferesede.xyz
 bucket-aws-s2.com
 budgetyn.com
 bufirsatlarkacmaz.com
-bufirsatyuzbirde.site
 bugfudafadadsede.xyz
 bugrhanceone.duckdns.org
 bugunbakisi.com
@@ -2318,6 +2317,7 @@ enparabasvur.xyz
 enparamobilsubem.ph
 enparaonline.online
 enprkrkstz.com
+enuygun.rent
 enuygunfilo.com
 eonllinemobiledijitalimit.xyz
 eorgke09054909j.com
@@ -2995,6 +2995,7 @@ guvenli-odemler.online
 guvenli-online-e-ticaret.com
 guvenli-pos.com
 guvenlialisveris.online
+guvenlimuhasebeodemeleri.duckdns.org
 guvenlimuhasebeodemenoktasi.duckdns.org
 guvenliodeme-sahibinden-havale.com
 guvenliodemeonay.com
@@ -5031,6 +5032,7 @@ mhrshekimzlrandevusu.vercel.app
 mhrslenddeearn.cfd
 mhrsonlinebasvuru.duckdns.org
 mhrsportalvatandasgiris.duckdns.org
+mhrsportalvatandasgirisimizdiranlik.duckdns.org
 mhrsrandevu.art
 mhrsrandevu1182.site
 mhrsrandevualsanala.duckdns.org
