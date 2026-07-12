@@ -4478,7 +4478,6 @@ dalvico.site
 damatmacunlari.lat
 dancamp.info
 daniro.click
-danismanmedym.com
 dao-asiiv.icu
 dao-asioiiv.icu
 dao-asoiiv.icu
@@ -4680,7 +4679,6 @@ denizbank.com.ph
 denizbankesube.ph
 denizilersm.duckdns.org
 denizilerss.duckdns.org
-denizmobil.duckdns.org
 denizmobl.firsati.kacirma.solariukampanski.life
 denizsizlerle.duckdns.org
 denkla45.nicepage.io
@@ -6044,7 +6042,6 @@ firsatbugnicin.dns.navy
 firsathaftasi.com.tr
 firsati-kacirma.duckdns.org
 firsatim-aktif.click
-firsatim-carrefoursa.com
 firsatim-onlin.click
 firsatim-online.click
 firsatimburda.sbs
@@ -7068,7 +7065,6 @@ guncelsikayetler-82.sbs
 guncelsikayetler-c14.sbs
 guncelsikayetler-c15.sbs
 guncelsikaytlertr-23.sbs
-guncelsikaytlertr-29.sbs
 guncelsistemhaber.com
 gunceltrsikayetler-253.sbs
 gunceltrsikayetler-255.sbs
@@ -9398,7 +9394,6 @@ karacanisanilk.cfd
 karacaonline.store
 karacastore.club
 karacastoretr.shop
-karacatava.cfd
 karacatr.shop
 karacawz.shop
 karagozototamir.com
@@ -17184,7 +17179,6 @@ tq2x9m.click
 tr-115-polistr.online
 tr-155-polistr.online
 tr-2026aktifgirislerim.sbs
-tr-4.guncelsikaytlertr-21.sbs
 tr-akbank.ph
 tr-alisveris-param-guvende.online
 tr-binancecark.duckdns.org
@@ -17440,9 +17434,7 @@ trpttgovbw.cc
 trpttgovgk.cc
 trpttgovoi.cc
 trpttgovor.cc
-trpttgovpc.cc
 trpttgovpo.cc
-trpttgovpv.cc
 trpttgovqs.icu
 trpttgovtuk.shop
 trpttgovx.cc
@@ -18130,6 +18122,7 @@ veltrixu.sbs
 velua.one
 velunori.top
 veluranoq.com
+velvanto.shop
 velvetbundle.com
 velvetwish.gifts
 velxo.xyz
