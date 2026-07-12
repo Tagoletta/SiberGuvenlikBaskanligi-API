@@ -5111,12 +5111,10 @@ mobile-obilet.uk
 mobile-qnbfinansbank.ph
 mobilhalkta.duckdns.org
 mobilservis-83.sbs
-mobilservis-84.sbs
 mobilservis-87.sbs
 mobilservisin-10.sbs
 mobilservisin-15.sbs
 mobilservisiniz-10.sbs
-mobilservisler-28.sbs
 mobilservisler-29.sbs
 mobilservisler-3.sbs
 mobilservisler-49.sbs
@@ -7727,7 +7725,6 @@ tr-sokraca.shop
 tr-sube-isbank.ph
 tr-suwen.shop
 tr.karacasales.shop
-tr42-guncelsikaytler.sbs
 tr44-guncelsikaytler.sbs
 tr45-guncelsikayetler.sbs
 tr47-guncelsikaytler.sbs
