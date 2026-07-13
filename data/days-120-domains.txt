@@ -6773,7 +6773,6 @@ giris-guvenli.xyz
 giris-hepsibura-auth.soundandshinesolutions.cv
 giris-kampanya.com
 giris-kampanya.online
-giris-kontrol.com
 giris-mhrs-randevu.vercel.app
 giris-secim-kampany.sbs
 giris-turkiye.gov.tr-giris-id192732.onlineislem.me
