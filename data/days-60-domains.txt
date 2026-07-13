@@ -133,6 +133,7 @@
 2124552556555695.duckdns.org
 2124552556555696.duckdns.org
 2124552556555697.duckdns.org
+2124552556555698.duckdns.org
 2134830028840.duckdns.org
 21alsdcjkweqwez123.cfd
 22sccjasjkdcaskx123.cfd
@@ -952,6 +953,7 @@ basvurbizlkelerle.sbs
 basvurevtkixz.sbs
 basvurhemenkapinda.cfd
 basvurlarabasladi.cloud
+basvurrvn.sbs
 basvursenc.sbs
 basvursend.sbs
 basvursendmr.sbs
@@ -1474,7 +1476,6 @@ burads122-65256e8d16cd.herokuapp.com
 burads122-89f2549f0778.herokuapp.com
 burakapp-78ebd453f21b.herokuapp.com
 buralar102.site
-burasihepbizde.com
 burda-frslat.xyz
 burdageldlsimdn.xyz
 burdnvlarasndbk.com
@@ -1839,7 +1840,6 @@ daha-be-gunduz-nato.xyz
 dahacok-insuarenc.myonlineportal.ch
 dahemendehemen.click
 daily-facts.info
-dailybeacononline.online
 dailyflash.online
 dailyhivey.com
 dailynewsforge.com
@@ -2187,7 +2187,6 @@ efsanebayramfirsatlari.com.tr
 efsanefirsatlartektikla.com
 efsanehaziranlndrmi.com
 efsanelndldlrmlvaktlerl.com
-efsanelndlrlmflrsatlarlslzlnleberaber.com
 efsanelndlrlmsaatlerlbassladl.com
 efsanelndlrmkaplndabuflrsatkacmaz.com
 efsanelndlrmmlermayls.com
@@ -2384,7 +2383,6 @@ f41ea047-f.b-cdn.net
 f4dub9is1r.icu
 f749dkfk.click
 f8x1p4z7m9q2.cfd
-faalsias.nicepage.io
 face-kampnyalari.xyz
 faceit-clubs-verify.com
 faceit-discord.com
@@ -2795,6 +2793,7 @@ gikarcas.shop
 gikarcas.store
 gilr-laynkarltini.xyz
 gimkupiq.gifts
+girilenler-de-gr.biz
 giris-guvenli.xyz
 giris-hepsibura-auth.soundandshinesolutions.cv
 giris-kampanya.com
@@ -3095,7 +3094,6 @@ haberozgurlugu.com
 haberportalim.name
 haberpusula.cyou
 habersler.online
-habersondakikam.shop
 habertry1.shop
 habertry1453.shop
 habertry4561.shop
@@ -3551,6 +3549,7 @@ homestlerkestfg.duckdns.org
 hometbe.com
 homevera.gifts
 hondaturkiyee.com
+honeshadrteker.duckdns.org
 hoparlor.click
 hopbala.click
 hopdedik.click
@@ -3858,7 +3857,6 @@ istanbulkartrandevuu.xyz
 istanbulkartt.xyz
 istanbulkarttt.xyz
 istanbullardans.shop
-istanbullcokoolay.xyz
 istanbullsucanminzc.shop
 istanbulmarmaramonda.shop
 istanbulmefe.xyz
@@ -4068,6 +4066,7 @@ kampanyafirsatlarinn.duckdns.org
 kampanyalar-karaca.vercel.app
 kampanyalarikacirma.com
 kampanyalarim-karaca.vercel.app
+kampanyalarimiz-yaz.myonlineportal.ch
 kampanyaliurunsayfasi.click
 kampanyya-saati.duckdns.org
 kampanyyafirsatllarikvueyts.sbs
@@ -4581,7 +4580,6 @@ lexaro.cyou
 lflix.neocities.org
 librarycurrents.duckdns.org
 lifescapehub.com
-lightblue-giraffe-327092.hostingersite.com
 likeboop.com
 likemojo.com
 likid-write-logrnol.myonlineportal.ch
@@ -4995,6 +4993,7 @@ mhrsrandevusisteminiza.duckdns.org
 mhrsrandevuvatandaslarimizin.duckdns.org
 mhrssrandevularimmorbidwsynx.com
 mhrsssdsasasa.xyz
+mhrsvatandaslarimduyuru.duckdns.org
 mhrsvatandasportall.duckdns.org
 mhrsvatandasrandevu.duckdns.org
 mhs420dq.com
@@ -5953,7 +5952,6 @@ portakalisoydum.lat
 portal-netgsm.co
 portal-netgsm.live
 portal-netgsm.online
-portal-uyap-181400.vercel.app
 portal.garantibbvakredibasvuru.com
 portalbbua.garantibbvakredibasvuru.com
 portalgiris.misecure.com
@@ -6473,7 +6471,6 @@ rexulon.gifts
 reynoldsjace5.workers.dev
 reynus.live
 rfalimobiliaria.com
-richonlinestore.com
 rideory.com
 ridermission.com
 ridezone.cyou
@@ -6966,7 +6963,6 @@ snrlsayocadaoneaca.cfd
 snrox020x231.gleeze.com
 soadlakadsa.shop
 sobolebumkin.sbs
-soccersquidwing.com
 socialscope.media
 socs6c.icu
 softflow.vu
@@ -7155,7 +7151,6 @@ staticcloudflare.pro
 statusnode.sbs
 steadybulletin.com
 stellaonline.biz.tr
-stellaonline.info.tr
 stellaonline.org.tr
 still-out.sbs
 stmarkhopeandpeace.org
@@ -8586,9 +8581,7 @@ yeni5d7h6cc.nicepage.io
 yeniayaozel-gr.myonlineportal.ch
 yenibakis.gifts
 yenibakisagi.com
-yenicekilisfirsatlari.com
 yeniden-sekillendirme.myonlineportal.ch
-yenidenbasladi.beer
 yenievimgov.vercel.app
 yenifirsatlarimss.com
 yenifirsattr.com

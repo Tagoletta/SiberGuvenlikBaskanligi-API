@@ -63,6 +63,7 @@
 2124552556555695.duckdns.org
 2124552556555696.duckdns.org
 2124552556555697.duckdns.org
+2124552556555698.duckdns.org
 2134830028840.duckdns.org
 21alsdcjkweqwez123.cfd
 22sccjasjkdcaskx123.cfd
@@ -461,7 +462,6 @@ azurenetfiles.net
 azuretrail.vu
 b1702ed4-8.b-cdn.net
 b4939nrqb8q3cxo.com
-b4b422zsed2q.duckdns.org
 b5080e3d-6.b-cdn.net
 b6w9m2z5x8q1v3k.top
 b8r3z6p9w2t5.sbs
@@ -497,6 +497,7 @@ basvu-r-tok-gov-basvur-dev.com
 basvu-r-tok-gov-basvur-dev.xyz
 basvur-isceponay.space
 basvurevtkixz.sbs
+basvurrvn.sbs
 basvursendsmz.sbs
 basvursendsn.sbs
 basvursmz.sbs
@@ -1489,6 +1490,7 @@ gikarcas.shop
 gikarcas.store
 gilr-laynkarltini.xyz
 gimkupiq.gifts
+girilenler-de-gr.biz
 giris-kampanya.online
 giris-mhrs-randevu.vercel.app
 giris-secim-kampany.sbs
@@ -1903,6 +1905,7 @@ homeluminaryray.com
 homestlerkestfg.duckdns.org
 hometbe.com
 homevera.gifts
+honeshadrteker.duckdns.org
 horizoneguide.com
 hospitalinstallation.com
 hospitality-woods-jewellery-bubble.trycloudflare.com
@@ -2149,6 +2152,7 @@ kampanyabonustana.cloud
 kampanyafirsatlariniz.duckdns.org
 kampanyafirsatlarinn.duckdns.org
 kampanyalarikacirma.com
+kampanyalarimiz-yaz.myonlineportal.ch
 kampanyaliurunsayfasi.click
 kampayanasi.shop
 kampenya.shop
@@ -2566,7 +2570,6 @@ marriott-opportunities.com
 marscarfilom.com
 masakadliye.org
 masakblokekaldirma.duckdns.org
-masakbncaktivasyon.duckdns.org
 masakdosyasi.org
 maspiodaonmb.icu
 masueyenaradnevu.com
@@ -2646,6 +2649,7 @@ mhrsrandevusisteminiza.duckdns.org
 mhrsrandevuvatandaslarimizin.duckdns.org
 mhrssrandevularimmorbidwsynx.com
 mhrsssdsasasa.xyz
+mhrsvatandaslarimduyuru.duckdns.org
 mhrsvatandasportall.duckdns.org
 mhrsvatandasrandevu.duckdns.org
 mhsaogreen.uk
@@ -2940,7 +2944,6 @@ online-182.cfd
 online-bireysel-mobil-tr.sbs
 online-elektronik-sepetim.com
 online-hizmet-islem.com
-online-kuveytmobil.duckdns.org
 online-shop-bireysel-tr.site
 online-sorgulama.com
 onlineburda.duckdns.org
@@ -4455,7 +4458,6 @@ tuvturkmuayene.org
 tuvturkos.digital
 tuvturkrandevu.sbs
 tuvturkrandevual.sbs
-tuvturkruk.com
 tuvturkse.digital
 tuvturksr.com
 tuvturkyt.com
