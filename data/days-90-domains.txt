@@ -283,7 +283,6 @@
 3464634dsf235wf2.click
 34985348990000.net
 352hjdsf32532.click
-354046793.net
 354323223.net
 35658951144785.com
 35c195e4-7.b-cdn.net
@@ -597,6 +596,7 @@ a.dev-tunnels.com
 a.garantibbvakredibasvuru.com
 a.sicex.lol
 a1001.online
+a101-com-tr-aldin-aldin-extra-online.elenamasaj.com
 a101-com-tr-onlineozel.duckdns.org
 a101-com.tr.webliosy.online
 a101-harca.duckdns.org
@@ -923,7 +923,6 @@ aldinaldinsuper.sbs
 aldinaldintemmuz.com
 aldinaynigunscay.net
 aldinbrasicay.lat
-aldinbuguncay.site
 aldinbugundecaypaketi.store
 aldinburadancaylariniz.store
 aldincaylarinizindirimli.sbs
@@ -1384,7 +1383,6 @@ azurestaticprovider.net
 azuretrail.vu
 b-b-v-a-online.click
 b-b-v-a-s-u-be.click
-b-i-r-e-y-s-e-l-z-i-r-a-a-t-bank-com.my-homeip.de
 b-investt.com
 b155polisi.online
 b1702ed4-8.b-cdn.net
@@ -2336,9 +2334,9 @@ brokeapt.com
 brolta.vu
 bronzelocker.bond
 brovixa.cyou
+brovixan.com
 brrrdyzzzzzsnlllll.shop
 brule.live
-brulqave.vu
 brunestavok.gifts
 brunetadoli.gifts
 bruvularin.online
@@ -3769,6 +3767,7 @@ elektronik-alisverisin.com
 elektronik-alisverisleriniz.com
 elektronik-magaza-sepetim.com
 elektronik-urun-sepetim.com
+elenamasaj.com
 elevatedock.art
 elevatefitness.life
 eliaeni549.online
@@ -4518,7 +4517,6 @@ gestionmontelavaria2026.online
 gestrak-basavtr.cfd
 gesugivol.store
 get-basvrru-yap.cfd
-get-odeme-onay.online
 get-onay-tr.online
 get-proton-vpn.com
 getarvex.store
@@ -4595,6 +4593,7 @@ gimkupiq.gifts
 gir-yaz-tr.biz
 gir101tkl.xn--tt-8ja.net
 girilenler-de-gr.biz
+giris-bns-latr.guru
 giris-guvenli.xyz
 giris-hepsibura-auth.soundandshinesolutions.cv
 giris-kampanya.com
@@ -4960,7 +4959,6 @@ haber344323.sbs
 haber360-gdasgvsad56asdg5.shop
 haber3601tr-gdasgvsad56asdg5.shop
 haber360tc2026.shop
-haber360tr.shop
 haber360try.shop
 haber364try.shop
 haber3652.xyz
@@ -5407,6 +5405,7 @@ hgs-odeme-guncel.vercel.app
 hgs-odemeleri.duckdns.org
 hgs-pttavm.ph
 hgs-simdi-yukleme-zamani.cfd
+hgs15temmuz.ph
 hgsaracdolum.web.app
 hgsbakieduragi.web.app
 hgsbakielersmc.lat
@@ -5510,6 +5509,7 @@ hizlgecisonlnebakye.lat
 hizli-limit.xyz
 hizli-pratik.click
 hizli-siparis-baglanti.com
+hizli-siparis-linki.com
 hizli-siparis-sayfasi.com
 hizlialisverisicinbr.com
 hizliaracgecisilieriniz.sbs
@@ -5833,9 +5833,7 @@ iknportfoy.online
 ikonbireysel.com
 ikonbireysel.online
 ikonfinansmenkuldegerler.com
-ikonmenkulkiymetler.com
 ikonmenkulplatform.com
-ikonmenkulsube.com
 ikonmobil.com
 ikonsube.com
 il55polis.online
@@ -7035,6 +7033,7 @@ kolayliksayesinde.com
 kolaymil.netlify.app
 kolaysepet.online
 kolayvergidairesi.com
+kolektif-ajans-yaz.biz
 kolmlolla-ukler-ciklsosto.xyz
 kommando.live
 kondromalazi.lat
@@ -7201,6 +7200,7 @@ kurumaktif.org
 kurumceza.org
 kurumsalbirkurumsal.click
 kurumsalmediamarkt.com
+kurumsorgu.org
 kusursuzarackiralama.com
 kutysadhahsdhsad82sad.click
 kuvetbasvurum.sbs
@@ -7957,6 +7957,7 @@ mhrsrandevusisteminiza.duckdns.org
 mhrsrandevuvatandaslarimizin.duckdns.org
 mhrssrandevularimmorbidwsynx.com
 mhrsssdsasasa.xyz
+mhrsvatandaslaricinonline.duckdns.org
 mhrsvatandaslarimduyuru.duckdns.org
 mhrsvatandasportall.duckdns.org
 mhrsvatandasrandevu.duckdns.org
@@ -9387,7 +9388,6 @@ plomvex.xyz
 plorvix.vu
 pluginchad.xyz
 plurnostavi.gifts
-pmnnpa.cc
 pocmsmdi.net
 poczta.outsec.pl
 podsellu.gifts
@@ -10377,6 +10377,7 @@ sahibinden-get-ilanservisiniz-jet.com
 sahibinden-get.alimlarinizhizmetler.online
 sahibinden-get.detayservisn.com
 sahibinden-get.emobileservislerr.com
+sahibinden-get.guvenli-hizmet.online
 sahibinden-get.guvenli-odemelerim.pro
 sahibinden-get.guvenliodemelerim.online
 sahibinden-get.guvenlisepetler-hizmet.online
@@ -10715,8 +10716,6 @@ sepetimde-ilanlar.pro
 sepetimde-odeme-3955.com
 sepetimde-odeme-3957.com
 sepetimde-siparisler.com
-sepetimdealisveris.online
-sepetimdealisveris.site
 sepetimdeindirimleriyakala.com
 sepetimeyonlendir.xyz
 sepetimonay.online
@@ -10825,6 +10824,7 @@ shotlab.mom
 showera.bond
 showmixly.net
 showmori.vu
+showpulsera.net
 showsix.digital
 showthetrick.com
 sibqeforsfo.duckdns.org
@@ -13314,6 +13314,7 @@ voltadunyasi.com
 voltafabrika.com
 voltafabrikasi.com
 voltamagaza.com
+voltamotorluaraclar.com
 voltamotoronline.com
 voltaonlinesatis.com
 voltaturkiye.com
@@ -13399,6 +13400,7 @@ wawsenti.duckdns.org
 wazqunor.icu
 wb5sh2enfodu09pr0esw.innovaxazd.icu
 wbnsn-tapurandvusun.com
+wbnsn-tapurandvusun.info
 wbnsn-tapurandvusun.net
 wbnsn-tapurandvusun.online
 wbtapss.store
@@ -13702,7 +13704,6 @@ xn--temmuzfrsatlaragatbbvaslennmenuler-hcfhim.site
 xn--unutgecmstju-84bb.com
 xn--vakfbank-i80d.com
 xn--yenipouttef-4zb.nicepage.io
-xovranik.live
 xpertlearninghub.com
 xpogio.buzz
 xq2m7r9.sbs
