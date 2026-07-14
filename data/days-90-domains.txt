@@ -3578,7 +3578,6 @@ e-mhrsilesagliklibakislar.digital
 e-mhrsilesaglikliyasamm.digital
 e-mhrsrandevubilgilendirme.digital
 e-mhrsrandevulariylayasams.digital
-e-mhrsrandevumerkezi.digital
 e-mhrssrandevumerkezii.digital
 e-odeme.duckdns.org
 e-odemeler.duckdns.org
@@ -9998,7 +9997,6 @@ randevulugun.com
 randevuluguncere.com
 randevulugunlere.com
 randevulugunum.com
-randevulugunun.com
 randevuluzamanninicin.net
 randevumuafynneem.com.tr
 randevununkolay.com
