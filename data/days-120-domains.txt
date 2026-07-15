@@ -736,7 +736,6 @@ a-10-1mkarktler.shop
 a-101-balahar.lol
 a-101-bugune-ozel-mobilde.sepette-shop-online.rest
 a-101-c0lmtl.cyou
-a-101-c0m.cyou
 a-101-c0n.cyou
 a-101-de-bugune-ozel-firsatlar-tr.mobil-store-sepet-tr-ekle.site
 a-101-de-bugune-ozel-mobil-tr.internete-ozel-mobil-store-tr.site
@@ -1836,6 +1835,7 @@ avisrental.fun
 avisturkey.vercel.app
 avm-siparislerim.com
 avmbireysel.com
+avmbireyselsatis.com
 avmbireyselsepet.com
 avmhemenal.com
 avmkampanyasi.com
@@ -2037,6 +2037,7 @@ basedemenhizmetyardim.site
 baseline-include-priority-bar.trycloudflare.com
 basennwrpin.com
 baskwms.top
+basladikla4.sbs
 basladimibasvuralari.cloud
 basliyorgosterisaati.yyuyy.com
 basliyoruz13.xyz
@@ -3963,7 +3964,6 @@ ckkllprmsynnbsvrrkmpnyalari.live
 cklslkx12klxkldsfckldsa.click
 cklsprmsynkmpnyabsvruuu.click
 cklsprmsynkmpnyabsvruuu.info
-cksllprmsynnnkmpnya.live
 cktilingservice.com.au
 cl.allthe.site
 cl.distritovagas.com
@@ -4773,6 +4773,7 @@ dijitalacentasorgulama.org
 dijitalaninda.sbs
 dijitalbasvurukanallarim.sbs
 dijitalbasvurukatilimi.sbs
+dijitalbilgi-giris.sbs
 dijitalbilgiform.sbs
 dijitalbilgilendirme.sbs
 dijitalbilgilendirmeler.xyz
@@ -7753,7 +7754,6 @@ hepsenal.sbs
 hepsibenimle.xyz
 hepsiburadakep.com
 hepsiburadakepim.com
-hepsiburadayeniadres.net
 hepsikredi-tr.com
 hepsinden1o1.shop
 hepsiucuyor.work.gd
@@ -7883,6 +7883,7 @@ hgsnzkgmkarylbrcz.ddnsgeek.com
 hgsnzkgmkarylbrczz.ddnsgeek.com
 hgsodeme.com
 hgsodeptt.com
+hgsonlneyklebkye.cfd
 hgsplakasorgula.store
 hgspttbakiyeyukleyn.web.app
 hgsss-odemeleriniz.com
@@ -8547,6 +8548,7 @@ internetbasvukanallari.duckdns.org
 internetbasvurukatilimi.xyz
 internetduyurularisiz.duckdns.org
 internete-ozel-mobil-store-tr.site
+internetislemleri-akmobil-bireysel-com.duckdns.org
 internetsitesi.lol
 internetsubecep.my-homeip.net
 internetsubesi.online
@@ -8944,7 +8946,6 @@ istnblldmsal.com
 istnblsbasvm.com
 istnblwaskrsxt.online
 istnbshvrlm.com
-istnfarktmdasdda.shop
 istnflssda.com
 istnike67.xyz
 istnlblbsvrml.com
@@ -10308,7 +10309,6 @@ kuveytturks.duckdns.org
 kuveytturkyatirim.ph
 kuveytumre.life
 kuveytumre.online
-kuveytyekovgiris.duckdns.org
 kuvleriumre.duckdns.org
 kuvumreseyehat.duckdns.org
 kuvuytilebizlrlee.online
@@ -11498,7 +11498,6 @@ mobil-obilet.uk
 mobil-shop-extra-tr.site
 mobil-siparisiniz.com
 mobil-sponsor-store-mobilde-tr.site
-mobil-sponsor-tr.lol
 mobil-sponsor.cyou
 mobil-store-sepet-tr-ekle.site
 mobil-tebkampanyam.my-homeip.net
@@ -11693,6 +11692,7 @@ mubarekdays.yyuyy.com
 mudofashion.shop
 mueleer.com
 mufasnasfanas.sbs
+muguhudue-redesetre.lol
 muhamadfafaoyunda.net
 muhu-bb-vv-aa-ss-dd.xyz
 muhugudueresede-afderese.lol
@@ -11896,7 +11896,6 @@ neresiseyde.sbs
 nerivo.online
 nestcart.homes
 net-echo.com
-net-enyahluol-dumu.sbs
 netarioms.com
 netbilgi.org
 netcheckr.cyou
@@ -11929,7 +11928,6 @@ new-teb-kampanyalar.my-homeip.net
 new.blnance-basvuru.info
 new.got8rflowes.info
 new147.shop
-newaktuelalma.cfd
 newbaykar-store.info
 newbaykar.site
 newdirectionhub.org
@@ -12463,7 +12461,6 @@ online-promosyon-basvur.my-homeip.de
 online-satici-satis.com
 online-satis-satici.com
 online-sbm.com
-online-sepet-sponsor-tr.lol
 online-septler-aktif.pro
 online-shop-bireysel-tr.site
 online-siparis-ver-tr-mobil.blog
@@ -13739,7 +13736,6 @@ pttavn-km-sorgu-merkezi.web.app
 pttawmbireysel.com
 pttcom.bond
 pttgoov-tr.hair
-pttgost.cc
 pttgovi.icu
 pttgovi.top
 pttgovttr.cfd
@@ -18781,6 +18777,7 @@ xn--param-gven-de-ile-siparis-lwc.com
 xn--param-gvende-ile-siparisi-tamamla-trendyol-tme.com
 xn--rektaru8-zkb.nicepage.io
 xn--temmuzfrsatlaragatbbvaslennmenuler-hcfhim.site
+xn--temmuzfrsatlarbvagarantsslemmenulermn-nrfhjbalb.shop
 xn--unutgecmstju-84bb.com
 xn--vakfbank-i80d.com
 xn--ydagzlatdynyrsdnd-jvc.shop

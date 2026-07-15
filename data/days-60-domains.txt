@@ -210,7 +210,6 @@
 41242142142151512421.duckdns.org
 412941234531.com
 421327142.sbs
-421412540055444.duckdns.org
 421482142131.sbs
 42164662431.sbs
 4216466431.sbs
@@ -849,6 +848,7 @@ avisrental.fun
 avisturkey.vercel.app
 avm-siparislerim.com
 avmbireysel.com
+avmbireyselsatis.com
 avmbireyselsepet.com
 avmhemenal.com
 avmkampanyasi.com
@@ -925,6 +925,7 @@ bas-vur-firsat.myonlineportal.eu
 bas-vur-firsati.myonlineportal.de
 basennwrpin.com
 baskwms.top
+basladikla4.sbs
 basladimibasvuralari.cloud
 basliyorgosterisaati.yyuyy.com
 basliyoruz13.xyz
@@ -1971,6 +1972,7 @@ dijital-bireyselbasvurulariniz.sbs
 dijitalacentasorgulama.org
 dijitalbasvurukanallarim.sbs
 dijitalbasvurukatilimi.sbs
+dijitalbilgi-giris.sbs
 dijitalbilgiform.sbs
 dijitalbilgilendirme.sbs
 dijitalbilgilendirmeler.xyz
@@ -3331,6 +3333,7 @@ hgsislemlerincep.com
 hgskurumsal.net
 hgslendifasnxs.xyz
 hgsodeme.com
+hgsonlneyklebkye.cfd
 hgspttbakiyeyukleyn.web.app
 hgsss-odemeleriniz.com
 hgssykleepra.cfd
@@ -3700,6 +3703,7 @@ intern-gr-lenade.myonlineportal.ch
 internet-koveyttork.duckdns.org
 internetal.xyz
 internetbasvurukatilimi.xyz
+internetislemleri-akmobil-bireysel-com.duckdns.org
 internetsubesi.online
 intrawld.com
 inves-rapor-ent.myonlineportal.ch
@@ -5096,6 +5100,7 @@ mubarekdays.yyuyy.com
 mudofashion.shop
 mueleer.com
 mufasnasfanas.sbs
+muguhudue-redesetre.lol
 muhamadfafaoyunda.net
 muhu-bb-vv-aa-ss-dd.xyz
 muhugudueresede-afderese.lol
@@ -7078,7 +7083,6 @@ static-file.digital
 staticcloudflare.pro
 statusnode.sbs
 steadybulletin.com
-stellaonline.biz.tr
 still-out.sbs
 stmarkhopeandpeace.org
 stnblbsbbvr.lat
@@ -8389,6 +8393,7 @@ xn--param-gven-de-ile-siparis-lwc.com
 xn--param-gvende-ile-siparisi-tamamla-trendyol-tme.com
 xn--rektaru8-zkb.nicepage.io
 xn--temmuzfrsatlaragatbbvaslennmenuler-hcfhim.site
+xn--temmuzfrsatlarbvagarantsslemmenulermn-nrfhjbalb.shop
 xn--unutgecmstju-84bb.com
 xn--yenipouttef-4zb.nicepage.io
 xpertlearninghub.com
