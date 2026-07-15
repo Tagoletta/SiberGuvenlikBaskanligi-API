@@ -158,7 +158,6 @@
 75853489.xyz
 7640450a-b.b-cdn.net
 76423243.net
-765234525.net
 76535432.net
 77cxmai3zm.icu
 78566452.net
@@ -879,6 +878,7 @@ codemira.digital
 codewavehub.xyz
 codexgpt.gitlab.io
 coffeesaloon.online
+cogalim-edinim.biz
 cogentryx.com
 cogunluk-gima-tgrn.myonlineportal.ch
 cohezo.com
@@ -1101,6 +1101,7 @@ drenzo.bond
 drenzol.shop
 dressstrangervessel.com
 drispo-laungard.myonlineportal.ch
+drive-mofa-account-downlaod-folder-production.up.railway.app
 driverbackup.gifts
 driverclone.gifts
 drivervault.gifts
@@ -2587,6 +2588,7 @@ mhrsrandevuburada.duckdns.org
 mhrsrandevuekraaan.duckdns.org
 mhrsrandevuekranlarimizdirr.duckdns.org
 mhrsrandevuekranlarimizzz.duckdns.org
+mhrsrandevuekranwork.duckdns.org
 mhrsrandevularinizbasladi.duckdns.org
 mhrsrandevunburadan.com
 mhrsrandevunburadan.duckdns.org
@@ -3213,7 +3215,6 @@ priv-sertifik-portgr.myonlineportal.ch
 priv-toplam-hizmet.myonlineportal.eu
 privy-bambaska.myonlineportal.ch
 privy-limer-stoc.myonlineportal.ch
-prmmookmpnyaabsvrrrfrsltarii.info
 prmmookmpnyaabsvrrrfrsltarii.live
 prmmookmpnyaabsvrrrfrsltarii.pro
 prmsynkmpnyanmrkziii.info
@@ -3718,7 +3719,6 @@ siskolarlaberke.xyz
 sismeboturunleri.com
 sistemeallll.shop
 sistemegirin.xyz
-sistemyuklendi.online
 site.nato-otan.net
 sitemdeal.shop
 siteveb.xyz
@@ -4095,7 +4095,6 @@ toki-gov-tr.vercel.app
 toki-gov-trk.vercel.app
 toki-gov.yapisalkonutlar.lol
 toki-govtr-tc.vercel.app
-toki-konut-basvurutr.org
 toki-toplu-konutlar.vercel.app
 toki-toplukonut.vercel.app
 toki-toplukonutlar.vercel.app
