@@ -46,6 +46,7 @@
 1234garanti.duckdns.org
 123jkjcsadklj12j3z1h2j3.sbs
 124566556565899091.duckdns.org
+124566556565899094.duckdns.org
 124959300023.duckdns.org
 1253452324124.xyz
 125415554558998991.duckdns.org
@@ -237,7 +238,6 @@
 50tarak.nicepage.io
 5115151.duckdns.org
 511caa97-a.b-cdn.net
-512351235.duckdns.org
 512saqqwr12.icu
 522hdsf32532.click
 5234cfdsoj235.click
@@ -283,7 +283,6 @@
 65432342.net
 65445345.net
 65454234423.net
-66600516666664.duckdns.org
 666021545858666.gleeze.com
 66662021250250666.gleeze.com
 66ghgjh44hvgfghfjkh.cfd
@@ -318,7 +317,6 @@
 76524315.net
 76535432.net
 765534324.net
-77700051455705s0a.duckdns.org
 777771112202102777.gleeze.com
 77cxmai3zm.icu
 78566452.net
@@ -811,7 +809,6 @@ asics-turkiye.com
 aslanapp-bd0eefc497ce.herokuapp.com
 aslangelburayaannemherseyhazr25.click
 aslankaplanherkeseburdakaplan.site
-asliyegov.org
 asliyesorgusu.org
 asons.top
 assetib.com
@@ -2957,7 +2954,6 @@ guvennlistruktur.com
 guzelgunlerbizim.com
 guzelgunlergeldi.com
 guzelgunlerinizicinverin.sbs
-guzelgunleryakinda.com
 gwrpfjx.life
 gxmbgl.help
 gzkarca.shop
@@ -3774,7 +3770,6 @@ istanbul-donut.xyz
 istanbul-ticket.co
 istanbul-turat.xyz
 istanbul24k.shop
-istanbulavrupa.shop
 istanbulavrupasm.shop
 istanbulbeelgimcan.xyz
 istanbulbelggim.xyz
@@ -4290,7 +4285,6 @@ kmpnyaasonfirsaattbsvrr.art
 kmpnyaasonfirsaattbsvrr.online
 kmpnyafrstlrrrprmsynnnbsvrr.pro
 kmpnyamrkzbsvrnktasi.info
-kmpnyaprmsynbsvrusendekatl.pro
 kmpnylrrbsvrrsnfrstlrrr.info
 kmpnylrrbsvrrsnfrstlrrr.live
 kmpnylrrsnffrsttbsvrrr.info
@@ -4447,6 +4441,7 @@ kufsen.netlify.app
 kuluhugude-redesede.lol
 kuluhugudefere.xyz
 kumbara.iyiliginmucitleri.com
+kumuhuguduere-sederete.lol
 kunnvffeyt.giize.com
 kunveytgiris.duckdns.org
 kunvufeytrk.duckdns.org
@@ -5910,7 +5905,6 @@ portalgiris.misecure.com
 portalm1hrs.xyz
 portalrandevuwsynxhak4n.duckdns.org
 portalweb-password-security.myonlineportal.ch
-portfoyislem.online
 portfoynurol.com
 portlabs.store
 pory-logrenade-ky.myonlineportal.ch
@@ -7294,7 +7288,6 @@ tekrardansoktayiz.cloud
 tekrardevametmelin3.cloud
 tekrarsa.dnsup.net
 teksoksiparisi.cloud
-tektikileelindee.me
 tektikileevinegelsin.com
 tektikilesanagelsin.com
 tektikilesendeolsun.com
@@ -7978,7 +7971,6 @@ uyapgibgiris.org
 uyapgiris.com
 uyapteblig.org
 uyaptebligat.org
-uyapuzlastirma.org
 uygnsaynindrmfirstlar.cfd
 uygun-bireysel-ihtiyac.xyz
 uyguna101.duckdns.org
@@ -8427,6 +8419,7 @@ xzrt300zxrt.sbs
 xzrt300zxrxrt.cfd
 y0nl3ndiriliy0rdunsuzdawsz.duckdns.org
 y0nl3ndiriliy0rs8nuz.duckdns.org
+y0nl3ndiriliy0senuz.duckdns.org
 y0nl3ndiriliyors0nuz24.duckdns.org
 y0nl3ndirilyors3nzi.duckdns.org
 y0nl3ndirliyo4s0nz.duckdns.org

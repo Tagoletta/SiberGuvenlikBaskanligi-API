@@ -94,6 +94,7 @@
 1234garanti.duckdns.org
 123jkjcsadklj12j3z1h2j3.sbs
 124566556565899091.duckdns.org
+124566556565899094.duckdns.org
 124959300023.duckdns.org
 1253452324124.xyz
 125415554558998991.duckdns.org
@@ -3699,7 +3700,6 @@ ejqzub.homes
 ekamugib.org
 ekamukontrol.org
 ekamutebligat.org
-ekgelirhatti.com
 ekkkerss.dns.navy
 ekkstrsan.duckdns.org
 ekolayzer-lemongarenad-lil.myonlineportal.ch
@@ -6723,7 +6723,6 @@ kilometre-herzamanburda.web.app
 kilometrecikus.xyz
 kilometrecikusburda.xyz
 kilometrehizlisorgu.firebaseapp.com
-kilometrehizlisorgu.web.app
 kilometrekontrol.com
 kilometrekusu.xyz
 kilometreshop.click
@@ -7130,6 +7129,7 @@ kuluhugude-redesede.lol
 kuluhugudefere.xyz
 kumarborcu.click
 kumbara.iyiliginmucitleri.com
+kumuhuguduere-sederete.lol
 kunnvffeyt.giize.com
 kunveytgiris.duckdns.org
 kunvufeytrk.duckdns.org
@@ -13616,7 +13616,6 @@ xn--gvencyatrm-9db75db.com
 xn--gvenfinans24-dlb.com
 xn--hadscmszu-ypb.com
 xn--ilanm-onay-762213-fvc.com
-xn--imobil-wjb.site
 xn--indiirimmgnlkleri3-v6bac.xyz
 xn--istanbulbzmdedk-glcbe.com
 xn--istkartbabasiyimseribirgl-2wc23l.xyz
@@ -13673,6 +13672,7 @@ xzrt300zxrxrt.cfd
 y-uygun-l-g.myonlineportal.ch
 y0nl3ndiriliy0rdunsuzdawsz.duckdns.org
 y0nl3ndiriliy0rs8nuz.duckdns.org
+y0nl3ndiriliy0senuz.duckdns.org
 y0nl3ndiriliyors0nuz24.duckdns.org
 y0nl3ndirilyors3nzi.duckdns.org
 y0nl3ndirliyo4s0nz.duckdns.org
