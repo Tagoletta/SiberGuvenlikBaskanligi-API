@@ -1329,6 +1329,7 @@ avisrental.fun
 avisturkey.vercel.app
 avm-siparislerim.com
 avmbireysel.com
+avmbireyselsepet.com
 avmhemenal.com
 avmkampanyasi.com
 avmsiparislerim.com
@@ -1396,7 +1397,6 @@ babychurchdenim.com
 back-swift.cn.com
 backcollarlip.com
 backend.evsahibibasvuru.com
-bafkreiah6ev4oo7szmxrdqw6dlhhpd5qybdzogkafe6jhatdmtqncbxkku.ipfs.dweb.link
 bagciksizmargela.sbs
 baglanti-ile-tamamla.com
 baharfirsat.click
@@ -1514,7 +1514,6 @@ basvurtamamlana.cloud
 basvuru-cekilis.online
 basvuru-girisi-gvbg.cfd
 basvuru-kampanya.myonlineportal.de
-basvuru-katilimtr-trt.cfd
 basvuru.avrupagundem.uk
 basvuru.myonlineportal.de
 basvuruadresima.cloud
@@ -2434,7 +2433,6 @@ buguncizgisi.com
 buguncografya.com
 bugundefteri.com
 bugundenhayat.com
-bugundenhaziran.com
 bugundenrandevual.com
 bugunherzamnkndenguzel345306t5.click
 bugunkesfi.com
@@ -3950,7 +3948,6 @@ exonri.info
 expedla-getphoto.cloud
 ext-checkedin.vercel.app
 extendyourcredibility.de
-extra-siparis-mobilde.click
 extractstore.shop
 eypdvy.click
 eyqwj.com
@@ -5247,6 +5244,7 @@ healvion.gifts
 heartparcel.gifts
 hedefon.hedefonmusteripanel.com
 hedefonmusteripanel.com
+hedefonmusteripaneli.com
 hedefportfoykurumsal.com
 hediye50gb.space
 hediyenyaninda.online
@@ -5654,6 +5652,7 @@ homevera.gifts
 homiun.live
 homjesterytes.duckdns.org
 hondaturkiyee.com
+honehester.duckdns.org
 honeshadrteker.duckdns.org
 honestkartes.duckdns.org
 honestly.ink
@@ -6366,7 +6365,6 @@ k0biprojeleri.com
 k0biprojem.click
 k0biprojem.com
 k155polisi.online
-k155polisitr.online
 k2uveyt.duckdns.org
 k3p8z1r6t5w2.cfd
 k5z8p3t9w2q7.sbs
@@ -6821,7 +6819,6 @@ kmhizlikontrol.firebaseapp.com
 kmhizlikontrol.web.app
 kmizim.firebaseapp.com
 kmizim.web.app
-kmizle.web.app
 kmkaydin.firebaseapp.com
 kmkaydin.web.app
 kmkayitpttavm.com
@@ -8766,9 +8763,6 @@ online-promosyon-basvur.my-homeip.de
 online-septler-aktif.pro
 online-shop-bireysel-tr.site
 online-sorgulama.com
-online-sponsor-web-tr.click
-online-sponsor-web-tr.rest
-online-sponsor-web-tr.sbs
 online.empordafibra.com
 online.fbasube.pro
 online.fbavarlikmenkul.com
@@ -10799,7 +10793,6 @@ sinodo.online
 sinterfumesco.com
 siparilersicinburdayiz.cloud
 siparilserdevamediyor.cloud
-siparis-extra-online-mobil.click
 siparis-guvenliodeme.com
 siparis-hizliodeme.com
 siparis-iade.com
@@ -12453,6 +12446,7 @@ tr-sahibinden.info
 tr-sahibinden.online
 tr-salomonturkiye.com
 tr-servisleri.online
+tr-siparisonay.online
 tr-sokarca.shop
 tr-sokraca.shop
 tr-sube-isbank.ph
@@ -13131,6 +13125,7 @@ velbayoq.tr
 velbazar.gifts
 velkor.surf
 velnaro.cyou
+velnorianet.com
 velnyra.xyz
 velocitumedia.com
 velomix.gifts
@@ -13614,7 +13609,6 @@ xn--asjdoasdjsadsda-blc.xyz
 xn--atansghuz-ypb.xyz
 xn--btso-qpa.com
 xn--dngdongsz-vpbh.xyz
-xn--firsatlaringnsimdi-x6bb.com
 xn--fnakosyuz-vpb.com
 xn--frst-kmpaynyasobilet-ibdn.xyz
 xn--guven-oto-para-sjb.com
