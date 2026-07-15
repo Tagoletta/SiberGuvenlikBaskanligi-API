@@ -365,7 +365,6 @@ apl-gc.pages.dev
 app-distribution.net
 app.hedefonmusteripanel.com
 app.miloyannopoulos.com
-appnexlab.digital
 apps.docu-sign.net
 appvo.cyou
 aprocore.tr
@@ -1864,7 +1863,6 @@ hizli-siparis-baglanti.com
 hizli-siparis-linki.com
 hizli-siparis-sayfasi.com
 hizlibasvurtamamlan.cloud
-hizlibasvurularim.sbs
 hizlibasvurum.com
 hizlibasvurumlar.com
 hizlicabaslangicbuguneozel.duckdns.org
@@ -2008,7 +2006,6 @@ indirimlibirgun.duckdns.org
 indirimligunlerretto.duckdns.org
 info-referanslinki.com
 infocontablidades.it.com
-infovilo.com
 infportfolio.online
 infyra.online
 ingbank-com-tr.ph
@@ -3728,7 +3725,6 @@ saxdasc123x12312.shop
 sayfadakal.duckdns.org
 sayginbelgelendirme.com
 sbkoefskrafe.bounceme.net
-sbnesfxko.bounceme.net
 sbnk-promosyn.duckdns.org
 sbnqefsis.bounceme.net
 sbogovtr.com
@@ -4633,7 +4629,6 @@ vexomiral.cyou
 vexqiro.gifts
 vexulon.info
 vfhnrtybwerbqrb.sbs
-vibely.gifts
 vibren.gifts
 viewdocuemnt151y-dataqjqhg.emp01825.workers.dev
 viki-play.com
