@@ -832,8 +832,10 @@ akaycicekcilik.com.tr
 akbank-borc-sorgulama.ph
 akbank-com.ph
 akbank-invest-hub.sbs
+akbank-isube.ph
 akbank-kredi-basvuru-merkezi.loseyourip.com
 akbank-pw.hizliyatirim.net
+akbankdirekt-kampanyalar.ph
 akbankinvest.com
 akbankk-bireysell.ph
 akbankmobil.netlify.app
@@ -3606,6 +3608,7 @@ edictoria.sbs
 edilgen-kapigr-entry.myonlineportal.ch
 edilim-entry-kapisi.myonlineportal.ch
 edilim-kapi-dusunce.myonlineportal.ch
+edinim-izleme.click
 edinimler-aciklayici-klagr.myonlineportal.ch
 editor.gleeze.com
 edosyabirimi.org
@@ -5371,6 +5374,7 @@ hgsbakiyeukleyin.firebaseapp.com
 hgsbakiyeukleyin.web.app
 hgsbakiyeyukleme.duckdns.org
 hgsbakiyeyuklemeniz.firebaseapp.com
+hgsbakiyeyuklemetr.com.ph
 hgsbakiyeyuklme.web.app
 hgsbakiyeyuklmei.firebaseapp.com
 hgsbakiyeyuklmei.web.app
@@ -6184,6 +6188,7 @@ istntblgtrjrg.com
 istpalenkova.xyz
 istsenben.xyz
 istsfgkukfd.sbs
+isube-qnbfinansbankasi.ph
 isubeakbankdirekt.ph
 isvalid-regions.vercel.app
 isxbank-promo.redirectme.net

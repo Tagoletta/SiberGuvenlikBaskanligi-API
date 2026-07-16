@@ -255,7 +255,9 @@ ak-kampanyaniss222334zzzz.vercel.app
 ak-kampanyaniz.vercel.app
 ak-yaz-kampanya.blogspot.com
 akbank-borc-sorgulama.ph
+akbank-isube.ph
 akbank-kredi-basvuru-merkezi.loseyourip.com
+akbankdirekt-kampanyalar.ph
 akbankmobil.netlify.app
 akkampanyalar.shop
 aksigortabankasigortaciligi.hediyemo.com
@@ -1110,6 +1112,7 @@ edictoria.sbs
 edilgen-kapigr-entry.myonlineportal.ch
 edilim-entry-kapisi.myonlineportal.ch
 edilim-kapi-dusunce.myonlineportal.ch
+edinim-izleme.click
 edinimler-aciklayici-klagr.myonlineportal.ch
 edosyaegm.org
 edosyatakip.org
@@ -1716,6 +1719,7 @@ hgsbakiyedollum.web.app
 hgsbakiyeukleyin.firebaseapp.com
 hgsbakiyeukleyin.web.app
 hgsbakiyeyuklemeniz.firebaseapp.com
+hgsbakiyeyuklemetr.com.ph
 hgsbakiyeyuklmei.firebaseapp.com
 hgsbakiyeyuklmei.web.app
 hgsbakiyukleme.web.app
@@ -1978,6 +1982,7 @@ istlnlnkrtld.com
 istnblwaskrsxt.online
 istnnmblas.com
 istntblgtrjrg.com
+isube-qnbfinansbankasi.ph
 isxbank-promo.redirectme.net
 izakdos.dnsup.net
 izakfsss.blogspot.com
@@ -3187,7 +3192,6 @@ pttavm.guvenli.ilanlar.duckdns.org
 pttavm.guvenlihizmet.online
 pttavm.ile-online-islemlerim.com.tr
 pttavm.kolay-tamamla.com
-pttavm.net.ph
 pttavm.onlinedogrulama.com
 pttavm.saticimerkezi.com
 pttavm.sip-tamamlat.com

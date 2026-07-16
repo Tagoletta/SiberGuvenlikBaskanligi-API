@@ -1125,8 +1125,10 @@ akaycicekcilik.com.tr
 akbank-borc-sorgulama.ph
 akbank-com.ph
 akbank-invest-hub.sbs
+akbank-isube.ph
 akbank-kredi-basvuru-merkezi.loseyourip.com
 akbank-pw.hizliyatirim.net
+akbankdirekt-kampanyalar.ph
 akbankinvest.com
 akbankk-bireysell.ph
 akbankmobil.netlify.app
@@ -5254,6 +5256,7 @@ edilgen-kapigr-entry.myonlineportal.ch
 edilim-entry-kapisi.myonlineportal.ch
 edilim-kapi-dusunce.myonlineportal.ch
 edinburgh-packaging-sense-idol.trycloudflare.com
+edinim-izleme.click
 edinimler-aciklayici-klagr.myonlineportal.ch
 editor.gleeze.com
 edosyabirimi.org
@@ -7839,6 +7842,7 @@ hgsbakiyeukleyin.firebaseapp.com
 hgsbakiyeukleyin.web.app
 hgsbakiyeyukleme.duckdns.org
 hgsbakiyeyuklemeniz.firebaseapp.com
+hgsbakiyeyuklemetr.com.ph
 hgsbakiyeyuklme.web.app
 hgsbakiyeyuklmei.firebaseapp.com
 hgsbakiyeyuklmei.web.app
@@ -8588,7 +8592,6 @@ isbankasiyatirimplatformu.click
 isbankbayrampromation.com
 isbankhgs.sbs
 isbankplatformu.digital
-isbankpromosyonum.duckdns.org
 isbankwebbasvur.webhop.me
 isbasvurusu-cagrimerkezi.online
 isbasvurusu.sbs
@@ -8945,6 +8948,7 @@ istpalenkova.xyz
 istsenben.xyz
 istsfgkukfd.sbs
 istshrrrtrkt.com
+isube-qnbfinansbankasi.ph
 isubeakbankdirekt.ph
 isvalid-regions.vercel.app
 isxbank-promo.redirectme.net
@@ -10506,7 +10510,6 @@ lixmelya.gifts
 lixshopro.com
 lixshopu.com
 lixvendq.com
-ljwls86h1.icu
 lk.hluttaw-govmm.co
 lkatilim-lkredinizz.cfd
 lkeksklesx.blogspot.com
@@ -17196,13 +17199,11 @@ tr-suwen.shop
 tr.karacasales.shop
 tr.randevurehberin.it.com
 tr13-guncelsikayetler.sbs
-tr14-guncelsikaytler.sbs
 tr155polis.shop
 tr155polisiatr.online
 tr156polis155.online
 tr16-guncelsikaytler.sbs
 tr17-guncelsikaytler.sbs
-tr18-guncelsikaytler.sbs
 tr42-guncelsikaytler.sbs
 tr44-guncelsikaytler.sbs
 tr45-guncelsikayetler.sbs
@@ -17981,7 +17982,6 @@ uzlasmasorgutr.com
 uzlasmauyap.net
 uzmandiploma.com
 uzmanislmnkta.net
-uzum-market-onlain.sbs
 uzumm-market-online.xyz
 uzunsiralar-olmadan.com
 v-new.cloud
@@ -18892,7 +18892,6 @@ yardimcioluruzz.org
 yardimedinlareklamsikintisivar.click
 yardimelim.com
 yardimkapisi.org
-yare32x3213.duckdns.org
 yarmalli.gifts
 yasamdefteri.com
 yasamdefterim.com
