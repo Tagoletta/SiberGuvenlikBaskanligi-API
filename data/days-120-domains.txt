@@ -124,6 +124,8 @@
 124566556565899091.duckdns.org
 124566556565899093.duckdns.org
 124566556565899094.duckdns.org
+124566556565899096.duckdns.org
+124566556565899098.duckdns.org
 124959300023.duckdns.org
 1253452324124.xyz
 125415554558998991.duckdns.org
@@ -2035,6 +2037,7 @@ baseline-include-priority-bar.trycloudflare.com
 basennwrpin.com
 baskwms.top
 basladikla4.sbs
+basladikla5.sbs
 basladimibasvuralari.cloud
 basliyorgosterisaati.yyuyy.com
 basliyoruz13.xyz
@@ -3340,6 +3343,7 @@ buhayatbenicokyordu9.click
 buhugereteyesede.lat
 buhukulupolisede.lat
 buildman.courses
+buildnoria.space
 bukadarhislereiyigeliriz.com
 buklifgerttesede.lat
 bukugufuerese.xyz
@@ -4092,6 +4096,7 @@ cogalim-edinim.biz
 cogentryx.com
 cogeoma.live
 cognitivestatic.com
+cognitivewave.capital
 cogunluk-gima-tgrn.myonlineportal.ch
 cohezo.com
 cohezo.io
@@ -4891,6 +4896,7 @@ domatisc.ink
 domremont.gifts
 donmezappointment.netlify.app
 donukgeriye-onaytlnanktislem.sbs
+donum-transfer.click
 dopesphacare.com
 dopozj.net
 doqeers.com
@@ -5609,6 +5615,7 @@ ernexishq.store
 erp.kaspersky.icu
 errkta.help
 errrsnr.dns.navy
+ertasafs.nicepage.io
 erthanguvenilir.site
 ertnefgbertbwe.sbs
 ertyuosahdahsdhasdh98sada.click
@@ -6447,6 +6454,7 @@ gelir-plani.com
 gelirgelsin.org
 gelirkenbiradetekmekalmakistermisin.online
 gelirkenbiradetekmekalmakistermisin.xyz
+gelisimyolculuk.com
 gelisiyoruz.com
 gelistirilmisarayuz.abrdns.com
 geliyorgelmekolanlarss.com
@@ -7331,6 +7339,7 @@ haberler17562.shop
 haberler2026.xyz
 haberler2026xl.com
 haberler2153212.com
+haberler223522.sbs
 haberler231542423.online
 haberler233434123.shop
 haberler23432.sbs
@@ -7508,6 +7517,7 @@ haploadpin.com
 happyparcel.gifts
 happyreel.lol
 harberdarolsendeherseydengelbasr.biz
+harbidenyesbibies.dpdns.org
 harborlily.store
 harcaharca-co.liveon.site
 harcaharcabitmedi.com
@@ -7937,6 +7947,7 @@ hirdavatyapimarketdunyasii.com
 hirespoint.com
 hiring-louisvuitton.com
 hirrimebuka.sbs
+hissesepetim.com
 hitkrul.com
 hizlandirmaszamanis.cloud
 hizlgbcesiicc.com
@@ -8166,6 +8177,7 @@ homeorbitx.com
 homestlerkestfg.duckdns.org
 hometbe.com
 homevera.gifts
+homevexa.top
 homiun.live
 homjesterytes.duckdns.org
 hondaturkiyee.com
@@ -8209,6 +8221,7 @@ hregirs.click
 hregirsi.click
 hrguxhellito281.onrender.com
 hrlivetoday.today
+hseterf.web.app
 hshsosoeej.blogspot.com
 hsldistnbsvlr.com
 hsnytenkjj.lol
@@ -8795,6 +8808,7 @@ istanbulio.shop
 istanbulkacan.xyz
 istanbulkadars.shop
 istanbulkaldansenneolma.shop
+istanbulkartbasvuru.xyz
 istanbulkartcan.xyz
 istanbulkartcanb.xyz
 istanbulkartcanbaba.xyz
@@ -12299,6 +12313,7 @@ oemsay.cc
 oesiskola.sbs
 oesiswadawdawdwadkola.sbs
 offadjust.digital
+offercore.shop
 offers-listing-screenshot-alpha.trycloudflare.com
 officcee404.com
 official-baykarplatform.com
@@ -16428,6 +16443,7 @@ tarbil-antikortitre.info
 taredovimukx.com
 tarek.casa
 targetlaneim.com
+tarihi-sayfa.click
 tarimzr.cfd
 tarlaaktif.digital
 tarport.nicepage.io
@@ -17542,6 +17558,7 @@ turkishlines.click
 turkishmarketwatch.com
 turkishpay.online
 turkishplus.click
+turkiue.sbs
 turkiyapostasix.com
 turkiyapostatr.com
 turkiye-petrolleri-platform.com
@@ -18138,6 +18155,7 @@ veridianview.sbs
 veridica.xyz
 verify-apple.com-ae.net
 verify.federal-docviewer.com
+verifyaccespoint.com
 verifysuper.com
 veritonixmedia.com
 vernalis.asia
@@ -18482,6 +18500,7 @@ wireless.garantibbvakredibasvuru.com
 wireom.com
 wishwin.gifts
 wispelt.com
+wispren.click
 wives-bufing-humans-prot.trycloudflare.com
 wjueor.buzz
 wldyutut.formester.com
@@ -18815,6 +18834,7 @@ xzrt300zxnv300xrt.sbs
 xzrt300zxrt.sbs
 xzrt300zxrxrt.cfd
 y-uygun-l-g.myonlineportal.ch
+y0nl3ndiriliiyo0esunu.duckdns.org
 y0nl3ndiriliy0rdunsuzdawsz.duckdns.org
 y0nl3ndiriliy0rs8nuz.duckdns.org
 y0nl3ndiriliy0rsunuze.duckdns.org
@@ -19285,6 +19305,7 @@ zeloria.info
 zelpazro.gifts
 zelqi.qpon
 zelshopro.com
+zelunovrax.capital
 zelus-checker.cfd
 zelus.icu
 zelvanto.xyz
