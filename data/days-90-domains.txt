@@ -93,6 +93,7 @@
 124566556565899093.duckdns.org
 124566556565899094.duckdns.org
 124566556565899096.duckdns.org
+124566556565899097.duckdns.org
 124566556565899098.duckdns.org
 124959300023.duckdns.org
 1253452324124.xyz
@@ -311,7 +312,6 @@
 4124124124.duckdns.org
 41242142142151512421.duckdns.org
 412941234531.com
-41371491.duckdns.org
 4151a16240s5.site
 421327142.sbs
 421412540055444.duckdns.org
@@ -852,6 +852,7 @@ akkampanyalar.shop
 akklevaltrlerndn.click
 akktuteellburadaaa.xyz
 akmobil-kredimcebimde.duckdns.org
+akmobil-onlineislemler-com.duckdns.org
 akmobilcebindenisanayifirsati.xyz
 akmuniverstall.top
 akountcenter.com
@@ -2916,6 +2917,7 @@ cohezo.com
 cohezo.io
 coin-secimi.com
 coincarp.cash
+coingolfsummer.com
 coinsec.co
 coinsecimi.com
 cokkolaymis.online
@@ -3388,6 +3390,7 @@ dnjelq.cc
 do2wers.com
 doarsoft.com
 doblosolfar.sbs
+dobroway.com
 doc-imagehub.info
 docario.gifts
 doccompartilhe.com
@@ -4266,6 +4269,7 @@ frsattayzbir.com
 frsattsonnnbsvrrkmpnyyaaa.art
 frsattsonnnbsvrrkmpnyyaaa.click
 frsattsonnnbsvrrkmpnyyaaa.live
+frsattt-site.s3.eu-north-1.amazonaws.com
 frsltrkmpnyabsvr.info
 frsltrkmpnyabsvr.live
 frsltrkmpnyabsvr.pro
@@ -5654,6 +5658,7 @@ homjesterytes.duckdns.org
 hondaturkiyee.com
 honehester.duckdns.org
 honeshadrteker.duckdns.org
+honesjterlarser.duckdns.org
 honestkartes.duckdns.org
 honestly.ink
 honufon.com
@@ -5878,6 +5883,7 @@ indirimmarketleri.click
 indirimsepetinde.com
 indirimucak.o-bilets.com
 indirmsznle.com
+indrmli-149luk-gunler.sbs
 infect.smelly.cc
 infinilabd.info
 info-akb.online
@@ -6577,7 +6583,6 @@ katlanabilirmasasandalyetakimi.com
 katllimbassvurru-tr.cfd
 katymzua.xyz
 kavirex.gifts
-kavqorin.buzz
 kavulix.gifts
 kaxuq.sbs
 kaya-lifonsy-tre-gir.myonlineportal.ch
@@ -7874,6 +7879,7 @@ mhrsgirisportaliburada.digital
 mhrshekimarandevusu.vercel.app
 mhrshekimlarandevusu.vercel.app
 mhrshekimzlrandevusu.vercel.app
+mhrsilerandevuekrani.duckdns.org
 mhrsislem.com
 mhrslenddeearn.cfd
 mhrslendinad.cfd
@@ -8216,7 +8222,6 @@ mustafakemalkoksalceb.duckdns.org
 musterigirisekranim.sbs
 musteripanelihp.com
 musteriportalim.sbs
-mutlugunlerimizin.com
 muygufuderesede.lat
 muzedunyasi.com
 muzegezi.click
@@ -8591,7 +8596,6 @@ nuvtorgi.gifts
 nviirandevun.com
 nvirandev.org
 nvirandvu.org
-nvsrlndvu.online
 nwyynz.click
 nxlog.tech
 ny-car-dealership.it.com
@@ -9975,7 +9979,6 @@ rarearomas.cyou
 ratonvaquero2026.online
 ravelo.online
 ravemora.gifts
-raviko.click
 ravinox.gifts
 raviral.com
 ravolio.biz
@@ -10722,7 +10725,6 @@ sharedfuture.world
 sharemax.best
 sharing-weblooks-394039902939console-39940030broker.mos.ap-southeast-2.sufybkt.com
 sharpbrief.world
-shbdntakip.autos
 sheguardgree.com
 sheraton-otel.cfd
 sheredwe.shop
@@ -10886,7 +10888,6 @@ sly-l-g-r-n-l-t.myonlineportal.ch
 smaebagis.com
 smartexce.digital
 smpworlds.com
-smsonay.li
 snaketwig.com
 snapcurrent.online
 snapkeep.info
@@ -12435,7 +12436,6 @@ tr-porland.shop
 tr-sahibinden.info
 tr-sahibinden.online
 tr-salomonturkiye.com
-tr-servisleri.online
 tr-siparisonay.online
 tr-sokarca.shop
 tr-sokraca.shop
@@ -13138,7 +13138,6 @@ velto-rinex.website
 velua.one
 velunix.shop
 velunori.top
-veluranoq.com
 velvanto.shop
 velxo.xyz
 vemdarok.vu
