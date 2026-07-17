@@ -1514,7 +1514,6 @@ aracinizmuayene.xyz
 arackgmkontrol.online
 arackgsyklemekontr.online
 aracklmtrlerinogren.sbs
-arackmsorgla.sa.com
 arackmsorgu.web.app
 arackmsorgula.com
 aracmuaeyeneislemlerr.com
@@ -5370,6 +5369,7 @@ ekraninizaktif-ogrenmesikolay.sbs
 ekraninizzgirisoanysorogren.sbs
 ekraninizzonayy-kontrol.sbs
 ekranmhrsvatandasbasvuru.duckdns.org
+ekranportalmhrsgirisvatandas.duckdns.org
 ekranzirgirislerinle.sbs
 ekrnniz-geri-dnk-srgu.sbs
 ekspres.obilet-www.online
@@ -7861,7 +7861,6 @@ hgskurumsal.net
 hgslcmcl.cfd
 hgslendifasnxs.xyz
 hgslerdeyzoduyoruz.click
-hgsmusteri-govtr.com
 hgsnzkgmkarylbrco.ddnsgeek.com
 hgsnzkgmkarylbrcz.ddnsgeek.com
 hgsnzkgmkarylbrczz.ddnsgeek.com
@@ -8341,7 +8340,6 @@ ihtiyacbasvurularsim.duckdns.org
 ihtiyacyaninda.click
 iifbtk.cc
 iifkvg.buzz
-iisntbulkratbkaiyeykuleme.net
 iistanbulbiz.sbs
 iistmhknbcvn.com
 ikjykmasdwebasdzxmvqwe.click
@@ -9611,7 +9609,6 @@ kgmgov.info
 kgmgov.sbs
 kgmgovitr.bond
 kgmgovtrtr.cfd
-kgmgovtur.one
 kgmgovv.top
 kgmigo.top
 kgmislerinizcxzun.online
@@ -12270,6 +12267,7 @@ official-version.com
 offservers.ru
 ogreninrandevunuzu.com
 ogrenmeasamasiekranlariniz.sbs
+ogrenmesorgulamaislerinz.sbs
 ohlsdtes.net
 ohqbtbbavnet.garantibbvakredibasvuru.com
 ohridblue.com
@@ -12937,7 +12935,6 @@ passbasvur.click
 pastalita-cake.xyz
 patent-harc-govtrr.site
 patente-harrc-govtr.site
-patentharc-resmi-govtr.site
 patentharc-resmigov-trr.site
 pathfindd.click
 pathogenwatch.com
@@ -13913,7 +13910,6 @@ quickspheredaily.com
 quintra.store
 quizquill.com
 qulimarov.com
-qulinas.com
 qulix.cfd
 qumora.info
 qumre.sbs
@@ -16347,6 +16343,7 @@ talvoro.store
 tamamhadherseebakgotur.info
 tamamla-sip.com
 tamamla-siparislerini.com
+tamamla-sipars.com
 tamamladim.click
 tamammarket.click
 tamelix.vu

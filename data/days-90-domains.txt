@@ -3740,6 +3740,7 @@ ekraninizaktif-ogrenmesikolay.sbs
 ekraninizzgirisoanysorogren.sbs
 ekraninizzonayy-kontrol.sbs
 ekranmhrsvatandasbasvuru.duckdns.org
+ekranportalmhrsgirisvatandas.duckdns.org
 ekranzirgirislerinle.sbs
 ekspres.obilet-www.online
 ekspres.obilet.nl
@@ -6732,7 +6733,6 @@ kgm.azqnvg.cc
 kgm.gxmbgl.help
 kgm.hhtfrm.help
 kgm.hmxkaz.help
-kgm.ijugyf.buzz
 kgm.iuaemm.cc
 kgm.kocraw.click
 kgm.llnpef.help
@@ -8725,6 +8725,7 @@ official-version.com
 offservers.ru
 ogreninrandevunuzu.com
 ogrenmeasamasiekranlariniz.sbs
+ogrenmesorgulamaislerinz.sbs
 ohlsdtes.net
 ohqbtbbavnet.garantibbvakredibasvuru.com
 oilwealthpro.com
@@ -11846,6 +11847,7 @@ talvona.store
 talvoro.store
 tamamhadherseebakgotur.info
 tamamla-sip.com
+tamamla-sipars.com
 tamamladim.click
 tamammarket.click
 tamelix.vu
