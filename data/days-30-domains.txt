@@ -4,6 +4,7 @@
 0a572599-0.b-cdn.net
 0nlinesharedocurnents0nedrlve.envirotrustsecure.de
 0xvona.duckdns.org
+101-kstra.s3.eu-north-1.amazonaws.com
 101kapindakampanyasi.duckdns.org
 11130059322882.webredirect.org
 111300593882.ooguy.com
@@ -163,6 +164,7 @@
 9c743b80-b.b-cdn.net
 9mvxr2q.sbs
 a-101-bugune-ozel-cepte-mobil-extra.indirim-mobil.site
+a-101-extra-ozel-indirim-tr.indirim-sepeti-tr.online
 a-101-extra-sadece-online-ozel-mobil-tr.bilgi-mobil-shop-ozel-tr.sbs
 a-101-extra-sadece-online-siparis-ver-tr.ozel-mobil-shop.sbs
 a-101-online-ozel-extra-mobil-tr.sepette-indirim.online
@@ -251,6 +253,7 @@ akbank-isube.ph
 akbank-kredi-basvuru-merkezi.loseyourip.com
 akbankdirekt-kampanyalar.ph
 akbankmobil.netlify.app
+akbankmobilnet.ph
 akkampanyalar.shop
 akmobil-onlineislemler-com.duckdns.org
 akmobil-onlineislemlerim-com.duckdns.org
@@ -507,8 +510,8 @@ bb-vv-aa-aa-ss-dd.xyz
 bb-vv-aa-hzmet-mrkezi.xyz
 bb-vv-aa.shop
 bb-vv-vv-aa-ss-dd.xyz
-bbvagarantibank.ph
 bbvagarantiwebiadesi.ph
+bbzirbta.cfd
 bcv-acces.lat
 bcv-global.lat
 bcv-meta.shop
@@ -559,6 +562,7 @@ bilgivizyonu.com
 bilopiddsade-cere.xyz
 bilsesavasiyorumdahanelerle.sbs
 bilukufere-gudazese.xyz
+bimcellodeme.ph
 binancemasakdogrulamaactivasyon.duckdns.org
 binanciapools.top
 binanciasgreece.top
@@ -703,6 +707,7 @@ bukuhugufutuyu.xyz
 bulugarese-dafure.xyz
 bulunmakta-fayda-g.myonlineportal.ch
 bumuhugu-gulukutere.lol
+bumukulude-tuyuretese.lol
 burads-6d5bb5751c89.herokuapp.com
 burads1-939ee2a65a73.herokuapp.com
 burads1-bb4ae103b5bb.herokuapp.com
@@ -770,6 +775,7 @@ cekilisparibu.co
 cemostvsan.net
 cemostvsn.net
 cenedenemexxlerxxinvaxxrtevsi.xyz
+cepgarantisube.ph
 cevdetdoner34xxtristanbl.xyz
 ceviri-lifonsi-edinim.myonlineportal.eu
 cezadosya.org
@@ -830,6 +836,7 @@ cool-horizon.com
 cordinex.io
 coreaspro.com
 corneliadelxue.net
+cosmicmatrix.capital
 cosmicupto.info
 cosmosfinans.com
 cowsidewalktune.com
@@ -883,6 +890,7 @@ cyuyyco.yyuyy.com
 d28c4902-a.b-cdn.net
 d6q9v2m8x4p1.cfd
 d871d5f2-6.b-cdn.net
+dacccxxccc.nicepage.io
 daha-be-gunduz-nato.xyz
 dahacok-insuarenc.myonlineportal.ch
 daily-facts.info
@@ -961,7 +969,9 @@ devstreamo.digital
 dfbkskbsb.vip
 dfbkskbsbs2.vip
 dfgdfgerht.duckdns.org
+dfgdfssdfffgs.duckdns.org
 dhdsjsdjxc.duckdns.org
+digitalforms.shop
 digpoint.icu
 dijital-bilgi.sbs
 dijital-bireyselbasvurulari.sbs
@@ -1364,6 +1374,7 @@ geliyormuyuz.online
 gelseydmdunyayasendegelcan45.info
 gencligimesirruhumayasarken.sbs
 generator-qrcode.online
+geneticorbit.capital
 gercekrealistsa.remotewire.net
 gercektencokozurdileriz.duckdns.org
 gereatas.nicepage.io
@@ -1506,6 +1517,7 @@ gzkarca.shop
 h-gs-odemelerinizxx.duckdns.org
 h1k9p4z7m6q2.cfd
 h3x8m2k9q6f4n7zh.cfd
+haber-turkiye.lat
 haber1425.sbs
 haber1425.shop
 haber142512.sbs
@@ -1607,7 +1619,6 @@ harikayizbiz.com
 hasatmarka.digital
 hasatnova.com
 hastanaentente.uk
-hastaneisleriiogreen.uk
 hastanelerle.uk
 hastaneminkolayi.duckdns.org
 hastanentente.uk
@@ -1753,7 +1764,6 @@ hizlikmburda.xyz
 hizlikmlerinizburda.firebaseapp.com
 hizlikmlerinizburda.web.app
 hizlikmvemuz.xyz
-hizlimenu-yazi.click
 hizlionline.com
 hizlisatismerkezi.com
 hizlisiparis-ver.com
@@ -2208,6 +2218,7 @@ krdiibsvrrfrsltrrrspnnnnn.info
 krdiibsvrrfrsltrrrspnnnnn.pro
 krdsaicaskdjz23j1x312.cfd
 kredi-basvuru-merkezi.ooguy.com
+kredi-basvuru-online.click
 kredi-basvuru-portali.sbs
 kredibasvuru.duckdns.org
 kredibasvuruonayla.com
@@ -2803,6 +2814,7 @@ otokocfilomkurumsal.com
 otokocfilotr.com
 otokocfilotr.net
 otokockiralamatr.com
+otokockurumsal.org
 otokockurumsalfilo.net
 otokockurumsalkiralama.com
 otokockurumsaltr.com
@@ -3781,6 +3793,7 @@ teaandcake-how.info
 teacat-future.xyz
 teacatcreate.info
 teapot-sale.xyz
+tebcepte-sube-parola.myonlineportal.de
 techdriverhub.gifts
 techfront24.digital
 techlina.xyz
@@ -4543,6 +4556,7 @@ yklehgsbkyeykle.cfd
 yklehgsonlne.cfd
 yklehgsyklepra.cfd
 ynl3ndiriyn3nuzknkk.duckdns.org
+ynlendirbrnkrkmdyivlasi.duckdns.org
 ynlendirdstmkrkmayav.duckdns.org
 ynlendiriyonuzzknkk.duckdns.org
 ynlendriyonuzknk23154.duckdns.org
