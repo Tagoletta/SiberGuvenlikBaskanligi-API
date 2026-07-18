@@ -15,7 +15,6 @@
 10-06-2026dogrulama.duckdns.org
 10-06-2026kampanyam.duckdns.org
 10000000001.opik.net
-100101099999900001.duckdns.org
 1001harcabitmez.click
 101firsatlarimburda.click
 101firsatlars.click
@@ -52,6 +51,7 @@
 12545589989990893.duckdns.org
 1254598989899890.duckdns.org
 1254598989899893.duckdns.org
+1254598989899894.duckdns.org
 1255665988451698992.duckdns.org
 1255665988451698993.duckdns.org
 12855w652.click
@@ -814,6 +814,7 @@ auroraclair.com
 aurorait.blog
 authorized-logins.net
 autodiscover.1254598989899893.duckdns.org
+autodiscover.1254598989899894.duckdns.org
 autodiscover.459671325743t527140.duckdns.org
 autodiscover.619378724639012408150.duckdns.org
 autodiscover.73214625721684432190.duckdns.org
@@ -1169,7 +1170,6 @@ bilgivizyonu.com
 bilopiddsade-cere.xyz
 bilsesavasiyorumdahanelerle.sbs
 bilukufere-gudazese.xyz
-bimmarketleri.com
 binancemasakdogrulamaactivasyon.duckdns.org
 binancemobileapp.ph
 binancetr.duckdns.org
@@ -1738,6 +1738,7 @@ cowsidewalktune.com
 cozycandles.gifts
 cpanel.10807206403201140.duckdns.org
 cpanel.1254598989899893.duckdns.org
+cpanel.1254598989899894.duckdns.org
 cpanel.381365462354821010.duckdns.org
 cpanel.381365462354821020.duckdns.org
 cpanel.5018924765717295120.duckdns.org
@@ -1752,6 +1753,7 @@ cpanel.evsahibibasvuru.com
 cpanel.natoint.net
 cpanel.sokmarketekstrakampanya2.duckdns.org
 cpcalendars.1254598989899893.duckdns.org
+cpcalendars.1254598989899894.duckdns.org
 cpcalendars.7641713825499130.duckdns.org
 cpcalendars.7641713825499160.duckdns.org
 cpcalendars.7641713825499180.duckdns.org
@@ -2080,7 +2082,6 @@ dtbwebwrngryn.sbs
 dubco.click
 dubco.site
 dugme-arac-kullanim.myonlineportal.eu
-dunyacokguzel.netlify.app
 dunyamali.sbs
 duoasdhashdhas988asdhashd.click
 duszgouz.com
@@ -2996,7 +2997,6 @@ haadstesserae.cfd
 haber-seszka-lam-send-engel-265696.life
 haber0149.shop
 haber1174.shop
-haber132.shop
 haber1420.shop
 haber1425.sbs
 haber1425.shop
@@ -3018,7 +3018,6 @@ haber41533.sbs
 haber4566.shop
 haber45778656.shop
 haber465119.shop
-haber7472.shop
 haber7495.shop
 haber7539.shop
 haber7546.shop
@@ -3250,7 +3249,6 @@ hellowhomest.duckdns.org
 helprewardroom.com
 helpuapipl.org
 heltaskeltahenterprise.com
-hembasvrkyt.hicam.net
 hemeleterfesa.duckdns.org
 hememislemnkta.net
 hemenalnsanra.net
@@ -3817,7 +3815,6 @@ istanbul-donut.xyz
 istanbul-ticket.co
 istanbul-turat.xyz
 istanbul24k.shop
-istanbulavrupasm.shop
 istanbulbasvuru.xyz
 istanbulbasvurukart.xyz
 istanbulbeelgimcan.xyz
@@ -4146,7 +4143,6 @@ kartekin-zurefopa.lol
 kartomopiks.opik.net
 kasalarsaglamtanktank.net
 kasalarsaglamtnn.net
-katil202600001.duckdns.org
 katilim.nicepage.io
 katilimda.nicepage.io
 katilimlinki.com
@@ -4758,6 +4754,7 @@ magelan-nato.net
 magenta-chough-241198.hostingersite.com
 mahkemelik.help
 mail.1254598989899893.duckdns.org
+mail.1254598989899894.duckdns.org
 mail.1492138126532079202410.duckdns.org
 mail.4368958847.duckdns.org
 mail.6134728541296136547130.duckdns.org
@@ -6335,6 +6332,7 @@ r7mvjl67.space
 r99sadhashdh9asdhahsdsk2.click
 r9m2p6w4k8n1.sbs
 racestrech.info
+radio.evsahibibasvuru.com
 raf3134sadacjj1x3jk1jk23x12.shop
 rafa0102xadskjx2h3jx12312.cfd
 rafa09lasdck123x123.cfd
@@ -7867,7 +7865,6 @@ turkhaberaktuel.com
 turkhaberz.com
 turkhavayollari.click
 turkhavayollarikampanya.suanokadar.sbs
-turkhavayollarikampanya.vaylele.click
 turkhavayollarikampanyasi.neresiseyde.sbs
 turkiinvest.com
 turkishairlineskampanya.olumedavet.sbs
@@ -8295,6 +8292,7 @@ webbtaccss.space
 webcodenest.co
 webdevora.digital
 webdisk.1254598989899893.duckdns.org
+webdisk.1254598989899894.duckdns.org
 webdisk.6134728541296136547120.duckdns.org
 webdisk.619378724639012408140.duckdns.org
 webdisk.73214625721684432160.duckdns.org
@@ -8303,6 +8301,7 @@ webdisk.sokmarketekstrakampanya3.duckdns.org
 webdisk.sokmarketekstrakampanya5.duckdns.org
 webforge.bond
 webmail.1254598989899893.duckdns.org
+webmail.1254598989899894.duckdns.org
 webmail.6134728541296136547150.duckdns.org
 webmail.73214625721684432160.duckdns.org
 webmail.7641713825499140.duckdns.org
@@ -8318,7 +8317,6 @@ website6658609.nicepage.io
 website6659845.nicepage.io
 website6660935.nicepage.io
 website6663199.nicepage.io
-websitetasarimlarim.sbs
 webtkrmsal.com
 webtkrmsal.web.app
 webwise.vu
@@ -8637,7 +8635,6 @@ yeninokta.abrdns.com
 yenizgirirs2026.com
 yenpanlen35x321.duckdns.org
 yens6da.nicepage.io
-yepisyen.18mayisbasvurlardadevam.cloud
 yereavsy.net
 yerx2xc232.duckdns.org
 yesilin-garantisi.xyz
