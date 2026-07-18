@@ -609,7 +609,6 @@ a101katalogguncel.duckdns.org
 a101katologz.duckdns.org
 a101mayisfirsatlari.x10.mx
 a101mayisfirsatlari.xo.je
-a101nisankampanyalari.com
 a101onlineislemlermerkezi.pages.dev
 a101pazar.com
 a101yilinfirsatlar.com
@@ -1414,7 +1413,6 @@ bakiyeyuklmhgs.lat
 baklavakocak.com
 balancedoutlook.info
 balancedperspective.info
-baldiza.site
 balikcihasogeliyo.fun
 bambuicin.sbs
 bamvurulas.hegikeiroz.workers.dev
@@ -4883,7 +4881,6 @@ guvedekalin.com
 guven-oto-cikma.com
 guvenceleriyle.online
 guvencelisepet.online
-guvencesinde.online
 guvencesiyle.com
 guvencesiyle.online
 guvendeilesatinal.com
@@ -5307,7 +5304,6 @@ hedefonmusteripanel.com
 hedefonmusteripaneli.com
 hedefportfoykurumsal.com
 hediye50gb.space
-hediyenyaninda.online
 heilbronner-fruehlingssymposium.de
 heliosup.info
 helllo2025.com
@@ -8547,7 +8543,6 @@ ninjatech.io
 nisanbasvuru.lol
 nitlebuf.com
 niturkcart.xyz
-nivako.click
 nivara.click
 nivrandevu.com
 njcqnd.buzz
@@ -9906,7 +9901,6 @@ qemuzari.media
 qemvaril.shop
 qemviroxalun.xyz
 qenlavi.tr
-qentir.click
 qenvelo.gifts
 qeruvia.xyz
 qervonak.media
@@ -10239,7 +10233,6 @@ rndvunuzuayirin.com
 rndvunuzuayirt.com
 rndvunuzuayirten.com
 rndvunuzuayirtin.com
-rndvzhiembrusdur.online
 rndvzhiembrusdur.store
 rndvzhudsmurebus.store
 rnmdvshuzbrusdds.online
@@ -10627,7 +10620,6 @@ secure.evsahibibasvuru.com
 secure.login-socialsecurity.com
 secure.ssa-documentsync.com
 securesepetim.com
-securesepetim.shop
 securesitem1.co
 security.bpfi.digital
 securityzirra4bnk4.duckdns.org
@@ -10761,6 +10753,7 @@ sepetimonay.store
 sepetimonay.study
 sepetimonay.surf
 sepetin-cepte.biz.tr
+sepetin-cepte.net.tr
 sepetinguvende.online
 sepetlerlmlzdeucuzluklarvar.com
 sepetlerveucuzluklarvar.com
@@ -12565,8 +12558,6 @@ tr-online-mobil.sbs
 tr-polisi.online
 tr-porland.cfd
 tr-porland.shop
-tr-sahibinden.info
-tr-sahibinden.online
 tr-salomonturkiye.com
 tr-siparisonay.online
 tr-sokarca.shop
@@ -13811,6 +13802,7 @@ xz21x513z123c321.cyou
 xz21x513z123c321.lat
 xz21x513z123c321.shop
 xz23x123dsdsas.duckdns.org
+xzeez.cfd
 xzrt300zx300xrt.cfd
 xzrt300zxdv300xrt.cfd
 xzrt300zxnv300xrt.cfd
