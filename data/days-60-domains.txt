@@ -30,7 +30,6 @@
 1123344225566112.duckdns.org
 11233445566112.duckdns.org
 11241garant.duckdns.org
-112724112.click
 119930984165.duckdns.org
 11b423xz122.duckdns.org
 11tariksdans.nicepage.io
@@ -948,7 +947,6 @@ basvursendsmz.sbs
 basvursendsn.sbs
 basvursendsr.sbs
 basvursenn.sbs
-basvursenv.sbs
 basvursenz.sbs
 basvursmz.sbs
 basvursnr.sbs
@@ -1396,6 +1394,7 @@ bsykartech.com
 btcturk-cekilis.com
 btcturk-kripto.zendesk.com
 btcturk-kripto1781772972.zendesk.com
+btksikayet-btk-sikayet.up.railway.app
 bu-ff-dd-ss-de.xyz
 bu-garanti-yaz-ayi-naz-ayi.xyz
 bu-sonfirsatlarhaziran.online
@@ -2875,7 +2874,6 @@ grislersit.cfd
 grisstlera.nicepage.io
 grnsdcjkasjdcjhx12j3xksadas.cfd
 grnti-firstlr.lol
-grntkrzsrz.com
 grntprmsynnkmpnyamkrz.info
 grntttpromsnynnnbsvrrr.info
 grntttpromsnynnnbsvrrr.pro
@@ -3348,6 +3346,7 @@ hgsbakyeyklesmdi.cfd
 hgsbakyiebayi.firebaseapp.com
 hgsbakyiebayi.web.app
 hgsbasvurumhizmeti.duckdns.org
+hgsbkyeyklecfd.cfd
 hgsbkyeyklehdi.cfd
 hgsborcodemeguncl.com
 hgsborcodemeguncl.xyz
@@ -3531,6 +3530,7 @@ hmntknlasntam.net
 hnaolangnleremynym.shop
 hngfbgfbfb.cyou
 hobesletr.duckdns.org
+hodesterker.duckdns.org
 hojemetstrer.duckdns.org
 hokesya.xyz
 holdeferete.hicam.net
@@ -6067,7 +6067,6 @@ psmsynnnkmpnyaaaa.live
 ptksdasfasxa-sa.cfd
 ptt-avm-arac-km-sorgu-sist.firebaseapp.com
 ptt-avm-arac-km-sorgu-sist.web.app
-ptt-avm-bireysel-sepetim.com
 ptt-avm-islemleriniz-km.firebaseapp.com
 ptt-avm-islemleriniz-km.web.app
 ptt-avm-kilo-metre-sorgula.firebaseapp.com
@@ -6788,6 +6787,7 @@ sermayemerkez.site
 serokvazir.cfd
 serotoninenterprise.com
 sertifiky-daha-fazla.myonlineportal.ch
+server-guide--microsoftsignin.replit.app
 serverpath.digital
 serverscreen.net
 servicefor8.com
@@ -6999,7 +6999,6 @@ sondakiraturk.com
 sonfirsaattkmpnyaabsvrr.live
 sonfrsaattbsvrrrkmpnyaaa.art
 sonfrsaattbsvrrrkmpnyaaa.click
-sonfrsaattbsvrrrkmpnyaaa.live
 sonfrslttrrrbsvrrrkmpnyyykrediiifrstlrr.info
 sonfrslttrrrbsvrrrkmpnyyykrediiifrstlrr.pro
 sonfrstlarkapindaburda1o1.shop
@@ -7852,6 +7851,7 @@ turkiye.gov.clskl.com
 turkiyeaktifhaber.com
 turkiyebilgisi.com
 turkiyebulletin.com
+turkiyefinans-katilim-com.duckdns.org
 turkiyegozlemagi.com
 turkiyegundem24.com
 turkiyegunleri.com
