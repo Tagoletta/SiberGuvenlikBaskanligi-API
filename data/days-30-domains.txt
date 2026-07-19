@@ -453,6 +453,7 @@ basvurulariniz.sbs
 basvurumburada.click
 basvurumburda.click
 basvurumerkezi.abrdns.com
+basvurusirasi.online
 baykar-basvuru-merkezim.netlify.app
 baykar-grup.com
 baykar-hub.com
@@ -1881,7 +1882,6 @@ istanbulkartttt.xyz
 istanbulmefe.xyz
 istanbulmruzgar.xyz
 istanbulrandevutek.xyz
-istanbulrandevvuucanaa.xyz
 istanbulyorum.info
 istancanbulkart.xyz
 istancansancan.xyz
@@ -3198,6 +3198,7 @@ rallyhollow.com
 ralstore.gifts
 ramsparkgirisi.sbs
 randevu.12855w652.cfd
+randevuekranportalmhrsonline.duckdns.org
 randevuhastenn.online
 randevuhizmetinburadan.duckdns.org
 randevup-rtali.duckdns.org
@@ -3641,6 +3642,7 @@ taatas.com
 tablo-edilgen-deger.myonlineportal.ch
 tadsago4210.online
 tadsago4210.site
+tahtahde-yuhdare.lol
 takas-change.click
 take-more.cfd
 talepalma.online
@@ -4395,6 +4397,7 @@ yatirimufku.site
 yauapp-006949517387.herokuapp.com
 yauapp-a2dc65a797a0.herokuapp.com
 yavshopi.digital
+yayin-web.casa
 yaz-ppromosyonlariburada.com
 yazbonusu.digital
 yazkampanyalari.com
