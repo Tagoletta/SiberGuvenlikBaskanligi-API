@@ -19,6 +19,10 @@ issue olarak açmayın**. Bunun yerine ayrıntıları doğrudan e-posta ile bild
 
 **info@tagmachan.com**
 
+Hassas bildirimleri şifrelemek isterseniz, deponun kök dizinindeki
+[`pgp-key.asc`](pgp-key.asc) PGP anahtarını (parmak izi
+`00DF BA48 556C 6178 A158 BDFE 80E4 FA3E CE33 06D5`) kullanabilirsiniz.
+
 Bildiriminize mümkünse şunları ekleyin:
 
 * Açığın türü ve etkilediği bileşen (ör. `scraper/fetch.py`, GitHub Actions
@@ -59,6 +63,10 @@ If you believe you have found a security vulnerability, please **do not open a
 public issue**. Instead, report the details privately by email:
 
 **info@tagmachan.com**
+
+To encrypt sensitive reports, you may use the PGP key
+[`pgp-key.asc`](pgp-key.asc) in the repository root (fingerprint
+`00DF BA48 556C 6178 A158 BDFE 80E4 FA3E CE33 06D5`).
 
 Where possible, include:
 
