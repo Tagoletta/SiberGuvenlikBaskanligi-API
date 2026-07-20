@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import ipaddress
 import json
 import os
 import random
@@ -41,6 +42,11 @@ REQUEST_TIMEOUT = float(os.environ.get("REQUEST_TIMEOUT", "30"))
 DB_FILE = DATA_DIR / "database.jsonl"  # legacy single-file name, kept for migration
 STATE_FILE = DATA_DIR / "_state.json"
 REMOVED_LOG = DATA_DIR / "removed.log"
+
+# Entries matching the allowlist / bogon rules are kept in the DB (a faithful
+# mirror of the upstream source) but dropped from the generated .txt lists.
+ALLOWLIST_FILE = Path(os.environ.get("ALLOWLIST_FILE", "allowlist.txt"))
+EXCLUDED_FILE = DATA_DIR / "excluded.txt"
 
 DB_SHARD_SIZE = int(os.environ.get("DB_SHARD_SIZE", "250000"))
 DB_SHARD_RE = re.compile(r"^database-(\d+)\.jsonl$")
@@ -265,14 +271,72 @@ def write_list(path: Path, entries: set[str], addr_type: str) -> None:
     tmp.replace(path)
 
 
+def load_allowlist() -> tuple[set[str], set[str]]:
+    """Return (allow, deny) domain-suffix sets read from ALLOWLIST_FILE.
+
+    Each non-empty, non-comment line is a domain matched as a suffix: a bare
+    line (``google.com``) protects that domain and every subdomain. A line
+    prefixed with ``!`` is an exception that keeps the host (and its subtree)
+    blocked even when a broader allow line would match -- use it to carve a
+    malicious host out of an otherwise trusted parent, e.g. phishing hosted on
+    a shared platform. Never allowlist shared-hosting parents themselves
+    (``googleapis.com``, ``amazonaws.com``, ``web.app`` ...): doing so would
+    unblock every malicious bucket/site under them.
+    """
+    allow: set[str] = set()
+    deny: set[str] = set()
+    if not ALLOWLIST_FILE.exists():
+        return allow, deny
+    for raw in ALLOWLIST_FILE.read_text(encoding="utf-8").splitlines():
+        line = raw.strip().lower()
+        if not line or line.startswith("#"):
+            continue
+        target = deny if line.startswith("!") else allow
+        host = line.lstrip("!").strip().strip(".")
+        if host:
+            target.add(host)
+    return allow, deny
+
+
+def _host_of(entry: str, rtype: str) -> str:
+    host = entry.strip().lower()
+    if rtype == "url":
+        if "://" in host:
+            host = host.split("://", 1)[1]
+        host = host.split("/", 1)[0]  # drop path
+        host = host.split("@")[-1]    # drop userinfo
+        host = host.split(":", 1)[0]  # drop port
+    return host.strip(".")
+
+
+def _suffix_match(host: str, suffixes: set[str]) -> bool:
+    if not host or not suffixes:
+        return False
+    parts = host.split(".")
+    return any(".".join(parts[i:]) in suffixes for i in range(len(parts)))
+
+
+def _is_bogon_ip(entry: str, rtype: str) -> bool:
+    """True for non-routable / "any" addresses (0.0.0.0, loopback, private...)."""
+    value = entry.strip()
+    try:
+        if "/" in value or rtype == "ip6net":
+            return not ipaddress.ip_network(value, strict=False).is_global
+        return not ipaddress.ip_address(value).is_global
+    except ValueError:
+        return False
+
+
 def generate_lists(db: dict[int, dict]) -> dict[str, int]:
     now = datetime.now()
     cutoffs = {w: now - timedelta(days=w) for w in WINDOWS}
+    allow, deny = load_allowlist()
 
     full: dict[str, set[str]] = {t: set() for t in ALL_TYPES}
     windowed: dict[int, dict[str, set[str]]] = {
         w: {t: set() for t in ALL_TYPES} for w in WINDOWS
     }
+    excluded: set[str] = set()
 
     for rec in db.values():
         entry = (rec.get("url") or "").strip()
@@ -281,6 +345,16 @@ def generate_lists(db: dict[int, dict]) -> dict[str, int]:
         rtype = rec.get("type", "domain")
         if rtype not in full:
             rtype = "domain"
+
+        if rtype in ("ip", "ip6", "ip6net"):
+            if _is_bogon_ip(entry, rtype):
+                excluded.add(entry)
+                continue
+        elif _suffix_match(_host_of(entry, rtype), allow) and not _suffix_match(
+            _host_of(entry, rtype), deny
+        ):
+            excluded.add(entry)
+            continue
 
         full[rtype].add(entry)
         dt = parse_date(rec.get("date", ""))
@@ -299,6 +373,8 @@ def generate_lists(db: dict[int, dict]) -> dict[str, int]:
             write_list(DATA_DIR / f"days-{w}-{suffix}.txt", windowed[w][t], t)
             stats[f"days-{w}-{suffix}"] = len(windowed[w][t])
 
+    write_list(EXCLUDED_FILE, excluded, "domain")
+    stats["excluded"] = len(excluded)
     return stats
 
 

@@ -1,0 +1,59 @@
+# allowlist.txt — önemli domainleri yayınlanan bloklistelerden hariç tutar.
+#
+# Bu dosyada listelenen girdiler veritabanında (database-*.jsonl) kalır ama
+# üretilen *.txt listelerine yazılmaz. Böylece kaynak (siberguvenlik.gov.tr)
+# birebir aynalanır, listeler ise yanlış-pozitiflerden temizlenir.
+#
+# Kurallar:
+#   google.com          -> google.com VE tüm alt alan adlarını korur (subtree)
+#   !phishing.google.com -> istisna; üstteki kural eşleşse bile bu hostu bloklu
+#                           tutar (paylaşımlı platformdaki zararlıyı ayıklamak için)
+#   # ile başlayan satır  -> yorum
+#
+# ÖNEMLİ: Paylaşımlı barındırma "ana" domainlerini ASLA eklemeyin
+# (googleapis.com, amazonaws.com, web.app, firebaseapp.com, blob.core.windows.net,
+# herokuapp.com, pages.dev, r2.dev, github.io ...). Bunları eklemek, altlarında
+# barındırılan tüm phishing/zararlı bucket ve siteleri serbest bırakır.
+# Örn: *.storage.googleapis.com üzerindeki phishing girdileri bloklu KALMALI.
+
+# --- Arama / Google (çekirdek servisler) ---
+google.com
+google.com.tr
+youtube.com
+gmail.com
+android.com
+
+# --- Microsoft ---
+microsoft.com
+windows.com
+windowsupdate.com
+office.com
+live.com
+outlook.com
+xbox.com
+bing.com
+
+# --- Apple ---
+apple.com
+icloud.com
+
+# --- CDN / altyapı (apex servisleri) ---
+cloudflare.com
+mozilla.org
+mozilla.com
+
+# --- Sosyal / mesajlaşma ---
+facebook.com
+instagram.com
+whatsapp.com
+twitter.com
+x.com
+linkedin.com
+telegram.org
+
+# --- Referans / diğer ---
+wikipedia.org
+github.com
+
+# --- Türkiye (kamu / bankacılık örnekleri — ihtiyaca göre genişletin) ---
+turkiye.gov.tr
