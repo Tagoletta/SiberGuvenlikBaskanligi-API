@@ -26,7 +26,7 @@ Her adres tipi ayrı dosyada tutulur:
 
 Her dosya: satır başına bir kayıt, tırnak yok, boşluk yok, LF satır sonu. Domain'ler alfabetik, IP'ler sayısal sıralı.
 
-> `database.jsonl` ve `_state.json` dahili kayıt dosyalarıdır; güvenlik duvarı bunları görmezden gelir.
+> `database-*.jsonl` (250.000 kayıtlık parçalar halinde) ve `_state.json` dahili kayıt dosyalarıdır; güvenlik duvarı bunları görmezden gelir.
 
 ### Yaklaşık kayıt sayıları (güncel)
 
@@ -94,7 +94,7 @@ Each address type is kept in its own file:
 
 One entry per line, no quotes, no surrounding whitespace, LF line endings. Domains sorted alphabetically, IPs sorted numerically.
 
-> `database.jsonl` and `_state.json` are internal bookkeeping files; firewalls should ignore them.
+> `database-*.jsonl` (split into 250,000-record shards) and `_state.json` are internal bookkeeping files; firewalls should ignore them.
 
 ### Approximate record counts (current)
 

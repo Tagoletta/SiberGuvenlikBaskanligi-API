@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 import os
 import random
+import re
 import sys
 import time
 from datetime import datetime, timedelta
@@ -37,9 +38,28 @@ SEED_COMPLETE_FRACTION = float(os.environ.get("SEED_COMPLETE_FRACTION", "0.8"))
 WINDOWS = [30, 60, 90, 120]
 REQUEST_TIMEOUT = float(os.environ.get("REQUEST_TIMEOUT", "30"))
 
-DB_FILE = DATA_DIR / "database.jsonl"
+DB_FILE = DATA_DIR / "database.jsonl"  # legacy single-file name, kept for migration
 STATE_FILE = DATA_DIR / "_state.json"
 REMOVED_LOG = DATA_DIR / "removed.log"
+
+DB_SHARD_SIZE = int(os.environ.get("DB_SHARD_SIZE", "250000"))
+DB_SHARD_RE = re.compile(r"^database-(\d+)\.jsonl$")
+
+
+def _shard_path(index: int) -> Path:
+    return DATA_DIR / f"database-{index:03d}.jsonl"
+
+
+def _existing_shards() -> list[tuple[int, Path]]:
+    shards = []
+    if not DATA_DIR.exists():
+        return shards
+    for p in DATA_DIR.iterdir():
+        m = DB_SHARD_RE.match(p.name)
+        if m:
+            shards.append((int(m.group(1)), p))
+    return sorted(shards)
+
 
 EXIT_OK = 0
 EXIT_CONTINUE = 10
@@ -78,11 +98,8 @@ def fetch_page(session: requests.Session, addr_type: str, page: int) -> dict:
     return resp.json()
 
 
-def load_db() -> dict[int, dict]:
-    db: dict[int, dict] = {}
-    if not DB_FILE.exists():
-        return db
-    with DB_FILE.open("r", encoding="utf-8") as fh:
+def _load_jsonl_into(db: dict[int, dict], path: Path) -> None:
+    with path.open("r", encoding="utf-8") as fh:
         for line in fh:
             line = line.strip()
             if not line:
@@ -92,24 +109,47 @@ def load_db() -> dict[int, dict]:
                 db[int(rec["id"])] = rec
             except (ValueError, KeyError):
                 continue
+
+
+def load_db() -> dict[int, dict]:
+    db: dict[int, dict] = {}
+    shards = _existing_shards()
+    if shards:
+        for _, path in shards:
+            _load_jsonl_into(db, path)
+        return db
+    if DB_FILE.exists():
+        _load_jsonl_into(db, DB_FILE)
     return db
 
 
 def save_db(db: dict[int, dict]) -> None:
-    tmp = DB_FILE.with_suffix(".jsonl.tmp")
-    with tmp.open("w", encoding="utf-8", newline="\n") as fh:
-        for _id in sorted(db.keys()):
-            rec = db[_id]
-            out = {
-                "id": rec["id"],
-                "url": rec["url"],
-                "type": rec.get("type", "domain"),
-                "date": rec.get("date", ""),
-            }
-            if rec.get("p") is not None:
-                out["p"] = rec["p"]
-            fh.write(json.dumps(out, ensure_ascii=False) + "\n")
-    tmp.replace(DB_FILE)
+    ids = sorted(db.keys())
+    chunks = [ids[i : i + DB_SHARD_SIZE] for i in range(0, len(ids), DB_SHARD_SIZE)] or [[]]
+
+    for index, chunk in enumerate(chunks):
+        path = _shard_path(index)
+        tmp = path.with_suffix(".jsonl.tmp")
+        with tmp.open("w", encoding="utf-8", newline="\n") as fh:
+            for _id in chunk:
+                rec = db[_id]
+                out = {
+                    "id": rec["id"],
+                    "url": rec["url"],
+                    "type": rec.get("type", "domain"),
+                    "date": rec.get("date", ""),
+                }
+                if rec.get("p") is not None:
+                    out["p"] = rec["p"]
+                fh.write(json.dumps(out, ensure_ascii=False) + "\n")
+        tmp.replace(path)
+
+    for index, path in _existing_shards():
+        if index >= len(chunks):
+            path.unlink(missing_ok=True)
+
+    if DB_FILE.exists():
+        DB_FILE.unlink()
 
 
 def store_records(db: dict[int, dict], models: list[dict], pass_id: int) -> int:
@@ -273,6 +313,11 @@ def is_first_run() -> bool:
 def reset_everything() -> None:
     print("[reset] starting fresh full crawl")
     for p in list(DATA_DIR.glob("*.txt")) + list(DATA_DIR.glob("*.tmp")):
+        try:
+            p.unlink()
+        except FileNotFoundError:
+            pass
+    for _, p in _existing_shards():
         try:
             p.unlink()
         except FileNotFoundError:
