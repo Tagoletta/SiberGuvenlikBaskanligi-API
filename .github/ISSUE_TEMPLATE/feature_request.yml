@@ -1,0 +1,38 @@
+name: "✨ Feature request / Özellik önerisi"
+description: "Suggest an idea or improvement for the project. / Proje için bir fikir veya iyileştirme önerin."
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Öneriniz için teşekkürler! / Thanks for your suggestion!
+  - type: textarea
+    id: problem
+    attributes:
+      label: "Hangi sorunu çözüyor? / What problem does it solve?"
+      description: "Önerinizin çözdüğü sorunu veya ihtiyacı açıklayın. / Describe the problem or need your idea addresses."
+      placeholder: "Örn. Listeleri CIDR formatında da almak istiyorum. / e.g. I'd like the lists also in CIDR format."
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: "Önerilen çözüm / Proposed solution"
+      description: "Nasıl çalışmasını istediğinizi anlatın. / Describe how you'd like it to work."
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: "Alternatifler / Alternatives"
+      description: "Düşündüğünüz başka çözümler var mı? / Any alternative solutions you considered?"
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: "Ek bağlam / Additional context"
+      description: "Ekran görüntüsü, örnek çıktı veya bağlantı ekleyebilirsiniz. / Add screenshots, sample output, or links."
+    validations:
+      required: false

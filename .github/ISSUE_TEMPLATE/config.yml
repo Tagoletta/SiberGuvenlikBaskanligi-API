@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "🔒 Güvenlik açığı / Security vulnerability"
+    url: "https://github.com/Tagoletta/SiberGuvenlikBaskanligi-API/security/policy"
+    about: "Güvenlik açıklarını herkese açık issue yerine e-posta ile bildirin. / Report vulnerabilities by email, not a public issue."
+  - name: "📖 Dokümantasyon / Documentation"
+    url: "https://github.com/Tagoletta/SiberGuvenlikBaskanligi-API#readme"
+    about: "Kullanım ve yapılandırma için README'yi okuyun. / Read the README for usage and configuration."
