@@ -1,6 +1,36 @@
-# SiberGuvenlikBaskanligi-API
+<div align="center">
 
-> **T.C. Siber Güvenlik Başkanlığı** tarafından yayımlanan tehdit istihbaratı listelerini otomatik olarak çeken, zaman penceresine göre filtreleyen ve ham metin olarak sunan açık kaynak araç.
+# 🛡️ SiberGüvenlik Başkanlığı — Blocklist API
+
+**T.C. Siber Güvenlik Başkanlığı** tehdit istihbaratı listelerini otomatik çeken, zaman penceresine göre filtreleyen ve güvenlik duvarları için ham metin olarak yayınlayan açık kaynak araç.
+
+An open-source tool that mirrors **Turkey's Cybersecurity Directorate** threat-intelligence feeds as firewall-ready blocklists — refreshed hourly, no server required.
+
+[![Update blocklists](https://github.com/Tagoletta/SiberGuvenlikBaskanligi-API/actions/workflows/update-lists.yml/badge.svg)](https://github.com/Tagoletta/SiberGuvenlikBaskanligi-API/actions/workflows/update-lists.yml)
+[![Last commit](https://img.shields.io/github/last-commit/Tagoletta/SiberGuvenlikBaskanligi-API/main?logo=github)](https://github.com/Tagoletta/SiberGuvenlikBaskanligi-API/commits/main)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
+[![Made with Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](scraper/fetch.py)
+
+</div>
+
+---
+
+## 📑 İçindekiler / Table of Contents
+
+- [🇹🇷 Türkçe](#-türkçe)
+  - [Nedir?](#nedir)
+  - [Canlı kayıt sayıları](#canlı-kayıt-sayıları)
+  - [Çıktı dosyaları](#çıktı-dosyaları)
+  - [Güvenlik duvarı kullanımı](#güvenlik-duvarı-kullanımı)
+  - [Nasıl çalışır?](#nasıl-çalışır)
+  - [Docker](#docker-ile-çalıştırma-isteğe-bağlı)
+- [🇬🇧 English](#-english)
+  - [What is this?](#what-is-this)
+  - [Live record counts](#live-record-counts)
+  - [Output files](#output-files)
+  - [Firewall usage](#firewall-usage)
+  - [How it works](#how-it-works)
+  - [Configuration](#configuration)
 
 ---
 
@@ -12,9 +42,26 @@
 
 **Sunucu gerekmez.** GitHub Actions saatlik olarak çalışır, listeleri `data/` klasörüne commit eder. Güvenlik duvarınız listeleri doğrudan ham GitHub URL'sinden çekebilir.
 
-### Çıktı dosyaları (`data/` klasörü)
+### Canlı kayıt sayıları
 
-Her adres tipi ayrı dosyada tutulur:
+> Aşağıdaki tablo her bot commit'inde otomatik güncellenir — her zaman penceresindeki (`30/60/90/120 gün` ve `full`) yayınlanan listelerin gerçek, filtreleme sonrası satır sayılarını gösterir.
+
+<!-- STATS-TR:START -->
+| Tip | 30g | 60g | 90g | 120g | Full |
+| --- | --: | --: | --: | --: | --: |
+| 🌐 Domain | 4.571 | 8.761 | 14.325 | 19.520 | 460.771 |
+| 🔗 URL | 0 | 0 | 0 | 0 | 6.927 |
+| 📡 IPv4 | 294 | 675 | 1.050 | 1.244 | 14.966 |
+| 🧭 IPv6 | 0 | 0 | 0 | 0 | 6 |
+| 🕸️ IPv6 Ağ | 0 | 0 | 0 | 0 | 0 |
+| **Toplam** | **4.865** | **9.436** | **15.375** | **20.764** | **482.670** |
+
+_Son güncelleme: 2026-07-20 06:55 (UTC+3) — bot tarafından otomatik._
+<!-- STATS-TR:END -->
+
+### Çıktı dosyaları
+
+Her adres tipi ayrı dosyada, her zaman penceresi için ayrı ayrı tutulur (`data/` klasörü):
 
 | Pencere | Domainler | URL'ler | IPv4 | IPv6 | IPv6 Ağları |
 | ------- | --------- | ------- | ---- | ---- | ----------- |
@@ -26,19 +73,11 @@ Her adres tipi ayrı dosyada tutulur:
 
 Her dosya: satır başına bir kayıt, tırnak yok, boşluk yok, LF satır sonu. Domain'ler alfabetik, IP'ler sayısal sıralı.
 
-> `database-*.jsonl` (250.000 kayıtlık parçalar halinde) ve `_state.json` dahili kayıt dosyalarıdır; güvenlik duvarı bunları görmezden gelir.
+> `database-*.jsonl` (250.000 kayıtlık parçalar) ve `_state.json` dahili kayıt dosyalarıdır; güvenlik duvarı bunları görmezden gelir.
 
-### Yaklaşık kayıt sayıları (güncel)
+### Güvenlik duvarı kullanımı
 
-| Tip | Kayıt Sayısı |
-| --- | ------------ |
-| Domain | ~458.000 |
-| URL (query string dahil) | ~7.000 |
-| IPv4 | ~14.700 |
-| IPv6 | ~10 |
-| IPv6 Ağ Bloğu | ~0–10 |
-
-### Güvenlik duvarı URL örnekleri
+Listeleri doğrudan ham GitHub URL'sinden çekin:
 
 ```
 https://raw.githubusercontent.com/Tagoletta/SiberGuvenlikBaskanligi-API/main/data/full-domains.txt
@@ -55,9 +94,7 @@ pfSense, OPNsense, MikroTik, ipset, Pi-hole, Squid ve benzeri sistemlerle uyumlu
 - **Tam tarama sonrası**: her saatlik çalışmada yalnızca yeni sayfalar çekilir (incremental), listeler yeniden üretilir.
 - **Her 7 günde bir**: kaynaktan silinen kayıtları yakalamak için tam yeniden tarama yapılır. Silinen kayıtlar `data/removed.log` dosyasına eklenir.
 
-### Yaşlandırma mantığı
-
-Listeler her çalışmada veritabanı + güncel saatten türetilir. 31 günlük bir kayıt `days-30-*`'dan düşer ama `days-60-*`, `days-90-*`, `days-120-*` ve `full-*`'da kalmaya devam eder. Hiçbir kayıt geniş pencerelerden kaybolmaz.
+**Yaşlandırma mantığı:** Listeler her çalışmada veritabanı + güncel saatten türetilir. 31 günlük bir kayıt `days-30-*`'dan düşer ama `days-60-*`, `days-90-*`, `days-120-*` ve `full-*`'da kalmaya devam eder. Hiçbir kayıt geniş pencerelerden kaybolmaz.
 
 ### Docker ile çalıştırma (isteğe bağlı)
 
@@ -80,9 +117,26 @@ An open-source tool that pulls **five address types** (domain, url, ip, ip6, ip6
 
 **No server required.** A GitHub Actions workflow runs hourly, commits the refreshed lists to `data/`, and your firewall can consume them directly from raw GitHub URLs.
 
-### Output files (`data/` directory)
+### Live record counts
 
-Each address type is kept in its own file:
+> The table below is regenerated automatically on every bot commit — it shows the real, post-filtering line counts of the published lists for each time window (`30/60/90/120 days` and `full`).
+
+<!-- STATS-EN:START -->
+| Type | 30d | 60d | 90d | 120d | Full |
+| --- | --: | --: | --: | --: | --: |
+| 🌐 Domain | 4,571 | 8,761 | 14,325 | 19,520 | 460,771 |
+| 🔗 URL | 0 | 0 | 0 | 0 | 6,927 |
+| 📡 IPv4 | 294 | 675 | 1,050 | 1,244 | 14,966 |
+| 🧭 IPv6 | 0 | 0 | 0 | 0 | 6 |
+| 🕸️ IPv6 Net | 0 | 0 | 0 | 0 | 0 |
+| **Total** | **4,865** | **9,436** | **15,375** | **20,764** | **482,670** |
+
+_Last updated: 2026-07-20 06:55 (UTC+3) — auto-generated by the bot._
+<!-- STATS-EN:END -->
+
+### Output files
+
+Each address type is kept in its own file, per time window (`data/` directory):
 
 | Window | Domains | URLs | IPv4 | IPv6 | IPv6 Nets |
 | ------ | ------- | ---- | ---- | ---- | --------- |
@@ -96,17 +150,9 @@ One entry per line, no quotes, no surrounding whitespace, LF line endings. Domai
 
 > `database-*.jsonl` (split into 250,000-record shards) and `_state.json` are internal bookkeeping files; firewalls should ignore them.
 
-### Approximate record counts (current)
+### Firewall usage
 
-| Type | Count |
-| ---- | ----- |
-| Domain | ~458,000 |
-| URL (including query strings) | ~7,000 |
-| IPv4 | ~14,700 |
-| IPv6 | ~10 |
-| IPv6 Network Block | ~0–10 |
-
-### Firewall URL examples
+Consume the lists straight from raw GitHub URLs:
 
 ```
 https://raw.githubusercontent.com/Tagoletta/SiberGuvenlikBaskanligi-API/main/data/full-domains.txt
@@ -123,11 +169,9 @@ Compatible with pfSense, OPNsense, MikroTik, ipset, Pi-hole, Squid, and similar 
 - **After the full crawl**: each hourly run does a fast incremental update — only new pages per type are fetched — then lists are regenerated.
 - **Every 7 days**: a full re-crawl runs to detect entries removed at the source. Removed records are appended to `data/removed.log`.
 
-### Ageing logic
+**Ageing logic:** Lists are derived from the database + current clock on every run. A record that turns 31 days old drops out of `days-30-*` but remains in `days-60-*`, `days-90-*`, `days-120-*`, and `full-*`. No entry is ever lost from the wider windows.
 
-Lists are derived from the database + current clock on every run. A record that turns 31 days old drops out of `days-30-*` but remains in `days-60-*`, `days-90-*`, `days-120-*`, and `full-*`. No entry is ever lost from the wider windows.
-
-### Environment variables
+### Configuration
 
 | Variable | Default | Description |
 | -------- | ------- | ----------- |
@@ -153,7 +197,7 @@ Lists appear under `./data`. Override pacing via environment variables in `docke
 
 ### GitHub Actions
 
-`.github/workflows/update-lists.yml` runs every hour. First runs perform the resumable full crawl; once complete, each hourly run is a fast incremental update.
+`.github/workflows/update-lists.yml` runs every hour. First runs perform the resumable full crawl; once complete, each hourly run is a fast incremental update and refreshes the live counts in this README.
 
 > 💡 **Keep the repo public.** GitHub Actions is free and unlimited for public repos. Scheduled workflows pause after 60 days of inactivity — the hourly bot commits count as activity, keeping it alive.
 
@@ -173,3 +217,11 @@ GET https://siberguvenlik.gov.tr/api/address/index?type={domain|url|ip|ip6|ip6ne
 ```
 
 API documentation: `https://siberguvenlik.gov.tr/api/openapi.yaml`
+
+---
+
+<div align="center">
+
+Katkı için [CONTRIBUTING.md](CONTRIBUTING.md) · Güvenlik açığı bildirimi için [SECURITY.md](SECURITY.md) · [GPLv3](LICENSE)
+
+</div>

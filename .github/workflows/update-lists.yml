@@ -50,11 +50,14 @@ jobs:
             exit "$rc"
           fi
 
+      - name: Refresh README counts
+        run: python scraper/update_readme.py
+
       - name: Commit updated lists
         run: |
           git config user.name "TagoBot"
           git config user.email "tagobot@users.noreply.github.com"
-          git add data/
+          git add data/ README.md
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
