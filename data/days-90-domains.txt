@@ -8229,7 +8229,6 @@ mrs1-saglk.com
 mrss-saglikk2.com
 mrss-saglk.com
 mrssaglik.com
-mrssaglk.com
 mrv-wasmer-app-deployments.wasmer.app
 msantencere.lat
 msft23.com
@@ -8978,8 +8977,8 @@ otokocfilo.net
 otokocfilo.org
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilorent.com
@@ -10365,7 +10364,6 @@ saglik-mrs.app
 saglik-mrs.net
 saglik-mrs1.net
 saglik-mrs1.xyz
-saglikhizm3t1.com
 sagliklibilgi.duckdns.org
 saglikligunlerhuzurdolu.loseyourip.com
 sagliklihizmetleregunleresizlere.webredirect.org
