@@ -227,7 +227,6 @@ agenciapiet.com
 ahmetafafaan.net
 ahmetkafalarcancan.net
 ahmettv.net
-ai-garanti.lol
 ailedestekyardim.org
 aileegitimi.cyou
 ailegelecek.xyz
@@ -245,6 +244,7 @@ akbank-borc-sorgulama.ph
 akbank-isube.ph
 akbank-kredi-basvuru-merkezi.loseyourip.com
 akbankdirekmobil.ph
+akbankdireksube.ph
 akbankdirekt-kampanyalar.ph
 akbankmobil.netlify.app
 akbankmobilnet.ph
@@ -711,6 +711,7 @@ bugunnotlari.gifts
 bugunodasi.com
 bugunpaydasi.com
 bugunrotasi.com
+bugunsehri.com
 bugunyasam.com
 buh-gu-dr-se-de.xyz
 buhulukuge-redetpioli.lol
@@ -996,6 +997,7 @@ dijitalnet-bilgi.sbs
 dijitalnetbilgi-giris.sbs
 dijitalnetform.sbs
 dijitalportalgiris.com
+dijitalsorgu.sbs
 dinamik-hat-verileri.myonlineportal.ch
 dinamikuygulamagiris.pro
 dipdkwj1a.cfd
@@ -1055,6 +1057,7 @@ dropboxi.com
 dsadasasdasasdadsdasdsaadsdas.com
 dsfbhtusdrtbr.sbs
 dtbwebwrngryn.sbs
+duaetsuandaparalardansediyor.sbs
 dubco.site
 dugme-arac-kullanim.myonlineportal.eu
 duoasdhashdhas988asdhashd.click
@@ -1222,7 +1225,6 @@ farketmez34cc.yyuyy.com
 fast-mob.com
 fast-page.shop
 fast.raidher.icu
-fate-dale-candidates-quantitative.trycloudflare.com
 fazlalik-verat-rgrn.myonlineportal.ch
 fbstadalex.xyz
 fbvarlik.com
@@ -1640,7 +1642,6 @@ hastanentente.uk
 hastanerlere.men
 hastaneyapakrandv.duckdns.org
 hastanrsdedede.uk
-havadabibulut.sbs
 haxvendi.gifts
 hayalindekikapinda.com
 hayvdldlss.nicepage.io
@@ -1771,6 +1772,7 @@ hizlikmlerinizburda.web.app
 hizlionline.com
 hizlisatismerkezi.com
 hizlisiparis-ver.com
+hizmet-islememleri.com
 hizmetfirsatlarimkatil.duckdns.org
 hjhejres.online
 hkxiu.com
@@ -1941,7 +1943,6 @@ istanbulkartbasvuru.xyz
 istanbulkartttt.xyz
 istanbulmefe.xyz
 istanbulmruzgar.xyz
-istanbulrandevutek.xyz
 istanbulyorum.info
 istancanbulkart.xyz
 istancansancan.xyz
@@ -2163,6 +2164,8 @@ kmpnyysbsvrrprmsynn.info
 kmpnyysbsvrrprmsynn.live
 kmpnyysbsvrrprmsynn.pro
 kmpnyyssbsvrrrsnfrstlarrr.info
+kmpnyyvbsvrrprmsynnnn.info
+kmpnyyvbsvrrprmsynnnn.pro
 kmpttavm.com
 kmsorgucu-enhizlisi.firebaseapp.com
 kmsorgucu-enhizlisi.web.app
@@ -2666,6 +2669,7 @@ normalmesafe.live
 norpax.pics
 northhorizon.company
 nousomtr1.click
+nousomtr1.club
 nousomtr1.xyz
 nova-lan.com
 novalex.gifts
@@ -2762,6 +2766,7 @@ orbexi.vu
 orbitareport.digital
 orijinaldiploma.co
 orsankerean.ezgateway.net
+ortakbakisagi.com
 ortakbakisim.com
 ortakbakisnoktasi.com
 ortakgundelik.com
@@ -2769,6 +2774,7 @@ ortakhayatim.com
 ortakisiklar.com
 ortakkaynak.com
 ortakkilavuz.com
+ortakkosemiz.com
 ortaknotlarim.com
 ortaksayfalar.com
 ortakverimerkezi.com
@@ -2787,8 +2793,8 @@ otokocelektroniksozlesme.com
 otokocfilo.net
 otokocfilo.org
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilotr.com
@@ -2900,6 +2906,7 @@ paribuarabaodulu.com
 paribuarabaplus.com
 paribuarabapromosyon.com
 paribuarabapromosyonu.com
+paribuarabaruyasi.com
 paribuarabasahibi.com
 paribuarabasansi.com
 paribuarabasepeti.com
@@ -3080,7 +3087,6 @@ priv-sertifik-portgr.myonlineportal.ch
 priv-toplam-hizmet.myonlineportal.eu
 privy-bambaska.myonlineportal.ch
 prmsynkmpnyanmrkziii.info
-prmsynkmpnyanmrkziii.live
 prmsynkmpnyanmrkziii.pro
 prmsynnbsvrrrkmmmnpyyaaasnfrlstr.pro
 prmsynnnkmpnyrrsonffrstlar.pro
@@ -3433,18 +3439,22 @@ sahibinden-get.mobilservisler-50.sbs
 sahibinden-get.mobilservisler-66.sbs
 sahibinden-get.mobilservisler-70.sbs
 sahibinden-get.mobilservisler-71.sbs
+sahibinden-get.mobilservisler-84.sbs
 sahibinden-get.mobilservisleriniz-2.sbs
 sahibinden-get.vercel.app
 sahibinden-hizmet.online
 sahibinden-satis-sozlesmesi.kurumsal-online-islem.com
 sahibinden-sepet.sepetimdeonay.shop
+sahibinden-sepet.sepetimdeonline.click
 sahibinden-sepet.sepetimonay.click
 sahibinden-sepet.sepetimonay.lat
 sahibinden-sepet.sepetimonay.surf
 sahibinden-sozlesme.kurumsal-online-islem.com
+sahibinden-sozlesmesi.hizmet-islememleri.com
 sahibinden.dogrulama-paramguvende.com
 sahibinden.e-elektronik-firsat-sepetimiz.com
 sahibinden.e-ilan-elektronik-sepetimiz.com
+sahibinden.e-ilan-elektronik.com
 sahibinden.elektronik-alisveris-merkezi.com
 sahibinden.elektronik-magaza-sepetim.com
 sahibinden.get-paramguvende.my
@@ -3518,6 +3528,7 @@ separation-purchased-beef-mississippi.trycloudflare.com
 sepeetiturkiye.com
 sepetimde-odeme-3955.com
 sepetimde-odeme-3957.com
+sepetimdeonline.click
 sepetimonay.click
 sepetimonay.online
 sepetimonay.shop
@@ -3588,7 +3599,6 @@ sistemegirin.xyz
 site.nato-otan.net
 sitemdeal.shop
 sixseven-krdili-taruzyuz.xyz
-sizlerle-yunatip-g.myonlineportal.ch
 sizlerleberaber.sbs
 sjdkjj23.s3.ap-southeast-1.amazonaws.com
 skilltrailcr.com
@@ -3665,6 +3675,7 @@ sorogren-aktarekraniniz.sbs
 sorucenaosm.freeddns.org
 sosylbasvurugovtr.sbs
 sovaro.online
+sozlesme-police.com
 sozlesme.online-hizmet-islem.com
 sozlesmeimza.com
 sozlesmeler.kurumsal-online-islem.com
@@ -3871,6 +3882,7 @@ tlgrdplantwzqyy.com
 tlkkkslekr.space
 toaksenawse.ezgateway.net
 toby44292.softr.app
+todayverse.online
 togg-hizlisiparis.xyz
 togg-kredim.com
 togg-limit-sorgula.com
@@ -4015,6 +4027,7 @@ trekonomimobileonlineapp.xyz
 trendix.vu
 trendrally.online
 trendyol-ile-baglanti-tamamla.com
+trendyol.mobilservisin-24.sbs
 trendyol0-1029.l3v0.my
 trendyol0-4124.2t24.my
 trendyol0-54a2.2t24.my
@@ -4091,6 +4104,7 @@ tum-web.click
 tum-web.xyz
 tumictiklerinisay.sbs
 tunaportfoyonetim.com
+tunaportfoyyatirim.com
 tunaportfoyyonetim.com
 tunexia.gifts
 tupras-islamictradings.com
@@ -4271,6 +4285,7 @@ velonira.rest
 velonix.gifts
 velonixn.xyz
 velqaro.gifts
+veltrim.vu
 velunix.shop
 velvanto.shop
 velxo.xyz
@@ -4570,6 +4585,7 @@ z5q1v8k3m7x9.cfd
 zakan.22web.org
 zaktrimd.cfd
 zaltori.org
+zaltrom.xyz
 zanavel.com
 zanivon.gifts
 zanmarketq.com
