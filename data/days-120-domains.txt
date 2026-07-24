@@ -1715,6 +1715,7 @@ assetib.com
 assistenza-sim.it
 associatecountrynotifications.digital
 assur6limatkapin.sbs
+ast.ols-img-12.workers.dev
 asteara.org
 astrocaf.com
 astrosastro.live
@@ -2237,7 +2238,6 @@ baykar-tr.news
 baykar-tr.online
 baykar-yatirimprogrami-com.pages.dev
 baykar.sbs
-baykar.shop
 baykarai.nl
 baykarairsprings.com.tr
 baykarajans.info
@@ -3993,6 +3993,7 @@ claude-app-new.gitlab.io
 claude-code-app.gitlab.io
 claude-desktop-lm.gitlab.io
 claude-desktop.gitlab.io
+claude-pro.com
 claudeapp.gitlab.io
 claudecode-desktop.gitlab.io
 claudescript.top
@@ -4881,6 +4882,7 @@ dkyatirimmenkul.com
 dl55polisi155.online
 dlderi.com
 dlimc.click
+dlrz-web.oss-cn-beijing.aliyuncs.com
 dltruek.com
 dltucra.com
 dm.garantibbvakredibasvuru.com
@@ -6899,6 +6901,7 @@ gotoinvst.com
 goturkey.blog
 goturkishmart.shop
 goudbl.click
+gouvvbo.top
 gov-turkeyonline.woernerhaustechnik.com
 gov.y4nsmsars.sbs
 gov3.site
@@ -7544,7 +7547,6 @@ halkimizlabasbas.sbs
 halkimizyanimizdaobizeyeter.sbs
 halkinolanmayislardir.sbs
 halkinsesinidinle.sbs
-halkinsigortasi.com
 halkkatilimkampanya.duckdns.org
 halklaiciceyiz.sbs
 halklaiciceyiz1.sbs
@@ -8493,7 +8495,6 @@ ile-alisverislerini-tamamlama.com
 ile-islemler.com.tr
 ile-islemlerim.com.tr
 ile-magazam-siparis.com
-ile-magazan.com
 ile-onayli-ilan.com.tr
 ile-saitin-al.online
 ile-sepetlerim.com.tr
@@ -8994,7 +8995,6 @@ istmvbnsl.com
 istnaslshaydd.com
 istnballfdm.com
 istnbannlkrt.com
-istnbblsa.com
 istnbbsrblr.com
 istnbldbsvrls.com
 istnbldkas.com
@@ -9618,7 +9618,6 @@ kgm-govv.vip
 kgm-govve.sbs
 kgm-odemeler.net
 kgm-odemeler.org
-kgm-odemexxxx.org
 kgm-sorgula.com
 kgm.awlytr.click
 kgm.axprbo.click
@@ -10458,6 +10457,7 @@ lfrsatistegeldiblrada.xyz
 liamseitfor.top
 lib.evsahibibasvuru.com
 librarycurrents.duckdns.org
+license.claude-pro.com
 lichenwispupd.info
 lifebalghance.pro
 lifescapehub.com
@@ -11173,6 +11173,7 @@ merkeziyetkayit.abrdns.com
 merkeziyetsizbasvuru.abrdns.com
 merkezkayitarayuzu.abrdns.com
 merkezkayiti.abrdns.com
+merkezlekayit.abrdns.com
 merkezlerkayitli.abrdns.com
 merkezlikayit.abrdns.com
 merkezlkayit.abrdns.com
@@ -11245,7 +11246,6 @@ mhlsrlrfand.com
 mhlsrsaars.cfd
 mhltkfardn.com
 mhmhhmhmhrsbsvbvvs.click
-mhmhrsrnfdrndvs.online
 mhmrmnsnzlere.com
 mhmrmrmrmss.online
 mhmrmsannsm.org
@@ -12748,8 +12748,8 @@ otokocfilo.net
 otokocfilo.org
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilorent.com
@@ -13210,7 +13210,6 @@ piralnteach.online
 piramitsube.com
 piranhtech.online
 piranlteaclh.online
-piranltech.com
 piranltech.online
 piranlteclh.com
 piranntech.com
@@ -13432,6 +13431,7 @@ preraise.shop
 preraise.site
 preraise.store
 presence-chris-modern-ata.trycloudflare.com
+presscraftly.net
 pressluma.com
 pressshift.online
 pressspectrum.com
@@ -14749,6 +14749,7 @@ sahibindenmuhasebeodeme.com
 sahibindenmuhasebeodemenoktasi.dedyn.io
 sahibindenparamguvende.tr
 sahibindenparamguvende.tr-s.online
+sahibindensaticionay.com
 sahibindensatis.click
 sahibindensatisget.com
 sahibindensepetim.ilanlarimode.online
@@ -15579,7 +15580,6 @@ sonhaberler45331.com
 sonhaberler54465.com
 sonhaberler565.com
 sonhaberleri255.shop
-sonhaberleritr.cfd
 sonhaberlermerit.shop
 sonhaberonline.com
 sonkezcalbenimicin.sbs
@@ -15863,6 +15863,7 @@ storywire.site
 storyyn.com
 stosrsadxadsax.sbs
 stovefight.info
+stparaguvende.servisbilgi-tr.online
 stport-l-g-r-n-l.myonlineportal.ch
 strabellaparfumes.com
 stratline.icu
@@ -15983,6 +15984,7 @@ sydv.enyeniweb.com
 syfiaydytea.live
 syjzvw.help
 sylune.site
+sylverixstrategy.com
 syn.ezpizi.click
 syncdock.click
 syncheaven.online
@@ -16384,6 +16386,7 @@ t6k9r3p1z8w2.cfd
 t74909303.click
 t8n6w2m9r1q7.click
 t8r3v6n1x5b9.sbs
+t90141296286.p.clickup-attachments.com
 t9x1q6m4z8w3.sbs
 taatas.com
 tabkherkersegeleceksennerdesn85.info
@@ -17051,6 +17054,7 @@ togg5000haziran.sbs
 togg5000haziran.xyz
 togg5000stok.cfd
 togg5000stok.click
+toggarac.com
 toggbasvurum.com
 togghaziran5000.com
 togghizlibasvuru.sbs
@@ -17461,7 +17465,6 @@ trendyolltd.vip
 trendyolo.cfd
 trenuxalo.org
 trezor-trezor.com
-trftx.cfd
 trguvenli-siparis.online
 trguvenlisiparis.online
 trguvenlisiparisler.online
@@ -17978,8 +17981,11 @@ upd-domain-goloro.com
 updata.net.cn
 update-all.tempurl.host
 update-check.com
+update-crowdstrike.com
 update-kaspersky.workers.dev
+update-sentinelone.com
 update-teams.live
+update-trellix.com
 update.kaspersky.icu
 update.news7-days-info.org
 update.update-fall.com
@@ -18285,6 +18291,7 @@ verolumi.pro
 verrtyonastudio.pro
 vertexlabd.info
 vertexserp.info
+vertextrust-advisors.com
 vertlym.com
 vertualstreak.info
 vetepez.top
@@ -19092,7 +19099,6 @@ yaz-promosyonu-tebden.my-homeip.de
 yaza-dogru-firstlar-bsladi.sbs
 yazbonusu.digital
 yazgeldiarabatamirixx.duckdns.org
-yazgliyor101.cfd
 yazkampanyalari.com
 yazkampanyasi.beer
 yb2xzzz2k4343.duckdns.org
