@@ -7043,7 +7043,6 @@ guncelsikayetler-455.sbs
 guncelsikayetler-458.sbs
 guncelsikayetler-459.sbs
 guncelsikayetler-61.sbs
-guncelsikayetler-62.sbs
 guncelsikayetler-63.sbs
 guncelsikayetler-65.sbs
 guncelsikayetler-66.sbs
