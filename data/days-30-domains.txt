@@ -13,6 +13,7 @@
 124124121.sbs
 1245115544166558998990.duckdns.org
 1245115544166558998991.duckdns.org
+1245115544166558998992.duckdns.org
 1245445898978979907990.duckdns.org
 124566556565899091.duckdns.org
 124566556565899093.duckdns.org
@@ -174,7 +175,6 @@ a101-com-tr-aldin-aldin-extra-online.elenamasaj.com
 a101-ekstra.s3.eu-north-1.amazonaws.com
 a101-sadeceonline.my-homeip.net
 a101extrakatalog.site
-a101indirimmmmm.duckdns.org
 a101kampanyanizburada.com
 a101katalogguncel.duckdns.org
 a101katologz.duckdns.org
@@ -233,7 +233,6 @@ aileegitimi.cyou
 ailegelecegi.co
 ailegelecegi.com
 ailegelecek.xyz
-aileveevlilikfonu.com
 aileyardimdestek.com
 aisjsodmskdmwk.cfd
 ak-kampanya.vercel.app
@@ -1764,7 +1763,6 @@ hizli-siparis-baglanti.com
 hizli-siparis-linki.com
 hizli-siparis-sayfasi.com
 hizlicasatinalhemensendebirlikteyiz.online
-hizlidanogren.xyz
 hizligecisbakiyesistemi.firebaseapp.com
 hizligecisbakiyesistemi.web.app
 hizligecisetiketiniz.firebaseapp.com
@@ -1900,7 +1898,6 @@ infportfolio.online
 infyra.online
 inherittaxpapers.site
 insightbasehq.com
-insuarence-lgty.myonlineportal.ch
 intelbyte.cc
 inter-bouw.eu
 interiordecor.pics
@@ -2369,6 +2366,7 @@ marscarfilom.com
 masakadliye.org
 masakblokekaldirma.duckdns.org
 masueyenaradnevu.com
+matkapset84parca.myshopify.com
 mavolino.vu
 mayistadahauygunuz.shop
 mcafilo.com
@@ -2444,6 +2442,7 @@ mhrsportalvatandasgiris.duckdns.org
 mhrsportalvatandasgirisimizdir.duckdns.org
 mhrsportalvatandasgirisimizdiranlik.duckdns.org
 mhrsrandevu.art
+mhrsrandevu346.duckdns.org
 mhrsrandevualsanala.duckdns.org
 mhrsrandevuburada.duckdns.org
 mhrsrandevuekraaan.duckdns.org
@@ -2537,7 +2536,6 @@ mubarekdays.yyuyy.com
 mueleer.com
 mufasnasfanas.sbs
 muguhudue-redesetre.lol
-muhu-bb-vv-aa-ss-dd.xyz
 muhugudue-redetesede.lol
 muhugudueresede-afderese.lol
 muhugudueretese-duguhuderede.lol
@@ -2757,8 +2755,8 @@ otokocelektroniksozlesme.com
 otokocfilo.net
 otokocfilo.org
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilotr.com
@@ -3523,6 +3521,7 @@ simdi-40binpromsyonmo-burdan.cfd
 simdidebirazburdan.yyuyy.com
 simdilikgelenlerburada.com
 sinirlar-belirleme-durdur.myonlineportal.ch
+sinirsizkampanyalarinizkapida.xyz
 siparilersicinburdayiz.cloud
 siparis-baglantisi-kisa-link.com
 siparis-guvenliodeme.com
@@ -3626,6 +3625,7 @@ sozlesmeimza.com
 sozlesmeler.kurumsal-online-islem.com
 sozlesmeniz-sahibinden.kurumsal-online-islem.com
 sozlesmeotokoc.com
+sozlesmepolice.net
 spalirm.vu
 spaseburs.art
 spenlo.org
@@ -3771,7 +3771,6 @@ tekrardansoktayiz.cloud
 tekrardevametmelin3.cloud
 tekrarsa.dnsup.net
 teksoksiparisi.cloud
-tektiklakapinagelicek.com
 tektiklasponsorlureklam.com
 tektiklasponsorlureklamm.com
 tektklaalsveriskpndaa.com
@@ -3833,7 +3832,6 @@ togghizlisatis.cfd
 toggkredim.com
 toggotomobil.net
 toki-gov-e-dev-basvuru-yap.online
-toki-gov-tr-014.vercel.app
 toki-gov-tr-016.vercel.app
 toki-gov-tr-017.vercel.app
 toki-gov-tr-018.vercel.app
@@ -4090,6 +4088,7 @@ tuvturk-kla.com
 tuvturk-ks.xyz
 tuvturk-lspd.com
 tuvturk-ors.com
+tuvturk23randevu.duckdns.org
 tuvturkabim.com
 tuvturkaracmuayenerandevuonlinealin.com
 tuvturkels.com
@@ -4170,6 +4169,7 @@ uzmanislmnkta.net
 v4n8z2k7x6p9.cfd
 v5n8x3b6r2w9.sbs
 v6n4x9q2m7b1.cfd
+vakifbank-2--vakifbanktr.replit.app
 vakifbanksistemi.click
 vakifline.org
 valenspara-elre.it.com

@@ -84,6 +84,7 @@
 124124121.sbs
 1245115544166558998990.duckdns.org
 1245115544166558998991.duckdns.org
+1245115544166558998992.duckdns.org
 1245445898978979907990.duckdns.org
 124566556565899091.duckdns.org
 124566556565899093.duckdns.org
@@ -382,7 +383,6 @@
 54698599004949000.net
 5515151.xyz
 552662.lat
-55454545454.sbs
 55465465461455.duckdns.org
 55555551200055555005.gleeze.com
 5654886546413216.duckdns.org
@@ -7780,6 +7780,7 @@ matadurk.com
 matchoraworldcup.world
 matchworldcup.xyz
 matdit.makeup
+matkapset84parca.myshopify.com
 matodorbet1094.com
 matterposter.pro
 mavellora.cfd
@@ -8023,6 +8024,7 @@ mhrsportalvatandasgirisimizdir.duckdns.org
 mhrsportalvatandasgirisimizdiranlik.duckdns.org
 mhrsrandevu.art
 mhrsrandevu1182.site
+mhrsrandevu346.duckdns.org
 mhrsrandevualsanala.duckdns.org
 mhrsrandevuburada.duckdns.org
 mhrsrandevuekraaan.duckdns.org
@@ -9057,8 +9059,8 @@ otokocfilo.net
 otokocfilo.org
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilorent.com
@@ -9829,7 +9831,6 @@ pttavm.sip-tamamlat.com
 pttavm.siparis-guvenliodeme.com
 pttavm.siparisweb.net
 pttavm.site
-pttavm.urun-get-odeme.com
 pttavmaracanaliz.firebaseapp.com
 pttavmaracanaliz.web.app
 pttavmaracdetay.firebaseapp.com
@@ -10998,6 +10999,7 @@ sinaloacarte.cfd
 sinerg-kat-list.myonlineportal.ch
 sinirlar-belirleme-durdur.myonlineportal.ch
 sinirlikampanyalar.blogspot.com
+sinirsizkampanyalarinizkapida.xyz
 sinodo.online
 sinterfumesco.com
 siparilersicinburdayiz.cloud
@@ -11312,6 +11314,7 @@ sozlesmeler.kurumsal-online-islem.com
 sozlesmeniz-sahibinden.kurumsal-online-islem.com
 sozlesmeotokoc.com
 sozlesmepolice.com
+sozlesmepolice.net
 sozlesmepolice.org
 sozlesmepoliceniz.sbs
 sozlesmepolicesi.org
@@ -13024,7 +13027,6 @@ turkiye.gov.tr-resmigazete.77-83-201-134.plesk.page
 turkiyeaktifhaber.com
 turkiyebilgi.cc
 turkiyebilgiagi.com
-turkiyebilgialani.com
 turkiyebilgihatti.com
 turkiyebilgirehberi.com
 turkiyebilgisi.com
@@ -13121,6 +13123,7 @@ tuvturk-rose.com
 tuvturk-rov.com
 tuvturk-wir.com
 tuvturk-xxk.com
+tuvturk23randevu.duckdns.org
 tuvturkabim.com
 tuvturkaracmuayenerandevuonlinealin.com
 tuvturkels.com
@@ -13291,7 +13294,6 @@ urbanview.site
 urlmal.com
 urtcankaodansacaz.cfd
 urun-dyson.duckdns.org
-urun-get-odeme.com
 urunler-kampanyali.duckdns.org
 urunssepetim.com
 urush1bar4.online
@@ -13373,6 +13375,7 @@ v5n8x3b6r2w9.sbs
 v6n4x9q2m7b1.cfd
 vabelles.com
 vagturk.com
+vakifbank-2--vakifbanktr.replit.app
 vakifbanksistemi.click
 vakifbankyatirim-click.pages.dev
 vakifbankyatirim.click
