@@ -8,7 +8,6 @@
 009987b555552.duckdns.org
 010101023x235.duckdns.org
 0101ksks0101ss.com
-010202ks02sk.com
 019d442a-endpoint.com
 019d442e-endpoint.com
 019d6860-endpoint.com
@@ -503,7 +502,6 @@
 876654465.net
 87665543.net
 8768345345.net
-87878787.sbs
 87e0b6c636999b.lhr.life
 87e0bbc636999b.lhr.life
 888002121588808.gleeze.com
@@ -629,7 +627,6 @@ a1o1ekstra.duckdns.org
 a1o1ekstrac.duckdns.org
 a1o1ekstralar.cc.dvrlists.com
 a1o1eksttra.duckdns.org
-a1o1firnisanfirsatlari.blogdns.com
 a1o1firnisanfirsatlbtry.blogdns.com
 a1o1firnisanfirsatlnisb.blogdns.com
 a1o1firnisanfirstlanistr.blogdns.com
@@ -991,7 +988,6 @@ anadoluisigi.com
 anadolukapsami.com
 anadolukesiti.com
 anadolukoprusu.com
-anadolulinked.com
 anadolumahkeme.org
 anadolusehri.com
 anadolusync.com
@@ -2046,7 +2042,6 @@ binancemobileapp.ph
 binancetr.duckdns.org
 binancetrbasvurulari.duckdns.org
 binancetrkampanya.com
-binanceturbasvuru2.duckdns.org
 binanciapools.top
 binanciasgreece.top
 binanciaspool.top
@@ -3808,7 +3803,6 @@ ekraninizzonayy-kontrol.sbs
 ekranmhrsvatandasbasvuru.duckdns.org
 ekranportalmhrsgirisvatandas.duckdns.org
 ekspres.obilet-www.online
-ekspres.obilet.nl
 ekstra101.dpdns.org
 ekstramarket.duckdns.org
 ekstraramrket.duckdns.org
@@ -4713,7 +4707,6 @@ globalfinancehub.world
 globalfiscaldaily.com
 globalheadlinehub.online
 gmail.evsahibibasvuru.com
-gmaildestekpro.com
 gmaildestektr.com
 gmcemrketlerce.cfd
 gmslb.net
@@ -7647,7 +7640,6 @@ mail.7641713825499130.duckdns.org
 mail.7641713825499140.duckdns.org
 mail.adayislem.com.tr
 mail.avskocfilo.net
-mail.binanceturbasvuru2.duckdns.org
 mail.blnance-basvuru.info
 mail.digital-ode.com
 mail.evsahibibasvuru.com
@@ -9059,8 +9051,8 @@ otokocfilo.net
 otokocfilo.org
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilorent.com
@@ -10445,7 +10437,6 @@ sacmasapan.click
 sacxasfafasfdasfarafs.sbs
 sadebakis.gifts
 sadeconfitlartrsdv1o1.blogdns.com
-sadecoslfighrsatlrfbghklbhb.blogspot.com
 sadecsonlirnefirsatlar.blogdns.com
 sadeosolsprisatlaybftrk11.blogspot.com
 sadesconfsirsatlartr1od.blogdns.com
@@ -11284,7 +11275,6 @@ sorgukurum.org
 sorgula-borctahsil.com
 sorgula-borctahsilat.com
 sorgulama-ekrani.online
-sorgulamaislemleriniz.duckdns.org
 sorgumahkeme.org
 sorgumali.org
 sorgumaliye.org
@@ -13045,7 +13035,6 @@ turkiyegunleri.com
 turkiyehaberblog.com
 turkiyehaberportal.com
 turkiyehaberzone.com
-turkiyeinvestr.com
 turkiyeisbankasiyatirimprogrami-pro.pages.dev
 turkiyekalkinmabankasi.com
 turkiyemailservicepro.com
