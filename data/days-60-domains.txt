@@ -33,6 +33,8 @@
 1234garanti.duckdns.org
 123jkjcsadklj12j3z1h2j3.sbs
 124124121.sbs
+124451545544554888787990.duckdns.org
+124451545544554888787991.duckdns.org
 1245115544166558998990.duckdns.org
 1245115544166558998991.duckdns.org
 1245115544166558998992.duckdns.org
@@ -79,7 +81,6 @@
 14fd232345saf.click
 15-06-2026binancetr.duckdns.org
 1556576x6txx111.duckdns.org
-159-karayol.com
 15temmuzdasiparisler.cloud
 165457x6686x31.duckdns.org
 167fa383-4.b-cdn.net
@@ -541,6 +542,7 @@ akbankbireysel-sube.ph
 akbankdirekmobil.ph
 akbankdireksube.ph
 akbankdirekt-kampanyalar.ph
+akbankinvestprogram.click
 akbankk-bireysell.ph
 akbankmobil.netlify.app
 akbankmobilnet.ph
@@ -797,6 +799,7 @@ asfsdqwffsadlsafm.net
 ashpaltlonpro.com
 ashx.lhlsjcb.com
 asics-turkiye.com
+asist-web.casa
 aslanapp-bd0eefc497ce.herokuapp.com
 aslangelburayaannemherseyhazr25.click
 aslankaplanherkeseburdakaplan.site
@@ -972,6 +975,8 @@ basvursendsc.sbs
 basvursendsmz.sbs
 basvursendsn.sbs
 basvursendsr.sbs
+basvursenrnz.sbs
+basvursenxm.sbs
 basvursmz.sbs
 basvursnr.sbs
 basvursnz.sbs
@@ -1113,7 +1118,6 @@ bcv-meta.shop
 bcv-premium.cfd
 bda-gerasn.lat
 bdchjud.blogspot.com
-bdhekjs9.blogspot.com
 be231ro963.com
 beamsits.neocities.org
 beautyvexa.com
@@ -1477,7 +1481,6 @@ buildnoria.space
 buklifgerttesede.lat
 bukugufuerese.xyz
 bukuhugufutuyu.xyz
-bulduretede.lat
 bulugarese-dafure.xyz
 bulukuhurete.lat
 bulunmakta-fayda-g.myonlineportal.ch
@@ -3329,6 +3332,7 @@ hemenislemana.net
 hemenislemhkatsa.net
 hemenislemknasn.net
 hemenislemler.com
+hemenislemn-sonuc.net
 hemenislemnal.net
 hemenislemnktans.net
 hemenislemnktasi.net
@@ -4283,6 +4287,7 @@ kira-yardim-edevlet-tr-gov.ph
 kiralikaracinizburada.com
 kirmizibasliklipose.duckdns.org
 kirmizibasliklitirtil.duckdns.org
+kisa-edinim.guru
 kisa-links.site
 kisa-links.xyz
 kisaalink.xyz
@@ -4571,7 +4576,6 @@ kuvuytilebizlrlee.online
 kuzey-islem.22web.org
 kuzeymuayene.com
 kveylekrt.duckdns.org
-kvvefskco.gleeze.com
 kydrmassanadmdglsn.com
 kylgcsbrcnzodynltf.com
 kypher.vip
@@ -5651,8 +5655,8 @@ otokocfilo.net
 otokocfilo.org
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilorent.com
@@ -6135,7 +6139,6 @@ promotk.com
 promsyon-isbank.bounceme.net
 prosearium.net
 proton-network.com
-provector.business
 proxygrid.cc
 pruriticticketpo.pro
 psmsynnnkmpnyaaaa.live
@@ -6790,6 +6793,7 @@ satiskontrol.com
 savcilikhukum.org
 saxasaxasxasx2.cfd
 saxdasc123x12312.shop
+sayayaya.duckdns.org
 sayfadakal.duckdns.org
 sayginbelgelendirme.com
 sbkoefskrafe.bounceme.net
@@ -6828,6 +6832,7 @@ secutoki.site
 seedrops.cfd
 sefore.netlify.app
 sega-ads-territories-appendix.trycloudflare.com
+sehaaredales.duckdns.org
 sektorbizdensoruluyor.sbs
 selectumfamilyhotels.com
 selectumhotelsandresorts.com
@@ -7630,6 +7635,7 @@ toki-gov.yapisalkonutlar.lol
 toki-govtr-tc.vercel.app
 toki-konut-basvurutr.org
 toki-toplu-konutlar.vercel.app
+toki-toplukonut.gravitycl.app
 toki-toplukonut.vercel.app
 toki-toplukonutlar.vercel.app
 toki.fastbsvuru.click
@@ -7664,6 +7670,7 @@ toplu-konut-idaresi-basvurunh.vercel.app
 toplu-konut-idaresi-basvurunuzu.vercel.app
 toplu-konut-idaresi-basvurusu.vercel.app
 toplu-konut-projesi-toki-gov-tr.ph
+toplu-konut.gravitycl.app
 toplukonu5391282121.vercel.app
 toplukonut0701455346.vercel.app
 toplukonut122142151.vercel.app
@@ -7706,6 +7713,7 @@ toplukonuthemenbasvuru.one
 toplukonuthemenbasvuru.sbs
 toplukonutiadresi.duckdns.org
 toplukonutidareleri358122.vercel.app
+toplukonutidaresi.gravitycl.app
 toplukonutidaresibabygangsubesi.vercel.app
 toplukonutidaresigungecmiyoryenibiseyolmasin.vercel.app
 toplukonutsignalgiris.vercel.app
