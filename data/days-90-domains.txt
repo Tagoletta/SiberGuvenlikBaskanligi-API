@@ -12,7 +12,6 @@
 019d6860-endpoint.com
 01firsatlarkacirmayin0102.com
 01sa20203dsas.com
-070707.sbs
 070709.sbs
 070710.sbs
 070712.sbs
@@ -80,6 +79,7 @@
 124451545544554888787990.duckdns.org
 124451545544554888787991.duckdns.org
 124451545544554888787992.duckdns.org
+124451545544554888787993.duckdns.org
 1245115544166558998990.duckdns.org
 1245115544166558998991.duckdns.org
 1245115544166558998992.duckdns.org
@@ -1504,6 +1504,7 @@ basvursens.sbs
 basvursenv.sbs
 basvursenxm.sbs
 basvursenz.sbs
+basvursmn.sbs
 basvursmz.sbs
 basvursnr.sbs
 basvursnz.sbs
@@ -2287,6 +2288,7 @@ brdamhrsrandvlrmz.sbs
 brdanlardankzdenlrden.com
 brdansglkcnrdvnyalnyrz.shop
 brdansonkzstnalyrmbn.shop
+brdnbrangtmtsneeee.com
 brdnbrlrgcblrs.com
 brdnsalsmndnmnsmdn.com
 brdnsnkzclsyrzz.com
@@ -4542,6 +4544,7 @@ gecislerhhhgs.org
 gecislerinizilebkaiye.web.app
 gecissistemimiz.lat
 gecisyukleynz.web.app
+gedewadgsqa.duckdns.org
 geimbra.weebly.com
 geldrstensldm.xyz
 gelecekbasligi.com
@@ -4978,6 +4981,7 @@ guvenliteslimat.online
 guvennliodak.com
 guvennlistruktur.com
 guyoagsdgasgd89sadhahsd8.click
+guzelapp1-fd4eb5ee687a.herokuapp.com
 guzelgunlerbizim.com
 guzelgunlergeldi.com
 guzelgunlerinizicinverin.sbs
@@ -5049,7 +5053,6 @@ haberduyurular.com
 haberfirsatiyeri.com
 haberglobal44.shop
 haberglobalim34.cfd
-habergolburas115.click
 haberhaber24.com
 haberhemencebinde.shop
 haberhizli456.shop
@@ -5649,6 +5652,7 @@ hizligecisbakiyerdm.firebaseapp.com
 hizligecisbakiyesistemi.firebaseapp.com
 hizligecisbakiyesistemi.web.app
 hizligecisbakiymerkezi.web.app
+hizligecisbakyeyuklme.web.app
 hizligecisbakynsi.lat
 hizligecisbakysi.lat
 hizligecisbays.lat
@@ -6323,6 +6327,7 @@ istebasvurulariiniz.theworkpc.com
 istecep.site
 istefirsatlarburda.com
 istekuzerineistanbul.xyz
+istelmancankart.xyz
 istemredo.xyz
 istengelenler.shop
 isthasnbllm.com
@@ -7057,7 +7062,6 @@ kohlhoff-edelstahlverarbeitung.de
 kolayfis.netlify.app
 kolayfiz.netlify.app
 kolaylankampnayanoktsherseyburda258741.click
-kolaylik-sayesinde.com
 kolaymil.netlify.app
 kolaysepet.online
 kolektif-ajans-yaz.biz
@@ -8242,7 +8246,6 @@ mrhs-aps.online
 mrhsrmrmsmrn.com
 mrketlrdendece.cfd
 mrorrspis.net
-mrss-saglikk2.com
 mrssaglik.com
 mrv-wasmer-app-deployments.wasmer.app
 msantencere.lat
@@ -8999,8 +9002,8 @@ otokocfilo.net
 otokocfilo.org
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilorent.com
@@ -10790,7 +10793,6 @@ sepetimonaycom.shop
 sepetin-cepte.biz.tr
 sepetin-cepte.net.tr
 sepetinguvende.online
-sepetlrmzguncel.com
 sepette-ilanlar-9811.com
 sepette-ilanlar-9812.com
 sepette-siparisim.com
@@ -10969,6 +10971,7 @@ sitesaddsacve.nicepage.io
 siteveb.xyz
 sitewebi.site
 siteyegelgel.cfd
+sivri.ezpizi.click
 sixseven-krdili-taruzyuz.xyz
 sizekampanya-tr.store
 sizeozel.xyz
@@ -11049,6 +11052,7 @@ snipr.my
 snipr.page
 snipr.site
 sniuntmdnhergnicpagdm.shop
+snksnctysnysnns.com
 snkzlplrdansnnns.com
 snrlsaydcakm.cfd
 snrlsayocadaoneaca.cfd
@@ -14364,7 +14368,6 @@ ziraatselseyler.fun
 ziraatyenilenensubemiz.com.ph
 zirahot-basvur.vercel.app
 zirat-kredi-basvuru-formu.duckdns.org
-ziratdeneme123x2.duckdns.org
 ziratfirsatkamnpysi.duckdns.org
 ziratoff.online
 ziratt-yeni.com
