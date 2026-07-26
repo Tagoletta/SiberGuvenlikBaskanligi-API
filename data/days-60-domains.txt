@@ -3136,6 +3136,7 @@ haberler47823.shop
 haberler48751.sbs
 haberler54232.shop
 haberler56755712366.com
+haberler78912.sbs
 haberler911.sbs
 haberlercihazlar.com
 haberlerson11454.shop
@@ -3472,6 +3473,7 @@ hizlgecisbakieyukleme.web.app
 hizlgecisbakiyedoldurma.web.app
 hizlgecisbakiyeyukleme.web.app
 hizlgecisonlnebakye.lat
+hizli-islem.com
 hizli-limit.xyz
 hizli-siparis-baglanti.com
 hizli-siparis-linki.com
@@ -7287,7 +7289,6 @@ sulnaro.gifts
 summeredition.xyz
 summitdeclaration.org
 superfirsatlar.xyz
-supermarketaglari.click
 supheliislemaktivasyonu.duckdns.org
 supounry.buzz
 suruyorumarabayihodilen.click
@@ -9016,6 +9017,7 @@ ztrtrtdsryl.cfd
 ztrtrtryl.cfd
 zulopi-karefudere.xyz
 zulveta.gifts
+zunarikex.com
 zunirov.gifts
 zunlanto.shop
 zunmarket.gifts
