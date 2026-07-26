@@ -2719,7 +2719,6 @@ online-tr-shop-mobil.site
 online-web-store.online
 online.evsahibibasvuru.com
 onlineburda.duckdns.org
-onlinehaziranfirsatlari.com
 onlinehemen.com
 onlinetemmuzfirsatlari.com
 onlineyeozelgunler.sbs
@@ -2766,8 +2765,8 @@ otokocelektroniksozlesme.com
 otokocfilo.net
 otokocfilo.org
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilotr.com
@@ -2828,7 +2827,6 @@ parabir.site
 parabulutu.site
 paramguvende-getilan.my
 paramguvende.tr-siparisonay.online
-parapulsu.site
 paravon.capital
 paribu--arabacekilisi.com
 paribu--arabam.com
@@ -3191,7 +3189,6 @@ pyramixs.com
 q-n-bislem.duckdns.org
 q4x9n2v7m1k6.cfd
 q7m2v9x4b6n8.cfd
-q7m2z9k4t1p8.cfd
 q9w2k7r5t8x1.sbs
 qa738373.click
 qarelomix.vu
@@ -3587,7 +3584,6 @@ sokta-gunler.org.tr
 soktabugun.site
 soktabugun.space
 soktansiparilere.cloud
-solarin.gifts
 solastr.biz
 soleron.gifts
 solutionlogz.info
@@ -3843,7 +3839,6 @@ togghizlisatis.cfd
 toggkredim.com
 toggotomobil.net
 toki-gov-e-dev-basvuru-yap.online
-toki-gov-tr-020.vercel.app
 toki-gov-tr-fatih.vercel.app
 toki-gov-tr-konut.vercel.app
 toki-gov-tr-konut1.vercel.app
