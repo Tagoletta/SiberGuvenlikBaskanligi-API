@@ -1,3 +1,5 @@
+0000000333.duckdns.org
+000000044444.duckdns.org
 000011021021420.gleeze.com
 0000110720265.sbs
 00004444444022.net
@@ -83,6 +85,7 @@
 124451545544554888787994.duckdns.org
 124451545544554888787995.duckdns.org
 124451545544554888787996.duckdns.org
+124451545544554888787997.duckdns.org
 1245115544166558998990.duckdns.org
 1245115544166558998991.duckdns.org
 1245115544166558998992.duckdns.org
@@ -527,7 +530,6 @@ a-101-de-extra-bugune-ozel-sepette-firsat-tr.shop
 a-101-de-extra-sadece-bugune-ozel-mobilde-tr.bireysel-shop-tr.sbs
 a-101-de-extra-sadece-bugune-ozel-sepette-tr.bireysel-shop-tr.online
 a-101-de-extra-sponsor-mobil-tr.online-bireysel-mobil-tr.click
-a-101-de-sadece-extra-bugune-ozel-indirimli-siparis-tr.onlinecep-tr.site
 a-101-extra-bugune-ozel-mobil.sepet-mobil-tr.site
 a-101-extra-internete-ozel.indirim-online-mobil.site
 a-101-extra-mobil-online-ozel-tr.mobil-bireysel-shop-web-tr.sbs
@@ -549,6 +551,7 @@ a-101-online-ozel-extra-mobil-tr.sepette-indirim.online
 a-101-sadece-bugune-ozel-mobil-indirim-tr.internet-mobil.online
 a-101-sadece-bugune-ozel-mobil.online-tr-shop-mobil.site
 a-101-sadece-online-ozel-firsat-tr.store-sepette-tr.online
+a-101-tr-online-sadece-bugune-ozel-indirim.sepete-ozel.online
 a-101c0mtlc.shop
 a-101indirim.com
 a-1o1-c.duckdns.org
@@ -1968,6 +1971,7 @@ bilgiplatformu.biz
 bilgiplatformu.com
 bilgipusulasi.co
 bilgivegorus.com
+bilgiveislemsayfasi.abrdns.com
 bilgiveislemsistemi.abrdns.com
 bilgiveiyilik.sbs
 bilgivizyonu.com
@@ -3193,6 +3197,7 @@ davamaliye.org
 davamaliyetr.org
 davamerkezi.org
 davasorusturma.org
+davsanllargiyimvs.duckdns.org
 db-l55polisi.online
 db155polis.online
 db155polisi.online
@@ -7273,6 +7278,7 @@ landcomcare.com
 landscapeuganda.com
 lanfits.netlify.app
 laptopdrivers.gifts
+larek.vu
 larpers.fun
 lastpass-login-help.com
 laughhouse.lol
@@ -7845,6 +7851,7 @@ merkezigarantimenucozumlerim.cc
 merkezihekimkontrolmerkezi.digital
 merkezihekimrandevusu.dyndns-at-home.com
 merkeziiprmsynnfrstlarrbsvrr.live
+merkeziislemler.my-homeip.de
 merkezikayit.abrdns.com
 merkezikayitli.abrdns.com
 merkezinceleme.com
@@ -8615,7 +8622,6 @@ ns-wwwpostacomtr.fakingguango.cfd
 nsacasbvsaasa.sbs
 nsaxasdahdasd.cfd
 ntamlnmtalnmtla.net
-ntkltklnklntlknt.net
 ntlanmatkak.net
 ntlntlamama.net
 ntmntmltnlmamlna.net
@@ -10000,6 +10006,7 @@ rafa2halksckdjkx123x13.sbs
 rafa2vasdkasckl123jkx123.cfd
 rafa3234sxdkajkjscadc123.cfd
 rafa34312sascdx12311zsasd.shop
+rafa3ck123kjx1kj23x13123132.cfd
 rafa3csdackllk1kl3x123.cfd
 rafa9911klasdkajx123x123.sbs
 rafaasjck1k2j31x2sadcas.cfd
@@ -10284,6 +10291,7 @@ ruxstoro.com
 ruxvenda.gifts
 ruxvendro.com
 rvdownloads.com
+rweretee.nicepage.io
 rwgerwgsdfgfg.duckdns.org
 rwwkqrl.xyz
 rydjfgyhrfrefddfs.sbs
@@ -10433,6 +10441,7 @@ sahibinden-getilan.ile-guvenle-islem-web.com
 sahibinden-hizmet.online
 sahibinden-ilan.tr-get-servis.online
 sahibinden-order.cfd
+sahibinden-param-guvende.siparisbilgitr.online
 sahibinden-paramguvende.github.io
 sahibinden-police.ozel-hizmet-islemleri.com
 sahibinden-satis-sozlesmesi.kurumsal-online-islem.com
@@ -10571,6 +10580,7 @@ satin-al-siparis.com
 satinal-siparis.com
 satinalonlinesiparis.com
 satinalsepetimodeme.com
+satir-web.ink
 satiskapinda.com
 satiskontrol.com
 savcilikhukum.org
@@ -10909,6 +10919,7 @@ siparis-magazasi.com
 siparis-onay-tr.online
 siparis-satinal.com
 siparisaktif.online
+siparisbilgitr.online
 siparishizli-ver.com
 siparishizliolsut.cloud
 siparisim-guvende.online
@@ -11880,6 +11891,7 @@ takirtukir.click
 takla.click
 taklasin.click
 taklidimduzene.click
+taktik-operational.ink
 talebekraniscebde.duckdns.org
 talentnexhr.ink
 talep-ziraatbank.vercel.app
@@ -11973,6 +11985,7 @@ tbasvurfa.nicepage.io
 tbasvuru-tnoktasi-com-tr.cfd
 tbdefirsat.xyz
 tbsaxashfdsasf.sbs
+tcadli.org
 tcadliye.net
 tcbmtrcumhurbaskanligiuygulama10.com.ph
 tcdosyasorgu.org
@@ -14172,6 +14185,7 @@ yygp4pdh.apexharvestor.digital
 yyzdfmrkt.xyz
 yzbirmrket.cfd
 yzdvrnmrket.cfd
+z1ffssa.cfd
 z1p7k4m9v6x3.lol
 z1q7x4v9k2n8.cfd
 z1rayurcat.nicepage.io
@@ -14416,7 +14430,6 @@ zwrzy.com
 zxasdfafdsagda.cfd
 zxasdfafdsagda.lol
 zxcfsdfcwefwef.duckdns.org
-zxzcvzcvxczvxzsax9.cyou
 zynaris.io
 zync-stream.com
 zyntharioxcrypt.com
