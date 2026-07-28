@@ -4575,7 +4575,6 @@ kredi-basvuru-portal.sbs
 kredi-basvuru-portali.sbs
 kredi-basvurusu-online.sbs
 kredi-online-basvuru-platform.sbs
-kredi-online-islem.lat
 kredi-online-islem.sbs
 kredi-online-islemleri.lat
 kredi-online-islemleri.sbs
