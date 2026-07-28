@@ -185,7 +185,6 @@ a101onlineislemlermerkezi.pages.dev
 a101pazar.com
 a101yuzyilinfirsatlari.duckdns.org
 a10l.org
-a1o1.ile-e-islemlerim.com.tr
 a1o1kampalrmbrda.sbs
 a2r6w1n8v5k3.sbs
 a5m9t2w7n4r8.sbs
@@ -250,6 +249,7 @@ akbankmobil.netlify.app
 akbankmobilnet.ph
 akefsmblsbbe.duckdns.org
 akillisechim.today
+akmobil-bireysel-com.duckdns.org
 akmobil-onlinebasvuru-ekrani-com.webredirect.org
 akmobil-onlineislem-ekrani.duckdns.org
 akmobil-onlineislem-guncel-ekran.duckdns.org
@@ -262,6 +262,7 @@ aksigortabankasigortaciligi.hediyemo.com
 aktarimsorgurkranlariniz.sbs
 aktifkvytpromosion.duckdns.org
 akyaman-lodrefiku.lol
+al-rndev-smdi-hemen.duckdns.org
 alabid234.github.io
 alburdan.shop
 aldin1.space
@@ -886,6 +887,7 @@ daspino.vu
 daspol.surf
 data.evsahibibasvuru.com
 datario.digital
+datolabndsaxzd.xyz
 davaeavukat.org
 davamerkezi.org
 davsanllargiyimvs.duckdns.org
@@ -1853,7 +1855,6 @@ islakkurusupurgee.click
 islembilgisistemi.abrdns.com
 islembilgitr.online
 islemek-giris.casa
-islemlerhizmet.online
 islemlerinizeburdandevamedin.yyuyy.com
 islemnokta-nasita.net
 islemnoktasihemenne.net
@@ -2059,8 +2060,6 @@ klyodme.22web.org
 km-sorgu-avmptt.firebaseapp.com
 km-sorgu-avmptt.web.app
 km-sorgulamak-icin-burdan.web.app
-kmkmsorgulamazfer.firebaseapp.com
-kmkmsorgulamazfer.web.app
 kmlrenizsorgulanirhizlisindan.duckdns.org
 kmm-verilerinizi-ogrenin.web.app
 kmmmnnnppyyyybsvrrprmsynnfrstlllrr.info
@@ -2484,6 +2483,7 @@ muzeportal.com
 muzeportali.click
 muzeziyaret.click
 my-securty-gr.ink
+myenesrgu.cfd
 mypivotloop.co
 mypushstack.co
 myqafua.info
@@ -2676,8 +2676,8 @@ otokocelektroniksozlesme.com
 otokocfilo.net
 otokocfilo.org
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilotr.com
@@ -2762,7 +2762,6 @@ paribuarabaavantaj.com
 paribuarabaavantaji.com
 paribuarabaayricalik.com
 paribuarabacekilis.com
-paribuarabacekilisi.co
 paribuarabadunyasi.com
 paribuarabaetkinligi.com
 paribuarabafest.com
@@ -2981,12 +2980,8 @@ ptt-avm-islemleriniz-km.firebaseapp.com
 ptt-avm-islemleriniz-km.web.app
 ptt-avm-kmsorgu.firebaseapp.com
 ptt-avm-kmsorgu.web.app
-ptt-avm-sorgulama.firebaseapp.com
-ptt-avm-sorgulama.web.app
 ptt-hizliaracsorgu-kmsorgula.web.app
 ptt-hizlikm-sorgulama-hizmeti.web.app
-ptt-km-sorgula-ma.firebaseapp.com
-ptt-km-sorgula-ma.web.app
 ptt-kmsorgula-aracgecmisiogren.firebaseapp.com
 ptt-kmsorgula-aracgecmisiogren.web.app
 ptt.avmbireyselsiparis.com
@@ -3023,6 +3018,7 @@ pttavm.guvenli.ilanlar.duckdns.org
 pttavm.ilan-sepetimde.com
 pttavm.ile-alisverislerini-tamamlama.com
 pttavm.ile-online-islemlerim.com.tr
+pttavm.islemleriniz-mobilden.com
 pttavm.saticimerkezi.com
 pttavm.sip-tamamlat.com
 pttavm.siparis-guvenliodeme.com
@@ -3328,6 +3324,7 @@ sastoro.com
 satir-web.ink
 satiskapinda.com
 sayayaya.duckdns.org
+sayayayaya.duckdns.org
 sbogovtr.com
 scaletoki.site
 screenly.cam
@@ -4262,6 +4259,7 @@ yatirimufku.site
 yauapp-006949517387.herokuapp.com
 yauapp-a2dc65a797a0.herokuapp.com
 yayin-web.casa
+yayinlanan-detay.guru
 yazbonusu.digital
 yazgeldiarabatamirixx.duckdns.org
 yazkampanyalari.com
