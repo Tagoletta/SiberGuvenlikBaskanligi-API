@@ -1559,7 +1559,6 @@ hahedeladawd.duckdns.org
 haikbank.com
 hakanrettoilekeyfinebak.duckdns.org
 halk-bireysel-basvur-com.duckdns.org
-halk-kredi.vercel.app
 halk-mobil-kredim-com.duckdns.org
 halk-mobil-kredimcepte-com.duckdns.org
 halk-mobil-online-islemler-com.duckdns.org
@@ -2057,8 +2056,6 @@ klimbra.com
 klkgdkbrdaldansndenbn.shop
 klotosa.com
 klyodme.22web.org
-km-sorgu-avmptt.firebaseapp.com
-km-sorgu-avmptt.web.app
 km-sorgulamak-icin-burdan.web.app
 kmlrenizsorgulanirhizlisindan.duckdns.org
 kmm-verilerinizi-ogrenin.web.app
@@ -2795,7 +2792,6 @@ paribuarabapromosyon.com
 paribuarabapromosyonu.com
 paribuarabaruyasi.com
 paribuarabasahibi.com
-paribuarabasansi.com
 paribuarabasansin.com
 paribuarabasepeti.com
 paribuarabasevinci.com
@@ -2978,8 +2974,6 @@ proton-network.com
 proxygrid.cc
 ptt-avm-islemleriniz-km.firebaseapp.com
 ptt-avm-islemleriniz-km.web.app
-ptt-avm-kmsorgu.firebaseapp.com
-ptt-avm-kmsorgu.web.app
 ptt-hizliaracsorgu-kmsorgula.web.app
 ptt-hizlikm-sorgulama-hizmeti.web.app
 ptt-kmsorgula-aracgecmisiogren.firebaseapp.com
