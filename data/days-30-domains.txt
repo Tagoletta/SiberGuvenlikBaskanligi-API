@@ -2591,7 +2591,6 @@ obilet.uk
 ocaktada-sizle.name.tr
 ocbpqapp-bbva.garantibbvakredibasvuru.com
 ocrrrrss.blogspot.com
-odeme-ilanim-48776.com
 odemehemen.com
 oeoeo2020201z.duckdns.org
 offercore.shop
@@ -2673,8 +2672,8 @@ otokocelektroniksozlesme.com
 otokocfilo.net
 otokocfilo.org
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilotr.com
@@ -2987,7 +2986,6 @@ pttavm-arac-bilgileriniz.firebaseapp.com
 pttavm-arac-bilgileriniz.web.app
 pttavm-arac-gecmisi.firebaseapp.com
 pttavm-arac-gecmisi.web.app
-pttavm-arac-sorgulama.web.app
 pttavm-aracgecmisiogren.firebaseapp.com
 pttavm-aracgecmisiogren.web.app
 pttavm-aracgecmisogrenin-km.firebaseapp.com
@@ -3839,7 +3837,6 @@ tromvax.com
 trosil.gifts
 trovant.click
 trpolis155.online
-trsiparisbilgi.online
 trsiparisonay.online
 trturk24ku.com
 trturk24nex.com

@@ -12560,7 +12560,6 @@ tr-online-mobil.sbs
 tr-polisi.online
 tr-porland.cfd
 tr-porland.shop
-tr-salomonturkiye.com
 tr-siparisonay.online
 tr-sokarca.shop
 tr-sokraca.shop
