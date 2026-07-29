@@ -2063,7 +2063,6 @@ bireysel-trans.my-homeip.de
 bireysel-transcation.my-homeip.net
 bireyselbasvurdenizbank.74-235-34-0.plesk.page
 bireyselimpttavm.com
-bireyselpttavm.com
 bireyselsatici.com
 bireyselsatici.online
 birgulususebepolur.sbs
@@ -9670,7 +9669,6 @@ pttavmaracsorgu.web.app
 pttavmbireyselim.com
 pttavmbireyselsatisim.com
 pttavmbireyselsepetim.com
-pttavme.com
 pttavmguvenlial.com
 pttavmhemenal.com
 pttavmhemenalsepetim.com
@@ -9685,7 +9683,6 @@ pttavmhgsbakiyedoldur.web.app
 pttavmhgsbakiyenokatasi.web.app
 pttavmhgsbakiyeyuklme.web.app
 pttavmhizlisepette.com
-pttavmilanlarim.com
 pttavmilansepeti-online.com
 pttavmilansepeti.com
 pttavmilansepetimonline.com
@@ -9733,7 +9730,6 @@ ptthizligecisyukleme.web.app
 pttkargo.e-ilan-alisveris-sepet.com
 pttkargo.mobilservisler-27.sbs
 pttkargo.online-alisveris-sepetiniz.com
-pttkargotakib.com
 pttkargotakip.com.ph
 pttkmsorgu.com
 pttonlinealisveris.com
@@ -11813,7 +11809,6 @@ takeoffistanbul.wixsite.com
 takeoffistanbul.zone.id
 takimaletleriyapimarket.com
 takimimvampirgibi.click
-takip.shop
 takirtukir.click
 takla.click
 taklasin.click

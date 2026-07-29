@@ -1,6 +1,6 @@
 {
   "pass_id": 21,
-  "last_run": "2026-07-29T04:18:20",
+  "last_run": "2026-07-29T06:28:53",
   "last_full_completed": "2026-07-29T04:25:13",
   "types": {
     "domain": {
@@ -35,7 +35,7 @@
       "full_crawl_complete": true,
       "next_page": 1,
       "total_pages": null,
-      "last_max_id": null,
+      "last_max_id": 0,
       "total_count": null
     }
   }
