@@ -239,6 +239,7 @@
 5115151.duckdns.org
 511caa97-a.b-cdn.net
 512saqqwr12.icu
+5151501010.duckdns.org
 515155555555555.duckdns.org
 52235236fsd523.click
 522hdsf32532.click
@@ -1135,7 +1136,6 @@ bcv-global.lat
 bcv-meta.shop
 bcv-premium.cfd
 bda-gerasn.lat
-bdchjud.blogspot.com
 be231ro963.com
 beamsits.neocities.org
 beatsculpture.com
@@ -5323,6 +5323,7 @@ mykankacmsendebasvur.art
 mykankacmsendebasvuronline.art
 mykaracaev.store
 mykaracaevs.store
+mynerndvu.cfd
 mynvesry.net
 mypivotloop.co
 mypushstack.co
@@ -6157,7 +6158,6 @@ porlandsale.shop
 porlanducuz.shop
 portal-mhrs.digital
 portal-netgsm.live
-portal-netgsm.online
 portal.federalverify-ssaclientportal.com
 portalgiris.misecure.com
 portalm1hrs.xyz
@@ -6811,7 +6811,6 @@ sahibinden-get.guvenliodemelerim.online
 sahibinden-get.guvenlisepetler-hizmet.online
 sahibinden-get.ilanservis-odemehizmetin.online
 sahibinden-get.islem-alisveris-hizmet.com.tr
-sahibinden-get.jetservishizmetleriniz.online
 sahibinden-get.mobil-eservisin.com
 sahibinden-get.mobilservisin-10.sbs
 sahibinden-get.mobilservisin-25.sbs
@@ -9086,7 +9085,6 @@ zelcartiq.shop
 zelikavron.in
 zelimarto.com
 zellserfdb.blogspot.com
-zelmador.media
 zelmallo.tr
 zelmarn.click
 zelmoraq.bond
