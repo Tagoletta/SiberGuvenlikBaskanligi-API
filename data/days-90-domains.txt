@@ -2061,7 +2061,6 @@ bireysel-mobil-shop.sbs
 bireysel-mobil-tr.sbs
 bireysel-promosion-firsatlar.my-homeip.de
 bireysel-shop-tr.click
-bireysel-teb-promosyon.my-homeip.de
 bireyselbasvurdenizbank.74-235-34-0.plesk.page
 bireyselsatici.com
 bireyselsatici.online
@@ -5026,9 +5025,7 @@ haberhemencebinde.shop
 haberhizli456.shop
 haberhizliaktif.com
 haberhizlidurum.com
-haberhizliplatform.com
 haberhizlisistem.com
-haberhizlitaksi.com
 haberhizliyorum.com
 haberim1453.shop
 haberinadresi112233.shop
@@ -6312,7 +6309,6 @@ istcanman.xyz
 istcano.xyz
 isteansfaz.duckdns.org
 istebasvurulariiniz.theworkpc.com
-istecep.site
 istefirsatlarburda.com
 istekuzerineistanbul.xyz
 istelmancankart.xyz
@@ -10684,7 +10680,6 @@ senalisiksinyyabitanepatlat.sbs
 senatom.com
 senatoria.sbs
 sende-gelal.duckdns.org
-sendegarantlolsendekazan80.click
 sendegartnbuldahsel252.click
 sendenkorkmuyorum1.vip
 sendenkorkmuyorum4.vip
@@ -12855,7 +12850,6 @@ turkflash.site
 turkhaberaktiflink.com
 turkhaberaktuel.com
 turkhaberbilgileri.com
-turkhaberhizliyayin.com
 turkhaberonlineportal.com
 turkhaberplatform.com
 turkhaberplatformu.com

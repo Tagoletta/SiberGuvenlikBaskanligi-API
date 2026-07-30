@@ -121,7 +121,6 @@
 312455455589993.duckdns.org
 3125123.uk
 31jctjk3k1l2z12lk3c12k312.cfd
-321321321.vercel.app
 346346wdrf234.click
 346346wdrf23465.click
 346347452112412436.org
@@ -2753,8 +2752,8 @@ otokocfilo.net
 otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilotr.com
@@ -3036,7 +3035,6 @@ ptt.avmbireyselsiparis.com
 ptt.mobilservisler-67.sbs
 ptt.mobilservisler-87.sbs
 pttaevm.com
-pttavm-arac-bilgileriniz.firebaseapp.com
 pttavm-arac-bilgileriniz.web.app
 pttavm-arac-gecmisi.firebaseapp.com
 pttavm-aracgecmisiogren.firebaseapp.com
@@ -3044,7 +3042,6 @@ pttavm-aracgecmisiogren.web.app
 pttavm-aracgecmisogrenin-km.firebaseapp.com
 pttavm-aracgecmisogrenin-km.web.app
 pttavm-com.ph
-pttavm-guvenli-bilgilendirici.web.app
 pttavm-hizli-km-ogrenme.firebaseapp.com
 pttavm-hizli-km-ogrenme.web.app
 pttavm-kmsorgu-ogrenin.web.app
