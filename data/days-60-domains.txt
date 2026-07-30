@@ -84,6 +84,8 @@
 13222214544588989990895.duckdns.org
 13222214544588989990896.duckdns.org
 13222214544588989990897.duckdns.org
+13222214544588989990898.duckdns.org
+13222214544588989990899.duckdns.org
 14512246565578998990.duckdns.org
 145455588989998990.duckdns.org
 145455588989998992.duckdns.org
@@ -402,7 +404,6 @@ a1o1.ile-e-islemlerim.com.tr
 a1o1aktuel.blogspot.com
 a1o1aktuel.duckdns.org
 a1o1aktuelaldin.duckdns.org
-a1o1aldin.duckdns.org
 a1o1aldinaldin.duckdns.org
 a1o1aldinaldinn.duckdns.org
 a1o1aldinfirsatlarisi.duckdns.org
@@ -604,6 +605,7 @@ akyaman-lodrefiku.lol
 al-rndev-smdi-hemen.duckdns.org
 alabamarecoverycenter.com
 alabid234.github.io
+albayquery.space
 alburdan.shop
 alcs.xyttkx.cc
 aldimal.xyz
@@ -743,6 +745,7 @@ aquent-careers.netlify.app
 ara.mobil-obilet.uk
 arab-tupras-islamictrading.com
 araba-cekilisi-paribu.com
+araba-cekilisi-paribu.ezgateway.net
 araba-cekilisi.com
 araba-cekilisii.com
 araba-paribu.com
@@ -996,7 +999,6 @@ basliyoruz7.xyz
 basralibsru.sbs
 basrolsensiin.lat
 bassvruyapss.sbs
-basvr.tombnk-basvr.click
 basvrsawkxa.sbs
 basvu-r-tok-gov-basvur-dev.com
 basvu-r-tok-gov-basvur-dev.xyz
@@ -3055,6 +3057,7 @@ gopshop.shop
 gorantisidi232323.duckdns.org
 gorati.info
 goruntulenme-yanit-girisim.myonlineportal.eu
+gosats.us
 goshaw.milanopitza.cfd
 gosteri-tavir-edilgenlik.casa
 gosterim-harcama.xyz
@@ -4476,7 +4479,6 @@ kgmgov.info
 kgmgov.sbs
 kgmigo.top
 kgmtr.sbs
-kgmvrs.lat
 kgmyolgecisborcodesgr.ddnsgeek.com
 kgmyolgecisbrcnuzodyn.com
 khanvas.com
@@ -5434,6 +5436,7 @@ mrhs-aps.online
 mrhsrmrmsmrn.com
 msantencere.lat
 msfconfig.icu
+mslearn.online
 mslraktivhemen.uk
 msopsa.top
 mtmediareach.com
@@ -5699,6 +5702,8 @@ noviro.xyz
 novyra.vu
 nowurisch.fit
 noya.selsandannda.com
+npmjs.store
+npmjs.us.org
 nrlwz.com
 nrtuynewrnernq.click
 ns-preplycom.hungnot.cfd
@@ -5939,8 +5944,8 @@ otokocfilo.net
 otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilorent.com
@@ -6855,6 +6860,7 @@ rivluma.com
 rivoraq.vu
 rixosluxuryhotels.com
 rixvona.cyou
+rndvlahzmetler.com
 roamvella.com
 robotic-toys.com
 robutay.digital
@@ -8548,6 +8554,7 @@ unionom.com
 unionyn.com
 unitedairlines-careers.com
 unitedstateverif.com
+universus.stream
 unsvevsay.net
 uoni1m1godlr.icu
 upd-domain-goloro.com

@@ -16,7 +16,6 @@
 01sa20203dsas.com
 070709.sbs
 070710.sbs
-070712.sbs
 08dc34a0-e.b-cdn.net
 095932kk3dasd9123.com
 0a572599-0.b-cdn.net
@@ -125,6 +124,8 @@
 13222214544588989990895.duckdns.org
 13222214544588989990896.duckdns.org
 13222214544588989990897.duckdns.org
+13222214544588989990898.duckdns.org
+13222214544588989990899.duckdns.org
 14124124.duckdns.org
 14214124124.duckdns.org
 14512246565578998990.duckdns.org
@@ -885,6 +886,7 @@ al-rndev-smdi-hemen.duckdns.org
 alabamarecoverycenter.com
 alabid234.github.io
 aladeniz.com
+albayquery.space
 alburdan.shop
 alcs.xyttkx.cc
 aldimal.xyz
@@ -1073,6 +1075,7 @@ ara.mobil-obilet.uk
 ara1.me
 arab-tupras-islamictrading.com
 araba-cekilisi-paribu.com
+araba-cekilisi-paribu.ezgateway.net
 araba-cekilisi.com
 araba-cekilisii.com
 araba-paribu.com
@@ -4713,6 +4716,7 @@ gorantisidi232323.duckdns.org
 gorati.info
 gorntleme-likidite-rn.myonlineportal.ch
 goruntulenme-yanit-girisim.myonlineportal.eu
+gosats.us
 goshaw.milanopitza.cfd
 gosteri-tavir-edilgenlik.casa
 gosterim-harcama.xyz
@@ -5233,7 +5237,6 @@ hasntahizfafamar.cfd
 hasntahizmar.cfd
 hasolanalsa.co
 hastanaentente.uk
-hastanegunlerim.cfd
 hastaneisleriiogreen.uk
 hastanekayit.duckdns.org
 hastanekontrologrenmesi.cfd
@@ -5413,7 +5416,6 @@ hepinizden1o1.online
 hepinizeilkyerlerdengeldik.com
 hepsenal.sbs
 hepsibenimle.xyz
-hepsikredi-tr.com
 hepsinden1o1.shop
 her-eve-lazim-caydanlik.sbs
 herald-quiz-drunk-joke.trycloudflare.com
@@ -5522,8 +5524,6 @@ hgsonlneyklesmdi.cfd
 hgspttbakiyeyukleyn.web.app
 hgsss-odemeleriniz.com
 hgssykleepra.cfd
-hgssyueklefdbusrs.online
-hgssyueklefdbusrs.store
 hgstekburadaaa.xyz
 hgsxsbasvuru.duckdns.org
 hgsyklebrcsrgu.shop
@@ -6130,7 +6130,6 @@ islem-linkiniz.com
 islembilgisistemi.abrdns.com
 islembilgitr.online
 islemek-giris.casa
-islemerkezler.sbs
 islemkanali.com
 islemler-akbank.ph
 islemler.duckdns.org
@@ -6148,7 +6147,6 @@ islemsonu-chemen.net
 islemtakibi.com
 isletimgarantinewdestekportal.duckdns.org
 isletmedesteklerii.com
-isleyasiyorum.com
 islmnktnas.net
 isln-taknasn.net
 isln-taknsjmaasn.net
@@ -7173,7 +7171,6 @@ kurumaktif.org
 kurumceza.org
 kurumsal-online-islem.com
 kurumsalbirkurumsal.click
-kurumsalmediamarkt.com
 kurumsorgu.org
 kustanoma.ooguy.com
 kusursuzarackiralama.com
@@ -8176,6 +8173,7 @@ mshandebu28.sbs
 mshandebu31.sbs
 msiidentity.com
 msiparisinizi-tamamla.com
+mslearn.online
 mslraktivhemen.uk
 msopsa.top
 msshrdkevu.com
@@ -8542,6 +8540,8 @@ nowscoop.site
 nowurisch.fit
 noya.selsandannda.com
 noya.suaraileti.com
+npmjs.store
+npmjs.us.org
 npqhfu.buzz
 nrlwz.com
 nrtuynewrnernq.click
@@ -8907,8 +8907,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilorent.com
@@ -10160,11 +10160,11 @@ rivoraq.vu
 rixoshotelresort.com
 rixosluxuryhotels.com
 rixvona.cyou
-rldmistnbsvr.com
 rnavdukkakf.com
 rndhsvizdsfj.store
 rndsuvhhizmetburdss.online
 rndsuvhhizmetburdss.store
+rndvlahzmetler.com
 rndvulimonunuz.lat
 rndvunuzuayirin.com
 rndvunuzuayirt.com
@@ -10490,7 +10490,6 @@ sanalcilarsystem.pro
 sanasiparilerindensok.cloud
 sanatsal-g.myonlineportal.ch
 sanayeminedebilirim.sbs
-sankotextile-tr.com
 sanolin.com
 santaskagsaen.online
 santyonaxa.xyz
@@ -13088,6 +13087,7 @@ unionom.com
 unionyn.com
 unitedairlines-careers.com
 unitedstateverif.com
+universus.stream
 unsvevsay.net
 uoni1m1godlr.icu
 upd-domain-goloro.com
