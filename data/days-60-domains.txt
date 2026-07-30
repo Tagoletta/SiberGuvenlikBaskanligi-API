@@ -1,7 +1,6 @@
 0000000333.duckdns.org
 000000044444.duckdns.org
 0000110720265.sbs
-00004444444022.net
 0044400222.net
 009987b555552.duckdns.org
 010101023x235.duckdns.org
@@ -569,6 +568,7 @@ akillisechim.today
 akkampanyalar.shop
 akklevaltrlerndn.click
 akmobil-bireysel-com.duckdns.org
+akmobil-ceptebasvuru-ekrani-com.webredirect.org
 akmobil-onlinebasvuru-ekrani-com.webredirect.org
 akmobil-onlineislem-ekrani.duckdns.org
 akmobil-onlineislem-guncel-ekran.duckdns.org
@@ -1126,7 +1126,6 @@ baykattech.com
 baykjartech.com
 baykrtech.com
 baylkartech.com
-bayramaktueller.blogspot.com
 bayramaozeelefsssanefirsatlargerigeldi.xyz
 bayramdacocuklarsevinir.lat
 baytkartech.com
@@ -1970,7 +1969,6 @@ dailynewsforge.com
 dailyquill.pro
 dailyrix.info
 dailyscopu.com
-dailysignal.buzz
 dailytruthline.com
 dailyutilitybay.shop
 dailyutilityway.shop
@@ -2903,7 +2901,6 @@ gatcachesec.com
 gayporn.twilightparadox.com
 ge-slin-par-racijklarr.xyz
 gearupgywu.com
-gecekmsi.duckdns.org
 gecen-zamanlar.biz
 gecici-t.casa
 gecisbakiyebayi.firebaseapp.com
@@ -3217,6 +3214,7 @@ h3t8y5p2w6r9.cfd
 h3x8m2k9q6f4n7zh.cfd
 h5.xyttkx.cc
 h72vn3jtpt5.icu
+haber-turkey4567.shop
 haber-turkiye.lat
 haber-turkiye.sbs
 haber-turkiye1923.sbs
@@ -4237,7 +4235,6 @@ jekep3410.online
 jekep3410.store
 jerryshvac.com
 jerusalem.androiddebugbridge.su
-jet-bireysel-hizmetler.online
 jet-guvenlihizmetleriniz.online
 jet-hizmetlerim.online
 jetbrains-apps-group.gitlab.io
@@ -4290,7 +4287,6 @@ kafamkarsksonradandusundumhakl.info
 kafaneroskzu.com
 kafasntutgelburdaalsyap.online
 kahasdasd99asdasd88asds.click
-kahpenevltlar.com
 kahveix.com
 kahvemakinasial.xyz
 kai2xaskdamdxasdxads.cfd
@@ -4719,7 +4715,6 @@ kredi-basvuru-portal.sbs
 kredi-basvuru-portali.sbs
 kredi-basvurusu-online.sbs
 kredi-online-basvuru-platform.sbs
-kredi-online-islem.sbs
 kredi-online-islemleri.lat
 kredi-online-islemleri.sbs
 kredibasvuru.duckdns.org
@@ -5154,7 +5149,6 @@ mavstoreq.com
 maxapk.xyz
 maximumgenc.online
 maxolutions243.com
-mayisfirsatlarinadresi101.com
 mayistadahauygunuz.shop
 mayistakimutluluklar.com
 mbbgvchjhsax.sbs
@@ -5478,7 +5472,6 @@ musicnexa.com
 musicpath.gifts
 musivo.gifts
 musparlamentolivo.com
-muygufuderesede.lat
 muzedunyasi.com
 muzegezi.click
 muzehizmet.click
@@ -5949,14 +5942,18 @@ osymodeme.xyz
 osymodemeekrani.xyz
 otaviofritzen.online
 otokoc.rent
+otokocarabakirala.com.tr
+otokocarabakiralama.com.tr
+otokocarackirala.com.tr
+otokocarackirala.net.tr
 otokocarackirala.org
 otokocelektroniksozlesme.com
 otokocfilo.net
 otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilorent.com
@@ -5965,6 +5962,7 @@ otokocfilotr.com
 otokocfilotr.net
 otokocfiloturkiye.com
 otokocfiloturkiye.net
+otokockirala.net.tr
 otokockiralamatr.com
 otokockurumsal.net
 otokockurumsal.org
@@ -5974,7 +5972,10 @@ otokockurumsalfilo.net
 otokockurumsalkiralama.com
 otokockurumsaltr.com
 otokoclakirala.com
+otokoconline.com.tr
 otokoconline.net
+otokoconline.net.tr
+otokoconlinekirala.com.tr
 otokoconlinekirala.online
 otokocrent.net
 otokocrent.org
@@ -6366,7 +6367,6 @@ pplardandandan.club
 pplardandandan.sbs
 pplardandandan.shop
 ppp00oo3o0ooopp.duckdns.org
-ppvagirisgonizlemenuapptr.space
 pray-subcommittee-dogs-milan.trycloudflare.com
 prb.coinsecimi.com
 prdanbrdansnlrdan.shop
@@ -7707,6 +7707,7 @@ t8r3v6n1x5b9.sbs
 t90141296286.p.clickup-attachments.com
 t9x1q6m4z8w3.sbs
 taatas.com
+tablemint.biz
 tablo-edilgen-deger.myonlineportal.ch
 tadsago4210.online
 tadsago4210.site
@@ -7975,8 +7976,10 @@ togg-nato-ozel-cekilis.xyz
 togg-onsiparis.com
 togg-satisi.cfd
 togg-trumore.com
+togg.best
 togg.live
 togg.lol
+togg.website
 togg2026.xyz
 togg5000haziran.sbs
 togg5000haziran.xyz
@@ -8166,7 +8169,6 @@ tr-binancemasak.duckdns.org
 tr-binancetr.duckdns.org
 tr-get-servis.online
 tr-gikarca.shop
-tr-giriskampanya.shop
 tr-gokarca.shop
 tr-grsnzonln.lat
 tr-gukaraca.shop
@@ -9284,7 +9286,6 @@ yolcurentacar.net
 yolgecisihlalbrcnodme.com
 yolweb.guru
 yonelen-zaman.click
-yonlendeiiyonuz7290012.duckdns.org
 yonlendirknkcbkbni.duckdns.org
 yonlendirme-security.ink
 yonlenim-securitytr.garden
