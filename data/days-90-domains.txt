@@ -539,7 +539,6 @@
 a-101-bireysel-extra-indirimler.online-tr-shop.site
 a-101-bugune-ozel-cepte-mobil-extra.indirim-mobil.site
 a-101-bugune-ozel-indirim-tr-sepette-mobil.online-ozel-siparis.online
-a-101-de-extra-sadece-bugune-ozel-mobilde-tr.bireysel-shop-tr.sbs
 a-101-de-extra-sadece-bugune-ozel-sepette-tr.bireysel-shop-tr.online
 a-101-de-extra-sponsor-mobil-tr.online-bireysel-mobil-tr.click
 a-101-extra-bugune-ozel-mobil.sepet-mobil-tr.site
@@ -4419,6 +4418,7 @@ garaktifmenusu.duckdns.org
 garanti-acc.myonlineportal.ch
 garanti-bank-bireysel.ph
 garanti-bankasionline.ph
+garanti-cepte-basvuruekrani-com.webredirect.org
 garanti-kredi-basvuru.sbs
 garanti-kredi-basvurusu.sbs
 garanti-krediye-basvur.sbs
@@ -5003,7 +5003,6 @@ haber456.shop
 haber4566.shop
 haber45778656.shop
 haber465119.shop
-haber54.shop
 haber7408.shop
 haber7472.shop
 haber7495.shop
@@ -5237,7 +5236,6 @@ hasat5dsa.nicepage.io
 hasatgo.com
 hasatmarka.digital
 hasatnova.com
-hasdasdagsax1.cfd
 hasdasdagsax1.xyz
 hasmnsamhshansanmasmhsan73.space
 hasnmrlhs.online
@@ -6814,6 +6812,7 @@ kilmtresrgulamarmzan.web.app
 kilometesrglrmbrdan.click
 kilometre-herzamanburda.firebaseapp.com
 kilometre-herzamanburda.web.app
+kilometre-verilernzi-ogrenin.web.app
 kilometrecikus.xyz
 kilometrecikusburda.xyz
 kilometrekusu.xyz
@@ -7186,6 +7185,7 @@ kurumceza.org
 kurummali.org
 kurumsal-online-islem.com
 kurumsalbirkurumsal.click
+kurumsicil.org
 kurumsorgu.org
 kustanoma.ooguy.com
 kusursuzarackiralama.com
@@ -7903,6 +7903,7 @@ mhrs-randevu.vercel.app
 mhrs-s.digital
 mhrs.alllahnerdekiya.sbs
 mhrs5nwdkm3.duckdns.org
+mhrsanlikodemehizli.icu
 mhrsanlikolarakrandevuhak4nxd.duckdns.org
 mhrsbasvurularinizburadan.duckdns.org
 mhrsbasvuruportali.duckdns.org
@@ -8097,7 +8098,6 @@ mobile-qnbfinansbank.ph
 mobilekranlardakayitlar.duckdns.org
 mobilentry.my-homeip.de
 mobilerism.myonlineportal.de
-mobilfirsatlarilims.duckdns.org
 mobilhalkta.duckdns.org
 mobilpkampanyam.duckdns.org
 mobilservis-83.sbs
@@ -8489,7 +8489,6 @@ nltanayalhluu.xyz
 nltlnaltanltant.net
 nltlntlnlntln.net
 nltlntlntltnl.net
-nltlntltnlntltnlntl.net
 nltnlltnltnlntl.net
 nmhlrasfhsa.com
 nmrmplazagarageex.xyz
@@ -8925,8 +8924,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilorent.com
@@ -10035,6 +10034,7 @@ rapidfilevault4.sbs
 rapidfilevault5.sbs
 rapidoro.com
 rapidstory.today
+raramic640.online
 raramic640.space
 rarandvlrmmhrsbrda.sbs
 rarearomas.cyou
@@ -10851,7 +10851,6 @@ simdilikyaninageldi.com
 simdilikyanindaburda.com
 simdisofradahayverparmesan.sbs
 simtorgo.digital
-sinaloacarte.cfd
 sinirlar-belirleme-durdur.myonlineportal.ch
 sinirlikampanyalar.blogspot.com
 sinirlisayidaurununuz.sbs
@@ -11047,6 +11046,7 @@ soleriaprojects.com
 solerivaworld.com
 soleron.gifts
 solidtempo.com
+soliveprolprsp.click
 soltherisvoid.com
 solutioncivmultitechofficeit.ekiaurekacre.vu
 solutionlogz.info
@@ -13519,7 +13519,6 @@ web-bas-vur.myonlineportal.de
 web-basvurum-grntbbva.fixip.org
 web-garanti-subesi-tr.ph
 web-links-mobil-tr.click
-web-links-mobil-tr.sbs
 web-meets.com
 web-taprndvsunz.net
 web-tapsnrsandvun.info
@@ -14048,6 +14047,7 @@ yildizlaradogrubakiye.lat
 yildora-venkupali.lol
 yilmaz-ticaret-ile-siparis-tamamla.com
 yilmaz-ticaret-ile-siparisi-tamamla.com
+yilmaz-ticaret-ile-siparisini-tamamla.com
 yinveyang.sbs
 yinveyang10.sbs
 yinveyang2.sbs
