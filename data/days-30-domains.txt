@@ -2,7 +2,6 @@
 000000044444.duckdns.org
 0000110720265.sbs
 010101023x235.duckdns.org
-0xvona.duckdns.org
 101-kstra.s3.eu-north-1.amazonaws.com
 110gongan.com
 11b423xz122.duckdns.org
@@ -429,7 +428,6 @@ ax.nousomtr1.bond
 ayuzbirekstra.com
 azechecker.xyz
 azuremicrosoft.us
-azuretrail.vu
 b8r3z6p9w2t5.sbs
 babalarbasladi01.duckdns.org
 babybon.cfd
@@ -829,7 +827,6 @@ cocacola-careerhub.com
 cocacola-hr.com
 cocacola-meetings.com
 codalunax.gifts
-codalytix.digital
 codemira.digital
 codewavehub.xyz
 codomira.shop
@@ -2010,7 +2007,6 @@ journalcorex.com
 just-giris-web.casa
 k0bibilgilendirmeleri.com
 k0bidestegim.cfd
-k5z8p3t9w2q7.sbs
 k6w1n8p4r9x2.sbs
 kacirimayacakpaslanmazcelik.sbs
 kacirmadanalhemenkapinda.xyz
@@ -2749,8 +2745,8 @@ otokocfilo.net
 otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilotr.com
