@@ -496,7 +496,6 @@
 7987565.click
 7d3e329f-5.b-cdn.net
 8-24onlineile.sbs
-8-mobil25islemleriniz.sbs
 808checker.space
 81844dnsnf241.com
 82762724224.duckdns.org
@@ -4750,7 +4749,6 @@ graconxonjal.empresaeficiente.sbs
 grademeta.tr
 gradixt.tr
 gragelerdesasdas.duckdns.org
-granadabelekluxury.com
 granadaluxuriesbelek.com
 granadaluxuryspa.com
 grande-luna.top
@@ -5590,6 +5588,7 @@ hizli-islem.com
 hizli-limit.xyz
 hizli-siparis-baglanti.com
 hizli-siparis-linki.com
+hizli-siparis-onaylama-baglantisi.com
 hizli-siparis-sayfasi.com
 hizlialisverisicinbr.com
 hizliaracgecisilieriniz.sbs
@@ -6428,7 +6427,6 @@ jetbrains-apps-group.gitlab.io
 jetcicek.org
 jetotofilo.com
 jetross.com
-jfarasf421asdas.click
 jgvhjhfujygfy.info
 jhdgfad.nicepage.io
 jhdgfadd.nicepage.io
@@ -9059,6 +9057,7 @@ paribu--tekloloji.com
 paribu-araba-cekilisi.ooguy.com
 paribu-araba-cekilisi.opik.net
 paribu-araba-kazan.com
+paribu-araba-kazanma.com
 paribu-araba.com
 paribu-arabacekilisi.com
 paribu-arabahediye.com
@@ -9160,6 +9159,8 @@ paribuodul.com
 paribuodulcarki.com
 paribuotofirsat.com
 paribuotokampanya.com
+paribupepe-cekilisim.com
+paribupepe-cekilisin.com
 paribusanscarki.com
 paributechnology.com
 parkfauna.com
@@ -9989,6 +9990,7 @@ randevuislemleribdusa.online
 randevuislemleribdusa.store
 randevularinizigorun.com
 randevuluguncere.com
+randevulugunlerburada.duckdns.org
 randevulugunlere.com
 randevuluzamanninicin.net
 randevunuzolusturun.com
@@ -10344,7 +10346,6 @@ saglkgnlrdlyrzbrdans.forum
 sah-bindenp-ramguvende.com
 sahabndnparanizguvende.com
 sahbindn.pages.dev
-sahib.indenonline.com
 sahibinden-get-ilanservisiniz-jet.com
 sahibinden-get.alimlarinizhizmetler.online
 sahibinden-get.detayservisn.com
@@ -11256,6 +11257,7 @@ sslzeromail.run.place
 sso-auth.com
 ssss22232323.duckdns.org
 sssseww23xx.duckdns.org
+sstbonlinebasvuru.com
 sstrak-bsrvat.cfd
 sstss.loseyourip.com
 stabil-olgu-gelisim.myonlineportal.ch
