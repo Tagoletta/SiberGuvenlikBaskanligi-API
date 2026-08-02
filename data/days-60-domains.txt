@@ -190,6 +190,8 @@
 312222545548789988991.duckdns.org
 312222545548789988992.duckdns.org
 312222545548789988993.duckdns.org
+312222545548789988994.duckdns.org
+312222545548789988995.duckdns.org
 312455455589992.duckdns.org
 312455455589993.duckdns.org
 3125123.uk
@@ -274,6 +276,7 @@
 5e0c6139-1.b-cdn.net
 5x5web.com
 604da060-7.b-cdn.net
+6161616161.duckdns.org
 62354234.net
 62ce61f5-9.b-cdn.net
 6348732od4we43.click
@@ -1614,6 +1617,7 @@ camerondev1.github.io
 camlarfilmli.click
 camorreado.click
 canavarndevusyfasi.duckdns.org
+caninelab.co
 canlaradlarsbaotldnapackasn.site
 cansankansendegalburdacan.live
 capa.nicepage.io
@@ -2184,7 +2188,6 @@ dorivo.gifts
 dorjiba.website
 dorqen.casa
 dosya-bilgi.com
-dosyabirim.org
 dosyamerkezi.org
 dosyatakibi.org
 dovizbasvuru-acikdenizmobilbank.org.ph
@@ -2957,6 +2960,7 @@ getsupdated.info
 gexmallo.digital
 gextonapps.neocities.org
 gfagfasdgaas.sbs
+gfbvr23ert.com
 gfdgfdvbvb.nicepage.io
 gfhnertwerbw.click
 gfhnwerbtqwebq.click
@@ -3179,7 +3183,6 @@ guvendekal.online
 guvenilirsorgupaneli.fun
 guvenilirsorgupaneli.xyz
 guvenli-odeme-yap.xyz
-guvenli-odemler.online
 guvenlialisveris.online
 guvenlialisverisin.online
 guvenlimuhasebeodemebirimi.duckdns.org
@@ -3467,6 +3470,7 @@ hedefonmusteripanel.com
 hedefonmusteripaneli.com
 hedefportfoykurumsal.com
 hedefprtfoy.com
+hefeelfeguystr.duckdns.org
 hefelfeguystr.duckdns.org
 heismebktaltara.net
 helfeguystr.duckdns.org
@@ -4704,6 +4708,7 @@ krevont.org
 krostel.best
 krox020x12jj.duckdns.org
 krsnadamhykanresrndvandevm.com
+krssxrglamalarinin.net
 krusty-crabs.sbs
 krvebrdasznrdsnz.com
 krvlerlerklmacyrz.shop
@@ -5199,6 +5204,7 @@ mhr23623wfqwd.duckdns.org
 mhr23k6m236njsdf.duckdns.org
 mhr2srandv5larnzi.duckdns.org
 mhrandelvbka.com
+mhrasd432734jnsdf.duckdns.org
 mhrefshemenrndv.ice.lol
 mhrk23km6747.duckdns.org
 mhrldsrandevl.com
@@ -5613,7 +5619,6 @@ nmrmplazagarageex.xyz
 nmtlanmla.net
 nmtlmnltlntan.net
 nmtlnmtlntmntlmltn.net
-nn99990009999.duckdns.org
 nnp0.allthe.site
 nntknlanana.net
 node-js.prentiva99.info
@@ -5897,8 +5902,8 @@ otokocfilo.net
 otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilorent.com
