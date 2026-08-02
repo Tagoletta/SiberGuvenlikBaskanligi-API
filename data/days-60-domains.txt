@@ -189,6 +189,7 @@
 312222545548789988990.duckdns.org
 312222545548789988991.duckdns.org
 312222545548789988992.duckdns.org
+312222545548789988993.duckdns.org
 312455455589992.duckdns.org
 312455455589993.duckdns.org
 3125123.uk
@@ -351,7 +352,6 @@
 9c743b80-b.b-cdn.net
 9fde8fe7-9.b-cdn.net
 9mvxr2q.sbs
-9qupuag.com
 9rm2tk.atoms.world
 a-101-bireysel-extra-indirimler.online-tr-shop.site
 a-101-bugune-ozel-cepte-mobil-extra.indirim-mobil.site
@@ -363,6 +363,7 @@ a-101-extra-mobil-sadece-online-ozel-siparis-tr.online-mobil-shop-tr.com
 a-101-extra-ozel-indirim-tr.indirim-sepeti-tr.online
 a-101-extra-sadece-bugune-ozel-online-siparis-tr.bireysel-mobil-shop-tr.com
 a-101-extra-sadece-bugune-ozel-sepette-indirim-tr.ozel-tr.online
+a-101-extra-sadece-online-mobilde-firsatlar.mobil-web.online
 a-101-extra-sadece-online-ozel-mobil-indirim-tr.online
 a-101-extra-sadece-online-ozel-mobil-tr.bilgi-mobil-shop-ozel-tr.sbs
 a-101-extra-sadece-online-siparis-ver-tr.ozel-mobil-shop.sbs
@@ -600,6 +601,7 @@ akyaman-lodrefiku.lol
 al-rndev-smdi-hemen.duckdns.org
 alabamarecoverycenter.com
 alabid234.github.io
+alarm-taslagi.garden
 albayquery.space
 alburdan.shop
 alcs.xyttkx.cc
@@ -1030,7 +1032,6 @@ basvurtamamlana.cloud
 basvuru-cekilis.online
 basvuru.avrupagundem.uk
 basvuru.myonlineportal.de
-basvuruadresima.cloud
 basvurukontrlleri.rf.gd
 basvurukuvytpromosyon.duckdns.org
 basvurularimiz.myonlineportal.de
@@ -1270,7 +1271,6 @@ birgulususebepolur.sbs
 birgulususebepolur1.sbs
 birikimkutusu.site
 birimuzlasma.org
-birimvergi.org
 birlinks-tr.online
 bist.youthside.co
 bitekrep.sbs
@@ -2520,7 +2520,6 @@ etrmenugarlerimguncel.xyz
 etuv-turkl.digital
 euyapteblig.org
 euyapuzlasma.org
-euzlasmabilgi.org
 euzlasmasorgu.org
 euzlasmatalimat.org
 euzlasmateblig.com
@@ -4024,7 +4023,6 @@ iskampanyaweb.xyz
 iskurbasvur.ph
 islakkurusupurgee.click
 isledijitalcepe.sbs
-islem-hizmet.com
 islem-linkiniz.com
 islembilgisistemi.abrdns.com
 islembilgitr.online
@@ -5811,6 +5809,7 @@ onlinekgmyolgcsbrcodyn.com
 onlinekirasozlesmesi.com
 onlinemagaza-karaca.vercel.app
 onlinemagazalar-karaca.vercel.app
+onlinemarketafisi.com
 onlineqnbfinansbank.com.ph
 onlinetemmuzfirsatlari.com
 onlineyeozelgunler.sbs
@@ -6314,6 +6313,7 @@ portalvatandasmhrsz.duckdns.org
 portalweb-password-security.myonlineportal.ch
 portfoynurol.com
 poseflow.icu
+positive-amber-bpwtfu3p.edgeone.dev
 power-sync-services.com
 powwowski.com
 pp55550005555.duckdns.org
@@ -6685,6 +6685,7 @@ rafa2acsjcdskjxjakk13x12.cfd
 rafa2askjcaskx123z123.cfd
 rafa2casdkkj13x123.cfd
 rafa2halksckdjkx123x13.sbs
+rafa2lcdsajcjksakjx123x12.cfd
 rafa2vasdkasckl123jkx123.cfd
 rafa3234sxdkajkjscadc123.cfd
 rafa34312sascdx12311zsasd.shop
@@ -7291,6 +7292,7 @@ sitewebi.site
 siteyegelgel.cfd
 sivri.ezpizi.click
 sixseven-krdili-taruzyuz.xyz
+size-ozel.ink
 sizeozel.xyz
 sizinli-senedi-bilgileri.click
 sizlerads.xyz
@@ -9343,6 +9345,7 @@ zenhivo.pro
 zeniro.cyou
 zensec.vip
 zenvoria.top
+zerdesa-turyederte.lol
 zerekulope-dafere.xyz
 zereolipso-certesede.xyz
 zeriko.xyz
