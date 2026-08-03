@@ -1917,7 +1917,6 @@ bnc666161616001.duckdns.org
 bnc7777091991.duckdns.org
 bnc88802002026.duckdns.org
 bnc99000012026.duckdns.org
-bncx2026xx147.duckdns.org
 bndengelensnaglsn.shop
 bndnsnrasendeadmhaybnc.shop
 bnlardanhpssnnyarr.shop
@@ -4083,6 +4082,7 @@ garandibasvru.cfd
 garanti-acc.myonlineportal.ch
 garanti-bank-bireysel.ph
 garanti-bankasionline.ph
+garanti-bireysel-basvurular-com.webredirect.org
 garanti-bireysel-basvurunuz-com.webredirect.org
 garanti-cepte-basvuruekrani-com.webredirect.org
 garanti-kredi-basvuru.sbs
@@ -8557,8 +8557,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -10733,6 +10733,7 @@ sorucenaosm.freeddns.org
 sorumlular-verilentr.garden
 sorunsuzhepburdayizbiz.com
 sosuwen.shop
+sosyalkonut-toplukonut.vercel.app
 sosyalkonutbasvurular.cfd
 sosyalxzmetleremeklicn.xyz
 sosylbasvurugovtr.sbs
@@ -11022,6 +11023,7 @@ tamamistanbulo.co
 tamamla-sip.com
 tamamla-sipars.com
 tamamladim.click
+tamamlayan-dahafazla.ink
 tamammarket.click
 tamelix.vu
 tamelora.com

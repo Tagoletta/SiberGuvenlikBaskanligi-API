@@ -5692,6 +5692,7 @@ garanti-acc.myonlineportal.ch
 garanti-b-b-v-a.my-homeip.de
 garanti-bank-bireysel.ph
 garanti-bankasionline.ph
+garanti-bireysel-basvurular-com.webredirect.org
 garanti-bireysel-basvurunuz-com.webredirect.org
 garanti-cepte-basvuruekrani-com.webredirect.org
 garanti-kredi-basvuru.sbs
@@ -11732,8 +11733,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -14570,6 +14571,7 @@ sorucenaosm.freeddns.org
 sorumlular-verilentr.garden
 sorunsuzhepburdayizbiz.com
 sosuwen.shop
+sosyalkonut-toplukonut.vercel.app
 sosyalkonutbasvurular.cfd
 sosyalxzmetleremeklicn.xyz
 sosyalyardimlasmavedayanismagovtr.online
@@ -15363,6 +15365,7 @@ tamamla-sip.com
 tamamla-siparislerini.com
 tamamla-sipars.com
 tamamladim.click
+tamamlayan-dahafazla.ink
 tamammarket.click
 tamelix.vu
 tamelora.com
