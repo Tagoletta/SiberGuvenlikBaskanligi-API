@@ -289,6 +289,7 @@
 20sitestar.nicepage.io
 21001200122.click
 2121454457788785522590.duckdns.org
+2121454457788785522591.duckdns.org
 2124552556555690.duckdns.org
 2124552556555695.duckdns.org
 2124552556555696.duckdns.org
@@ -1076,7 +1077,6 @@ ahlarahdalders.duckdns.org
 ahlatche.vercel.app
 ahlatcikuyumculuk.org
 ahlatcikuyumculuk.site
-ahlatcikuyumculukonline.com
 ahmetafafaan.net
 ahmetkafalarcancan.net
 ahmetkerimcanatbalata.digital
@@ -3981,6 +3981,7 @@ ctfsai.cc
 ctrgarlerimenuguncel.xyz
 ctroocankaa.xyz
 ctxrep.click
+cugeredesede-sederese.lol
 cuhukuludefersedesede.xyz
 cukulopi-dazedese.xyz
 culyrax.us
@@ -4258,6 +4259,7 @@ desteklem.nicepage.io
 destekmenkuldegerler.com
 destekyardimlari.com
 destekyardimlarim.com
+destekyatirimmenkuldegerler.com
 detayli-blogu-g.myonlineportal.ch
 deteledussers020201030.yyuyy.com
 deukargotakip.com
@@ -4833,7 +4835,6 @@ ekgelirhatti.com
 ekipportal.tr
 ekislem.duckdns.org
 ekkkerss.dns.navy
-ekkstrra.duckdns.org
 ekkstrsan.duckdns.org
 ekmehiniasini.sbs
 ekolayzer-lemongarenad-lil.myonlineportal.ch
@@ -5280,7 +5281,6 @@ fernharbor.store
 fertilitysaving.com
 fetch-tumpy-side.myonlineportal.ch
 feturkstore.xyz
-feviwah886.site
 feviwah886.store
 feviwah886.xyz
 fewfwfwfwfwf.info
@@ -5862,7 +5862,6 @@ gerdelerdesess.duckdns.org
 gereatas.nicepage.io
 geri-bildirim.biz
 geri-bildirimler.ink
-geri-dnk-islemleriniz.click
 geridnk-sorogreniniz.sbs
 geriislemmerkezi.site
 geriyedogru-ktekrani.click
@@ -6805,7 +6804,6 @@ hatirladigizgibi.com
 hatirlayingeliyorum2.com
 hatradaoyasmakdegldknbus456363.click
 haulmaster.bond
-hava.ltd
 havadabibulut.sbs
 havaist.istanbul
 havale-ilan.com
@@ -7341,7 +7339,6 @@ hjfitm.help
 hjhejres.online
 hjkmrtynertbw.click
 hjnertnqwnq.click
-hkerlarptlarca.xyz
 hksbcturkey.com
 hkxiu.com
 hl55polisi.online
@@ -7709,6 +7706,7 @@ iletisimsrogrenaktr.sbs
 ilgenelibasvurubasvuru.online
 ilgenelitoplubasvuru.online
 ilgileniyoruz.com
+ilgili-disp-asist.ink
 ililtrakds.nicepage.io
 ililtraks23.nicepage.io
 ilkbasvur.my-homeip.net
@@ -13395,6 +13393,7 @@ s-paran-guvenli.online
 s-sahibinden-param-guvende.store
 s-sahibinden-param-guvende.store.yurttici-kargo.com
 s-sahibinden-sozlesme.com
+s-yetenek.org.tr
 s.orove.cn
 s0k-malrket.shop
 s0karmetler.shop
@@ -13687,6 +13686,7 @@ sahibindenmuhasebeodemenoktasi.dedyn.io
 sahibindenparamguvende.tr
 sahibindenparamguvende.tr-s.online
 sahibindenparamguvendeonay.com
+sahibindenpay.shop
 sahibindensatici.com
 sahibindensaticionay.com
 sahibindensatis.click
@@ -14078,7 +14078,6 @@ servisalimlarin.online
 servisbilgi-tr.online
 servishizmetlerin.com
 servishizmetleriniz.online
-servisinllinkjet.com
 servisjethizmet.com
 servisjeticaret.com
 servisler-ticaret-sistem.com
@@ -14184,6 +14183,7 @@ simdilikgelenlerburada.com
 simdilikyaninageldi.com
 simdilikyanindaburda.com
 simdisofradahayverparmesan.sbs
+simdissenalimyapal.cloud
 simtorgo.digital
 sinaloacarte.cfd
 sinerg-kat-list.myonlineportal.ch
@@ -14417,6 +14417,7 @@ sokta-gunler.web.tr
 soktabugun.site
 soktabugun.space
 soktansiparilere.cloud
+soktansiparilerinitamamlar.cloud
 soktayim.shop
 sokundasoku.click
 solakrmas.click
@@ -15695,7 +15696,6 @@ tektikilesanagelsin.com
 tektikilesendeolsun.com
 tektiklaalisveris.com
 tektiklaevinegelllr.com
-tektiklaevlnegellr.com
 tektiklahaber.shop
 tektiklahaberim.shop
 tektiklakapinagelicek.com
@@ -17374,6 +17374,7 @@ web-182.xyz
 web-bas-vur.myonlineportal.de
 web-basvurum-grntbbva.fixip.org
 web-garanti-subesi-tr.ph
+web-lanse.ink
 web-links-mobil-tr.click
 web-links-mobil-tr.sbs
 web-meets.com
@@ -17912,6 +17913,7 @@ yardimedinlareklamsikintisivar.click
 yardimelim.com
 yardimkapisi.org
 yardimpaketim.com
+yardimpaketim.org
 yarmalli.gifts
 yasamadresi.com
 yasamamnsebebib.sbs
@@ -18499,6 +18501,7 @@ zsaxsadsadssax.sbs
 zt93mx87zr300cxa.cfd
 ztakrim.cfd
 ztarty.cfd
+ztraattrr-com.cfd
 ztrattata.nicepage.io
 ztrrkt-katlim.cfd
 ztrtrtdsryl.cfd

@@ -90,6 +90,7 @@
 1smax.com
 1temmuzayinaozelkampanyalar.duckdns.org
 2121454457788785522590.duckdns.org
+2121454457788785522591.duckdns.org
 2124552556555690.duckdns.org
 2124552556555695.duckdns.org
 2124552556555696.duckdns.org
@@ -896,6 +897,7 @@ crsastore.vercel.app
 cryptotokimarket.store
 cspryenignce.duckdns.org
 css-cameras-strongly-jaguar.trycloudflare.com
+cugeredesede-sederese.lol
 currentbeam.online
 currentnest.today
 currentwave.top
@@ -983,6 +985,7 @@ designmind.shop
 designvexa.com
 destekcimyardim.com
 destekmenkuldegerler.com
+destekyatirimmenkuldegerler.com
 deteledussers020201030.yyuyy.com
 dev.turkcellpasajsanalmagaza.com
 deviom.xyz
@@ -1506,7 +1509,6 @@ grsziryut.cfd
 grubabioc.online
 grubabioc.shop
 gsrzirtf.cfd
-gstaticnews.com
 gstaticrenewed.com
 gstaticsnewsz.com
 gukgukmuyo-cikcikfede.lol
@@ -1581,9 +1583,7 @@ haberler1436542.sbs
 haberler145365349.sbs
 haberler2223399.sbs
 haberler223522.sbs
-haberler233434123.shop
 haberler235342.com
-haberler2354123.shop
 haberler235423.sbs
 haberler3123512.shop
 haberler3242.sbs
@@ -1759,7 +1759,6 @@ hizli-online-islemler.com
 hizli-siparis-baglanti.com
 hizli-siparis-linki.com
 hizli-siparis-onaylama-baglantisi.com
-hizli-siparis-sayfasi.com
 hizligecisbakiyesistemi.firebaseapp.com
 hizligecisbakyeyuklme.web.app
 hizligecisetiketiniz.firebaseapp.com
@@ -1878,6 +1877,7 @@ ile-alisverislerini-tamamlama.com
 ileribakislar.com
 ilerivizyonrotasi.com
 ilerleme-yaptirim-grim.myonlineportal.ch
+ilgili-disp-asist.ink
 ilkbasvurum.my-homeip.net
 ilkevim.basvurun-1.sbs
 ilkisaret.info
@@ -2529,7 +2529,6 @@ muhugudueretese-duguhuderede.lol
 muhugufe-redesede.lol
 mujuhubi-bililide.lol
 mulopikare-zudese.xyz
-muluguharese-defe.xyz
 musicnexa.com
 muzegezi.click
 muzehizmet.click
@@ -2827,7 +2826,6 @@ paribu-sansliaraba.com
 paribu-technology.com
 paribuaraba-hediye.com
 paribuaraba-sansi.com
-paribuarabaayricalik.com
 paribuarabacekilisikazan.com
 paribuarabafirsatlari.com
 paribuarabahayali.com
@@ -3164,6 +3162,7 @@ s-paramguvende.tr-onaybilgi.online
 s-paramguvende.tr-siparisonay.online
 s-paramguvende.trodemeservis.online
 s-sahibinden-sozlesme.com
+s-yetenek.org.tr
 s.orove.cn
 s0kmalrlet.shop
 s0kmarjklet.shop
@@ -3256,6 +3255,7 @@ sahibindenguvenlimuhasebeodemeleri.duckdns.org
 sahibindenkargo-islem.com
 sahibindenkaskoodemenoktasi.duckdns.org
 sahibindenparamguvendeonay.com
+sahibindenpay.shop
 sahibindensatici.com
 sahibindensaticionay.com
 sahibindensatis.org
@@ -3352,6 +3352,7 @@ signalpost.info
 simdi-40binpromsyonmo-burdan.cfd
 simdidebirazburdan.yyuyy.com
 simdilikgelenlerburada.com
+simdissenalimyapal.cloud
 sinirlar-belirleme-durdur.myonlineportal.ch
 sinirlisayidaurununuz.sbs
 sinirsizkampanyalarinizkapida.xyz
@@ -3405,6 +3406,7 @@ sokta-gunler.com.tr
 sokta-gunler.org.tr
 soktabugun.site
 soktabugun.space
+soktansiparilerinitamamlar.cloud
 solastr.biz
 soliveprolprsp.click
 solutioncivmultitechofficeit.ekiaurekacre.vu
@@ -4005,6 +4007,7 @@ wbnsn-tapurandvusun.online
 wdyenisafakvm.com
 web-bas-vur.myonlineportal.de
 web-garanti-subesi-tr.ph
+web-lanse.ink
 web-meets.com
 web-taprndvsunz.net
 web-tapsnrsandvun.info
@@ -4154,6 +4157,7 @@ yardimdestekpaketim.com
 yardimelim.com
 yardimkapisi.org
 yardimpaketim.com
+yardimpaketim.org
 yasamadresi.com
 yasamamnsebebib.sbs
 yasamdefteri.com
@@ -4299,6 +4303,7 @@ zrrrtazt.nicepage.io
 zrt300zrt.cfd
 zrt300zzrtt.sbs
 zt93mx87zr300cxa.cfd
+ztraattrr-com.cfd
 ztrattata.nicepage.io
 ztrrkt-katlim.cfd
 ztrtrtdsryl.cfd
