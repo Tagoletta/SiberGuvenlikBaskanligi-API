@@ -1743,7 +1743,6 @@ hgsbakiyeyuklmei.firebaseapp.com
 hgsbakiyuklemes.firebaseapp.com
 hgsbakyeyklesmdi.cfd
 hgsbkyeyklecfd.cfd
-hgseklebkyeykle.cfd
 hgshgsykleykle.cfd
 hgsodemehizmetler.com
 hgsodemehizmetler.info
@@ -2516,7 +2515,6 @@ mobilden.myonlineportal.de
 mobildeyiz.myonlineportal.de
 mobilentry.my-homeip.de
 mobilerism.myonlineportal.de
-mobilservis-87.sbs
 mobilservisin-10.sbs
 mobilservisin-15.sbs
 mobilservisin-20.sbs
@@ -3194,7 +3192,6 @@ s-paramguvende.servisbilgi-tr.online
 s-paramguvende.tr-onaybilgi.online
 s-paramguvende.tr-siparisonay.online
 s-sahibinden-sozlesme.com
-s-yetenek.org.tr
 s.orove.cn
 s0kmalrlet.shop
 s0kmarjklet.shop
@@ -3240,7 +3237,6 @@ sahibinden-get.ilanservis-odemehizmetin.online
 sahibinden-get.islem-alisveris-hizmet.com.tr
 sahibinden-get.mobilservisin-10.sbs
 sahibinden-get.mobilservisin-25.sbs
-sahibinden-get.mobilservisiniz-15.sbs
 sahibinden-get.mobilservisler-49.sbs
 sahibinden-get.mobilservisler-70.sbs
 sahibinden-get.mobilservisler-71.sbs
@@ -4028,8 +4024,6 @@ vizyonarackiralama.com
 vizyoncagrisi.com
 vizyoncephesi.com
 vocal-sfogliatella-400a98.netlify.app
-vodafone-card-g.pages.dev
-vodafone-card4.pages.dev
 voltamotorluaraclar.com
 voltasatis.com
 vomare5964.space

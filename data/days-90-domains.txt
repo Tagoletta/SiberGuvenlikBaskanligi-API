@@ -8513,8 +8513,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -9866,7 +9866,6 @@ s-paramguvende.trodemeservis.online
 s-paran-guvenli.online
 s-sahibinden-param-guvende.store.yurttici-kargo.com
 s-sahibinden-sozlesme.com
-s-yetenek.org.tr
 s.orove.cn
 s0k-malrket.shop
 s0karmetler.shop

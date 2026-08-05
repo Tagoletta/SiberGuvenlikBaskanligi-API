@@ -5904,8 +5904,8 @@ otokocfilo.net
 otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -6896,7 +6896,6 @@ s-paramguvende.tr-onaybilgi.online
 s-paramguvende.tr-siparisonay.online
 s-paramguvende.trodemeservis.online
 s-sahibinden-sozlesme.com
-s-yetenek.org.tr
 s.orove.cn
 s0kmalketler.shop
 s0kmalrlet.shop
