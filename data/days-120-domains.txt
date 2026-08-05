@@ -120,7 +120,6 @@
 124124121.sbs
 124124124.duckdns.org
 12412414.duckdns.org
-12421hjhfkhsgd.click
 124451545544554888787990.duckdns.org
 124451545544554888787991.duckdns.org
 124451545544554888787992.duckdns.org
@@ -2517,6 +2516,7 @@ BilgiCheckersSystem.lovestoblog.com
 bilgicheckerssystemm.lovestoblog.com
 bilgidosyasi.com
 bilgikayit.abrdns.com
+bilgilendirme-merkezi.sbs
 bilgilendirme-tr.online
 bilgilendirmearayuzu.abrdns.com
 bilgilendirmesayfasi.misecure.com
@@ -3004,7 +3004,6 @@ brulqave.vu
 brunestavok.gifts
 brunetadoli.gifts
 brushcreators.com
-bruvular.online
 bruvularin.online
 bruvulars.online
 bruzakel.com
@@ -6792,7 +6791,6 @@ hastnedkekse.com
 hastneisleriogrn.cfd
 hastnhrandvm.online
 hastvdrandvm.online
-hataylivezir.duckdns.org
 hatirladiginiz.com
 hatirladigizgibi.com
 hatirlayingeliyorum2.com
@@ -8142,7 +8140,6 @@ istefirsatlarburda.com
 istekuzerineistanbul.xyz
 istelmancankart.xyz
 istemredo.xyz
-istemredogan.com
 istengelenler.shop
 isthasnbllm.com
 isthemen.sbs
@@ -8610,6 +8607,7 @@ karikatur-line.click
 karisik.click
 kariyerplanlamavestratejileri.shop
 karmab.nicepage.io
+karmavotogalerist.duckdns.org
 karnpanyalarirn.xyz
 karostmufz.com
 karovexim.com
@@ -8690,7 +8688,6 @@ kekrswwwsan.blogspot.com
 keldarux.vu
 keldorav.com
 kellea.hegikeiroz.workers.dev
-kelllassx3.dns.navy
 kellystreets.info
 kelmix.org
 kelmixon.surf
@@ -9322,7 +9319,6 @@ kredst-pay.cfd
 krelastonui.icu
 krelavonuti.gifts
 krenta.gifts
-krermassy.blogspot.com
 krevon.org
 krevont.cyou
 krevont.org
@@ -9825,7 +9821,6 @@ maaspromosyon.my-homeip.de
 mabiduw.xyz
 mac17irez.webredirect.org
 machavdsajqweqe123x.cfd
-macheriez.webredirect.org
 machiacdsxj1k23x12.cfd
 macljksave.life
 mactest-6b2ab-default-rtdb.firebaseio.com
@@ -11704,8 +11699,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -12744,7 +12739,6 @@ publiclumen.sbs
 publicspeakingtip.org
 publicupdate.org
 publicyn.com
-pudomaeuri.net
 pueedusstaff.unaux.com
 pulsario.online
 pulse-vol.com
@@ -13372,6 +13366,7 @@ s-paran-guvenli.online
 s-sahibinden-param-guvende.store
 s-sahibinden-param-guvende.store.yurttici-kargo.com
 s-sahibinden-sozlesme.com
+s-yetenek.org.tr
 s.orove.cn
 s0k-malrket.shop
 s0karmetler.shop
@@ -17661,7 +17656,6 @@ xddqjfhgtwbg.xyz
 xe54ghj.com
 xebrunal.com
 xeebii.com
-xelavodiru.info
 xeldaqur.shop
 xelimorav.capital
 xelmalli.gifts
