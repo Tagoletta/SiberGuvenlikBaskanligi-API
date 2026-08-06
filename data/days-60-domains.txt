@@ -1583,7 +1583,6 @@ bva-bsvru.lat
 bva-click.lat
 bva-global.lat
 bvbvbva128282828992.duckdns.org
-bvbvbva28282828992.duckdns.org
 bxivo.quest
 byte-armor.com
 byte-buff.com
@@ -4181,7 +4180,6 @@ istanfess.xyz
 istanfreefess.xyz
 istankart.xyz
 istankarttt.xyz
-istbelgim.xyz
 istbelgimcan.xyz
 istcanban.xyz
 istcanistanbulbelgim.xyz
@@ -4230,7 +4228,6 @@ izlakfoas.blogspot.com
 izlakosta.blogspot.com
 izlaotsaas.blogspot.com
 izlasfqwrs.blogspot.com
-izlcnn.duckdns.org
 izlcon.dnsup.net
 izlcop.dnsup.net
 izlcos.dnsup.net
@@ -4648,7 +4645,6 @@ kmverisorgu.com
 kmyenilmezi.xyz
 kmyikilmazi.xyz
 kndanglrbndensana.shop
-knorse2xz1.duckdns.org
 knowib.com
 knowledgetree.courses
 kocavs.online
@@ -5937,8 +5933,8 @@ otokocfilo.net
 otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -6935,6 +6931,7 @@ s-paramguvende.tr-siparisonay.online
 s-paramguvende.trodemeservis.online
 s-sahibinden-sozlesme.com
 s-x.xxxxxxxxx111111.xyz
+s-yetenek.org.tr
 s.orove.cn
 s0kmalketler.shop
 s0kmalrlet.shop

@@ -4655,7 +4655,6 @@ e-sube.hedefonmusteripanel.com
 e-sube.infobireysel.online
 e-sube.istanbul-portfoydanismanlik.com
 e-sube.tunafonyonetimi.com
-e-subelogin.vercel.app
 e-subeloginbasvuru.vercel.app
 e-tokiislemlerinebasla.digital
 e-tuvturkkkefsanee.digital
@@ -10297,7 +10296,6 @@ mhltkfardn.com
 mhmhhmhmhrsbsvbvvs.click
 mhmrmnsnzlere.com
 mhmrmsannsm.org
-mhmrmsnbzlermsn.org
 mhmrmsnersmzn.giize.com
 mhmrmsnesnmzsnds.org
 mhmrmsnmnrsm.org
@@ -11702,8 +11700,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -12203,7 +12201,6 @@ pinkyslauncher.com
 pipicka.xyz
 pipipoopochek6.com
 piramitsube.com
-piranntech.com
 pirantech.top
 pirantleclh.com
 pirantlleclh.com
@@ -13373,6 +13370,7 @@ s-sahibinden-param-guvende.store
 s-sahibinden-param-guvende.store.yurttici-kargo.com
 s-sahibinden-sozlesme.com
 s-x.xxxxxxxxx111111.xyz
+s-yetenek.org.tr
 s.orove.cn
 s0k-malrket.shop
 s0karmetler.shop

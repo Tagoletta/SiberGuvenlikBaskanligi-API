@@ -401,7 +401,6 @@
 5515151.xyz
 552662.lat
 55555551200055555005.gleeze.com
-5654886546413216.duckdns.org
 56732423564357.org
 5678766452222.net
 5685632523532.org
@@ -861,7 +860,6 @@ aktivasyonsagla.duckdns.org
 aktivetealla.vercel.app
 aktlurunler.blogspot.com
 aktuel-a-1-0-1.duckdns.org
-aktuel-katalogumm.shop
 aktuelcebinde.com
 aktuelfirsatlarihizliii.duckdns.org
 aktuelfirsatlarii.blogspot.com
@@ -2202,7 +2200,6 @@ burda-frslat.xyz
 burdaemhrsrandvlrmz.sbs
 burdageldlsimdn.shop
 burdageldlsimdn.xyz
-burdayzsendegelkatl89.click
 burdnvlarasndbk.com
 burefuda-zelokipare.lol
 burkesa-xurefali.lol
@@ -3524,7 +3521,6 @@ eslesme-edinim.guru
 eslink.click
 esnek-figur.ink
 esnrbrdaskyrz.shop
-esoayfo.finksbish.sbs
 esorgu-onaylanansorgulariniz.sbs
 esorguuzlasma.org
 esrmhrlrandvlar.com
@@ -4071,7 +4067,6 @@ garantimenkuldegerler.com
 garantimenkultrade.com
 garantimobilbbva-hizliislem.ph
 garantimobilimde.duckdns.org
-garantionlinemobil.site
 garantisizlerlerkredii.autos
 garantisizlerlerkredii.cfd
 garantisizlerlerkredii.lat
@@ -5271,7 +5266,6 @@ hizlikempos.xyz
 hizlikmburda.xyz
 hizlikmlerinizburda.firebaseapp.com
 hizlikmlerinizburda.web.app
-hizlikmsrglma.xyz
 hizlikmvemuz.xyz
 hizlimarketalim.click
 hizlimenu-yazi.click
@@ -8441,8 +8435,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -9759,6 +9753,7 @@ s-paran-guvenli.online
 s-sahibinden-param-guvende.store.yurttici-kargo.com
 s-sahibinden-sozlesme.com
 s-x.xxxxxxxxx111111.xyz
+s-yetenek.org.tr
 s.orove.cn
 s0k-malrket.shop
 s0karmetler.shop
@@ -9867,10 +9862,8 @@ sahibinden-get.guvenli-hizmet.online
 sahibinden-get.guvenliodemehizmet.online
 sahibinden-get.guvenliodemelerim.online
 sahibinden-get.guvenlisepetler-hizmet.online
-sahibinden-get.ilandetay-jet.com
 sahibinden-get.ilanjet-hizmetler.com
 sahibinden-get.ilanservis-odemehizmetin.online
-sahibinden-get.ilanservisnhizmet.com
 sahibinden-get.islem-alisveris-hizmet.com.tr
 sahibinden-get.islem-guvende.online
 sahibinden-get.jet-servis-hizmetlerim.online
@@ -10211,7 +10204,6 @@ servicefor8.com
 servicewithoutinterruption.de
 servis-hizmet-tr.online
 servis-hizmetleri.online
-servis-hizmetlerim.online
 servis-islem-bilgi.online
 servis-islem.online
 servisalimlarin.online
@@ -10452,7 +10444,6 @@ sokagirdim.xyz
 sokaklaroldubasimabela.duckdns.org
 sokaraca.shop
 sokarcas.store
-sokayfrstlar.sudehzndrogl.workers.dev
 soketescepte.lat
 sokindirim-market.com
 sokkampanyaindirimleri.duckdns.org
@@ -10984,7 +10975,6 @@ teb-info.info
 tebbasvurusayfa.my-homeip.de
 tebcepte-sube-parola.myonlineportal.de
 tebdeburdabasvuru.my-homeip.de
-tebdenpromosyon.my-homeip.de
 tebdeyim-cepteyim.myonlineportal.de
 tebefsykh.abrdns.com
 tebicinbasvuru.my-homeip.de
