@@ -10,6 +10,7 @@ An open-source tool that mirrors **Turkey's Cybersecurity Directorate** threat-i
 [![Last commit](https://img.shields.io/github/last-commit/Tagoletta/SiberGuvenlikBaskanligi-API/main?logo=github)](https://github.com/Tagoletta/SiberGuvenlikBaskanligi-API/commits/main)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 [![Made with Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](scraper/fetch.py)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Tagoletta)
 
 </div>
 
@@ -24,6 +25,7 @@ An open-source tool that mirrors **Turkey's Cybersecurity Directorate** threat-i
   - [Güvenlik duvarı kullanımı](#güvenlik-duvarı-kullanımı)
   - [Nasıl çalışır?](#nasıl-çalışır)
   - [Docker](#docker-ile-çalıştırma-isteğe-bağlı)
+  - [Destek olun 💖](#destek-olun-)
 - [🇬🇧 English](#-english)
   - [What is this?](#what-is-this)
   - [Live record counts](#live-record-counts)
@@ -31,6 +33,7 @@ An open-source tool that mirrors **Turkey's Cybersecurity Directorate** threat-i
   - [Firewall usage](#firewall-usage)
   - [How it works](#how-it-works)
   - [Configuration](#configuration)
+  - [Sponsor this project 💖](#sponsor-this-project-)
 
 ---
 
@@ -106,6 +109,14 @@ docker compose logs -f
 ```
 
 Listeler `./data` klasöründe oluşur.
+
+### Destek olun 💖
+
+Bu proje tamamen açık kaynaktır ve boş zamanlarda geliştirilmektedir. Faydalı bulduysanız [GitHub Sponsors](https://github.com/sponsors/Tagoletta) üzerinden destek olabilirsiniz — her katkı, projenin bakımını ve yeni özellikleri motive eder.
+
+[![Sponsor @Tagoletta](https://img.shields.io/badge/GitHub%20Sponsors-Tagoletta-ea4aaa?logo=githubsponsors&logoColor=white&style=for-the-badge)](https://github.com/sponsors/Tagoletta)
+
+Maddi destek dışında ⭐ vermek, hata bildirmek veya [katkıda bulunmak](CONTRIBUTING.md) da çok değerlidir.
 
 ---
 
@@ -217,6 +228,14 @@ GET https://siberguvenlik.gov.tr/api/address/index?type={domain|url|ip|ip6|ip6ne
 ```
 
 API documentation: `https://siberguvenlik.gov.tr/api/openapi.yaml`
+
+### Sponsor this project 💖
+
+This project is fully open source and maintained in spare time. If you find it useful, consider supporting it via [GitHub Sponsors](https://github.com/sponsors/Tagoletta) — every contribution helps keep the lists running and motivates new features.
+
+[![Sponsor @Tagoletta](https://img.shields.io/badge/GitHub%20Sponsors-Tagoletta-ea4aaa?logo=githubsponsors&logoColor=white&style=for-the-badge)](https://github.com/sponsors/Tagoletta)
+
+Starring the repo ⭐, reporting issues, or [contributing](CONTRIBUTING.md) is equally appreciated.
 
 ---
 
