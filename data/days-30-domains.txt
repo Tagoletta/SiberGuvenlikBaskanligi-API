@@ -54,7 +54,6 @@
 13222214544588989990897.duckdns.org
 13222214544588989990898.duckdns.org
 13222214544588989990899.duckdns.org
-145455588989998995.duckdns.org
 145455588989998996.duckdns.org
 145455588989998997.duckdns.org
 145455588989998998.duckdns.org
@@ -1471,6 +1470,7 @@ granlyx.com
 granlyx.cyou
 granti-web.nicepage.io
 grantiibba.duckdns.org
+grantiscylk.cfd
 gratis.anointedacres.com
 gratis.globalscholarpress.com
 gratis.lakeboundtech.com
