@@ -2357,7 +2357,6 @@ caymakinesi-aktuel.lat
 cc0c0c302as23.duckdns.org
 ccc232131x213.duckdns.org
 cccad9f0-3.b-cdn.net
-ccddrjgnmarkt.shop
 ccistiom.xyz
 ccnsksndnsndnsadasa.com
 cdn.erpsaz.com
@@ -3219,6 +3218,7 @@ e-mhrsilesagliikliia.digital
 e-mhrsilesagliklibakislar.digital
 e-mhrsilesaglikliyasamm.digital
 e-mhrsrandevulariylayasams.digital
+e-nviirandevu.com
 e-nvirandevu.com
 e-nvirandevu.org
 e-odeme.duckdns.org
@@ -3317,7 +3317,6 @@ efsanefirsatlartektikla.com
 efsanefrstlarburdakpnda1o1.shop
 efsanefrstlarkapinizda1o1.shop
 efsanehaziranlndrmi.com
-efsaneleryeniden.beer
 efsanelndldlrmlvaktlerl.com
 efsanelndlrlmflrsatlarlslzlnleberaber.com
 efsanelndlrlmsaatlerlbasladdill.com
@@ -3567,7 +3566,6 @@ esube.iknmusteri.online
 esubem--qnbfinansbank.ph
 esubem-tebde-pro.my-homeip.de
 esubeturkishkayit.com
-esyataslmasd.com
 etalimatdosya.org
 etalimatkamu.org
 etebligatkontrol.org
@@ -4773,7 +4771,6 @@ hadi202600010.duckdns.org
 hadi232454354354335.duckdns.org
 hadiaktivasyon.com
 hadidmaosuz.com
-haditomkampanya.duckdns.org
 hadlykhlzma.com
 hadntasmcalk.com
 hadrion.shop
@@ -6235,7 +6232,6 @@ karaca-ev.shop
 karaca-haziran.vercel.app
 karaca-indirimde.vercel.app
 karaca-indirimgunu.vercel.app
-karaca-mayis.vercel.app
 karaca-mode.shop
 karaca-modes.shop
 karaca-onlinemagaza.vercel.app
@@ -8308,7 +8304,6 @@ onlineekonomikdestekmobilapptr.xyz
 onlinegarantimobile.myftp.org
 onlinehaziranfirsatlari.com
 onlinehemen.com
-onlineilanlarimptt.com
 onlineindirimkulubu4.sbs
 onlineislemler-canliyardim.duckdns.org
 onlineislemmerkezleria101.pages.dev
@@ -8467,8 +8462,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -9325,7 +9320,6 @@ pttavmonlineislemlerim.com
 pttavmonlinesepethemenal.com
 pttavmsepethemenal.com
 pttavmsepetimdenal.com
-pttavmsepetimdeonline.com
 pttavmsepetimhemenal.com
 pttavmsepettenal.com
 pttavmsepettensatinal.com
@@ -9339,7 +9333,6 @@ pttavn-kilomtre-islem-sorgu.firebaseapp.com
 pttavn-kilomtre-islem-sorgu.web.app
 pttavn-km-sorgu-merkezi.web.app
 pttawmkmsorgulamam.shop
-pttguvenliodemesiparis.com
 ptthgsbakieyukleme.web.app
 ptthgsbakiyeyuklemes.web.app
 ptthgsbakiyeyuklme.web.app
@@ -11132,6 +11125,7 @@ tellocancan.co
 tells-vendors-speech-taste.trycloudflare.com
 telvexi.com
 telvoro.onl
+temizlikyapiyoruz.click
 temizlikyapiyoruz.cyou
 temmuz-cepte.net.tr
 temmuz-cepte.org.tr
@@ -11765,7 +11759,6 @@ turkhavayollarikampanyasi.neresiseyde.sbs
 turkiinvest.com
 turkish-airlines.com.ph
 turkish-airlines.ph
-turkishaircrg.com
 turkishairlines-emeklikampanyasi.vaybetekbasina.lat
 turkishairlines.net.ph
 turkishairlineskampanya.olumedavet.sbs
@@ -12901,7 +12894,6 @@ yeniyepyenifirsatlar.com
 yeniyilmlgrsoss.online
 yenizgirirs2026.com
 yenpanlen35x321.duckdns.org
-yenpatladnkamtanyasd33.click
 yens6da.nicepage.io
 yepisyen.18mayisbasvurlardadevam.cloud
 yepisyen.arakampanyalardonem.cloud
