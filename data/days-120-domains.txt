@@ -2600,7 +2600,6 @@ bilimuskudar.zone.id
 bilopiddsade-cere.xyz
 bilsesavasiyorumdahanelerle.sbs
 bilukufere-gudazese.xyz
-bimbasvuru.com
 bimcellodeme.ph
 bimmarketleri.com
 binance-web30.shop
@@ -5699,6 +5698,7 @@ garanti-acc.myonlineportal.ch
 garanti-b-b-v-a.my-homeip.de
 garanti-bank-bireysel.ph
 garanti-bankasionline.ph
+garanti-basvuru-bireysel-com.webredirect.org
 garanti-basvuru-bonus-islemlerim.mayddns.com
 garanti-basvuru-bonus.mayddns.com
 garanti-bireysel-basvurular-com.webredirect.org
@@ -8265,7 +8265,6 @@ izltsbobdd.duckdns.org
 izltsboss.duckdns.org
 izltsbotr3.blogspot.com
 izltsfirsatis.duckdns.org
-izltsfopaps.dns.navy
 izltskrbss.dns.navy
 izltsoapqfs.duckdns.org
 izltsoppass.dns.navy
@@ -11701,8 +11700,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -12192,7 +12191,6 @@ perion.vu
 perplexity-platform.gitlab.io
 persaniusdimonica8.com
 personalsafe.cyou
-personelbasvuru.com
 PEsnCV.short.gy
 pestquiltsurprise.com
 petalara.com
@@ -13032,6 +13030,7 @@ rafac123lx123klx123z1.cfd
 rafadantayfa13x123x1312.sbs
 rafaekkcjsakax123.cfd
 rafael13jxk12kjxkaskdas.cfd
+rafaelcimxd.duckdns.org
 rafaeldyidenqz.duckdns.org
 rafaeldyixb.duckdns.org
 rafaeldykisn.duckdns.org
@@ -16274,7 +16273,6 @@ transferforadg.click
 transitcaxip.com
 transitopalermo.com
 tranzed.org
-trasliyeceza.org
 travelix.lat
 travels-network-contrast-slides.trycloudflare.com
 travimin.org

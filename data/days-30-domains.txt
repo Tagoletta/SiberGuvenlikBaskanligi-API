@@ -1317,6 +1317,7 @@ gallerybox.pics
 gallerymission.com
 garandibas.cfd
 garandibasvru.cfd
+garanti-basvuru-bireysel-com.webredirect.org
 garanti-basvuru-bonus-islemlerim.mayddns.com
 garanti-basvuru-bonus.mayddns.com
 garanti-bireysel-basvurular-com.webredirect.org
@@ -3039,6 +3040,7 @@ rafa6cadkjasjkdax13x1x312.cfd
 rafa7cadscadskjxk13x123x123.cfd
 rafac123lx123klx123z1.cfd
 rafael13jxk12kjxkaskdas.cfd
+rafaelcimxd.duckdns.org
 rafaeldyidenqz.duckdns.org
 rafaeldyixb.duckdns.org
 rafaeldykisn.duckdns.org
@@ -3843,7 +3845,6 @@ umre-kuveytorg.duckdns.org
 umutototamironarimcilaa.duckdns.org
 universus.stream
 updata.net.cn
-uptimedeepblue.yyuyy.com
 urbanheadline.site
 urbanlenta.com
 urbanloria.gifts
