@@ -6392,7 +6392,6 @@ kgm.hhtfrm.help
 kgm.ltgxo.help
 kgm.pjxsjz.click
 kgm.qtllum.help
-kgm.vtgfwh.cc
 kgm7218.top
 kgm7995.top
 kgmagov.buzz
@@ -8493,8 +8492,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -8697,6 +8696,7 @@ paribuaraba-hediye.com
 paribuaraba-kazanci.com
 paribuaraba-kazanci.info
 paribuaraba-kazanci.link
+paribuaraba-kazandim.info
 paribuaraba-kazanma.com
 paribuaraba-kazanma.info
 paribuaraba-kazanma.link
@@ -10168,7 +10168,6 @@ savorlibr.digital
 saxasaxasxasx2.cfd
 saxasdasfagfaf1.cfd
 saxashdsaghdgha11.cfd
-saxashdsaghdgha11.cyou
 saxdasc123x12312.shop
 sayayaya.duckdns.org
 sayayayaya.duckdns.org
@@ -10901,9 +10900,11 @@ sube-kuveyt-ttr.duckdns.org
 sube-kuveyt-turk.duckdns.org
 sube-matriksmenkulkiymetler.com
 sube-mobilkvyt.duckdns.org
+sube.garanti.fun
 sube.mufgfinance.net
 sube.sekermenkul.com
 sube.sekerplatform.pro
+subedenmobiliz.myonlineportal.de
 subeinf.com
 subeislemlerim-akbank.ph
 subemiz-garanti.myonlineportal.eu
@@ -13078,7 +13079,6 @@ yurticikargo-sorgulama.com
 yurudumdurmamasla.sbs
 yuskanca.duckdns.org
 yutnertbwervw.click
-yutngjg3434.click
 yutoosacan.duckdns.org
 yutoridesignpty.com
 yutorsacankacan.duckdns.org

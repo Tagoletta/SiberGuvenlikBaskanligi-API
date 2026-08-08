@@ -1113,7 +1113,6 @@ ekranportalmhrsgirisvatandas.duckdns.org
 ekstra101.dpdns.org
 ekwlqrsgm.sbs
 elaexallance.com
-elektronik-alisveris-merkezi.com
 elenamasaj.com
 elestiri-online.ink
 elitgsm.com
@@ -2763,6 +2762,7 @@ paribuaraba-hediye.com
 paribuaraba-kazanci.com
 paribuaraba-kazanci.info
 paribuaraba-kazanci.link
+paribuaraba-kazandim.info
 paribuaraba-kazanma.com
 paribuaraba-kazanma.info
 paribuaraba-kazanma.link
@@ -3163,7 +3163,6 @@ sahibinden-sozlesmesi.hizmet-islememleri.com
 sahibinden.e-elektronik-firsat-sepetimiz.com
 sahibinden.e-ilan-elektronik-sepetimiz.com
 sahibinden.e-ilan-elektronik.com
-sahibinden.elektronik-alisveris-merkezi.com
 sahibinden.fast-havale.com
 sahibinden.fast-ilan.com
 sahibinden.get-paramguvende.my
@@ -3438,8 +3437,10 @@ sube-kuveyt-ttr.duckdns.org
 sube-kuveyt-turk.duckdns.org
 sube-matriksmenkulkiymetler.com
 sube-mobilkvyt.duckdns.org
+sube.garanti.fun
 sube.mufgfinance.net
 sube.sekermenkul.com
+subedenmobiliz.myonlineportal.de
 subeislemlerim-akbank.ph
 subemiz-garanti.myonlineportal.eu
 subesimobil.my-homeip.de
