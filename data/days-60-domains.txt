@@ -2779,7 +2779,6 @@ floworix.com
 flowradarpro.com
 flrsatvaktlndekaplnizageldi.com
 flsdwnld.online
-fnaostuz.com
 foela.live
 fokindenfo1.lol
 fokushebatzz.com
@@ -3915,7 +3914,6 @@ hsgpraykleme.cfd
 hstanerandevm.com
 hstnarrndva.com
 hstneekr.cfd
-html-replica-controller-perceived.trycloudflare.com
 hub.ssa-userstatus.com
 hugifidier-redsedese.lol
 hugufudere-redesede.lol
@@ -5229,6 +5227,7 @@ merkezinkayitli.abrdns.com
 merkezisistem-b.com
 merkeziyetkayit.abrdns.com
 merkeziyetsizbasvuru.abrdns.com
+merkeziyetsizbasvuru.com
 merkezkayitarayuzu.abrdns.com
 merkezkayiti.abrdns.com
 merkezlekayit.abrdns.com
@@ -5970,8 +5969,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net

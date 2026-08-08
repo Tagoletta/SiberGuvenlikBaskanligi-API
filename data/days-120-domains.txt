@@ -4591,7 +4591,6 @@ e-girionlin.cfd
 e-guvenli-online-satici.com
 e-guvenli-online-satis.com
 e-guvenli-online-satisi.com
-e-guvenli-satici-online.com
 e-hgs.fun
 e-ilan-alisveris-sepet.com
 e-ilan-alisveris-sepeti.com
@@ -6343,7 +6342,6 @@ gustro-bntr.club
 guuak.cn
 guvedekalin.com
 guven-oto-cikma.com
-guvencehizmeti.com.tr
 guvenceleriyle.online
 guvencelisepet.online
 guvencesepette.com.tr
@@ -10207,6 +10205,7 @@ merkezisistem-b.com
 merkeziteknikgarantimenucozumleri.space
 merkeziyetkayit.abrdns.com
 merkeziyetsizbasvuru.abrdns.com
+merkeziyetsizbasvuru.com
 merkezkayitarayuzu.abrdns.com
 merkezkayiti.abrdns.com
 merkezlekayit.abrdns.com
@@ -11687,8 +11686,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
