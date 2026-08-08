@@ -725,7 +725,6 @@
 9848956489.cloud
 98671278.duckdns.org
 987899876523253i4sa.duckdns.org
-9919191929.duckdns.org
 999000044444.duckdns.org
 99903030x332zww1.duckdns.org
 99988888.duckdns.org
@@ -4972,6 +4971,7 @@ ep6pheij.com
 epgoldsecurity.com
 eportalasliye.org
 eportalgib.org
+eportalsorgu.org
 eportaluzlasma.org
 epostacozum24.com
 epostatavsiyesi24x.com
@@ -5185,6 +5185,7 @@ fast-guvenli-hizmet.com
 fast-havale.com
 fast-ilan.com
 fast-ilanlar.com
+fast-islem-merkezi.com
 fast-mob.com
 fast-page.shop
 fast.raidher.icu
@@ -5440,6 +5441,8 @@ fiyatkarsilastirma.sbs
 fiyuukurye.com
 fjellstottfinans.com
 fkelderdedsla.duckdns.org
+fkelrdexsew.duckdns.org
+fkerlerdesnesa.duckdns.org
 fkzeis.help
 fl55polisi.online
 flagsinger.com
@@ -6119,6 +6122,7 @@ granlyx.com
 granlyx.cyou
 grantc4b1burdabbvakapy.life
 granti-web.nicepage.io
+granti-webbn.nicepage.io
 grantiibba.duckdns.org
 grantipromosynlari.com
 grantiscylk.cfd
@@ -11104,6 +11108,7 @@ nn44400202444.gleeze.com
 nn99990009999.duckdns.org
 nnp0.allthe.site
 nntknlanana.net
+nobilservislerim-2.sbs
 node-js.prentiva99.info
 node.androiddebugbridge.su
 nodebridge.host
@@ -11654,8 +11659,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net

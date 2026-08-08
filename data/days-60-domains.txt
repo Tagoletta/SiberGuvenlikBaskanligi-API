@@ -439,7 +439,6 @@ a1o1indir.duckdns.org
 a1o1kampalrmbrda.sbs
 a1o1kampanya.blogspot.com
 a1o1kampanyalarii.duckdns.org
-a1o1korkmazfirsatlari.blogspot.com
 a1o1por.duckdns.org
 a1o1simdiaktuel.duckdns.org
 a1o1taktak.duckdns.org
@@ -1553,7 +1552,6 @@ burads12-d31e5cdcee96.herokuapp.com
 burads122-65256e8d16cd.herokuapp.com
 burads122-89f2549f0778.herokuapp.com
 burakapp-78ebd453f21b.herokuapp.com
-buralar102.site
 burda-frslat.xyz
 burdaemhrsrandvlrmz.sbs
 burdageldlsimdn.shop
@@ -2472,6 +2470,7 @@ eolvaru.com
 eonllinemobiledijitalimit.xyz
 eorgke09054909j.com
 eorthopaedics.com
+eportalsorgu.org
 eportaluzlasma.org
 equinoxpanda.com
 equityva.capital
@@ -2593,6 +2592,7 @@ fast-guvenli-hizmet.com
 fast-havale.com
 fast-ilan.com
 fast-ilanlar.com
+fast-islem-merkezi.com
 fast-mob.com
 fast-page.shop
 fast.raidher.icu
@@ -2724,6 +2724,8 @@ fiyatkarsilastirma.sbs
 fiyuukurye.com
 fjellstottfinans.com
 fkelderdedsla.duckdns.org
+fkelrdexsew.duckdns.org
+fkerlerdesnesa.duckdns.org
 flakecheck.online
 flas-smart-umut.org
 flashforward.longviews.ai
@@ -3108,6 +3110,7 @@ granly.xyz
 granlyx.com
 granlyx.cyou
 granti-web.nicepage.io
+granti-webbn.nicepage.io
 grantiibba.duckdns.org
 grantipromosynlari.com
 grantiscylk.cfd
@@ -4006,7 +4009,6 @@ ingbank-online-kampanya.ph
 ingbankasi.ph
 ingbanktrwebsube.ph
 inherittaxpapers.site
-insight-sweet-drainage-appreciated.trycloudflare.com
 insightbasehq.com
 instatraksf.nicepage.io
 instatraksfa.nicepage.io
@@ -4360,7 +4362,6 @@ karakoc.online
 karapara.icu
 karar-onemli.ink
 karartr.net
-karasoftinterior.com
 karelunox.cyou
 kargotakip.e-ilan-elektronik-siparisim.com
 kargotakip.ptt.com.sistemi.biz.tr
@@ -5611,6 +5612,7 @@ nmtlmnltlntan.net
 nmtlnmtlntmntlmltn.net
 nmwcspraseves.sbs
 nnp0.allthe.site
+nobilservislerim-2.sbs
 node-js.prentiva99.info
 node.androiddebugbridge.su
 nofun.lol
@@ -5893,8 +5895,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net

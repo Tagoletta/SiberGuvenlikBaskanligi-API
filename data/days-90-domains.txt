@@ -903,7 +903,6 @@ aldinaldinsende.click
 aldinaldinsuper.sbs
 aldinaldintemmuz.com
 aldinbrasicay.lat
-aldincaylarinizindirimli.sbs
 aldincaymakine.lat
 aldinekstra.dpdns.org
 aldinekstraaldin.shop
@@ -3511,6 +3510,7 @@ eorgke09054909j.com
 eorthopaedics.com
 ep6pheij.com
 eportalgib.org
+eportalsorgu.org
 eportaluzlasma.org
 epostaturk24.com
 equinoxpanda.com
@@ -3682,6 +3682,7 @@ fast-guvenli-hizmet.com
 fast-havale.com
 fast-ilan.com
 fast-ilanlar.com
+fast-islem-merkezi.com
 fast-mob.com
 fast-page.shop
 fast.raidher.icu
@@ -3870,6 +3871,8 @@ fiyatkarsilastirma.sbs
 fiyuukurye.com
 fjellstottfinans.com
 fkelderdedsla.duckdns.org
+fkelrdexsew.duckdns.org
+fkerlerdesnesa.duckdns.org
 flakecheck.online
 flannelwing.com
 flas-smart-umut.org
@@ -4412,6 +4415,7 @@ granlyx.com
 granlyx.cyou
 grantc4b1burdabbvakapy.life
 granti-web.nicepage.io
+granti-webbn.nicepage.io
 grantiibba.duckdns.org
 grantipromosynlari.com
 grantiscylk.cfd
@@ -7335,7 +7339,6 @@ mayislafirsatlargeldi101.com
 mayislarbizim.com
 mayislarsizin.com
 mayisozel.cfd
-mayista-firsat-diyari.duckdns.org
 mayista-ucuzluk.info.tr
 mayista-ucuzluk.net.tr
 mayista-ucuzluk.org.tr
@@ -7601,7 +7604,6 @@ mlhlrosralndevu.shop
 mlhrsrandelu2.sbs
 mlyna38393.click
 mmhhrhhrhrrs21.sbs
-mmhhrhhrhrrs59.sbs
 mmhhrhhrhrrs61.sbs
 mmhhrhhrhrrs62.sbs
 mmhhrhhrhrrs68.sbs
@@ -8068,6 +8070,7 @@ nn44400202444.gleeze.com
 nn99990009999.duckdns.org
 nnp0.allthe.site
 nntknlanana.net
+nobilservislerim-2.sbs
 node-js.prentiva99.info
 node.androiddebugbridge.su
 nodebridge.host
@@ -8476,8 +8479,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -13205,7 +13208,6 @@ zir-dijitalinternetbasvuru.sbs
 zir-dijitalinternetbasvurulari.sbs
 zir-kampayalar.sbs
 zira-a-t-bireysel-basvuru-ekran.my-homeip.de
-ziraa-t-giris-yap-mobil-bank.my-homeip.de
 ziraat-bankas-ai.sbs
 ziraat.bkasionline.com
 ziraatbank-kolaybasvurlar.vercel.app
