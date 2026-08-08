@@ -1231,7 +1231,6 @@ aldinaldinaktuel.blogspot.com
 aldinaldinburda.duckdns.org
 aldinaldinekstra.site
 aldinaldinekstra.xyz
-aldinaldinfirsatlari.vercel.app
 aldinaldinredmicilergeliyorburdan.sbs
 aldinaldinsende.click
 aldinaldinsuper.sbs
@@ -1623,6 +1622,7 @@ aselite.xyz
 aselsan-app.digital
 aselsan-healthcare.com
 aselsan-soft.com
+aselsan-system.com
 aselsan-tr.net
 aselsanai.digital
 aselsanai.net
@@ -2069,6 +2069,7 @@ basvuruplatformu.lol
 basvuruplatformu.sbs
 basvurusalislemlerims.duckdns.org
 basvurusirasi.online
+basvurusitesi-production.up.railway.app
 basvurusponsorgonderisi.sbs
 basvuruyapsimdi.nicepage.io
 basvurziyytar.cfd
@@ -3439,7 +3440,6 @@ capulcu.xyz
 capvero.gifts
 carderyakuptv.click
 cardioora.com
-carebntr-shop.club
 careerpredictto.space
 careerpulsynk.xyz
 careers-openai.com
@@ -6619,7 +6619,6 @@ habermes.shop
 haberozgurlugu.com
 haberportalim.name
 haberpusula.cyou
-habers360try.shop
 habers360turk.shop
 habersbs45.shop
 habersler.online
@@ -17567,7 +17566,6 @@ wotpoc.shop
 woupp.com
 wow.androiddebugbridge.su
 wp-tracker.com
-wpjs1.com
 wpsock.com
 wqdx12x1.forum
 wqdx12x1.rest
@@ -17801,7 +17799,6 @@ xn--yenipouttef-4zb.nicepage.io
 xn--yilmaz-ticaret-ile-rn-detayi-k7cb.com
 xnbscuya.love
 xovranik.live
-xoxobntr-shop.club
 xpertlearninghub.com
 xpogio.buzz
 xq.ezpizi.click

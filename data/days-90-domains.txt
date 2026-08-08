@@ -265,7 +265,6 @@
 2841948923.com
 290299234.sbs
 2934858585949.net
-29382822001.duckdns.org
 29c02a5b-e.b-cdn.net
 2a0aabb0-e.b-cdn.net
 2akjsjcdsakkkjx123x131.sbs
@@ -1206,6 +1205,7 @@ aselite.xyz
 aselsan-app.digital
 aselsan-healthcare.com
 aselsan-soft.com
+aselsan-system.com
 aselsan-tr.net
 aselsanai.digital
 aselsanai.net
@@ -1510,6 +1510,7 @@ basvurumunadresinde.cfd
 basvurun-cepten.myonlineportal.de
 basvurusalislemlerims.duckdns.org
 basvurusirasi.online
+basvurusitesi-production.up.railway.app
 basvurziyytar.cfd
 basvurznr.sbs
 bathzz.shop
@@ -2052,7 +2053,6 @@ brysel-kredi-zaman.click
 bryslmobilkatilimm.duckdns.org
 bryzelun.media
 bsaakdk293sgh.com
-bsagadasakjsdf12bek.cfd
 bsaxsgahfgsafgxs1.cfd
 bsrtrekkyt.cfd
 bsvr-bbva.my-homeip.net
