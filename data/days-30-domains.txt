@@ -321,12 +321,12 @@ amzndev.in
 amzndev.ru
 amznprod.in
 ana-sayfa-web.biz
-anadolucizgisi.com
 anadolugenis.com
 anadoluisigi.com
 anadolukapsami.com
 anaforlarindanam.sbs
 andansiparisa.sbs
+aninda-basvurularim-com-garanti.duckdns.org
 aninda-kredi-basvuru.cloud
 aninda-lokal.ink
 anka-kirilim.ink
@@ -570,6 +570,7 @@ binatolme.pro
 biocircuit.capital
 biocircuitlab.com
 bireysel-akmobil-cepte-com.duckdns.org
+bireysel-islemler-com-garanti.duckdns.org
 bireyselsiparis.com
 bireyselsubehalkbank.com.ph
 birgulususebepolur.sbs
@@ -654,6 +655,7 @@ brovixan.com
 brushcreators.com
 bsvrkmpnyyprmsynnkrdi214785930.info
 bsvrkmpnyyprmsynnkrdi214785930.pro
+bsvrrkmpnyaakrediifrstlrrsnnn.online
 bsvrrprmsynnkmpnyaaasnfrstlar.info
 bsvrrprmsynnkmpnyaaasnfrstlar.pro
 bsvrrrkmmmnpyyaaasnfrlstrprmsynn.pro
@@ -1292,6 +1294,7 @@ garantibbvamobil.netlify.app
 garantiden-basvur.click
 garantiden-kredi-firsatlari.sbs
 garantiden.click
+garantili-bireysel-islemim-com.duckdns.org
 garantili-islemlerim-bireysel-com.mayddns.com
 garantili-islemlerim-bireysel-com.webredirect.org
 garantillifk.cfd
@@ -2076,6 +2079,8 @@ kredi-basvuru-online.lol
 kredi-basvuru-online.rest
 kredi-basvuru-portali.sbs
 kredi-basvuru-sistemi.cfd
+kredi-basvuru-sistemi.cyou
+kredi-basvuru-sistemi.mom
 kredi-basvurum-online.cloud
 kredi-basvurusu-online.sbs
 kredi-basvurusu-yap.cloud
@@ -2791,7 +2796,6 @@ pepecekilisim.com
 pilifuere-sederilise.lol
 piligederesede-resugere.lol
 pipicka.xyz
-pixelnest.cam
 pixoranta.live
 plambe.xyz
 plambex.com
@@ -3912,7 +3916,6 @@ xenbuyra.com
 xenlatis.com
 xirqavo.com
 xjlaksd4xcgx4ztbc.cfd
-xleonalpos.icu
 xn--alsveis-sok-indirimli-gunlerii-3qe.info.tr
 xn--avs-kua.com
 xn--firsatlar-kacmaz-neseli-gnler-9bd.com.tr

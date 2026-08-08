@@ -423,7 +423,6 @@ a1o1alhemen.duckdns.org
 a1o1alisverisaldinaldin.duckdns.org
 a1o1burada.duckdns.org
 a1o1burdanal.duckdns.org
-a1o1ekstrac.duckdns.org
 a1o1ekstralar.cc.dvrlists.com
 a1o1eksttra.duckdns.org
 a1o1firsaticay.duckdns.org
@@ -670,6 +669,7 @@ anadoluyasamim.com
 anaforlarindanam.sbs
 anatoliatravel.pro
 andansiparisa.sbs
+aninda-basvurularim-com-garanti.duckdns.org
 aninda-kredi-basvuru.cloud
 aninda-lokal.ink
 aninda-siparis-baglantisi.com
@@ -1262,6 +1262,7 @@ bireybasvurular.click
 bireysel-akmobil-cepte-com.duckdns.org
 bireysel-firsatlar.click
 bireysel-iade-halkbank.ph
+bireysel-islemler-com-garanti.duckdns.org
 bireysel-mobil-shop.sbs
 bireysel-mobil-tr.sbs
 bireyselbasvurdenizbank.74-235-34-0.plesk.page
@@ -1439,6 +1440,7 @@ bsvrrfrstlrrkmpnpyaaakredii.info
 bsvrrfrstlrrkmpnpyaaakredii.live
 bsvrrfrstlrrkmpnpyaaakredii.online
 bsvrrfrstlrrkmpnpyaaakredii.xyz
+bsvrrkmpnyaakrediifrstlrrsnnn.online
 bsvrrkmpnyaaoprssmynn.art
 bsvrrkmpnyaaoprssmynn.live
 bsvrrkmpnyaaoprssmynn.pro
@@ -2059,7 +2061,6 @@ derbyoni.info
 derzhavainfo.cyou
 designmind.shop
 designvexa.com
-desisdtro.net
 destangelirvip.com
 destek-edev1et.com
 destek-edev1et.net
@@ -2895,6 +2896,7 @@ garantiden.click
 garantiform.vercel.app
 garantiimenkuldegerler.com
 garantikampanyan.click
+garantili-bireysel-islemim-com.duckdns.org
 garantili-islemlerim-bireysel-com.mayddns.com
 garantili-islemlerim-bireysel-com.webredirect.org
 garantillifk.cfd
@@ -3808,7 +3810,6 @@ hojeasdert.duckdns.org
 hojemetstrer.duckdns.org
 hojesfejterdafs.duckdns.org
 hojeterler.duckdns.org
-holkbankasi243434.duckdns.org
 home-crafft.com
 homeandutility.shop
 homebasketlane.shop
@@ -4343,7 +4344,6 @@ kapsmuh.com
 karaca-ev.shop
 karaca-haziran.vercel.app
 karaca-indirimde.vercel.app
-karaca-indirimgunu.vercel.app
 karaca-store.shop
 karaca-temmuz.shop
 karaca.sbs
@@ -4686,6 +4686,8 @@ kredi-basvuru-online.lol
 kredi-basvuru-online.rest
 kredi-basvuru-portali.sbs
 kredi-basvuru-sistemi.cfd
+kredi-basvuru-sistemi.cyou
+kredi-basvuru-sistemi.mom
 kredi-basvurum-online.cloud
 kredi-basvurusu-online.sbs
 kredi-basvurusu-yap.cloud
@@ -5891,8 +5893,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -7885,7 +7887,6 @@ tekrarsa.dnsup.net
 teksoksiparisi.cloud
 tektikileevinegelsin.com
 tektikilesanagelsin.com
-tektikilesendeolsun.com
 tektiklaalisveris.com
 tektiklakapinagelicek.com
 tektiklasponsorlureklam.com
