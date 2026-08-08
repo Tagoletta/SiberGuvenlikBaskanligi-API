@@ -889,7 +889,6 @@ denemebendes.duckdns.org
 deniz-mobb.duckdns.org
 deniz-mobbll.duckdns.org
 deniz-mobil-com-cepte-basvuru-ekrani.duckdns.org
-deniz-mobil-com-promosyonn-giris-babacan.duckdns.org
 deniz-mobil-com-promosyonn-giris-herdaim.duckdns.org
 deniz-mobil-com-promosyonn-giris-yeni.duckdns.org
 deniz-mobil-promossyon-bilgi-ekrani-com.duckdns.org
@@ -2298,7 +2297,6 @@ mhrsanlikolarakrandevuhak4nxd.duckdns.org
 mhrsanlkodemebra.duckdns.org
 mhrsbilgi.duckdns.org
 mhrsekrangirisyonlendirme.duckdns.org
-mhrsgirisportaliburada.digital
 mhrsilerandevuekrani.duckdns.org
 mhrsonlineportalrandevu.duckdns.org
 mhrsportalvatandasgiris.duckdns.org
