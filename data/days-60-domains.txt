@@ -421,10 +421,8 @@ a1o1aldinss.duckdns.org
 a1o1aldiraldir.duckdns.org
 a1o1alhemen.duckdns.org
 a1o1alisverisaldinaldin.duckdns.org
-a1o1br.duckdns.org
 a1o1burada.duckdns.org
 a1o1burdanal.duckdns.org
-a1o1ekstra.duckdns.org
 a1o1ekstrac.duckdns.org
 a1o1ekstralar.cc.dvrlists.com
 a1o1eksttra.duckdns.org
@@ -460,6 +458,7 @@ acc.hdfportfoy.com
 acc.hedeffon.com
 acc.hedefonmusteripanel.com
 accapple.ru
+accessing-gregory-mhz-commitments.trycloudflare.com
 acentabayitursab.top
 acentalarbirligi.org
 acentasicilsorgu.org
@@ -832,6 +831,7 @@ aselsansystems.com
 asfsadfrwqarf.sbs
 asfsadfvkmmnkfvkln.net
 asfsdqwffsadlsafm.net
+asgadsqew.sbs
 asgasdgqwre.sbs
 asics-turkiye.com
 asist-web.casa
@@ -948,7 +948,6 @@ b5080e3d-6.b-cdn.net
 b6w9m2z5x8q1v3k.top
 b709.site
 b8r3z6p9w2t5.sbs
-baasvur-yaap.cfd
 bababiziz.sbs
 babalarbasladi01.duckdns.org
 babulikinet.com
@@ -997,6 +996,7 @@ basralibsru.sbs
 bassvruyapss.sbs
 basvrsawkxa.sbs
 basvruncepte-garanti.dns.army
+basvruncepte-garanti.duckdns.org
 basvu-r-tok-gov-basvur-dev.com
 basvu-r-tok-gov-basvur-dev.xyz
 basvur-hemenbasvurgiris100yildeniz.ph
@@ -1005,7 +1005,6 @@ basvurbrd.sbs
 basvurevtkixz.sbs
 basvurlerdaevamda.sbs
 basvurrvn.sbs
-basvursendmr.sbs
 basvursendsc.sbs
 basvursendsmz.sbs
 basvursendsn.sbs
@@ -1319,8 +1318,6 @@ bnaosf1he.shop
 bnaykartech.com
 bnbrdaykensnnereygs.com
 bnc023df12236.duckdns.org
-bnc666161616001.duckdns.org
-bnc7777091991.duckdns.org
 bnc88802002026.duckdns.org
 bndengelensnaglsn.shop
 bndesndenbsysmtm.com
@@ -1620,7 +1617,6 @@ careerpredictto.space
 careerpulsynk.xyz
 careers-openai.com
 careertrixauvex.ink
-careffuoersa.vercel.app
 carelinno.gifts
 carelio.gifts
 cariwebsiteku.com
@@ -2050,6 +2046,7 @@ deniz-seyehatplanlama.duckdns.org
 denizbank.com.ph
 denizbankampanyasi.sanmadarbeler.cfd
 denizbankesube.ph
+denizmenkul.pro
 denizmobil-basvuru-ekranim.duckdns.org
 denizontvt.net
 denizselseyler.co
@@ -2099,6 +2096,7 @@ dfsopsdkopkfdbsdfsbbbb.shop
 dhamoyush.com
 dhdsjsdjxc.duckdns.org
 diamond-cli-znsxphqell.cn-shanghai.fcapp.run
+digital-page.shop
 digitalforms.shop
 digitalwinter.vip
 digpoint.icu
@@ -2737,6 +2735,7 @@ flashtrail.online
 flavorlino.com
 flbayatirim.com
 fldwnld.online
+flerdensewxede.duckdns.org
 flexible-networks.com
 flibot.org
 fliboty.cfd
@@ -3429,7 +3428,6 @@ hasatmarka.digital
 hasatnova.com
 hasmnsamhshansanmasmhsan73.space
 hasnmrlhs.online
-hasolanalsa.co
 hastanaentente.uk
 hastane-mhrs.digital
 hastaneisleriiogreen.uk
@@ -4076,6 +4074,7 @@ islemnoktasihemenne.net
 islemnoktasihemn.net
 islemnoktnasni.net
 islemonay-tr.online
+islemonaytr.online
 islemonlne-isleminiz.sbs
 islemsonu-chemen.net
 islemtakibi.com
@@ -4899,8 +4898,6 @@ lorqexo.gifts
 loserrq0j1sha8.com
 lowertea.info
 lowertea.xyz
-lrdanlrdansnkzlerden.shop
-lrdanlrdansnkzlerden.xyz
 lrdansandandandan.sbs
 lrdansandandandan.shop
 lrdansandanll.sbs
@@ -5341,6 +5338,7 @@ mobilservisin-10.sbs
 mobilservisin-15.sbs
 mobilservisin-20.sbs
 mobilservisin-22.sbs
+mobilservisin-32.sbs
 mobilservisiniz-10.sbs
 mobilservisler-49.sbs
 mobilservisler-51.sbs
@@ -7053,6 +7051,7 @@ sahibinden-get.mobilservisleriniz-5.sbs
 sahibinden-get.vercel.app
 sahibinden-getilan.ile-guvenle-islem-web.com
 sahibinden-hizmet.online
+sahibinden-param-guvende.islemonaytr.online
 sahibinden-param-guvende.siparisbilgitr.online
 sahibinden-param-guvende.urunodeme-tr.online
 sahibinden-param-guvende.urunodemetr.online
@@ -7816,7 +7815,6 @@ tavqira.shop
 tavreno.tr
 tavzilo.gifts
 tax-filecenter-irs.matthewtarwater.com
-tbasvurf.nicepage.io
 tbasvurfa.nicepage.io
 tbdefirsat.xyz
 tcadli.org
@@ -7925,6 +7923,7 @@ tepki-stil.myonlineportal.ch
 teqfirsatagstos.com
 tera-home.com
 teragrup.org
+tercih-entry-gr.garden
 tereyopli-gereyupi.lol
 terriblyxzr300xbsvruzrt0xf423sadvc.click
 terstdidca.net
@@ -8507,7 +8506,6 @@ tuvturkeors.com
 tuvturkeos.com
 tuvturkeros.com
 tuvturkerose.com
-tuvturkerps.com
 tuvturkistasyonlari.ph
 tuvturklse.com
 tuvturkmuayene.duckdns.org
