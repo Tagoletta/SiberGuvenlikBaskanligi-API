@@ -2795,7 +2795,6 @@ pilifuere-sederilise.lol
 piligederesede-resugere.lol
 pipicka.xyz
 pixoranta.live
-plambe.xyz
 plambex.com
 plambex.org
 planetariumguide.com
@@ -3523,7 +3522,6 @@ toki-apartman.gravitycl.app
 toki-toplukonut.gravitycl.app
 tokibasvuruportali.click
 tokikonut10000000146.vercel.app
-tokikonut20giris.vercel.app
 tokitoplukonut.gravitycl.app
 tombankhadi.com
 tooourhow.shop
