@@ -128,6 +128,7 @@
 312455455589992.duckdns.org
 312455455589993.duckdns.org
 3125123.uk
+31852858529696963.baby
 31jctjk3k1l2z12lk3c12k312.cfd
 346346wdrf234.click
 346347452112412436.org
@@ -213,11 +214,11 @@ a100111aa101110202.duckdns.org
 a101-com-tr-aldin-aldin-extra-online.elenamasaj.com
 a101-ekstra.s3.eu-north-1.amazonaws.com
 a101-firsatlariniz-artik-burada.duckdns.org
+a101-firsatlariniza-gelin.duckdns.org
 a101-sadeceonline.my-homeip.net
 a101market.org
 a101market.xyz
 a101marketinizgeldi.ph
-a101onlineislemlermerkezi.pages.dev
 a101yuzyilinfirsatlari.duckdns.org
 a10l.org
 a5m9t2w7n4r8.sbs
@@ -645,7 +646,6 @@ brdnsalsmndnmnsmdn.com
 brdnsnkzclsyrzz.com
 breaksd.wifihot.icu
 bremkol.com
-brempo.org
 brgninvesttr.com
 briefcurrent.top
 brightbulletin.site
@@ -779,7 +779,6 @@ cebinde-temmuz.com.tr
 cederese-deresedese.lol
 cekilisi-paribu.co
 cekilisleriparibu.com
-cenedenemexxlerxxinvaxxrtevsi.xyz
 cep-te-teb.myonlineportal.de
 cepde-tebden.myonlineportal.de
 cepgarantisube.ph
@@ -812,7 +811,6 @@ cicekdunyam.online
 cigsafe.click
 cityyouguide.info
 clickeron.com
-clickrova.info
 clicksahibiananizisever.sbs
 client.ncm-invest.com
 cloackajdvskkx131x231z2312.cfd
@@ -830,7 +828,6 @@ cmhuzlasma.org
 cn-microsoft.com
 cnmag.ru
 codalunax.gifts
-codewavehub.xyz
 codomira.shop
 coffeesaloon.online
 cogalim-edinim.biz
@@ -926,7 +923,6 @@ deniz-mobb.duckdns.org
 deniz-mobbll.duckdns.org
 deniz-mobil-bireysel-com.duckdns.org
 deniz-mobil-com-cepte-basvuru-ekrani.duckdns.org
-deniz-mobil-com-promosyonn-cebimde.duckdns.org
 deniz-mobil-com-promosyonn-com.duckdns.org
 deniz-mobil-com-promosyonn-fast.duckdns.org
 deniz-mobil-com-promosyonn-giris-babacan.duckdns.org
@@ -1454,7 +1450,6 @@ gosats.us
 goshaw.milanopitza.cfd
 gosteri-tavir-edilgenlik.casa
 gosterim-harcama.xyz
-gotoinvst.com
 goturkey.blog
 goveridash.co
 goxzr300xbsvruzrt0xf423sadvc.click
@@ -2077,6 +2072,7 @@ kilometre-sonuclarinizi-ogrnn.web.app
 kilometre-sonuclarnzi-ogrnin.web.app
 kilometre-verilernzi-ogrenin.web.app
 kilometrogrenin.web.app
+kilomtresorgulma.web.app
 kirmizibasliklipose.duckdns.org
 kirmizibasliklitirtil.duckdns.org
 kisa-edinim.guru
@@ -2941,6 +2937,7 @@ prmsynnnkmpnyrrsonffrstlar.pro
 progetto-finanziario24.org
 programgreedz.info
 programseeget.info
+projectjuventus.xyz
 projeler-toki-burada.cyou
 promcolcato2023.neocities.org
 promocode-news.com
@@ -2984,7 +2981,6 @@ pusulaportfoyyonetimias.com
 pypi-get.com
 pyramixs.com
 q3w8n5r2t6p9.click
-q7m2v9x4b6n8.cfd
 qarelomix.vu
 qarfalunix.shop
 qarfelunax.shop
@@ -3532,8 +3528,6 @@ tarihi-sayfa.click
 tarim667oyed.nicepage.io
 tarzxgiyimistxx.xyz
 tasaqx1xadds.duckdns.org
-tasittakas.xyz
-tasklina.cyou
 taskveria.gifts
 tax-filecenter-irs.matthewtarwater.com
 tcadli.org
@@ -3929,7 +3923,6 @@ vexaluniqo.gifts
 vexalunorq.capital
 vexanoruk.shop
 vexoluntri.com
-vexomiral.cyou
 vexulon.info
 veyron.social
 veyronix.biz
@@ -4102,7 +4095,6 @@ y0nl3ndiriliyors4nz1453.duckdns.org
 y44nlndird4st4maktifsen.duckdns.org
 y4nln4riy4su4n4uzprof.duckdns.org
 y4nlndir4deincirl4yimknk.duckdns.org
-y6n2z8w5t1k7.sbs
 y9r4n7z2m6w3.sbs
 ya-l-bankac-l.vercel.app
 yanitlama-grs.garden
@@ -4117,7 +4109,6 @@ yardimpaketim.com
 yardimpaketim.org
 yasamadresi.com
 yasamamnsebebib.sbs
-yasamdefteri.com
 yasamvegundem.com
 yasamyolculugu.com
 yasanan.ink
@@ -4162,7 +4153,6 @@ yklmehgszmnpra.cfd
 ymdreferans.online
 ynlendirbrnkrkmdyivlasi.duckdns.org
 ynlndirckinmecnmsnsnbnm.duckdns.org
-ynlndirmdsnsormakdnk.duckdns.org
 yogabloom.icu
 yogasoul.icu
 yolcu.obilet-mobil.uk
