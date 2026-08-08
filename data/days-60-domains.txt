@@ -1745,7 +1745,6 @@ cicekdunyam.online
 cigsafe.click
 cityyouguide.info
 civanto.info
-civento.vu
 civitasium.com
 ciziyoruzsolsag.click
 cj06y9v4xab.com
@@ -3083,7 +3082,6 @@ goktepe-loravuni.lol
 goktr.sbs
 gokyuzugun.com
 golledsack.info
-gomaoyuzh.xyz
 goodpanelforgoodjob.com
 goodsandhomebay.shop
 goodsandhomeco.shop
@@ -3736,7 +3734,6 @@ hizligecisbakiymerkezi.web.app
 hizligecisbakyeyuklme.web.app
 hizligecisbakynsi.lat
 hizligecisbakysi.lat
-hizligecisdolmbayi.lat
 hizligecisdolumnoktasi.firebaseapp.com
 hizligecisdolumnoktasi.web.app
 hizligecisetiketiniz.firebaseapp.com
@@ -4156,7 +4153,6 @@ istanbulbelgimmkart.xyz
 istanbulbelgimmkartcan.xyz
 istanbulbelgimmkarttt.xyz
 istanbulbenim3434.xyz
-istanbulberzan.xyz
 istanbulberzancan.xyz
 istanbulbizim.uk
 istanbulbizim3434.xyz
@@ -5835,7 +5831,6 @@ online-bireysel-mobil-tr.sbs
 online-elektronik-sepetim.com
 online-hizli-islem.com
 online-hizmet-islem.com
-online-hizmet-islemi.com
 online-islemlerim.com.tr
 online-islemnktansa.net
 online-kredi-merkezi.cloud
@@ -5952,8 +5947,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -7118,7 +7113,6 @@ sahibinden-get.mobilservisleriniz-5.sbs
 sahibinden-get.vercel.app
 sahibinden-getilan.ile-guvenle-islem-web.com
 sahibinden-hizmet.online
-sahibinden-ilan.tr-get-servis.online
 sahibinden-param-guvende.siparisbilgitr.online
 sahibinden-param-guvende.urunodeme-tr.online
 sahibinden-param-guvende.urunodemetr.online
@@ -8285,7 +8279,6 @@ tr-binancecark.duckdns.org
 tr-binancelogin.com
 tr-binancemasak.duckdns.org
 tr-binancetr.duckdns.org
-tr-get-servis.online
 tr-gikarca.shop
 tr-grsnzonln.lat
 tr-gukaraca.shop
@@ -8836,7 +8829,6 @@ verification-salesforce.com
 verify-akbank.testyourphishing.com
 verify.federal-docviewer.com
 verifyaccesspoint.com
-veritonixmedia.com
 verityluxenova.com
 vertlym.com
 vertualstreak.info

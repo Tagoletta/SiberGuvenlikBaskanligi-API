@@ -541,7 +541,6 @@
 55454545454.sbs
 55465465461455.duckdns.org
 55555551200055555005.gleeze.com
-5645464564sdosk.duckdns.org
 5654886546413216.duckdns.org
 56732423564357.org
 567834200.net
@@ -596,7 +595,6 @@
 65454234423.net
 65454345.net
 65465464613123.duckdns.org
-65645555654654.duckdns.org
 66600516666664.duckdns.org
 666021545858666.gleeze.com
 66662021250250666.gleeze.com
@@ -1247,7 +1245,6 @@ aldincaymakine.lat
 aldinekstra.dpdns.org
 aldinekstraaldin.shop
 aldinhesapliaynigun.xyz
-aldinpaketcayini.net
 aldinpaketindecaylar.com
 aldinpaketlecayini.net
 aldinpaketliler.xyz
@@ -3568,7 +3565,6 @@ ceptepromosyon.my-homeip.de
 ceptesok.guncelfirsatiniz.com
 ceptesok.hizlifirsatim.com
 ceptesok.hizligiriss.com
-ceptesokfirsatlarilesendegel.lol
 ceptesokfirsatlarim.com
 ceptete.pzbsin.com
 cepteteb-merkeziislemler.my-homeip.de
@@ -4078,8 +4074,6 @@ dava-dosya.click
 davabirimi.org
 davacezasorgu.org
 davadosya.org
-davadosyabilgi.org
-davadosyakontrol.org
 davadosyasorgu.com
 davadosyatakip.org
 davadurum.org
@@ -8387,7 +8381,6 @@ jzdn-basic.shop
 k-kvk-yt.cfd
 k0bibasvurularim.click
 k0bibilgilendirme.cfd
-k0bibilgilendirme.click
 k0bibilgilendirmeleri.com
 k0bibilgilendirmesi.com
 k0bidestegi.com
@@ -8749,7 +8742,6 @@ kgkkgkgskkfgfgf.nicepage.io
 kgm--gov.eu.cc
 kgm--gov.icu
 kgm-25.vercel.app
-kgm-gecis.shop
 kgm-gopv.com
 kgm-gov-tt.me
 kgm-gov.icu
@@ -11686,8 +11678,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -12801,7 +12793,6 @@ pushstackshop.co
 pusulabetguncelgirislerim.com
 pusulaportfoymenkulas.com
 pusulaportfoyyonetimias.com
-puyabntr-shop.club
 pvasquez-princetonpartners-com-s-account.workers.dev
 pvmmzwvqxq.pro
 pwhwsm.homes
@@ -13725,7 +13716,6 @@ sahibindensigortaodeme.com
 sahibindensigortaodemesi.com
 sahibindensozlesmeodemeleri.dedyn.io
 sahibindentr-guvenliodeme.gt.tc
-sahibiniden.ile-onayli-ilan.com.tr
 sahibiniden.ile-sepetlerim.com.tr
 sahibiyiz.sbs
 sahlbinden.cfd
