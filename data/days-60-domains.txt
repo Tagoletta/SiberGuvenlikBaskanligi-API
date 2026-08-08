@@ -375,7 +375,6 @@ a-101-extra-sadece-bugune-ozel-sepette-tr.pay-tr.online
 a-101-extra-sadece-mobile-ozel-sepette-indirim-tr.sepette.online
 a-101-extra-sadece-online-bugune-ozel-indirimler-tr.store
 a-101-extra-sadece-online-mobilde-firsatlar.mobil-web.online
-a-101-extra-sadece-online-ozel-mobil-indirim-tr.online
 a-101-extra-sadece-online-ozel-mobil-tr.bilgi-mobil-shop-ozel-tr.sbs
 a-101-extra-sadece-online-siparis-ver-tr.ozel-mobil-shop.sbs
 a-101-online-ozel-extra-mobil-tr.sepette-indirim.online
@@ -440,10 +439,8 @@ a1o1hizlialisveris.duckdns.org
 a1o1indir.duckdns.org
 a1o1kampalrmbrda.sbs
 a1o1kampanya.blogspot.com
-a1o1kampanyalar.duckdns.org
 a1o1kampanyalarii.duckdns.org
 a1o1korkmazfirsatlari.blogspot.com
-a1o1korkmazkampanya.blogspot.com
 a1o1por.duckdns.org
 a1o1simdiaktuel.duckdns.org
 a1o1taktak.duckdns.org
@@ -600,7 +597,6 @@ aktuelurunleraldin.blogspot.com
 aktuelurunlerburadalar.blogspot.com
 aktuelurunlercay.blogspot.com
 aktuelurunlerkampanyalariburada.blogspot.com
-aktuselfirsatlarkapinda.xyz
 aktutelfirsatlarkapinda.com
 aktutelfirsatlarkapinda.xyz
 akyaman-lodrefiku.lol
@@ -726,7 +722,6 @@ apigrokcloud.icu
 apiluma.bond
 apl-gc.pages.dev
 app-distribution.net
-app.garantibbvayayatinemom.com
 app.hdfportfoy.com
 app.hedeffon.com
 app.hedefonmusteripanel.com
@@ -968,7 +963,6 @@ backcollarlip.com
 backend.evsahibibasvuru.com
 bagciksizmargela.sbs
 bakartech.com
-bakiyesizkalmayn.lat
 balancedoutlook.info
 balancedperspective.info
 balerdenmased.duckdns.org
@@ -2314,7 +2308,6 @@ e-sube-isbank.ph
 e-sube.hdfportfoy.com
 e-sube.hedeffon.com
 e-sube.hedefonmusteripanel.com
-e-sube.infobireysel.online
 e-sube.tunafonyonetimi.com
 e-tokiislemlerinebasla.digital
 e1a10-hdakia-kmpnsyaa-xrteak.lol
@@ -2512,7 +2505,6 @@ eslesme-edinim.guru
 eslink.click
 esnek-figur.ink
 esnrbrdaskyrz.shop
-esorgu-onaylanansorgulariniz.sbs
 esorguuzlasma.org
 esrmhrlrandvlar.com
 est-bitmekbilmeyenuzunbiyol.sbs
@@ -2734,7 +2726,6 @@ firstlartukenmkuzere1o1.shop
 fitcore.gifts
 fitluma.xyz
 fiusyevr.live
-fiyatinikarsilastirmalar.xyz
 fiyatkarsilastirma.sbs
 fiyuukurye.com
 fjellstottfinans.com
@@ -2783,6 +2774,7 @@ freetv-izlesende.com
 freeworldcup.xyz
 freeworldcupstream.xyz
 freeworldcupstreaming.xyz
+frelerdeansew.duckdns.org
 frenksv.sbs
 freshdirection.online
 freshlume.today
@@ -2897,7 +2889,6 @@ garantibbvaintl.com
 garantibbvakredi.otzo.com
 garantibbvakredibasvurusu.info
 garantibbvamobil.netlify.app
-garantibbvayayatinemom.com
 garanticepsubem-com.ph
 garantiden-basvur.click
 garantiden-kredi-firsati.sbs
@@ -3009,7 +3000,6 @@ ghjnrtywertbqwerb.click
 ghnghjmretmwermw.click
 gibeportal.com
 gidiptegelememekvar.sbs
-gidisgelisekraniniz.sbs
 giftavora.com
 giftcornera.homes
 gikarcas.shop
@@ -3537,7 +3527,6 @@ hemenhizliislemn.net
 hemenhizlisnoclsm.net
 hemeniaslmenasn.net
 hemeniasnltamsan.net
-hemenislemana.net
 hemenislemhkatsa.net
 hemenislemknasn.net
 hemenislemler.com
@@ -4010,7 +3999,6 @@ indirimsonfrstt.dnsup.net
 indirimsonfrsttxx.duckdns.org
 indrmli-149luk-gunler.sbs
 info-referanslinki.com
-infobireysel.online
 infocontablidades.it.com
 infonaria.com
 infonexusline.com
@@ -4123,7 +4111,6 @@ istanbulbeelgimcan.xyz
 istanbulbelggim.xyz
 istanbulbelgiimmmcann.xyz
 istanbulbelgim.uk
-istanbulbelgim.xyz
 istanbulbelgimcann.xyz
 istanbulbelgimkart.xyz
 istanbulbelgimkarttt.xyz
@@ -5097,7 +5084,6 @@ marketpillar.shop
 marketpine.shop
 marketpromosyon.duckdns.org
 marketridge.shop
-marketservice.xyz
 markettrailway.shop
 marketwarehouse.shop
 marksandspencer-login.ph
@@ -5354,7 +5340,6 @@ mobilcep-erisim.my-homeip.de
 mobilcepdenportal.myonlineportal.de
 mobilden.myonlineportal.de
 mobildeyiz.myonlineportal.de
-mobildijitalfirsatlar.sbs
 mobile-akbank-basvurum.github.io
 mobile-obilet.uk
 mobile-qnbfinansbank.ph
@@ -5920,8 +5905,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -7279,7 +7264,6 @@ sepet-odemesi-1988.com
 sepete-ozel-tr.site
 sepetimde-odeme-3955.com
 sepetimde-odeme-3957.com
-sepetimdeindirimleriyakala.com
 sepetimdeonline.click
 sepetimdeonline.online
 sepetimonay.click
@@ -7413,7 +7397,6 @@ sketchworksy.com
 skilltrailcr.com
 skindirlmldhzlan.com
 skip-complete.tempurl.host
-skkcaymaknesi.lat
 skkkenacaer.net
 skklaresta.lat
 skkmakinesicay.lat
@@ -7601,9 +7584,7 @@ spaseburs.art
 spasopro.at
 spenlo.org
 spenlova.cyou
-spetimdearzusan.xyz
 sphere-api.dialectosphere.in.net
-spider-service.vip
 spidermarket.xyz
 spinuni.com
 splashviolet.cfd
