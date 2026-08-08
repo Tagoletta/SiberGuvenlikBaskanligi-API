@@ -5352,6 +5352,7 @@ mobilservisler-87.sbs
 mobilservisler-88.sbs
 mobilservisleriniz-1.sbs
 mobilservisleriniz-11.sbs
+mobilservisleriniz-13.sbs
 mobilservisleriniz-14.sbs
 mobilservisleriniz-3.sbs
 mobilservisleriniz-4.sbs
@@ -5892,8 +5893,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -7770,6 +7771,7 @@ tanergiyimiboist.duckdns.org
 tanfanmansuf.sbs
 tanfanmansuf3.sbs
 tanfanmansuf4.sbs
+tap2krocsklxucu.lol
 tapgncweb.web.app
 taphzmett.shop
 tapp-wweeb.com
@@ -9449,7 +9451,6 @@ ziraattarimsa.cfd
 ziraatyenilenensubemiz.com.ph
 zirailillf.cfd
 ziraitarimfs.cfd
-zirat-kredi-basvuru-formu.duckdns.org
 ziratoff.online
 ziratt-yeni.com
 zircartel.tr
