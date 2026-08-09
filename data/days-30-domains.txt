@@ -206,6 +206,7 @@ a101-ekstra.s3.eu-north-1.amazonaws.com
 a101-firsatlariniz-artik-burada.duckdns.org
 a101-firsatlariniza-gelin.duckdns.org
 a101-sadeceonline.my-homeip.net
+a101magazafislerionline.net
 a101market.org
 a101market.xyz
 a101marketinizgeldi.ph
@@ -835,7 +836,6 @@ cravehaus.biz
 creativecommunityinfo.art
 crentox.forum
 crm.turkcellpasajsanalmagaza.com
-crsastore.vercel.app
 cryoturbine.net
 cugeredesede-sederese.lol
 cugufirede-sedete.lol
@@ -1487,7 +1487,6 @@ haber-turkiye.sbs
 haber-turkiye1923.sbs
 haber789124.sbs
 haberdar.at
-haberinadresi112233.shop
 haberinadresi342133.shop
 haberincepte4567891.shop
 haberkapisi.site
@@ -1949,7 +1948,6 @@ kaitaksdkcj13x12.cfd
 kalsandnsdansdn.com
 kambers.xyz
 kampanhshshshs.com
-kampanya-tebte.click
 kampanya.myonlineportal.ch
 kampanyadijitalvakifmobil.com.ph
 kampanyagel101.duckdns.org
@@ -2720,7 +2718,6 @@ paribuarabaruyasi.com
 paribuarabasansim.com
 paribuarabasansin.com
 paribuarabatalihlisi.com
-paribubuyukcekilisi.com
 paribucark-alhediye.info
 paribucark-burada.com
 paribucark-burada.link
@@ -3349,7 +3346,6 @@ sube.mufgfinance.net
 sube.sekermenkul.com
 subedenmobiliz.myonlineportal.de
 subeislemlerim-akbank.ph
-subemiz-garanti.myonlineportal.eu
 subesimobil.my-homeip.de
 subesiz-basvur.myonlineportal.eu
 subleaqfjs.com
@@ -3386,6 +3382,7 @@ take-more.cfd
 takip-mesafesi.ink
 taktik-operational.ink
 talentedwhispering.com
+tam-mutabakat.garden
 tamambankara.net
 tamamistanbulo.co
 tamamla-sipars.com
@@ -3779,6 +3776,7 @@ vortody.cyou
 vpn.turkcellpasajsanalmagaza.com
 vuhgude-redesedere.lol
 vuhukul-daeredesede.lol
+vulihipolse-sedere.lol
 vulipilongo-katore.lol
 vusuydryt.love
 vuvugufere-dadada.lol
@@ -3798,7 +3796,6 @@ webcodenest.co
 webdisk.1254598989899893.duckdns.org
 webdisk.1254598989899894.duckdns.org
 webdisk.862413415907186110.duckdns.org
-webforge.bond
 webirtianca.shop
 webmail.1254598989899893.duckdns.org
 webmail.1254598989899894.duckdns.org
