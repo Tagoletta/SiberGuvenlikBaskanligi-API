@@ -5,6 +5,7 @@
 0faiz-kredim-garanti.replit.app
 1-82-brdanrdval.com
 1-82rvdnlrdanbndansn.com
+101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online
 101-kstra.s3.eu-north-1.amazonaws.com
 110gongan.com
 11b423xz122.duckdns.org
@@ -273,7 +274,6 @@ akmobil-onlineislemlerim-guncel.duckdns.org
 akmobildend.duckdns.org
 aknmmrafaelcm.webhop.me
 akrafaelxtoky.webhop.me
-aksigortabankasigortaciligi.hediyemo.com
 aktifgirisparibu.xyz
 aktifkvytpromosion.duckdns.org
 aktuelseninle.com
@@ -1147,9 +1147,26 @@ extrashoot.cfd
 ezpizi.biz
 face-book-login-extra.ph
 facebook--login-security.ph
+facebook-confirm-login.com.ph
+facebook-login-guide.com.ph
 facebook-login-login-extra.ph
 facebook.evsahibibasvuru.com
 facebookloginapponline.ph
+facebookloginlabd.com.ph
+facebookloginlabe.com.ph
+facebookloginlabe.net.ph
+facebookloginlabg.com.ph
+facebookloginlabg.net.ph
+facebookloginlal.com.ph
+facebookloginlal.net.ph
+facebookloginlam.com.ph
+facebookloginlan.com.ph
+facebookloginlan.net.ph
+facebookloginlawyer.com.ph
+facebookloginonlinelegal.com.ph
+facebookloginparty.com.ph
+facebookloginstable.com.ph
+facebookloginuser.com.ph
 faderdasdleer.duckdns.org
 fahrettindanizmansert.com
 faktor-edilgen.guru
@@ -1783,6 +1800,7 @@ ilerleme-yaptirim-grim.myonlineportal.ch
 ilgili-disp-asist.ink
 ilk-evimbasvurulari.com
 ilkbasvurum.my-homeip.net
+ilkev-basvurulari-1.sbs
 ilkevim.basvurun-1.sbs
 ilkisaret.info
 imails.ru
@@ -2844,7 +2862,6 @@ pttavm.ile-alisverislerini-tamamlama.com
 pttavm.ile-online-islemlerim.com.tr
 pttavm.islemlerin-mobilde.com
 pttavm.islemleriniz-mobilden.com
-pttavm.sip-tamamlat.com
 pttavm.siparis-guvenliodeme.com
 pttavmhgsbakieyuklme.web.app
 pttavmhgsbakiyecnokatasi.firebaseapp.com
@@ -3708,7 +3725,6 @@ vantrex.rest
 vapi.take-more.cfd
 vatandasgirisekranimhrsonlinegirisimiz.duckdns.org
 vatandasgirsmhrslersx.mtvleyi2026s.xyz
-vatandasislemlerionline.fun
 vatandasislemlerionline.sbs
 vatandasmhrsportalgirisyonlendirmesi.duckdns.org
 vatandasmhrsrandevuekranii.duckdns.org
