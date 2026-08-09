@@ -191,6 +191,7 @@
 2t24.my
 2tammuzdasiparislerinde.cloud
 312221222145558999891.duckdns.org
+312221222145558999893.duckdns.org
 312222545548789988990.duckdns.org
 312222545548789988991.duckdns.org
 312222545548789988992.duckdns.org
@@ -1689,6 +1690,7 @@ cl.allthe.site
 cl.distritovagas.com
 cladesktop.gitlab.io
 claracurrent.com
+clascicek.com
 claude-app-new.gitlab.io
 claude-code-app.gitlab.io
 claude-desktop-lm.gitlab.io
@@ -3338,7 +3340,6 @@ halkbnkmobil.duckdns.org
 halkbnkmobilaktif.duckdns.org
 halkbnkmobilduyuru.duckdns.org
 halkdijital.help
-halkduyurum2221.duckdns.org
 halkdyruonay.webhop.me
 halkfaizsizkredibasvuru.duckdns.org
 halkguncelhaber.com
@@ -3530,7 +3531,6 @@ hgs-ode-smdii.cfd
 hgs-ode-yukle-simdi.cfd
 hgs-ode-zamani.cfd
 hgs-odeme-guncel.vercel.app
-hgs-odemeleri.duckdns.org
 hgs-pttavm.ph
 hgs-simdi-yukleme-zamani.cfd
 hgs15temmuz.ph
@@ -3701,6 +3701,7 @@ hmnislemnktans.net
 hmnislemnktbas.net
 hmnislemnktsans.net
 hmnislemnoktnasn.net
+hmnislemntkas.net
 hmnislmbkntans.net
 hmnislmknat.net
 hmnislmnkatnas.net
@@ -3988,7 +3989,6 @@ isisjaofnsormwo.cfd
 iskampanyasub3.sbs
 iskampanyasum4.xyz
 iskampanyaweb.xyz
-iskurbasvur.ph
 islakkurusupurgee.click
 isledijitalcepe.sbs
 islem-linkiniz.com
@@ -6591,7 +6591,6 @@ qnb-finansbankasionline.ph
 qnb-finansbankr-enpara.ph
 qnbbank.site
 qnbfinansbank---giris.ph
-qnbfinansbank-inc.ph
 qnbfinansbank-intsube.ph
 qnbfinansbank-kampanyakatilim.ph
 qnbfinansbank-kredi.ph
@@ -7551,7 +7550,6 @@ storystreamza.info
 storyvista.online
 storywire.site
 storyyn.com
-stosrsadxadsax.sbs
 stparaguvende.servisbilgi-tr.online
 stratline.icu
 stratuscore.live
@@ -8087,7 +8085,6 @@ tr-akbank.ph
 tr-aselsan.com
 tr-bbva-garanti.ph
 tr-binance2026.duckdns.org
-tr-binancecark.duckdns.org
 tr-binancelogin.com
 tr-binancemasak.duckdns.org
 tr-binancetr.duckdns.org
@@ -8704,6 +8701,7 @@ vuhklideretese.lat
 vuhukul-daeredesede.lol
 vujuhugufueretesede.xyz
 vulcarti.gifts
+vulipilongo-katore.lol
 vusuydryt.love
 vuvugufere-dadada.lol
 vv0v049392x.duckdns.org

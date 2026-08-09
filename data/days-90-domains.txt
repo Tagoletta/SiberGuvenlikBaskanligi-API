@@ -274,6 +274,7 @@
 2t24.my
 2tammuzdasiparislerinde.cloud
 312221222145558999891.duckdns.org
+312221222145558999893.duckdns.org
 312222545548789988990.duckdns.org
 312222545548789988991.duckdns.org
 312222545548789988992.duckdns.org
@@ -2224,7 +2225,6 @@ buvugufuerede-daefede.lol
 buyazapp1-43a83c3c83a4.herokuapp.com
 buyhujufede-readesede.lol
 buyudaretreese.hicam.net
-buyugukucuguonlnesrma.sbs
 buyukbaliklaratarimolta.click
 buzzdaily.online
 buzzflixra.com
@@ -2482,6 +2482,7 @@ cl.allthe.site
 cl.distritovagas.com
 cladesktop.gitlab.io
 claracurrent.com
+clascicek.com
 claude-app-new.gitlab.io
 claude-code-app.gitlab.io
 claude-desktop-lm.gitlab.io
@@ -3015,7 +3016,6 @@ dijitalportalgiris.com
 dijitalsbasvurukanal.duckdns.org
 dijitalsorgu.sbs
 dijitalweb-kampanyalarimiz.com
-dijitalyapi.xyz
 dijtalisbq.space
 dijtalsbn.space
 dinamik-hat-verileri.myonlineportal.ch
@@ -4312,7 +4312,6 @@ girisss-aktiff-sorsisteme.sbs
 girisssulkesorguekraniniz.sbs
 girissube-akbank.ph
 gironetcdn.ru
-girs-onlne-aktiff.sbs
 girsisonnlneslemleriniz.sbs
 girsizsabit2026.com
 girsizsabiti2026.com
@@ -5369,6 +5368,7 @@ hmnislemnktans.net
 hmnislemnktbas.net
 hmnislemnktsans.net
 hmnislemnoktnasn.net
+hmnislemntkas.net
 hmnislmbkntans.net
 hmnislmknat.net
 hmnislmnkatnas.net
@@ -10378,7 +10378,6 @@ simdi-40binpromsyonmo-burdan.cfd
 simdidebirazburdan.yyuyy.com
 simdilikgelenlerburada.com
 simdilikyaninageldi.com
-simdilikyanindaburda.com
 simdisofradahayverparmesan.sbs
 simdissenalimyapal.cloud
 simtorgo.digital
@@ -10586,7 +10585,6 @@ son-gun-destekleme.cfd
 son101.duckdns.org
 son101cilerkaldi.cloud
 sondakikada.org
-sondakikahaberler2026.com
 sondakikahaberler724.com
 sondakikahaberleri2026.shop
 sondakikahaberleri724.shop
@@ -12368,6 +12366,7 @@ vuhukul-daeredesede.lol
 vuhukulupolisede.lat
 vujuhugufueretesede.xyz
 vulcarti.gifts
+vulipilongo-katore.lol
 vusuydryt.love
 vuvugufere-dadada.lol
 vuyhujuklederete.lat
