@@ -6444,6 +6444,7 @@ kisalink.lat
 kisalt-tr-mobil.sbs
 kisaltbunu.dpdns.org
 kisaltlnks-mobil.sbs
+kisitkaldirmalinkibasvuru.duckdns.org
 kitaprota.com
 kitemailpocket.com
 kittyfreespace.com
@@ -13009,7 +13010,6 @@ yorum-ithal-gr.garden
 youarases.lat
 yoursfind.com
 ypmakarss.com
-ypmobildijital.xyz
 yqhalktvmf.com
 yreosaocaknsaaca.cfd
 yrpkrdylefrtrsr.com
