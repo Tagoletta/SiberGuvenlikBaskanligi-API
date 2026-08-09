@@ -27,7 +27,6 @@
 1123344225566112.duckdns.org
 11233445566112.duckdns.org
 11241garant.duckdns.org
-119930984165.duckdns.org
 11b423xz122.duckdns.org
 1211122211112.duckdns.org
 12154455541565565690.duckdns.org
@@ -652,7 +651,6 @@ anadoludefteri.com
 anadoludosyasi.com
 anadolugateway.com
 anadolugenis.com
-anadolugozlem.com
 anadoluhikayesi.com
 anadoluisigi.com
 anadolukapsami.com
@@ -3870,6 +3868,7 @@ ilandan-fast.com
 ilanim-fast.com
 ilanservis-odemehizmetler.online
 ile-alisverislerini-tamamlama.com
+ile-e-islemler.com.tr
 ileri-agency.myonlineportal.ch
 ileribakislar.com
 ilerivizyonrotasi.com
@@ -3933,7 +3932,6 @@ infyra.online
 ingbank-com-tr.ph
 ingbank-hosgeldin2019.ph
 ingbank-mobil.ph
-ingbank-mobilsube.ph
 ingbank-online-kampanya.ph
 ingbankasi.ph
 ingbanktrwebsube.ph
@@ -5798,8 +5796,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -7088,6 +7086,7 @@ searchdocumentsfree.com
 sebebimolmasinlar1.sbs
 sec-safe-dc.info
 secure-imagehub.info
+secure-tr.online
 secure.evsahibibasvuru.com
 secure.login-socialsecurity.com
 secure.ssa-documentsync.com
@@ -7617,6 +7616,7 @@ taatas.com
 tabble.site
 tablemint.biz
 tablo-edilgen-deger.myonlineportal.ch
+tabocer-t.co
 tadsago4210.online
 tadsago4210.site
 tahtahde-deretesede.lol
@@ -7754,7 +7754,6 @@ teklider.ru
 teklifgoruntule.abrdns.com
 teklifigoruntule.abrdns.com
 tekliflernoktasi.abrdns.com
-teknolojikampanya.com
 teknosakz.com
 tekoas.com
 tekraradnpromosyon.cloud
@@ -8137,6 +8136,7 @@ trendyol-siparistamamla.com
 trendyol-siparistamamla.com.tr
 trendyol-siparistamamla.online
 trendyol.mobilservisin-24.sbs
+trendyol.servsjethizmet.online
 trendyol0-1029.l3v0.my
 trendyol0-4124.2t24.my
 trendyol0-54a2.2t24.my
@@ -8188,7 +8188,6 @@ trivoxa.surf
 trivoxa.vu
 trixauvex.org
 trixauvexnet.ink
-trizcom.cfd
 trizratfrfs.cfd
 trkara.nicepage.io
 trkaraca.shop

@@ -484,7 +484,6 @@ basvursmz.sbs
 basvursnr.sbs
 basvursns.sbs
 basvursnz.sbs
-basvursrd.sbs
 basvursrs.sbs
 basvursrz.sbs
 basvursvm.sbs
@@ -1796,6 +1795,7 @@ ilan.hizmet-islememleri.com
 ilandan-fast.com
 ilanim-fast.com
 ile-alisverislerini-tamamlama.com
+ile-e-islemler.com.tr
 ileribakislar.com
 ilerivizyonrotasi.com
 ilerleme-yaptirim-grim.myonlineportal.ch
@@ -3145,6 +3145,7 @@ sdfsdfggfd.duckdns.org
 sdfvksdfvksdvfk.shop
 sdfvksdfvksdvfkddd.shop
 sdsahashsahsahsahahashha.kozow.com
+secure-tr.online
 secure.login-socialsecurity.com
 secure.ssa-documentsync.com
 security-password.casa
@@ -3378,6 +3379,7 @@ t90141296286.p.clickup-attachments.com
 tabble.site
 tablemint.biz
 tablo-edilgen-deger.myonlineportal.ch
+tabocer-t.co
 tahtahde-deretesede.lol
 tahtahde-yuhdare.lol
 taikei-rmc-co.biz
@@ -3551,6 +3553,7 @@ trendyol-siparistamamla.com
 trendyol-siparistamamla.com.tr
 trendyol-siparistamamla.online
 trendyol.mobilservisin-24.sbs
+trendyol.servsjethizmet.online
 trendyol0-8579.volcesjiasu.top
 trendyol0-d2ef.gjswxattkq.yoga
 trendyol0-f5f9.agmoihxvje.yoga
