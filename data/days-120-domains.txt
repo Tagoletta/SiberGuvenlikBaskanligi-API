@@ -4937,6 +4937,7 @@ endijitalpara.lat
 endpoint-api-v1.com
 eneaktarim.com
 englishhome-sinirlistok.lat
+engzlera-82brdayz.org
 enhanceblabber.cc
 enhizlikampanyayagir.com
 eniyifirsatlareniyiurunler.com
@@ -9177,7 +9178,6 @@ koravelo.sbs
 korlinnnimmir.com
 korovkamu.com
 korvex.cyou
-kosgebdestekhizmetleri.com
 kosgebprojelerii.com
 kostugumyollartasti.click
 kotartires.biz
@@ -9278,7 +9278,6 @@ kredibasvuruportal.club
 kredibasvuruportali.lat
 kredibasvurusu.lat
 kredibasvurusu.lol
-krediburada.sbs
 krediiibsvrrkmpnyaafrsatlarii.info
 krediiibsvrrkmpnyaafrsatlarii.life
 krediiibsvrrkmpnyaafrsatlarii.online
@@ -10593,6 +10592,7 @@ mobilitehizlisibasvur.sbs
 mobilitekatilimlarim.sbs
 mobilnet.my-homeip.net
 mobilpkampanyam.duckdns.org
+mobils-tr.online
 mobilservis-43.sbs
 mobilservis-83.sbs
 mobilservis-84.sbs
@@ -14131,6 +14131,7 @@ shopier.webislemlerimiz.com
 shopkingall.top
 shoplume.xyz
 shoplunaq.digital
+shopmobil.online
 shopnova.digital
 shoppeak.shop
 shopsites.shop
@@ -17009,6 +17010,7 @@ vakifkatili.pzbsin.com
 vakifline.org
 vakitline.com
 valbon.es
+valenspara-elemond.it.com
 valenspara-elre.it.com
 valenspara-fejoo.it.com
 valerionpark.pro
