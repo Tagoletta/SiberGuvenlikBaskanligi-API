@@ -3562,6 +3562,7 @@ ceptehaber3445.shop
 ceptehaber45.shop
 ceptehizlimenulerss.store
 ceptelinks-tr-mobil-tr.online
+ceptemobildeyiz.my-homeip.de
 ceptemobili.my-homeip.de
 ceptemobilim.my-homeip.de
 ceptep-basvurularonline.myonlineportal.de
@@ -4813,7 +4814,6 @@ ekamutebligat.org
 ekcmko.help
 ekgelirhatti.com
 ekipportal.tr
-ekislem.duckdns.org
 ekkkerss.dns.navy
 ekkstrsan.duckdns.org
 ekmehiniasini.sbs
@@ -7047,7 +7047,6 @@ hggsbmamt.cfd
 hggspttavm.firebaseapp.com
 hghfkdm.cfd
 hgjnertnwernwer.sbs
-hgkavv.cfd
 hglsakstaafykl.cfd
 hglsyuklegecissystem.cfd
 hglsyuklme.cfd
@@ -11676,8 +11675,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -11808,7 +11807,6 @@ paleturquoise-crow-440042.hostingersite.com
 paleturquoise-dragonfly-364512.hostingersite.com
 palitogrenos.com
 palmiye-sultan.forum
-palmiye-sultan.help
 palmiyesultan.forum
 palmiyesultan.site
 palmiyesultan.uk
@@ -12038,7 +12036,6 @@ paribustock.org
 paributechnology.com
 parkfauna.com
 parodo-cepteteb.my-homeip.net
-parola-teb-do.my-homeip.net
 parolas.click
 parram-guvende.com
 parsfilocar.com
@@ -18100,7 +18097,6 @@ yonlendiriliyorderser22.duckdns.org
 yonlendiriliyordsunus12.duckdns.org
 yonlendiriliyordustahk1.duckdns.org
 yonlendiriliyors314.duckdns.org
-yonlendiriliyorsundawea.duckdns.org
 yonlendiriliyorsuuzsea2.duckdns.org
 yonlendiriliyorusyairan.duckdns.org
 yonlendiriliyrsundunz.duckdns.org

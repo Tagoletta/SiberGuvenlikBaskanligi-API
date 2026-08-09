@@ -590,7 +590,6 @@ a101-com.tr.webliosy.online
 a101-ekstra.s3.eu-north-1.amazonaws.com
 a101-firsatlariniz-artik-burada.duckdns.org
 a101-firsatlariniza-gelin.duckdns.org
-a101-harca.duckdns.org
 a101-kampanya-tum-haftasi-hafta-boyunca-indirim-firsat.site
 a101-sadeceonline.my-homeip.net
 a101.empordafibra.com
@@ -2283,8 +2282,6 @@ calisma-net.casa
 calisma-tr.work
 calistaluxurybelek.com
 calistaluxuryhotel.com
-call-history-7cda4-default-rtdb.firebaseio.com
-call-history-ecc1e-default-rtdb.firebaseio.com
 callidusventure.com
 calmerafireld.top
 calnora.vu
@@ -2415,6 +2412,7 @@ cepte-shop.online
 cepte-sok.shop
 cepte-sokindirim.rf.gd
 ceptehizlimenulerss.store
+ceptemobildeyiz.my-homeip.de
 ceptemobili.my-homeip.de
 ceptemobilim.my-homeip.de
 ceptep-basvurularonline.myonlineportal.de
@@ -6065,7 +6063,6 @@ jekep15918.online
 jekep15918.store
 jekep3410.online
 jekep3410.store
-jekep35919.shop
 jerryshvac.com
 jerusalem.androiddebugbridge.su
 jet-bireysel-hizmetler.online
@@ -6651,7 +6648,6 @@ kotartires.club
 kotartires.courses
 kotartires.lol
 kotr3akt.nicepage.io
-kottey54879.store
 kouseh.site
 koveyt-tork-net.duckdns.org
 koveyt-turk-org.duckdns.org
@@ -6774,7 +6770,6 @@ kubaaraclari.com
 kubafabrika.com
 kubamagaza.com
 kubamotorluaraclar.com
-kubamotorturkiye.com
 kubaonlinesatis.com
 kufar.org
 kufsen.netlify.app
@@ -8476,8 +8471,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -8821,7 +8816,6 @@ pastalita-cake.xyz
 patakuti-cartcurtede.lol
 patent-harc-govtrr.site
 patente-harrc-govtr.site
-patentharc-resmigov-trr.site
 pathfindd.click
 pathsignalpro.com
 patnurd.neocities.org
