@@ -1487,7 +1487,6 @@ basvursvs.sbs
 basvurszr.sbs
 basvurtamamlana.cloud
 basvuru-cekilis.online
-basvuru-girisi-gvbg.cfd
 basvuru-kampanya.myonlineportal.de
 basvuru.avrupagundem.uk
 basvuru.myonlineportal.de
@@ -3249,7 +3248,6 @@ e-odeme.duckdns.org
 e-odemeler.duckdns.org
 e-online-ilan-sepet.com
 e-online-ilan-sepetim.com
-e-onlineislemlerim.rf.gd
 e-sagligahemenkavussss.digital
 e-sozlesme.kurumsal-online-islem.com
 e-sube-isbank.ph
@@ -3900,7 +3898,6 @@ flashforward.longviews.ai
 flashledger.top
 flashsignal.world
 flashtrail.online
-flashwire.world
 flattimesn.info
 flavorlino.com
 flbayatirim.com
@@ -6067,7 +6064,6 @@ izmirbyte.sbs
 izmirhub.sbs
 izmirio.xyz
 izmirnest.xyz
-izmra.com
 izooooffss.blogspot.com
 izskaoqeq.blogspot.com
 iztoaofsa.blogspot.com
@@ -6082,7 +6078,6 @@ jambril.org
 jambrilo.fund
 jantril.surf
 jasimnineotokaportaboyadetaylinkxx.duckdns.org
-jaxdurem.com
 jaxdurev.buzz
 jbl-turkiye.com
 jeaw520i.space
@@ -7390,7 +7385,6 @@ meetsmedias.com
 megadencer.top
 megahirdavatciniz.com
 megaindirimkampanyasi5.sbs
-meganecco.work
 meharase-web.com
 meharase.com
 mehareseinternet.com
@@ -8502,8 +8496,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -13244,7 +13238,6 @@ ziraatselseyler.fun
 ziraatssbank.xyz
 ziraattarimsa.cfd
 ziraatyenilenensubemiz.com.ph
-zirahot-basvur.vercel.app
 zirailillf.cfd
 ziraitarimfs.cfd
 zirat-kredi-basvuru-formu.duckdns.org
