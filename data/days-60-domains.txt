@@ -2814,13 +2814,11 @@ garanti-kredi-basvurusu.sbs
 garanti-kredili-bonus-com.mayddns.com
 garanti-krediye-basvur.sbs
 garanti-sube-bonus-islemlerim.mayddns.com
-garanti-subesi-giris.ph
 garanti-yesil-kredili-garanti.xyz
 garanti.3w17.com
 garanti.bb.va-tr.com
 garanti.vva8.com
 garantibbva-com-tr.replit.app
-garantibbvabankas.ph
 garantibbvafirsatlri.duckdns.org
 garantibbvahesaphareketleri.ph
 garantibbvaiade.ph
@@ -5787,8 +5785,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
