@@ -659,11 +659,9 @@ a1o1kampalrmbrda.sbs
 a1o1kampanya.blogspot.com
 a1o1kampanyalar.duckdns.org
 a1o1kampanyalarii.duckdns.org
-a1o1karcafirsabaatrp.blogspot.com
 a1o1korkmazfirsatlari.blogspot.com
 a1o1korkmazkampanya.blogspot.com
 a1o1onlinesadeconlin1d.blogdns.com
-a1o1onlinfirsatlnisantrf.blogdns.com
 a1o1por.duckdns.org
 a1o1simdi.duckdns.org
 a1o1simdiaktuel.duckdns.org
@@ -8556,8 +8554,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -10605,7 +10603,6 @@ smartneedshub.shop
 smartutilityhub.shop
 smartvaluebay.shop
 smokup.bond
-smpworlds.com
 snaketwig.com
 snapkeep.info
 snapstory.online
