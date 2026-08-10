@@ -1982,7 +1982,6 @@ deniz-mobil-promossyon-bilgi-ekrani-com.duckdns.org
 deniz-mobil-promossyon-ekrani-aspx-com.duckdns.org
 deniz-mobil-promossyon-ekrani-guncel-com.duckdns.org
 deniz-seyehatplanlama.duckdns.org
-denizbank.com.ph
 denizbankampanyasi.sanmadarbeler.cfd
 denizbankesube.ph
 denizmenkul.pro
@@ -2089,7 +2088,6 @@ dipixcanax.sbs
 dipixcanax.xyz
 diplomaal.online
 diplomasatisi.online
-direktsube-akbank.ph
 disciplinenahidwin.st
 disclaud-password-security.myonlineportal.ch
 discountonline.click
@@ -3931,7 +3929,6 @@ infportfolio.online
 infyra.online
 ingbank-com-tr.ph
 ingbank-hosgeldin2019.ph
-ingbank-mobil.ph
 ingbank-online-kampanya.ph
 ingbankasi.ph
 ingbanktrwebsube.ph
@@ -4111,7 +4108,6 @@ istntblgtrjrg.com
 isube-kuveyttt.duckdns.org
 isube-mobilll.duckdns.org
 isube-qnbfinansbankasi.ph
-isubeakbankdirekt.ph
 isxbank-promo.redirectme.net
 it.evsahibibasvuru.com
 ivdesube.com
@@ -4984,7 +4980,6 @@ marketpromosyon.duckdns.org
 marketridge.shop
 markettrailway.shop
 marketwarehouse.shop
-marksandspencer-login.ph
 markunabaras.click
 marmaracicekcim.com.tr
 marnetico.com
@@ -5706,7 +5701,6 @@ onlineislemmerkezleria101.pages.dev
 onlinekgmyolgcsbrcodyn.com
 onlinekirasozlesmesi.com
 onlinemarketafisi.com
-onlineqnbfinansbank.com.ph
 onlinesiparislerim.com
 onlinetebmobil.sbs
 onlinetemmuzfirsatlari.com
@@ -5793,8 +5787,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -6355,7 +6349,6 @@ promsyon-isbank.bounceme.net
 proton-network.com
 proxygrid.cc
 psmsynnnkmpnyaaaa.live
-ptksdasfasxa-sa.cfd
 ptt-avm-arac-km-sorgu-sist.firebaseapp.com
 ptt-avm-arac-km-sorgu-sist.web.app
 ptt-avm-islemleriniz-km.firebaseapp.com
@@ -6575,11 +6568,9 @@ qmenkuldegerler.com
 qnasndnasn.vercel.app
 qnb-enpara-cekilis.ph
 qnb-finansbankasi.ph
-qnb-finansbankasionline.ph
 qnbbank.site
 qnbfinansbank---giris.ph
 qnbfinansbank-intsube.ph
-qnbfinansbank-kampanyakatilim.ph
 qnbfinansbank-kredi.ph
 qnbfinansbank-login.ph
 qnbfinansbnak.ph
@@ -8070,7 +8061,6 @@ tpetrolinvest.com
 tplskerjsc.space
 tppsl-032042.com
 tpurandevolstur.uk
-tr-akbank.ph
 tr-aselsan.com
 tr-bbva-garanti.ph
 tr-binance2026.duckdns.org
@@ -8855,10 +8845,8 @@ www-qnb-finansbank-secure-login.ph
 www-qnb-finansbank-secure.ph
 www-qnb-finansbank-service.ph
 www-qnb-finansbank-transfer.ph
-www-qnb-finansbank.ph
 www-qnbfinansbank-access.ph
 www-qnbfinansbank-banking.ph
-www-qnbfinansbank-cekilis-firsat-com.ph
 www-qnbfinansbank-cepsubesi-com.ph
 www-qnbfinansbank-contact.ph
 www-qnbfinansbank-help.ph
