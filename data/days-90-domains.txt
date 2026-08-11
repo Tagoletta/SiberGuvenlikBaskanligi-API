@@ -1349,7 +1349,6 @@ avmhemenal.com
 avmkampanyasi.com
 avmsiparislerim.com
 avorilla.com
-avsarackirala.com.tr
 avsbayi.com
 avscarfilo.net
 avscarfilom.com
@@ -2846,7 +2845,6 @@ datapulseforge8.lol
 datapulseforge9.lol
 datario.digital
 datolabndsaxzd.xyz
-dava-dosya.click
 davabirimi.org
 davadosyasorgu.com
 davadurum.org
@@ -3454,7 +3452,6 @@ ekraninizzgirisoanysorogren.sbs
 ekraninizzonayy-kontrol.sbs
 ekranmhrsvatandasbasvuru.duckdns.org
 ekranportalmhrsgirisvatandas.duckdns.org
-ekspres.obilet-www.online
 ekstra101.dpdns.org
 ekwlqrsgm.sbs
 elaexallance.com
@@ -3544,7 +3541,6 @@ enuygunarabakirala.com.tr
 enuygunarabakiralama.com.tr
 enuygunarackirala.com.tr
 enuygunfilo.com
-enuygunkirala.net
 envercicek.com
 enviirandevu.org
 eolvaru.com
@@ -6643,7 +6639,6 @@ kobibilgi.click
 kobihaberleri.click
 kobihaberleri.com
 kobiyardimerkezi.com
-kocarackiralama.com
 kocavs.online
 kocfiinance.com
 kocfilokurumsal.net
@@ -8538,7 +8533,6 @@ otoaracteoglion.org
 otokoc.rent
 otokocarabakirala.com.tr
 otokocarabakiralama.com.tr
-otokocarackirala.com
 otokocarackirala.com.tr
 otokocarackirala.net.tr
 otokocarackirala.org
@@ -8549,8 +8543,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -9372,7 +9366,6 @@ pttavm-kmsorgulama-hizmeti.firebaseapp.com
 pttavm-kmsorgulama-hizmeti.web.app
 pttavm-kmsorgulama.firebaseapp.com
 pttavm-kmsorgulama.web.app
-pttavm-odemenizguvende.com
 pttavm-oto-kontrol.firebaseapp.com
 pttavm-oto-kontrol.web.app
 pttavm-tramer-km-sorgu.web.app
@@ -9449,7 +9442,6 @@ pttavmkmsorgumerkezi.web.app
 pttavmonlineislemlerim.com
 pttavmonlinesepethemenal.com
 pttavmsepethemenal.com
-pttavmsepetimdenal.com
 pttavmsepetimhemenal.com
 pttavmsepettenal.com
 pttavmsepettensatinal.com
@@ -9727,8 +9719,6 @@ randevuislemleribdusa.online
 randevuislemleribdusa.store
 randevulugunlerburada.duckdns.org
 randevuluzamanninicin.net
-randevunuzu-goruntuleyin.com
-randevunuzugoruntuyin.com
 randevup-rtali.duckdns.org
 randevup0rtal.duckdns.org
 randevusaatiolun.com
@@ -12238,9 +12228,7 @@ uygula-mobile.online
 uygun-bireysel-ihtiyac.xyz
 uyguna101.duckdns.org
 uygunarabakirala.com.tr
-uygunarabakirala.net
 uygunarabakiralama.com.tr
-uygunarackiralama.org
 uygunfiyatliurun.duckdns.org
 uygunindirimlerr.duckdns.org
 uygunkategori.duckdns.org
