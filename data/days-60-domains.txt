@@ -2464,7 +2464,6 @@ enonline.help
 enonline.lat
 enpara-mobilsubem.ph
 enpara-qnbfinansnankan.ph
-enparabasvur.xyz
 enparakampanyabasvuru.ph
 enparamobilsubem.ph
 enparaonline.online
@@ -4582,7 +4581,6 @@ kmpnyaaabsvrrrprmsynnn.live
 kmpnyaaabsvrrrprmsynnn.pro
 kmpnyaaaprmsynnbsvrrrfrstlr.info
 kmpnyaaaprmsynnbsvrrrfrstlr.live
-kmpnyaaaprmsynnbsvrrrfrstlr.pro
 kmpnyaaaprmsynnncklssssss.click
 kmpnyaaaprmsynnncklssssss.info
 kmpnyaabsvrr12531.online
@@ -4634,6 +4632,7 @@ kolay-kredi-basvuru.cloud
 kolaydiploma.com
 kolektif-ajans-yaz.biz
 kolektifweb.digital
+kolibofilna-lucere.lol
 kolirapolse-vadore.lol
 kolmlolla-ukler-ciklsosto.xyz
 komelerdesneler.duckdns.org
@@ -4759,7 +4758,6 @@ kuveyttorg.duckdns.org
 kuveytturk-online.duckdns.org
 kuveytturk-umreseyehatleri.duckdns.org
 kuveytturkkkk.duckdns.org
-kuveytturkmobil.duckdns.org
 kuzey-islem.22web.org
 kveylekrt.duckdns.org
 kydrmassanadmdglsn.com
@@ -5071,7 +5069,6 @@ masakbncaktivasyon.duckdns.org
 masakdosyasi.org
 masakpro.app
 masaktakibi.org
-masaktrmobilbinance12.duckdns.org
 masakveznedar.com
 maspiodaonmb.icu
 massak.com.tr
@@ -5951,8 +5948,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -6884,7 +6881,6 @@ randevup0rtal.duckdns.org
 randevusalisler.com
 randevusorgulamamhrsonline.duckdns.org
 randevusuzgunlerden.duckdns.org
-randkvkkakklks.net
 randv-kontlr-etmek-m.web.app
 randvhsziemtsd.store
 randvlrmzbrdamhrsa.sbs
@@ -7300,6 +7296,7 @@ secutoki.site
 seedmora.com
 seedrops.cfd
 sehaaredales.duckdns.org
+sekermenkulglobal.com
 sektorbizdensoruluyor.sbs
 selectumfamilyhotels.com
 selectumhotelsandresorts.com
@@ -7479,7 +7476,6 @@ skklaresta.lat
 skkmakinesicay.lat
 skkmkncere.lat
 skktkrstencere.lat
-sklardayap.click
 sklmkare.shop
 skltncerelas.lat
 skmalkkteretler.shop
@@ -7537,6 +7533,7 @@ softivo.digital
 softlyx.sbs
 softpilotx.digital
 softquiver.com
+sok-marketler-kampanyasi-stoklarla52052052.sbs
 sokaklaroldubasimabela.duckdns.org
 sokarcas.store
 soketescepte.lat
@@ -9480,6 +9477,7 @@ zccumhuriyetlr.com
 zealpraxis.com
 zebregts.com
 zederesede-sederesede.lol
+zedsere-luluyopi.lol
 zelalver.gifts
 zelbutro.com
 zelcartiq.shop
@@ -9562,7 +9560,6 @@ zitrkfs.cfd
 ziyaret-prise-lov.myonlineportal.ch
 ziyoklam.biz
 ziytratgx.cfd
-zkooperatif.cfd
 zkopera.cfd
 zkoperatiedfi.cfd
 zkoperatifi.cfd
