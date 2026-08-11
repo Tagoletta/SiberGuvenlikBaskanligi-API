@@ -590,6 +590,7 @@ a-101indirim.com
 a-101xaxakapinda.com
 a-1o1-c.duckdns.org
 a-alisveris-sepetim.com
+a-g-r.my-homeip.de
 a.101onlinesiparis.duckdns.org
 a.cacacax.click
 a.dev-tunnels.com
@@ -6170,6 +6171,7 @@ jet-eservis-hizmetlerin.online
 jet-guvenlihizmetleriniz.online
 jet-hizmetlerim.online
 jetbrains-apps-group.gitlab.io
+jetcepte.info
 jetcicek.org
 jetotofilo.com
 jetross.com
@@ -13243,6 +13245,7 @@ yonl3ndirilidiorusunizi.duckdns.org
 yonlen-toplan-security.ink
 yonlen.duckdns.org
 yonlendeiiyonuz7290012.duckdns.org
+yonlendir-g.my-homeip.de
 yonlendiren-stafy.ink
 yonlendirilidordisuzsw21.duckdns.org
 yonlendirilisordinunuz.duckdns.org

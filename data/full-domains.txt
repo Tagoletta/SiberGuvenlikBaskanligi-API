@@ -23045,6 +23045,7 @@ a-facebook.click
 a-findmy-icloud.com
 a-fsg-y4-4y3hre-hhfddh-faswdg-ds.com.tr
 a-fsg-y4-4y3hre-hhfddh-faswdg-ds.net.tr
+a-g-r.my-homeip.de
 a-gagiiriisllemmenus.com
 a-google-bcd.tk
 a-guvenli-alisveris.sa.com
@@ -130827,10 +130828,10 @@ downloads-windows-apps.com
 downloads.flashplayerup.com
 downloads.softupdate-online.top
 downloads.trendav.vip
-downloadsbeta.com
 Downloadsbeta.com
-Downloadstep.com
+downloadsbeta.com
 downloadstep.com
+Downloadstep.com
 downloadsvc.publicvm.com
 downlying.com
 downparwaswith.com
@@ -148463,7 +148464,6 @@ eme2ci.duckdns.org
 EmEditorde.com
 emeditorde.com
 EmEditorgb.com
-emeditorgb.com
 EmEditorjp.com
 emeditorjp.com
 emedoo.ddns.net
@@ -158841,8 +158841,8 @@ ezik-0025912.top
 ezik-0098285.top
 ezik-0098924.top
 ezik.fun
-Ezik.live
 ezik.live
+Ezik.live
 ezik.store
 ezik.world
 ezikfanlar.sbs
@@ -183017,8 +183017,8 @@ gomezhasereilaclamasi.site
 gomicrosoft.info
 gomimenyye.ddns.net
 gommeyencemeryes.site
-Gomnd2873yemnenrc.ddns.net
 gomnd2873yemnenrc.ddns.net
+Gomnd2873yemnenrc.ddns.net
 gomnu.com
 gomobile-tor.net
 gomolatori.cyou
@@ -239285,6 +239285,7 @@ jetbrains-apps-group.gitlab.io
 jetcarfilo.com
 jetcarsfly.com
 jetcepte.com
+jetcepte.info
 jetcepte.online
 jetcicek.org
 jetcozum.name.tr
@@ -265133,8 +265134,8 @@ live-war-map.com
 live.account-profile-users.info
 live.airemoteplant.workers.dev
 live.easyboxsync.com
-Live.musicweb.xyz
 live.musicweb.xyz
+Live.musicweb.xyz
 live.supportoffline.pro
 live.webfontupdate.com
 live2020.zapto.org
@@ -270923,8 +270924,8 @@ mail.sosyal-yardimlasma-basvuru.com
 mail.soylemektencekinmeyinbunlari.net
 mail.spamhuas.com
 mail.springandsummer.lk
-MAIL.starmech.in
 mail.starmech.in
+MAIL.starmech.in
 mail.starmech.net
 mail.strakonltd.co.ug
 mail.strongserviceip.com
@@ -345199,8 +345200,8 @@ roseslot.top
 rosetta.cn
 rosetta.top
 rosettahome.cn
-Rosettahome.top
 rosettahome.top
+Rosettahome.top
 roshanpackages.store
 roshansanthalia.com
 rositaoy.space
@@ -412510,8 +412511,8 @@ update.flash-installers.com
 update.gdrives.top
 update.githubtestbak.workers.dev
 update.heroisshit.com
-Update.hobiter.com
 update.hobiter.com
+Update.hobiter.com
 update.iap5u1rbety6vifaxsi9vovnc9jjay2l.com
 update.ictdp.com
 update.inet2.org
@@ -456698,6 +456699,7 @@ yonlendinizkis.duckdns.org
 yonlendir-559125.strangled.net
 yonlendir-aktarma-sistem.cyou
 yonlendir-denizcekilisim-2022.com
+yonlendir-g.my-homeip.de
 yonlendir-reklam.com
 yonlendir.click
 yonlendir.dynamic-dns.net
