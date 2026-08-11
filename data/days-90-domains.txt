@@ -894,7 +894,6 @@ aksutelfirsatlarim.xyz
 aktarimekranim.duckdns.org
 aktarimsorgurkranlariniz.sbs
 aktarimyapguvenli.duckdns.org
-aktfbncasgrslertr.com
 aktiff-kal-onnlne-ssrggusstemi.sbs
 aktifgirisparibu.xyz
 aktifhazirancarki.duckdns.org
@@ -1337,6 +1336,7 @@ avenza.cfd
 aviluxo.com
 avirox.gifts
 avis-filo.kurumsal-online-islem.com
+avis-sozlesme.com
 avis-sozlesme.fast-islem-merkezi.com
 avis-sozlesme.hizli-islemler-merkezi.com
 avis.arackiralamaislem.com
@@ -1359,6 +1359,7 @@ avisverification.fr
 avm-satinal.com
 avm-siparislerim.com
 avmbireysel.com
+avmbireyselim.com
 avmbireyselislem.com
 avmbireyselodeme.com
 avmbireyselsatis.com
@@ -2176,7 +2177,6 @@ bucket-aws-s2.com
 budgetyn.com
 buf2.com
 bufirsatlarkacmaz.com
-bufirsatyuzbirde.site
 bugfudafadadsede.xyz
 bugrhanceone.duckdns.org
 buguhudu-reteuyusda.lol
@@ -8583,8 +8583,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net

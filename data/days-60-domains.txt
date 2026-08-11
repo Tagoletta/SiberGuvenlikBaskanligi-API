@@ -280,7 +280,6 @@
 56856856342352345754745.org
 56f6862b-7.b-cdn.net
 576345354.net
-576465345.net
 5e0c6139-1.b-cdn.net
 5x5web.com
 604da060-7.b-cdn.net
@@ -422,7 +421,6 @@ a1o1.ile-e-islemlerim.com.tr
 a1o1aktuelaldin.duckdns.org
 a1o1aldinaldin.duckdns.org
 a1o1aldinaldinn.duckdns.org
-a1o1aldinfirsatlarisi.duckdns.org
 a1o1aldinhemen.duckdns.org
 a1o1aldinss.duckdns.org
 a1o1aldiraldir.duckdns.org
@@ -921,6 +919,7 @@ avantaj-web.guru
 avantajnoktasi24.sbs
 avirox.gifts
 avis-filo.kurumsal-online-islem.com
+avis-sozlesme.com
 avis-sozlesme.fast-islem-merkezi.com
 avis-sozlesme.hizli-islemler-merkezi.com
 avis.arackiralamaislem.com
@@ -941,6 +940,7 @@ avisverification.fr
 avm-satinal.com
 avm-siparislerim.com
 avmbireysel.com
+avmbireyselim.com
 avmbireyselislem.com
 avmbireyselodeme.com
 avmbireyselsatis.com
@@ -2453,9 +2453,7 @@ eniyisiyim.sbs
 enlightgo.com
 enonline.help
 enonline.lat
-enpara---qnbfinansbank.ph
 enpara-mobilsubem.ph
-enpara-onlinesube-com-tr.ph
 enpara-qnbfinansnankan.ph
 enparabasvur.xyz
 enparakampanyabasvuru.ph
@@ -2485,7 +2483,6 @@ era7capone5.sbs
 era7capone6.sbs
 erd4power.sbs
 erde-rederesedere.lol
-eredesaweresede.xyz
 erisim-denizacik.my-homeip.de
 erisim.casa
 erken-randevuhizmetleri.com
@@ -2874,8 +2871,6 @@ gami.companyfeel.cfd
 garaktifmenusu.duckdns.org
 garandibas.cfd
 garandibasvru.cfd
-garanti-bank-bireysel.ph
-garanti-bankasionline.ph
 garanti-basvuru-bireysel-com.webredirect.org
 garanti-basvuru-bonus-islemlerim.mayddns.com
 garanti-basvuru-bonus.mayddns.com
@@ -2904,7 +2899,6 @@ garantibbvaintl.com
 garantibbvakredi.otzo.com
 garantibbvakredibasvurusu.info
 garantibbvamobil.netlify.app
-garanticepsubem-com.ph
 garantiden-basvur.click
 garantiden-kredi-firsati.sbs
 garantiden-kredi-firsatlari.sbs
@@ -4706,7 +4700,6 @@ ktcjadskjx1k23xk1zl123123.click
 kubafabrika.com
 kubamotorluaraclar.com
 kuluhugude-redesede.lol
-kuluhugudefere.xyz
 kumuhuguduere-sederete.lol
 kunaz.xyz
 kunveytgiris.duckdns.org
@@ -5297,7 +5290,6 @@ mobilcepdenportal.myonlineportal.de
 mobilden.myonlineportal.de
 mobildeyiz.myonlineportal.de
 mobile-akbank-basvurum.github.io
-mobile-qnbfinansbank.ph
 mobilentry.my-homeip.de
 mobilerism.myonlineportal.de
 mobilhalkta.duckdns.org
@@ -5936,8 +5928,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -6755,8 +6747,6 @@ qnbfinansbank---giris.ph
 qnbfinansbank-intsube.ph
 qnbfinansbank-kredi.ph
 qnbfinansbank-login.ph
-qnbfinansbnak.ph
-qnbsfinansbank-basvuru.ph
 qonllinekonomigarantimobileapptr.xyz
 qoravemix.capital
 qorbazli.com
@@ -7285,7 +7275,6 @@ securityhelpmicrosoft.com
 secutoki.site
 seedmora.com
 seedrops.cfd
-sega-ads-territories-appendix.trycloudflare.com
 sehaaredales.duckdns.org
 sektorbizdensoruluyor.sbs
 selectumfamilyhotels.com
@@ -7731,7 +7720,6 @@ steproute.com
 stivaleno.pro
 stiye-yonlendiirci.com
 stnlyyenikmp.com.tr
-stock-arab-flame-hat.trycloudflare.com
 stocksnt.com
 stokta-sayili-urun.sbs
 stontra.shop
@@ -8630,7 +8618,6 @@ ui9r09xfxp2n.icu
 ukzisrgh.cfd
 ulkebakisi.com
 ulkeincelemesi.com
-ulkeizleme.com
 ulkeizleri.com
 ulkepanorama.com
 ulkesesleri.com
@@ -9495,7 +9482,6 @@ zesco.ae
 zessdeli.club
 zestio.gifts
 zeuscarkiralama.com
-zevfesedlipilgiasdere.xyz
 zexcommunity.xyz
 zeytaro.com
 zfonemk.cfd
