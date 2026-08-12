@@ -1093,7 +1093,6 @@ dijitalbilgi-giriskampanya.sbs
 dijitalbilgi-girisnetkampanya.sbs
 dijitalbilgi-sorgu.sbs
 dijitalbilgi-sorguislem.sbs
-dijitalbilgilendirme.sbs
 dijitalbilginet-giris.sbs
 dijitalbilginet-giriskampanya.sbs
 dijitalformgiris.sbs
@@ -2318,7 +2317,6 @@ kredddfrstlrarrkmpnyaabsvrsu98563214.pro
 kredi-basvuru-merkezi.cfd
 kredi-basvuru-merkezi.click
 kredi-basvuru-merkezi.lat
-kredi-basvuru-merkezi.ooguy.com
 kredi-basvuru-merkezi.pics
 kredi-basvuru-merkezi.quest
 kredi-basvuru-online.cfd

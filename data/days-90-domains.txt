@@ -4561,7 +4561,6 @@ gundemcizgisi.gifts
 gundemdunyasi.company
 gundemdunyasi.world
 gundemfeneri.online
-gundemguncelplatform.com
 gundemhaberfirsat.com
 gundemhaberhizli.com
 gundemkaynak.org
@@ -4818,7 +4817,6 @@ hadi00122online012.duckdns.org
 hadidmaosuz.com
 hadlykhlzma.com
 hadntasmcalk.com
-hadrion.site
 hafiza-edinim-belirti.myonlineportal.ch
 hafksoawi925ds.com
 hafta-yeni-yaz-guzel.lol
@@ -6084,7 +6082,6 @@ jambril.org
 jambrilo.fund
 jantril.surf
 jasimnineotokaportaboyadetaylinkxx.duckdns.org
-jaxdurev.buzz
 jbl-turkiye.com
 jeaw520i.space
 jekep15918.online
@@ -8493,7 +8490,6 @@ ortakyasamim.com
 ortakyasamyolu.com
 ortakyolculuk.com
 ortakyuzumuz.com
-ortilix.site
 orvani.cyou
 orvyra.xyz
 orynt.sbs
@@ -8521,8 +8517,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -10188,7 +10184,6 @@ salt-okunur.click
 saltokunur.casa
 samel.casa
 samiads-946c93444c3e.herokuapp.com
-samurestivon.com
 sana-ozeel-zrrat.cfd
 sana-ozel.duckdns.org
 sanalbasvuruolustura.cloud
@@ -10376,7 +10371,6 @@ serverpulse.xyz
 serverscreen.net
 service-center-instagram.com
 servicefor8.com
-servis-hizmetleri.online
 servis-islem-bilgi.online
 servis-islem.online
 servisalimlarin.online
