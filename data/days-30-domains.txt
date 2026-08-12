@@ -235,7 +235,6 @@ acacacacacac.sbs
 acascadkx123jkasdas.sbs
 acc.hdfportfoy.com
 acc.hedeffon.com
-acc.hedefonmusteripanel.com
 acc.hedefonportfoyum.com
 accapple.ru
 accessing-gregory-mhz-commitments.trycloudflare.com
@@ -404,7 +403,6 @@ apigrokcloud.icu
 app-3-ai.liyalabs.com
 app.hdfportfoy.com
 app.hedeffon.com
-app.hedefonmusteripanel.com
 app.hedefonportfoyum.com
 appledisk.ru
 appledns.ru
@@ -1180,7 +1178,6 @@ e-nvirandevu.org
 e-sagligahemenkavussss.digital
 e-sube.hdfportfoy.com
 e-sube.hedeffon.com
-e-sube.hedefonmusteripanel.com
 e-sube.hedefonportfoyum.com
 e-sube.tunafonyonetimi.com
 earthsignal.capital
@@ -1289,7 +1286,6 @@ estatetaxarchives.com
 estatetaxrecords.com
 esube.hdfportfoy.com
 esube.hedeffon.com
-esube.hedefonmusteripanel.com
 esube.hedefonportfoyum.com
 esubeturkishkayit.com
 etalimatdosya.org
@@ -1789,9 +1785,7 @@ heasdawdas.duckdns.org
 hedeffon.com
 hedefon.hdfportfoy.com
 hedefon.hedeffon.com
-hedefon.hedefonmusteripanel.com
 hedefon.hedefonportfoyum.com
-hedefonmusteripanel.com
 hedefonmusteripaneli.com
 hedefonportfoyum.com
 hedefportfoykurumsal.com
@@ -1943,7 +1937,6 @@ homeliora.cyou
 homelivinggoods.shop
 homeneedslane.shop
 homeneedsmarket.shop
-homenejst.duckdns.org
 homenejstt.duckdns.org
 homenestkrtest.duckdns.org
 homeparcel.shop
@@ -2407,7 +2400,6 @@ ls.j2x8a.top
 ls11112.site
 lumarapolli-sedere.lol
 lumexiq.info
-lumiqo.sbs
 lunqaro.xyz
 lunshopro.com
 lyricinspire.com
@@ -2482,6 +2474,7 @@ marketpillar.shop
 marketpine.shop
 marketridge.shop
 markettrailway.shop
+marketvistae.gifts
 marketwarehouse.shop
 marksandspencer1.online
 markunabaras.click
@@ -2573,7 +2566,6 @@ mhrsekrangirisyonlendirme.duckdns.org
 mhrsilerandevuekrani.duckdns.org
 mhrsrandevu346.duckdns.org
 mhrsrandevuekraaan.duckdns.org
-mhrsrandevuekranlarimizzz.duckdns.org
 mhrsrandevuekranwork.duckdns.org
 mhrsrandvlrmzbrasi.sbs
 mhrsrarandvlrmbrda.sbs
@@ -2994,7 +2986,6 @@ paiwudyea.love
 panel.evsahibibasvuru.com
 panel.hdfportfoy.com
 panel.hedeffon.com
-panel.hedefonmusteripanel.com
 panel.hedefonportfoyum.com
 panel.qsewjn.icu
 paragonshellyonetimk.one
@@ -4254,7 +4245,6 @@ velbazix.com
 velnorianet.com
 veltrani.it.com
 veltrim.vu
-velunix.shop
 velxi.shop
 ventusmeridian.duckdns.org
 veri-donustur.ink
@@ -4353,6 +4343,7 @@ wincdn.ru
 windowscreenrepairnearme.com
 wispren.click
 woltexi.com
+womblix.gifts
 worbint.surf
 workandtrash.cfd
 workspace.qsewjn.icu

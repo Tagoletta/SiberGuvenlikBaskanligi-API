@@ -1005,7 +1005,6 @@ azurenetfiles.net
 azuretrail.vu
 b1702ed4-8.b-cdn.net
 b4939nrqb8q3cxo.com
-b4b422zsed2q.duckdns.org
 b5080e3d-6.b-cdn.net
 b6w9m2z5x8q1v3k.top
 b709.site
@@ -5049,6 +5048,7 @@ marketpine.shop
 marketpromosyon.duckdns.org
 marketridge.shop
 markettrailway.shop
+marketvistae.gifts
 marketwarehouse.shop
 marksandspencer1.online
 markunabaras.click
@@ -9060,6 +9060,7 @@ wispren.click
 wmanyrei.icu
 woauka446vb.icu
 woltexi.com
+womblix.gifts
 woodwok.asia
 worbint.surf
 workandtrash.cfd
