@@ -17,7 +17,6 @@
 101-extra-sadece-online-sepet-ozel-indirim-shop-mobilde-tr.cepsel-tr.online
 101-kstra.s3.eu-north-1.amazonaws.com
 101-sadece-online-ozel-extra-mobil-sepeti-tr.blog-web.online
-101firsatlarimburda.click
 101kapindakampanyasi.duckdns.org
 101kralsfe.duckdns.org
 110gongan.com
@@ -432,7 +431,6 @@ a10l.org
 a1o1.ile-e-islemlerim.com.tr
 a1o1aktuelaldin.duckdns.org
 a1o1aldiraldir.duckdns.org
-a1o1burdanal.duckdns.org
 a1o1ekstralar.cc.dvrlists.com
 a1o1eksttra.duckdns.org
 a1o1firsaticay.duckdns.org
@@ -1174,7 +1172,6 @@ bbzirbta.cfd
 bckdayigabrjo.ice.mom
 bckdayimhbk.ice.lol
 bcv-acces.lat
-bcv-bsvrs.lat
 bcv-global.lat
 bcv-meta.shop
 bda-gerasn.lat
@@ -1921,7 +1918,6 @@ cugufirede-sedete.lol
 cuhukuludefersedesede.xyz
 cukulopi-dazedese.xyz
 culyrax.us
-cumgukuldaferetesede.xyz
 currentbeam.online
 currentnest.today
 currentwave.top
@@ -3595,7 +3591,6 @@ hemislemnokta-sonuc.net
 hemsaksdertedas.duckdns.org
 hepbirliktecokgucluyuz.vip
 hepbirlitkeyyizz.com
-hepburdaiyiki.com
 hepimizhepberaber.sbs
 hepinizden1o1.online
 hepsibenimle.xyz
@@ -4745,7 +4740,6 @@ kurumsicil.org
 kurumsorgu.org
 kustanoma.ooguy.com
 kutysadhahsdhsad82sad.click
-kuvetteaqeqassasaa.com
 kuveyjttjkredibsvru.duckdns.org
 kuveyt-mobilbankacilik.duckdns.org
 kuveyt-nihathatioglu.duckdns.org
@@ -4894,7 +4888,6 @@ lsbnkkmpnyahazir.fwh.is
 lsbnkkmpnyahazrin.fwh.is
 lssc-canada.ca
 lsscol.com
-lsubemvakifkatilim.ph
 lumarapolli-sedere.lol
 lumavo.info
 lumavora.xyz
@@ -5962,8 +5955,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -6073,6 +6066,7 @@ paribu--cekilis.com
 paribu--cekilisi.com
 paribu--technology.com
 paribu--tekloloji.com
+paribu-araba-cekilis.live
 paribu-araba-cekilisi.com
 paribu-araba-cekilisi.live
 paribu-araba-cekilisi.online

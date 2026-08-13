@@ -2731,8 +2731,6 @@ bireysel-islemlerim-garanti.freemyip.com
 bireysel-kampanya-teb.my-homeip.de
 bireysel-kampanyam.my-homeip.de
 bireysel-kampanyan.my-homeip.net
-bireysel-krediler.com
-bireysel-kredilerim.com
 bireysel-mobil-shop.sbs
 bireysel-mobil-tr.sbs
 bireysel-promosion-firsatlar.my-homeip.de
@@ -9532,7 +9530,6 @@ kurumsorgu.org
 kustanoma.ooguy.com
 kusursuzarackiralama.com
 kutysadhahsdhsad82sad.click
-kuvetbasvurum.sbs
 kuvetteaqeqassasaa.com
 kuveyjttjkredibsvru.duckdns.org
 kuveyt-mobilbankacilik.duckdns.org
@@ -11918,8 +11915,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -12094,6 +12091,7 @@ paribu--cekilis.com
 paribu--cekilisi.com
 paribu--technology.com
 paribu--tekloloji.com
+paribu-araba-cekilis.live
 paribu-araba-cekilisi.com
 paribu-araba-cekilisi.live
 paribu-araba-cekilisi.online

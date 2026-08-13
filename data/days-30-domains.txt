@@ -116,7 +116,6 @@
 312222545548789988997.duckdns.org
 312222545548789988998.duckdns.org
 312455455589992.duckdns.org
-312455455589993.duckdns.org
 3125123.uk
 31852858529696963.baby
 31jctjk3k1l2z12lk3c12k312.cfd
@@ -1629,7 +1628,6 @@ guncelsikayetler-458.sbs
 guncelsikayetler-459.sbs
 guncelsikayetler-773.sbs
 guncelsikayetler-778.sbs
-guncelsikayetler-970.sbs
 gunceltrsikayetler-258.sbs
 gundemdunyasi.company
 gundemdunyasi.world
@@ -2991,6 +2989,7 @@ parebu.click
 parfumfinansapp25.com
 paribu--arabacekilisi.com
 paribu--arabam.com
+paribu-araba-cekilis.live
 paribu-araba-cekilisi.com
 paribu-araba-cekilisi.live
 paribu-araba-cekilisi.online
