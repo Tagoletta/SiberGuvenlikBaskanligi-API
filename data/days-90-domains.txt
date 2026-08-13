@@ -5,7 +5,6 @@
 00004444444022.net
 000sds152113s1ad1.duckdns.org
 0044400222.net
-00898933.sbs
 008ogwe.icu
 009987b555552.duckdns.org
 010101023x235.duckdns.org
@@ -337,6 +336,7 @@
 412221222145558999892.duckdns.org
 412221222145558999893.duckdns.org
 412221222145558999894.duckdns.org
+412221222145558999896.duckdns.org
 4124124124.duckdns.org
 41242142142151512421.duckdns.org
 412941234531.com
@@ -436,7 +436,6 @@
 651351331.xyz
 652432431.net
 6526115.xyz
-654234234.net
 65432342.net
 65445345.net
 65454234423.net
@@ -1098,7 +1097,6 @@ apartment.devour.top
 apexkurumsalfilo.com
 apexsorgu.alwaysdata.net
 api-sync-service.mdkd1184.workers.dev
-api.blnance-basvuru.info
 api.garantibbvakredibasvuru.com
 api.kali365.xyz
 apigrokcloud.icu
@@ -1143,6 +1141,7 @@ araba-cekilisi-paribu.com
 araba-cekilisi-paribu.ezgateway.net
 araba-cekilisi-paribu.mywire.org
 araba-cekilisi.com
+araba-cekilisi.live
 araba-cekilisii.com
 araba-cekilisim.com
 araba-cekilisim.info
@@ -1224,7 +1223,6 @@ arzumarashas.xyz
 arzumasarasa.xyz
 arzumforge.xyz
 arzumindirima.com
-arzumindirimleri.com
 arzumindirimszl.com
 arzumindirimww.duckdns.org
 arzumlindirim.com
@@ -1534,7 +1532,6 @@ basvursendsmz.sbs
 basvursendsn.sbs
 basvursendsr.sbs
 basvursendsz.sbs
-basvursendz.sbs
 basvursendzk.sbs
 basvursendzn.sbs
 basvursenn.sbs
@@ -1575,7 +1572,6 @@ basvurulariniaslasman.sbs
 basvurularinitamamlar.sbs
 basvurulariniz.myonlineportal.de
 basvurulariniz.sbs
-basvurumbbvada.duckdns.org
 basvurumburada.click
 basvurumburda.click
 basvurumerkeizma.cloud
@@ -1903,7 +1899,6 @@ birliktegucluyuz.pages.dev
 birlinks-tr.online
 birolalimisterdim.sbs
 bist.youthside.co
-bitarafsiyah.sbs
 bitekrep.sbs
 bitmezpilimili.com
 bitwardencompliance.com
@@ -2102,6 +2097,7 @@ bromist.best
 bronzelocker.bond
 brovixa.cyou
 brovixan.com
+broxent.com
 brrrdyzzzzzsnlllll.shop
 brushcreators.com
 bryzelun.media
@@ -3269,7 +3265,6 @@ e-devlet.gov3.site
 e-devletana.com.ph
 e-devletinvest.digital
 e-devletinvest.live
-e-devletkapisi.online
 e-devletmhrss.sbs
 e-devletresmituvturk.site
 e-devletteniadelerrgerigeldi.com.ph
@@ -5150,7 +5145,6 @@ hgsbakiyedoldurma.web.app
 hgsbakiyedoldurmaci.web.app
 hgsbakiyedollum.web.app
 hgsbakiyeniziyukleyn.web.app
-hgsbakiyesipeptid.web.app
 hgsbakiyeukleyin.firebaseapp.com
 hgsbakiyeukleyin.web.app
 hgsbakiyeyukleme.duckdns.org
@@ -5637,7 +5631,6 @@ ilandan-fast.com
 ilanim-fast.com
 ilanim-onay-762213.com
 ilanservis-odemehizmetler.online
-ilanservisn1hizmet.com
 ile-alisverislerini-tamamlama.com
 ile-e-islem.com.tr
 ile-e-islemler.com.tr
@@ -8512,8 +8505,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -8972,6 +8965,7 @@ pemex-payment.xyz
 pending-verification.com
 peowqlauoshau8.com
 pepe-cekilis.com
+pepe-cekilisim.com
 pepecekilisim.com
 pepepx00x0xw23.duckdns.org
 pepsico-jobs.com
@@ -9375,7 +9369,6 @@ pttavm.sepette-siparis.com
 pttavm.sepette-siparisim.com
 pttavm.sip-tamamlat.com
 pttavm.siparis-guvenliodeme.com
-pttavm.siparisweb.net
 pttavm.site
 pttavmaracanaliz.firebaseapp.com
 pttavmaracanaliz.web.app
@@ -10477,7 +10470,6 @@ siparislerolunsuyor.cloud
 siparissatin-al.com
 siparisver-hemen.com
 siparisverhemen.com
-siparisweb.net
 sireneluxury.com
 siriqui.xyz
 sirtesevic.net
@@ -10502,7 +10494,6 @@ sixseven-krdili-taruzyuz.xyz
 size-ozel.ink
 sizeozel.xyz
 sizeozelfirsatlar00001.duckdns.org
-sizinlegarbasvurusu.duckdns.org
 sizinli-senedi-bilgileri.click
 sizlerads.xyz
 sizlerdesitegir.xyz
@@ -10536,6 +10527,7 @@ skotanlanto.lat
 skso255144771eknebsk.dpdns.org
 sky-borders.com
 sky-head.cfd
+skylinvo.com
 skylytika.site
 skythelight.co
 sldmigeldisten.xyz
@@ -11134,7 +11126,6 @@ tcdosyasorgu.org
 tcegm.net
 tckalkinmabankasi.com
 tckalkinmayatirimbankasi.com
-tckamusorgu.org
 tckceza.org
 tcksorgu.org
 tcmasakdosya.com
@@ -11278,7 +11269,6 @@ tesisler-rehbering-todays.myonlineportal.eu
 teskscfsonlinhipers.cfd
 test-steve.cyou
 test-sube-basvuralarimizkontrolde.zapto.org
-test.blnance-basvuru.info
 test.payzgroup.com
 test.shellsell.market
 test1.evsahibibasvuru.com
@@ -12016,7 +12006,6 @@ tuvturkk.duckdns.org
 tuvturkkkkfdwq.com
 tuvturkkx.com
 tuvturkkye.com
-tuvturkkyr.com
 tuvturklse.com
 tuvturkmuayene.duckdns.org
 tuvturkmuayene.org
@@ -12214,7 +12203,6 @@ uygunarackirala.com.tr
 uygunfiyatliurun.duckdns.org
 uygunindirimlerr.duckdns.org
 uygunkategori.duckdns.org
-uygunkurumsalfilo.com
 uymnrtwerbqw.click
 uymretwebrfgbtrybw.click
 uzatma.casa
@@ -12323,6 +12311,7 @@ vectorquantnexus6.lol
 vectorquantnexus7.lol
 vectorquantnexus8.lol
 vectorquantnexus9.lol
+veganhost.top
 vegarlerimenuguncel.xyz
 velbayoq.tr
 velbazar.gifts
@@ -13131,7 +13120,6 @@ yonlendirknkcbkbni.duckdns.org
 yonlendirme-security.ink
 yonlendirsorionuz231.duckdns.org
 yonlenim-securitytr.garden
-yonleqndiriliyorsiniz.duckdns.org
 yorum-ithal-gr.garden
 youarases.lat
 yoursfind.com
