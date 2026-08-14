@@ -341,7 +341,6 @@
 412941234531.com
 41414155.duckdns.org
 421327142.sbs
-421412540055444.duckdns.org
 421482142131.sbs
 42164662431.sbs
 4216466431.sbs
@@ -6068,6 +6067,7 @@ istanbulkarttt.xyz
 istanbulkartttt.xyz
 istanbullardans.shop
 istanbullbelggimkart.xyz
+istanbullbelggimkartu.xyz
 istanbullbelggimm.xyz
 istanbullbiizmlaa.xyz
 istanbulllbelgimcan.xyz
@@ -6705,6 +6705,7 @@ kmpnyaasnnnfrsattlrrrbsvrr.art
 kmpnyaasnnnfrsattlrrrbsvrr.live
 kmpnyaasonfirsaattbsvrr.art
 kmpnyaasonfirsaattbsvrr.online
+kmpnyabsvbrrprmsynn147852.online
 kmpnyacpttbgrs.com
 kmpnyafrstlrrrprmsynnnbsvrr.pro
 kmpnyamrkzbsvrnktasi.info
@@ -8971,8 +8972,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -11502,7 +11503,6 @@ staticcloudflare.pro
 statusnode.sbs
 steadybulletin.com
 stealthpath.space
-stellaonline.biz.tr
 stellarnodegrid1.lol
 stellarnodegrid10.lol
 stellarnodegrid2.lol
