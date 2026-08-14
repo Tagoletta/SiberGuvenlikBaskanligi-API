@@ -1396,6 +1396,8 @@ avsfilokirala.net
 avsfilorental.com
 avskirala.net
 avskiralama.rent
+avskiralamafilo.com
+avskiralamafilo.online
 avskoc.com
 avskoc.org
 avskocfilo.com
@@ -4119,6 +4121,7 @@ garanti.3w17.com
 garanti.bb.va-tr.com
 garanti.vva8.com
 garantibbva-com-tr.replit.app
+garantibbva-isbank.com.ph
 garantibbvabankas.ph
 garantibbvafirsatlri.duckdns.org
 garantibbvahesaphareketleri.ph
@@ -8488,8 +8491,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
