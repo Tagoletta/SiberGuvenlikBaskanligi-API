@@ -587,7 +587,6 @@
 65432342.net
 6544324312.net
 65445345.net
-65453534435.net
 65454234423.net
 66600516666664.duckdns.org
 666021545858666.gleeze.com
@@ -821,6 +820,7 @@ a101-sadeceonline.my-homeip.net
 a101.bdyoutube.com
 a101.empordafibra.com
 a101a101.shop
+a101aktuelfiyatlari.com
 a101aldn.duckdns.org
 a101extrakatalog.site
 a101harca.shop
@@ -2773,7 +2773,6 @@ bizmora.digital
 bizora.gifts
 bizsizlerleyizzz.com
 bizvisibilitylab.com
-bjgpmv.buzz
 bjgpmv.help
 bjmtsz.buzz
 bjysfe.buzz
@@ -5066,7 +5065,6 @@ enprkrkstz.com
 enptraprmsynnss.xyz
 enrollpasskey.com
 enslaveculprit.digital
-ensonhaberler.sbs
 ente-gr-l-n-l.myonlineportal.ch
 entegr-liy-gir.myonlineportal.ch
 entegre-isv-ank.myonlineportal.ch
@@ -5809,6 +5807,7 @@ galderenderlerdens.duckdns.org
 galiba.jaguar-style.cfd
 gallerybox.pics
 gallerymission.com
+gamaforge.com
 gameguy.neocities.org
 gameingarea.com
 gamepinxjzr.com
@@ -7823,6 +7822,7 @@ ile-alisverislerini-tamamlama.com
 ile-e-islem.com.tr
 ile-e-islemler.com.tr
 ile-e-sepetler.com.tr
+ile-guvende-islemini-yap.com
 ile-islemlerim.com.tr
 ile-saitin-al.online
 ile-sepetlerim.com.tr
@@ -8310,7 +8310,6 @@ istmknvcbnxcvb.com
 istmoparacsorgu.online
 istmstets.click
 istnbannlkrt.com
-istnbldbsvrls.com
 istnblwaskrsxt.online
 istnbshvrlm.com
 istnike67.xyz
@@ -8576,7 +8575,6 @@ kaitcaskdckj123xk132.sbs
 kaldkburdaaccacalsyoruzszdegeln.info
 kali365.xyz
 kalibre-g-r-esenlik.myonlineportal.ch
-kalitebasvurusu.sbs
 kaliteyeyakinsiniz.com
 kalithra.shop
 kalithra.site
@@ -11086,7 +11084,6 @@ netgsm.online
 netizlenim.com
 netizlenim.cyou
 netkamrfanparaya.2mydns.net
-netkorumatalep.sbs
 netlabs.site
 netorbit.sbs
 netprobe.vu
@@ -11265,7 +11262,6 @@ nivako.click
 nivara.click
 nivrandevu.com
 njcqnd.buzz
-njjngx.cc
 nkaknakltanlalnalna.net
 nkthww.buzz
 nktklanklanklaa.net
@@ -12085,6 +12081,8 @@ paribu-carkcekilisi.com
 paribu-cekilis.co
 paribu-cekilisi.com
 paribu-cekilisim.co
+paribu-cekilisim.live
+paribu-cekilisim.online
 paribu-cekilisleri.com
 paribu-cekilislerim.live
 paribu-cekilislerim.online
@@ -13079,7 +13077,6 @@ qelvaxo.gifts
 qelvazor.cfd
 qelvornaximu.com
 qelvornexlyra.xyz
-qelvorni.vu
 qelzoro.xyz
 qemlavun.buzz
 qemuzari.media
@@ -13488,7 +13485,6 @@ rexzr300xbsvruzrt0.click
 reynoldsjace5.workers.dev
 reynus.live
 rfalimobiliaria.com
-rgmzar.buzz
 rhymbil.com
 rhymedream.com
 rhythmora.com
@@ -14172,6 +14168,7 @@ selectumhotelsandresorts.com
 selectumluxuryresorts.com
 selgebeachmanavgat.com
 selgebeachresortside.com
+selgebeachs.com
 selgebeachsresorts.com
 selgehotels.com
 selgeotelside.com
@@ -16179,7 +16176,6 @@ tmoodemelercan.online
 tmosalmevzular.com
 tnews.tr
 tnlalmnlnata.net
-tnqhcx.click
 toaksenawse.ezgateway.net
 toby44292.softr.app
 todayverse.online
@@ -18383,6 +18379,9 @@ ynlndirmdsnsormakdnk.duckdns.org
 ynlndr-gr-t.my-homeip.de
 yogabloom.icu
 yogasoul.icu
+yolarabakirala.com.tr
+yolaracfilo.com.tr
+yolarackirala.com.tr
 yolarackiralama.com.tr
 yolcu.obilet-mobil.uk
 yolcu.obilet-tr.uk
@@ -18394,6 +18393,7 @@ yolculuk.obilet-mobil.uk
 yolculuk.obilet-tr.uk
 yolcuotokirala.com.tr
 yolcurentacar.net
+yolfilokirala.com.tr
 yolgecisihlalbrcnodme.com
 yolgoarackiralama.com
 yolixarackiralama.com
