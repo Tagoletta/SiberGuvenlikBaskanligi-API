@@ -30,7 +30,6 @@
 1245115544166558998992.duckdns.org
 1245445898978979907990.duckdns.org
 124566556565899093.duckdns.org
-124566556565899094.duckdns.org
 124566556565899096.duckdns.org
 124566556565899097.duckdns.org
 124566556565899098.duckdns.org
@@ -69,6 +68,7 @@
 182.24612-20114.xyz
 182.24612-yara.click
 186randevuburadan.duckdns.org
+1aaxzz123z1123xx4c123x123.shop
 1agustostsiparislerinden.cloud
 1ceptesokindirim-liurunler.duckdns.org
 1kayamkcnckkamak1.info
@@ -136,6 +136,7 @@
 4562525656525252.club
 4615265236523.xyz
 46164sdnsdsmsdnsds.com
+4xasdkadckjasldxkqlwexqw.cfd
 5151501010.duckdns.org
 5151510000.duckdns.org
 515155555555555.duckdns.org
@@ -1041,6 +1042,7 @@ designmind.shop
 designvexa.com
 destek-ikame.ink
 destekmenkuldegerler.com
+destekmenkuldegerler.net
 destekyardim.net
 destekyatirimmenkuldegerler.com
 dev.turkcellpasajsanalmagaza.com
@@ -1280,6 +1282,7 @@ esorguuzlasma.org
 esube.hdfportfoy.com
 esube.hedeffon.com
 esube.hedefonportfoyum.com
+esube.sumergrup.org
 esubeturkishkayit.com
 etalimatdosya.org
 etalimatkamu.org
@@ -1854,6 +1857,7 @@ hizlibakiyuklemehgss.web.app
 hizlibasvuralartoplan.sbs
 hizlibasvurmalisina.sbs
 hizlifilolar.com
+hizlifilom.com
 hizlifinansyeriniz.xyz
 hizligecisbakyeyuklme.web.app
 hizligecissbakiyedoldurma.web.app
@@ -2087,6 +2091,7 @@ istanbulio.shop
 istanbulkartbasvuru.xyz
 istanbulkarttbelgimm.xyz
 istanbulkartttt.xyz
+istanbullbelggimkart.xyz
 istanbullbiizmlaa.xyz
 istanbulllbelgimmkart.com
 istanbulllcannkarrtt.xyz
@@ -2124,6 +2129,7 @@ izle-listeleme.garden
 izmirbyte.sbs
 izmirio.xyz
 iztoaofsa.blogspot.com
+iztsdwws.blogspot.com
 jabber.evsahibibasvuru.com
 jaiydteds.love
 jambril.org
@@ -2319,7 +2325,6 @@ krostel.best
 krssxrglamalarinin.net
 krvebrdasznrdsnz.com
 kubafabrika.com
-kumuhuguduere-sederete.lol
 kunaz.xyz
 kur.e-abakus.net
 kurortyguide.com
@@ -2779,6 +2784,7 @@ nimbosity.world
 nimbusshield.space
 nimetistanbul.net
 nitelik-vasif.ink
+nlhmrsrabklmdn.com
 nmwcspraseves.sbs
 nobilservislerim-2.sbs
 node.androiddebugbridge.su
@@ -3231,6 +3237,7 @@ presslifyra.com
 primebulletin.world
 primeproxy.space
 primexly.com
+primorixplc.shop
 prism-matrixs.com
 prism-vertex.com
 priv-izlence.click
@@ -3645,6 +3652,7 @@ simdi-tamamla-ilan.com
 simdilikgelenlerburada.com
 simdissenalimyapal.cloud
 sinirlisayidaurununuz.sbs
+sinirlisayidayayinda.sbs
 sinirsizkampanyalarinizkapida.xyz
 siparis-baglantisi-kisa-link.com
 siparis-cekme.pages.dev
@@ -3813,6 +3821,9 @@ submit-screen.shop
 submitpages.shop
 sugarantidenalalimartik.sbs
 sulnaro.gifts
+sumergrup.org
+sumermenkulhaber.com
+sumermenkulyatirim.com
 summeredition.xyz
 supercloudsaver.com
 support.qsewjn.icu
@@ -3873,6 +3884,7 @@ tckalkinmabankasi.com
 tckalkinmayatirimbankasi.com
 tckceza.org
 tcksorgu.org
+tcportal.org
 tcsicil.org
 te-teb-cep.myonlineportal.de
 teb-bank.com
@@ -4080,6 +4092,7 @@ tttektikklasponsorlurrklam.com
 ttttektikklasponsorlurrklam.com
 tttzzdttaasrqw.nicepage.io
 tubitak4005stefam.blogspot.com
+tuerq1.carrd.co
 tum-online.click
 tum-web.click
 tum-web.xyz
@@ -4368,6 +4381,7 @@ workspace.qsewjn.icu
 worlddispatch.blog
 wormszone.app
 worpaxti.surf
+woscarfilo.com
 wow.androiddebugbridge.su
 ws.182iletisim.cyou
 wsb-tapsverndvun.info
@@ -4455,7 +4469,6 @@ y0nl3ndiriliiyo0esu.duckdns.org
 y0nl3ndiriliiyo0esunu.duckdns.org
 y0nl3ndiriliy0rsunuze.duckdns.org
 y0nl3ndiriliy0s0n.webhop.me
-y0nl3ndiriliy0senuz.duckdns.org
 y0nl3ndiriliyors4nuz.duckdns.org
 y0nl3ndiriliyors4nz1453.duckdns.org
 y44nlndird4st4maktifsen.duckdns.org
