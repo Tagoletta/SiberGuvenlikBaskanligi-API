@@ -3,7 +3,6 @@
 000011021021420.gleeze.com
 0000110720265.sbs
 00004444444022.net
-000sds152113s1ad1.duckdns.org
 0044400222.net
 008ogwe.icu
 009987b555552.duckdns.org
@@ -39,6 +38,7 @@
 101kralsfe.duckdns.org
 101onlinemerkezlersistem.pages.dev
 101satislar.click
+10sadcdajdskjakjkx123kx12312.sbs
 110gongan.com
 11110210221552580.gleeze.com
 11114141414.duckdns.org
@@ -520,7 +520,6 @@
 90sadjkajklxk13x12.shop
 92359302512.duckdns.org
 9273912dsasdasd.com
-931684725.lat
 9375w5vx29p.icu
 95874632kmpnyaabsvrrprsmynn.info
 95874632kmpnyaabsvrrprsmynn.pro
@@ -1742,6 +1741,7 @@ bebeler.sbs
 bedavapanel.net
 bedavapanelimizyeniden.gt.tc
 bedavasorgu.org
+bedavasorgu.site
 bedavasorgu2026.site
 beeftwig.com
 beginsend.digital
@@ -1990,6 +1990,7 @@ boneoakvision.com
 bonkorrafael.space
 bonus-btcreferans.com
 bonus-garantkredideyiz.myonlineportal.ch
+bonus-paribureferans.com
 bonus20-referans.com
 bonusfirsat.digital
 bookedadmpanel.pro
@@ -2653,6 +2654,7 @@ convertro.live
 convertvanta.com
 cooknest.cyou
 cool-horizon.com
+cordinely.com
 cordinex.io
 coreaspro.com
 corelith.vip
@@ -3565,6 +3567,7 @@ epostaturk24.com
 equinoxpanda.com
 equityva.capital
 equityycraft.com
+equuyl.com
 era7capone.sbs
 era7capone2.sbs
 era7capone3.sbs
@@ -5028,6 +5031,7 @@ hemenbsvr.my-homeip.net
 hemenbsvrn.my-homeip.net
 hemencicekci.com
 hemendahemen.click
+hemengor.abrdns.com
 hemenguvendeileal.com
 hemenhizliislemn.net
 hemenhizlisnoclsm.net
@@ -5744,6 +5748,7 @@ internet-teb-entry.myonlineportal.de
 internetal.xyz
 internetbasvurukatilimi.xyz
 internetislemleri-akmobil-bireysel-com.duckdns.org
+internetkobi.duckdns.org
 internetonline.click
 internetprvpn.ru
 internetsube-qnbfinansbankasi.ph
@@ -6602,6 +6607,7 @@ knowfa.com
 knowib.com
 knowledgetree.courses
 knowvin.com
+kobi-sube.duckdns.org
 kobibilgi.click
 kobihaberleri.click
 kobihaberleri.com
@@ -7820,7 +7826,6 @@ myqafua.info
 myroayy.cyou
 myrs-rndv-syfsi.duckdns.org
 myrsrndvuualinnn.duckdns.org
-mysayiaktuel.blogspot.com
 mysayiaktuelsel.blogspot.com
 mysayiazerolg.blogspot.com
 myssopasskey.com
@@ -8639,6 +8644,7 @@ parfumfinansapp25.com
 paribu--arabacekilisi.com
 paribu--arabam.com
 paribu--cekilis.com
+paribu--cekilis.live
 paribu--cekilisi.com
 paribu--technology.com
 paribu--tekloloji.com
@@ -8660,8 +8666,10 @@ paribu-arabacekilisi.com
 paribu-arabahediye.com
 paribu-arabahediyem.com
 paribu-arabahediyem.info
+paribu-arabahediyem.link
 paribu-arabahediyen.com
 paribu-arabahediyen.info
+paribu-arabahediyen.link
 paribu-arabakazan.com
 paribu-arabakazanma.com
 paribu-arabakazanma.info
@@ -8671,12 +8679,14 @@ paribu-arabasansi.info
 paribu-arabasansi.link
 paribu-arabayakala.com
 paribu-arabayakala.info
+paribu-arabayakala.link
 paribu-buyukcekilisi.com
 paribu-cark-cekilisi.opik.net
 paribu-cark-hediye.com
 paribu-carkcekilisi.com
 paribu-cekilis.co
 paribu-cekilisi.com
+paribu-cekilisi.online
 paribu-cekilisim.co
 paribu-cekilisim.live
 paribu-cekilisim.online
@@ -8687,6 +8697,7 @@ paribu-cevirkazan.com
 paribu-hediyelicark.com
 paribu-hediyelicekilisi.com
 paribu-pepe-cekilis.com
+paribu-pepe-cekilis.info
 paribu-pepe-cekilis.link
 paribu-pepe-cekilisi.com
 paribu-pepe-cekilisi.giize.com
@@ -8694,7 +8705,13 @@ paribu-pepe-cekilisi.info
 paribu-pepe-cekilisi.link
 paribu-pepe-cekilisi.remotewire.net
 paribu-pepecekilis.com
+paribu-pepecekilis.info
+paribu-pepecekilis.link
 paribu-pepecekilisim.com
+paribu-pepecekilisim.info
+paribu-pepecekilisim.link
+paribu-pepecekilisin.info
+paribu-pepecekilisin.link
 paribu-pepehediyem.com
 paribu-pepehediyem.info
 paribu-pepehediyem.link
@@ -8723,6 +8740,7 @@ paribuaraba-kazanci.info
 paribuaraba-kazanci.link
 paribuaraba-kazandim.com
 paribuaraba-kazandim.info
+paribuaraba-kazandim.link
 paribuaraba-kazanma.com
 paribuaraba-kazanma.info
 paribuaraba-kazanma.link
@@ -8799,6 +8817,7 @@ paribucark-burada.com
 paribucark-burada.info
 paribucark-burada.link
 paribucark-cevir.com
+paribucark-geldi.info
 paribucark-hediye.com
 paribucark-hediye.info
 paribucark-hediye.link
@@ -8811,6 +8830,7 @@ paribucark-oyna.com
 paribucark-oyna.info
 paribucark-oyna.link
 paribucark-surada.com
+paribucark-surada.info
 paribucark.com
 paribucarkhediye.com
 paribucarkicevir.com
@@ -9117,7 +9137,6 @@ portal-netgsm.online
 portal.federalverify-ssaclientportal.com
 portal.netgsm.online
 portalgiris.misecure.com
-portalgirisim.sbs
 portalm1hrs.xyz
 portalpasskey.com
 portalrandevuwsynxhak4n.duckdns.org
@@ -9403,7 +9422,6 @@ pttavmkmsorgulama.com
 pttavmkmsorgumerkezi.web.app
 pttavmonlinesepethemenal.com
 pttavmsepethemenal.com
-pttavmsepettenal.com
 pttavmsepettensatinal.com
 pttavmsiparisimonline.com
 pttavmturkiye.shop
@@ -9583,7 +9601,6 @@ quentorixsystems.com
 quicklimetsouic.pro
 qumora.info
 qunlivo.com
-qwdfqwefsdafsd.duckdns.org
 qwdx12dxadxq.sbs
 qwdx12xqadxqx.duckdns.org
 qwdx21x1xd12.duckdns.org
@@ -9804,6 +9821,7 @@ reynus.live
 rfalimobiliaria.com
 rhymedream.com
 rhythmora.com
+rhythmza.com
 rideory.com
 ridermission.com
 rigacdn.in
@@ -9887,6 +9905,7 @@ s-guvenlimuhasebeodemenoktasi.duckdns.org
 s-guvenlisigortaodemenoktasi.duckdns.org
 s-param-guvende.servis-hizmetleri.online
 s-paramguvende.islembilgitr.online
+s-paramguvende.islemonaylatr.online
 s-paramguvende.onaybilgi.online
 s-paramguvende.servisbilgi-tr.online
 s-paramguvende.tr-hizmet-servis.online
