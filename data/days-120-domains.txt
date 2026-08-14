@@ -5742,6 +5742,7 @@ freeworldcup.xyz
 freeworldcupstream.xyz
 freeworldcupstreaming.xyz
 frelerdeansew.duckdns.org
+frenchbuldogg.duckdns.org
 frenksv.sbs
 freshdirection.online
 freshlanez.com
@@ -8153,6 +8154,7 @@ irsatlargeldi.duckdns.org
 is-01-ast.ols-img-12.workers.dev
 is-mobilefirsatim.duckdns.org
 is1c2kjkdsakjcskj13c213x1.shop
+isacsakldcjkcjk123x12321.shop
 isbak.online
 isbank-basvuruonayiniz.duckdns.org
 isbank.hpyoe.top
@@ -8831,6 +8833,7 @@ kapsamli-ebyl-g.myonlineportal.ch
 kapsamsekil-acil.biz
 kapsmuh.com
 karac.shop
+karaca-a5q5-git-main-redmi1.vercel.app
 karaca-burada.vercel.app
 karaca-ev.shop
 karaca-haziran.vercel.app
@@ -9038,7 +9041,6 @@ kgm.azqnvg.cc
 kgm.gxmbgl.help
 kgm.hhtfrm.help
 kgm.hmxkaz.help
-kgm.iifkvg.buzz
 kgm.ijugyf.buzz
 kgm.iuaemm.cc
 kgm.kocraw.click
@@ -12352,8 +12354,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -15497,6 +15499,7 @@ sparkwish.gifts
 spaseburs.art
 spasopro.at
 spbnews.net
+speak-g.garden
 specification-submissions-needle-markers.trycloudflare.com
 speedyrac.icu
 spenlo.org

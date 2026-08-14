@@ -2861,6 +2861,7 @@ freeworldcup.xyz
 freeworldcupstream.xyz
 freeworldcupstreaming.xyz
 frelerdeansew.duckdns.org
+frenchbuldogg.duckdns.org
 frenksv.sbs
 freshdirection.online
 freshlume.today
@@ -3550,7 +3551,6 @@ halkbnkmobilaktif.duckdns.org
 halkbnkmobilduyuru.duckdns.org
 halkdijital.help
 halkdyruonay.webhop.me
-halkfaizsizkredibasvuru.duckdns.org
 halkicanocan.co
 halkimizilebaskaldiriyoruz.sbs
 halkimizlabasbas.sbs
@@ -4171,6 +4171,7 @@ ironproxy.space
 irsatlargeldi.duckdns.org
 is-01-ast.ols-img-12.workers.dev
 is1c2kjkdsakjcskj13c213x1.shop
+isacsakldcjkcjk123x12321.shop
 isbak.online
 isbank-basvuruonayiniz.duckdns.org
 isbankasivatandaspayi.digital
@@ -4450,6 +4451,7 @@ kapinizagelenfirsat.click
 kapitalix.capital
 kapsamli-ebyl-g.myonlineportal.ch
 kapsamsekil-acil.biz
+karaca-a5q5-git-main-redmi1.vercel.app
 karaca-ev.shop
 karaca-store.shop
 karaca-temmuz.shop
@@ -6358,8 +6360,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -8221,6 +8223,7 @@ sozlesmepolice.tech
 spalirm.vu
 spaseburs.art
 spasopro.at
+speak-g.garden
 spenlo.org
 spenlova.cyou
 sphere-api.dialectosphere.in.net
