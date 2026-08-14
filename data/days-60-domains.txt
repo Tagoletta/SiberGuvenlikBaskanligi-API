@@ -581,6 +581,7 @@ akbank-bireysel-sube.ph
 akbank-borc-sorgulama.ph
 akbank-isube.ph
 akbank-kredi-basvuru-merkezi.loseyourip.com
+akbank.com.ph
 akbankbireysel-sube.ph
 akbankdirekmobil.ph
 akbankdireksube.ph
@@ -1289,6 +1290,7 @@ bireysel-firsatlar.click
 bireysel-iade-halkbank.ph
 bireysel-islemler-com-garanti.duckdns.org
 bireysel-islemlerim-garanti.freemyip.com
+bireysel-islemleriniz-garanti.duckdns.org
 bireysel-mobil-shop.sbs
 bireysel-mobil-tr.sbs
 bireysel-ziraatli-kampanya.my-homeip.net
@@ -1684,6 +1686,7 @@ cepde-tebden.myonlineportal.de
 cepgarantisube.ph
 cepgarantisubeci.ph
 cepsube-finansbank.ph
+cepte-islemleriniz-garanti.duckdns.org
 cepte-shop.online
 cepte-sokindirim.rf.gd
 ceptehizlimenulerss.store
@@ -2541,6 +2544,7 @@ erisim-denizacik.my-homeip.de
 erisim.casa
 erken-randevuhizmetleri.com
 erkendenalma.duckdns.org
+erkenmobilhizli.site
 erkenrandevuler.com
 erkerandevular.com
 erkndn1-82rvdalsn.org
@@ -4674,6 +4678,7 @@ kmpnyaabsvrr12531.pro
 kmpnyaabsvrrprmsnynnsnfrstlarr.info
 kmpnyaabsvrrprmsnynnsnfrstlarr.pro
 kmpnyabsvbrrprmsynn147852.online
+kmpnyabsvbrrprmsynn147852.pro
 kmpnyacpttbgrs.com
 kmpnyamrkzbsvrnktasi.live
 kmpnylrrbsvrrsnfrstlrrr.info
@@ -8024,7 +8029,6 @@ siskolarlaberke.xyz
 sismeboturunleri.com
 sistemeallll.shop
 sistemegirin.xyz
-sistemyuklendi.online
 site.nato-otan.net
 sitemdeal.shop
 siteveb.xyz
@@ -8829,6 +8833,7 @@ toplukonutidaresi.gravitycl.app
 toplukonutidaresibabygangsubesi.vercel.app
 toplukonutidaresigungecmiyoryenibiseyolmasin.vercel.app
 toplukonutsignalgiris.vercel.app
+topluluk-t.garden
 topluluknet.org
 toplumbakisi.com
 toplumpenceresi.com
@@ -9864,6 +9869,7 @@ yanlzhayatzorbdegelbanasorbekan81.info
 yapicajsdkjjk123x123.sbs
 yapikredi-world.com.ph
 yapikredi.com.ph
+yapikredi.giris.2g0c.com
 yapikredimobil.netlify.app
 yapikredisubesigirisg.com.ph
 yapikrediworldcardislem.ph

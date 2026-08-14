@@ -310,6 +310,7 @@ aileyardimdestek.com
 akaycicekcilik.com
 akbank-bireysel-sube.ph
 akbank-isube.ph
+akbank.com.ph
 akbankbireysel-sube.ph
 akbankdirekmobil.ph
 akbankdireksube.ph
@@ -676,6 +677,7 @@ biocircuitlab.com
 bireysel-akmobil-cepte-com.duckdns.org
 bireysel-islemler-com-garanti.duckdns.org
 bireysel-islemlerim-garanti.freemyip.com
+bireysel-islemleriniz-garanti.duckdns.org
 bireysel-ziraatli-kampanya.my-homeip.net
 bireyselsiparis.com
 bireyselsubehalkbank.com.ph
@@ -864,6 +866,7 @@ cepde-tebden.myonlineportal.de
 cepgarantisube.ph
 cepgarantisubeci.ph
 cepsube-finansbank.ph
+cepte-islemleriniz-garanti.duckdns.org
 cepte-shop.online
 ceptehizlimenulerss.store
 ceptemi-tebdemi.my-homeip.net
@@ -1115,7 +1118,6 @@ dijitalgiris-netbilgi.sbs
 dijitalhizzlihizmet.duckdns.org
 dijitalindirim-kampanyalar.sbs
 dijitalislemfirsati.sbs
-dijitalnetbilgi-giris.sbs
 dijitalneybilgi-giris.sbs
 dijitalsiparis-kampanyalar.sbs
 dijitalsorgu.sbs
@@ -1322,6 +1324,7 @@ erde-rederesedere.lol
 erisim-denizacik.my-homeip.de
 erisim.casa
 erkendenalma.duckdns.org
+erkenmobilhizli.site
 erkndn1-82rvdalsn.org
 erp-account-sg.top
 erp-backend-account.top
@@ -2415,6 +2418,7 @@ kmpnyaabsvrr12531.pro
 kmpnyaabsvrrprmsnynnsnfrstlarr.info
 kmpnyaabsvrrprmsnynnsnfrstlarr.pro
 kmpnyabsvbrrprmsynn147852.online
+kmpnyabsvbrrprmsynn147852.pro
 kmpnyacpttbgrs.com
 kmpnyamrkzbsvrnktasi.live
 kmpnylrrsnffrsttbsvrrr.click
@@ -4654,6 +4658,7 @@ toplu-konut.gravitycl.app
 toplukonut-toki.gravitycl.app
 toplukonut.gravitycl.app
 toplukonutidaresi.gravitycl.app
+topluluk-t.garden
 topluluknet.org
 toprakpazar.com
 topu-randevu-devlet.vercel.app
@@ -5133,6 +5138,7 @@ ya-l-bankac-l.vercel.app
 yanitlama-grs.garden
 yapicajsdkjjk123x123.sbs
 yapikredi.com.ph
+yapikredi.giris.2g0c.com
 yapikredimobil.netlify.app
 yapikredisubesigirisg.com.ph
 yardimdestek.org

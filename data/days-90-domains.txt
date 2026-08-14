@@ -859,6 +859,7 @@ akbank-invest-hub.sbs
 akbank-isube.ph
 akbank-kredi-basvuru-merkezi.loseyourip.com
 akbank-pw.hizliyatirim.net
+akbank.com.ph
 akbankbireysel-sube.ph
 akbankdirekmobil.ph
 akbankdireksube.ph
@@ -1729,7 +1730,6 @@ bcv-bsvrs.lat
 bcv-gars.lat
 bcv-global.lat
 bcv-invest.sbs
-bcv-lat.top
 bcv-meta.shop
 bcv-premium.cfd
 bcv-start.lat
@@ -1895,6 +1895,7 @@ bireysel-firsatlar.click
 bireysel-iade-halkbank.ph
 bireysel-islemler-com-garanti.duckdns.org
 bireysel-islemlerim-garanti.freemyip.com
+bireysel-islemleriniz-garanti.duckdns.org
 bireysel-mobil-shop.sbs
 bireysel-mobil-tr.sbs
 bireysel-shop-tr.click
@@ -2454,6 +2455,7 @@ cepde-tebden.myonlineportal.de
 cepgarantisube.ph
 cepgarantisubeci.ph
 cepsube-finansbank.ph
+cepte-islemleriniz-garanti.duckdns.org
 cepte-shop.online
 cepte-sok.shop
 cepte-sokindirim.rf.gd
@@ -3626,6 +3628,7 @@ erisim-denizacik.my-homeip.de
 erisim.casa
 erken-randevuhizmetleri.com
 erkendenalma.duckdns.org
+erkenmobilhizli.site
 erkenrandevuler.com
 erkerandevular.com
 erkndn1-82rvdalsn.org
@@ -4753,7 +4756,6 @@ guyoagsdgasgd89sadhahsd8.click
 guyofahsdhashd89sadas.click
 guzelapp1-fd4eb5ee687a.herokuapp.com
 guzelgunlerbizim.com
-guzelgunlergeldi.com
 guzelgunlerinizicinverin.sbs
 gvnelerdesnew.duckdns.org
 gwrpfjx.life
@@ -5833,7 +5835,6 @@ indirimgldi.com
 indirimgunler.com
 indirimgunleri-temmuzda.click
 indirimgunlukleriqx.sbs
-indirimlebasladia101sendehemenal.adsite.online
 indirimlerburda101.xyz
 indirimlerscom.com
 indirimli-fiyatlar-tr.online
@@ -6322,7 +6323,6 @@ kaitcaskdckj123xk132.sbs
 kaldkburdaaccacalsyoruzszdegeln.info
 kali365.xyz
 kalibre-g-r-esenlik.myonlineportal.ch
-kaliteyeyakinsiniz.com
 kalmahabersc4b1zbbadebed.life
 kalonblsndebnm.shop
 kalsandnsdansdn.com
@@ -6707,6 +6707,7 @@ kmpnyaasnnnfrsattlrrrbsvrr.live
 kmpnyaasonfirsaattbsvrr.art
 kmpnyaasonfirsaattbsvrr.online
 kmpnyabsvbrrprmsynn147852.online
+kmpnyabsvbrrprmsynn147852.pro
 kmpnyacpttbgrs.com
 kmpnyafrstlrrrprmsynnnbsvrr.pro
 kmpnyamrkzbsvrnktasi.info
@@ -7482,7 +7483,6 @@ m4zp2vk.sbs
 m67exdgs7xbk.icu
 m9x4q2v8n1z6.cfd
 m9xt2qzrw7kv5phn8jcyb.click
-maasprom.my-homeip.net
 mabiduw.xyz
 machavdsajqweqe123x.cfd
 machiacdsxj1k23x12.cfd
@@ -7714,7 +7714,6 @@ meet-webconnect.com
 meetclick.store
 megadencer.top
 megahirdavatciniz.com
-megaindirimkampanyasi5.sbs
 meharase-web.com
 meharase.com
 mehareseinternet.com
@@ -12025,7 +12024,6 @@ togetherhire.fun
 togewatcher.com
 togg-2026.com
 togg-finans-kredim.com
-togg-finans.com
 togg-hizlisiparis.xyz
 togg-kredim.com
 togg-limit-sorgula.com
@@ -12194,6 +12192,7 @@ toplukonutidaresi.gravitycl.app
 toplukonutidaresibabygangsubesi.vercel.app
 toplukonutidaresigungecmiyoryenibiseyolmasin.vercel.app
 toplukonutsignalgiris.vercel.app
+topluluk-t.garden
 topluluknet.org
 toplumbakisi.com
 toplumpenceresi.com
@@ -12535,7 +12534,6 @@ turkhaberaktiflink.com
 turkhaberaktuel.com
 turkhaberplatformu.com
 turkhaberz.com
-turkhaberzinciri.com
 turkhavayollari.click
 turkhavayollarikampanya.2011muslera.click
 turkhavayollarikampanya.suanokadar.sbs
@@ -13606,6 +13604,7 @@ yapicajsdkjjk123x123.sbs
 yapikredi-world.com.ph
 yapikredi-worldsubem.ph
 yapikredi.com.ph
+yapikredi.giris.2g0c.com
 yapikredimobil.netlify.app
 yapikredisubesi.ph
 yapikredisubesigirisg.com.ph

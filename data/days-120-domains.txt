@@ -1156,6 +1156,7 @@ akbank-invest-hub.sbs
 akbank-isube.ph
 akbank-kredi-basvuru-merkezi.loseyourip.com
 akbank-pw.hizliyatirim.net
+akbank.com.ph
 akbankbireysel-sube.ph
 akbankdirekmobil.ph
 akbankdireksube.ph
@@ -2726,6 +2727,7 @@ bireysel-iade-halkbank.ph
 bireysel-internet-basvurular.my-homeip.net
 bireysel-islemler-com-garanti.duckdns.org
 bireysel-islemlerim-garanti.freemyip.com
+bireysel-islemleriniz-garanti.duckdns.org
 bireysel-kampanya-teb.my-homeip.de
 bireysel-kampanyam.my-homeip.de
 bireysel-kampanyan.my-homeip.net
@@ -3622,6 +3624,7 @@ cepgarantisube.ph
 cepgarantisubeci.ph
 cepkisalt-tr.site
 cepsube-finansbank.ph
+cepte-islemleriniz-garanti.duckdns.org
 cepte-shop.online
 cepte-sok.shop
 cepte-sokindirim.rf.gd
@@ -5171,6 +5174,7 @@ erisim-denizacik.my-homeip.de
 erisim.casa
 erken-randevuhizmetleri.com
 erkendenalma.duckdns.org
+erkenmobilhizli.site
 erkenrandevuler.com
 erkerandevular.com
 erkndn1-82rvdalsn.org
@@ -9300,6 +9304,7 @@ kmpnyaasnnnfrsattlrrrbsvrr.live
 kmpnyaasonfirsaattbsvrr.art
 kmpnyaasonfirsaattbsvrr.online
 kmpnyabsvbrrprmsynn147852.online
+kmpnyabsvbrrprmsynn147852.pro
 kmpnyacpttbgrs.com
 kmpnyafrstlrrrprmsynnnbsvrr.pro
 kmpnyamrkzbsvrnktasi.info
@@ -17032,6 +17037,7 @@ toplukonutidaresi.gravitycl.app
 toplukonutidaresibabygangsubesi.vercel.app
 toplukonutidaresigungecmiyoryenibiseyolmasin.vercel.app
 toplukonutsignalgiris.vercel.app
+topluluk-t.garden
 topluluknet.org
 toplumbakisi.com
 toplumpenceresi.com
@@ -18870,6 +18876,7 @@ yapidijisube.xyz
 yapikredi-world.com.ph
 yapikredi-worldsubem.ph
 yapikredi.com.ph
+yapikredi.giris.2g0c.com
 yapikredimobil.netlify.app
 yapikredisubesi.ph
 yapikredisubesigirisg.com.ph
