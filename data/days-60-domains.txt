@@ -107,6 +107,7 @@
 182-web.xyz
 182-webb.sbs
 182-webb.xyz
+182-webs.biz
 182-webs.online
 182-webs.sbs
 182.24612-20114.click
@@ -1079,6 +1080,7 @@ basvurusirasi.online
 basvurusitesi-production.up.railway.app
 basvurziyytar.cfd
 basvurznr.sbs
+batuhancicekcilik.com.tr
 bavsuru.duckdns.org
 bayay0nl3ndiriliy0rs0n.duckdns.org
 baykar-basvuru-merkezim.netlify.app
@@ -2685,6 +2687,7 @@ filmgrain.pics
 filojet.net
 filokoc.net
 filorent.net
+filorentkoc.net
 fimmora.surf
 finallyrain.info
 finance.lnasoft.com
@@ -4477,6 +4480,7 @@ kgmagov.buzz
 kgmgcsbrcnzsrgl.com
 kgmgov.info
 kgmgov.sbs
+kgmgovhelp.cc
 kgmhelps.click
 kgmigo.top
 kgmigov.qpon
@@ -4510,6 +4514,7 @@ kilomtresorgulma.web.app
 kinghoruswe.info
 kiptownim.info
 kira-yardim-edevlet-tr-gov.ph
+kiralikaraclarimislemler.com
 kirmizibasliklipose.duckdns.org
 kirmizibasliklitirtil.duckdns.org
 kisa-edinim.guru
@@ -6010,6 +6015,7 @@ okohholdingsltd.com
 oktaenroll.com
 oktaportalsso.com
 okuyucum-son-web.ink
+old.evsahibibasvuru.com
 olimpik-patch-priv.myonlineportal.eu
 olivarentcar.org
 olmazlarioldurduk.sbs
@@ -6234,8 +6240,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -6919,7 +6925,6 @@ pttavm.ile-online-islemlerim.com.tr
 pttavm.islemlerin-mobilde.com
 pttavm.islemleriniz-mobilden.com
 pttavm.kolay-tamamla.com
-pttavm.net.ph
 pttavm.onlinedogrulama.com
 pttavm.saticimerkezi.com
 pttavm.sip-tamamlat.com
@@ -8786,6 +8791,7 @@ trenuxalo.org
 trguvenli-siparis.online
 trguvenlisiparis.online
 trguvenlisiparisler.online
+trhazinemasak.org
 trilogicworld.com
 trimnt.com
 tripadvisor-photo-view.com
