@@ -518,7 +518,6 @@
 5276gsdfastgdef1235743.click
 5276gsef1263.click
 53182591342.com
-53435434.net
 534534543.net
 5423423.net
 54354982138943214000.net
@@ -4713,7 +4712,6 @@ e-ilan-online-alisveris-sepetim.com
 e-ilan-online-alisveriz-sepetim.com
 e-ilan-online-satici.com
 e-ilan-online-sepet.com
-e-ilan-online.com
 e-imza-sozlesme.com
 e-islemler-online-saglik.com
 e-islemler-online-sagliklar.com
@@ -6618,7 +6616,6 @@ guvenli-odeme-yap.xyz
 guvenli-odemler.online
 guvenli-online-e-ticaret.com
 guvenli-pos.com
-guvenli-sekilde-al.com
 guvenlialisveris-odeme.com
 guvenlialisveris.online
 guvenlialisverisin.online
@@ -9087,7 +9084,6 @@ kilometrogrenin.web.app
 kilomtresorgulabilgi.web.app
 kilomtresorgulma.web.app
 kimbilirziya.click
-kimsevuramazlo.com
 kimseyitutmuyorum.sbs
 kindbranch.click
 kindmeersgurpbiz.sbs
@@ -10775,7 +10771,6 @@ mhrsgirisportaliburada.digital
 mhrshekimarandevusu.vercel.app
 mhrshekimlarandevusu.vercel.app
 mhrshekimzlrandevusu.vercel.app
-mhrshemencan.com
 mhrsilerandevuekrani.duckdns.org
 mhrsislem.com
 mhrslenddeearn.cfd
@@ -12291,8 +12286,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -12983,6 +12978,7 @@ police-sozlesmesi.com
 policesozlesmesi.com
 policyyn.com
 polifera.vu
+poligidere-sederetede.lol
 poligideretesede.cfd
 polihigideretesede.lat
 polihiguduerese-yuhugudere.lol
@@ -14301,7 +14297,6 @@ sahibinden.fast-ilan.com
 sahibinden.get-paramguvende.my
 sahibinden.guvendealimlarimiz.com
 sahibinden.guvenli-odeme-get.online
-sahibinden.guvenli-sekilde-al.com
 sahibinden.guvenlialisveris.online
 sahibinden.hemen-siparisver.com
 sahibinden.hemenguvendeileal.com
@@ -16961,6 +16956,7 @@ toprakpazar.com
 toptandonertantuniiixxx.xyz
 topu-randevu-devlet.vercel.app
 topu-randevum-e-devlet.vercel.app
+topu-rondevum-e-devlet.vercel.app
 topu314.vercel.app
 topubosvuru.online
 topubosvuru.store
