@@ -8,6 +8,7 @@
 009987b555552.duckdns.org
 010101023x235.duckdns.org
 012492352.duckdns.org
+020201337.sbs
 08dc34a0-e.b-cdn.net
 0a572599-0.b-cdn.net
 0faiz-kredim-garanti.replit.app
@@ -1342,7 +1343,6 @@ autoupdatethis.com
 avansy-web.ink
 avantaj-tr.online
 avantaj-web.guru
-avantajliindirimfirsati7.sbs
 avantajlimarketler.click
 avantajnoktasi24.sbs
 avaraj.my-homeip.de
