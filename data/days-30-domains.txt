@@ -201,7 +201,6 @@ a-101-extra-sadece-bugune-ozel-sepette-tr.pay-tr.online
 a-101-extra-sadece-mobile-ozel-sepette-indirim-tr.sepette.online
 a-101-extra-sadece-online-bugune-ozel-indirimler-tr.store
 a-101-extra-sadece-online-mobilde-firsatlar.mobil-web.online
-a-101-online-ozel-extra-mobil-tr.sepette-indirim.online
 a-101-sadece-bugune-ozel-extra-indirimleri-tr.ozel-shop.site
 a-101-sadece-bugune-ozel-mobil-indirim-tr.internet-mobil.online
 a-101-sadece-bugune-ozel-mobil.online-tr-shop-mobil.site
@@ -1195,7 +1194,6 @@ e-sube.tunafonyonetimi.com
 earthsignal.capital
 easynexora.online
 ebebekonline.shop
-ecezamkontrol.org
 echojournal.world
 echosecure.space
 ecologygrid.capital
@@ -3984,9 +3982,7 @@ sahibinden.siparisverhemen.com
 sahibinden.sozlesme-islemleri-online.com
 sahibinden63.com
 sahibindenguvenlikasko.com
-sahibindenguvenlimuhasebeodemeleri.duckdns.org
 sahibindenkargo-islem.com
-sahibindenkaskoodemenoktasi.duckdns.org
 sahibindenparamguvende.islemonaylatr.online
 sahibindenparamguvendeonay.com
 sahibindenpay.shop
@@ -3996,7 +3992,6 @@ sahibindensatis.org
 sahibindensatisonay.com
 sahibindensatiss.click
 sahibindensigorta.com
-sahibindensigortaodemesi.com
 sahiplenici-edinim-gr.ink
 sahlbindeni.com.tr
 sahtediplomam.com
