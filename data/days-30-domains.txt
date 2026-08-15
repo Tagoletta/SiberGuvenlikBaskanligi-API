@@ -30,7 +30,6 @@
 1245115544166558998991.duckdns.org
 1245115544166558998992.duckdns.org
 1245445898978979907990.duckdns.org
-124566556565899093.duckdns.org
 124566556565899096.duckdns.org
 124566556565899097.duckdns.org
 124566556565899098.duckdns.org
@@ -243,7 +242,6 @@ access-account-web.online
 accessing-gregory-mhz-commitments.trycloudflare.com
 aceleetme.sbs
 acentamerkezi.com
-acentasicilsorgu.org
 acik-web-gir.casa
 acikdenizde.my-homeip.net
 acikdenizlere.my-homeip.de
@@ -823,7 +821,6 @@ cap.spec-connectweb3.tv
 capitalzone.best
 capulcu.xyz
 cardo.workers.dev
-cariwebsiteku.com
 cark-cekilisim.com
 cark-cekilisim.info
 carkcekiliisi-hemenbasvur1.duckdns.org
@@ -1724,7 +1721,6 @@ gppmikicc.com
 grabrtttt.nicepage.io
 gracefully-archie-963.rehost.page
 graconxonjal.empresaeficiente.sbs
-grademeta.tr
 gragelerdesasdas.duckdns.org
 granadaluxuries.com
 granly.xyz
@@ -1883,7 +1879,6 @@ hangikredin489874120.sbs
 harbidenyesbibies.dpdns.org
 hargelerdenlerden.duckdns.org
 hasatgo.com
-hasatnova.com
 hasmnsamhshansanmasmhsan73.space
 hastane-mhrs.digital
 hastanekayit.duckdns.org
@@ -4538,7 +4533,6 @@ tefasyatirimpaneli.com
 tejjdjsks.nicepage.io
 tejjdjskss.nicepage.io
 tejjdjskssf.nicepage.io
-tekfirsatsponsorlurklam.com
 teklifgoruntule.abrdns.com
 teklifigoruntule.abrdns.com
 teknosakz-a5c3f6g4s7r9y5f4hk3d1a94g3hn15a9tgx1v2ju8sq8r2.com
@@ -4762,7 +4756,6 @@ turkiyeegitim.vu
 turkiyefinans-katilim-com.duckdns.org
 turkiyefinans-katilimyap-com.duckdns.org
 turkiyegovtr.lovestoblog.com
-turkiyegozlemagi.com
 turkiyehaberblog.com
 turkiyekalkinmabankasi.com
 turkiyekalkinmayatirimbankasi.com
