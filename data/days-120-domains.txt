@@ -6160,7 +6160,6 @@ giris-secim-kampany.sbs
 giris-turkiye.gov.tr-giris-id192732.onlineislem.me
 giris-turkiye.net
 giris-yapikredimobil.ip-ddns.com
-girisadresim.info
 girisgelismelersonucbizde.sbs
 girisim-mhrs-randevu.vercel.app
 girisim-mhrs-randevum.vercel.app
@@ -6810,6 +6809,7 @@ haberler23432.sbs
 haberler235342.com
 haberler2354123.shop
 haberler235423.sbs
+haberler2373432.shop
 haberler2523432.sbs
 haberler311422.sbs
 haberler311748.shop
@@ -10733,7 +10733,6 @@ mhmrmsnesnmzsnds.org
 mhmrmsnmnrsm.org
 mhmrmsnmznsmdfn.org
 mhmrsmnzlemrsndsn.com
-mhmrsnzkleregelrmrsn.org
 mhns.randevu-bilgi.it.com
 mhr-al-hadisende.duckdns.org
 mhr.serceparmak.cyou
@@ -12295,8 +12294,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -13733,7 +13732,6 @@ randevuhzimetbudsd.store
 randevuhzmtlerburdsas.store
 randevuislemleribdusa.online
 randevuislemleribdusa.store
-randevularbugunbasliyor.com
 randevularinizigorun.com
 randevulu-kolay.com
 randevuluguncere.com
@@ -14199,7 +14197,6 @@ sagliklihizmetleregunleresizlere.webredirect.org
 saglikliol.giize.com
 saglikliolnnn.mywire.org
 saglikliozelgnlerex.webredirect.org
-saglikliyasamhemen.com
 saglikliyasamvebeslenmeblogu.shop
 saglikll.mooo.com
 saglkgnlerderndvalnyrz.click
