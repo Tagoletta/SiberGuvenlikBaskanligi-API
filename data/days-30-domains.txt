@@ -1861,6 +1861,7 @@ halkicanocan.co
 halklarinbirlikteligi1.sbs
 halklimit.homes
 halklimit.lat
+halklimit.lol
 halklimit.my
 halklimit.online
 halkmobil-internet-basvuruekrani-com.duckdns.org
@@ -2165,7 +2166,6 @@ internetsube-qnbfinansbankasi.ph
 internetsubesi-finans.my-homeip.net
 intranet.evsahibibasvuru.com
 intsube-enpara.ph
-ipucu-web.click
 irc.evsahibibasvuru.com
 ironproxy.space
 irsatlargeldi.duckdns.org
