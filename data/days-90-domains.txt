@@ -26,6 +26,7 @@
 100101099999900001.duckdns.org
 1001harcabitmez.click
 101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online
+101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-shop-tr.avantajshop.online
 101-extra-sadece-online-ozel-mobil-indirim-sepeti-tr.services
 101-extra-sadece-online-sepet-ozel-indirim-shop-mobilde-tr.cepsel-tr.online
 101-kstra.s3.eu-north-1.amazonaws.com
@@ -130,7 +131,6 @@
 152241snffrstlarrkpnyaabsvrr.online
 1556576x6txx111.duckdns.org
 159-karayol.com
-15mayisbasvurulari.cloud
 15temmuzdasiparisler.cloud
 165457x6686x31.duckdns.org
 167fa383-4.b-cdn.net
@@ -1452,6 +1452,7 @@ bambaska.casa
 bambuicin.sbs
 banabakarifdabi.sbs
 bananafastfile.com
+banaozel-paramguvende.my
 bancaporinternetbbmx.online
 bandshipstool.com
 bandspongewatch.com
@@ -4145,6 +4146,7 @@ garanti.bb.va-tr.com
 garanti.vva8.com
 garantibbva-acres.com.ph
 garantibbva-bell.com.ph
+garantibbva-cepmobilsubekazandiriyor.ph
 garantibbva-com-tr.replit.app
 garantibbva-creditsuisse.ph
 garantibbva-isbank.com.ph
@@ -5364,7 +5366,6 @@ hizlicakmburda.xyz
 hizlicasatinalhemensendebirlikteyiz.online
 hizlicasatinalhemensendebirlikteyiz.store
 hizlicasatinalhemensendebirlikteyiz.xyz
-hizliccabasvurum.cloud
 hizlidanogren.xyz
 hizlifilolar.com
 hizlifilom.com
@@ -7424,6 +7425,7 @@ m1k7x4q8v9n3.cfd
 m1uyhni1r56q.icu
 m2h4rspnline.art
 m2k9xvr7p.cfd
+m3333.site
 m365-owa.com
 m3p8z6v2n9q4.cfd
 m3v9x2p7z6q4.lol
@@ -8023,7 +8025,6 @@ molipy8trk.com
 molvent.forum
 monerix.capital
 monevo.gifts
-moneyportfoy.com
 monitor.evsahibibasvuru.com
 montagelips.info
 monteraa.shop
@@ -8910,8 +8911,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
