@@ -54,6 +54,7 @@
 101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online
 101-extra-sadece-online-sepet-ozel-indirim-shop-mobilde-tr.cepsel-tr.online
 101-kstra.s3.eu-north-1.amazonaws.com
+101-mobil-bugune-ozel-indirim-sadece-online-alisveris-tr.extramarket.online
 101-sadece-bugune-ozel-online-extra-indirim-tr.sepetextra.online
 101-sadece-online-ozel-extra-mobil-sepeti-tr.blog-web.online
 101.3mysfirstl4.art
@@ -12286,8 +12287,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -15134,7 +15135,6 @@ smartutilityhub.shop
 smartvaluebay.shop
 smokup.bond
 smpworlds.com
-smsonay.li
 snaketwig.com
 snapcurrent.online
 snapkeep.info
@@ -17033,7 +17033,6 @@ tr-porland.shop
 tr-sahibinden.info
 tr-sahibinden.online
 tr-salomonturkiye.com
-tr-servisleri.online
 tr-siparisonay.online
 tr-sokarca.shop
 tr-sokraca.shop
