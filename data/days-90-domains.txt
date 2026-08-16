@@ -154,6 +154,7 @@
 182-webb.xyz
 182-webhati.com
 182-webs.biz
+182-webs.help
 182-webs.online
 182-webs.sbs
 182-website.com
@@ -349,7 +350,6 @@
 43576884830900.net
 43643s6437rhtgkj4235.click
 442.44de22ew.click
-44411140002144.gleeze.com
 4444444555.duckdns.org
 44yar9x9231xx.duckdns.org
 452145632563256255.duckdns.org
@@ -1515,7 +1515,6 @@ basvurlerdaevamda.sbs
 basvurrvn.sbs
 basvursenc.sbs
 basvursendmr.sbs
-basvursendn.sbs
 basvursendsc.sbs
 basvursendsmz.sbs
 basvursendsn.sbs
@@ -2936,7 +2935,6 @@ denizmenkul.pro
 denizmobil-basvuru-ekranim.duckdns.org
 denizontvt.net
 denizselseyler.co
-denkla45.nicepage.io
 denklemweb.casa
 denmesk442.sbs
 denmktve.net
@@ -3591,6 +3589,7 @@ erisim-denizacik.my-homeip.de
 erisim.casa
 erken-randevuhizmetleri.com
 erkendenalma.duckdns.org
+erkengulen.biz
 erkenmobilhizli.site
 erkenrandevuler.com
 erkerandevular.com
@@ -4001,7 +4000,6 @@ forum.evsahibibasvuru.com
 forvar-d.my-homeip.de
 forward-yonlendir.ink
 forwardhorizon.net
-forzir.cfd
 foskopa.vu
 fotocekinmeguzelim.vip
 fovbuyra.gifts
@@ -4634,6 +4632,7 @@ guncelhaberzone.com
 guncelizlenimler.com
 guncelkaynaklar.com
 guncelmercekler.com
+guncelmerkez.abrdns.com
 guncelmerkezigarantiislemcozum.online
 guncelnotlar.company
 guncelnotlistesi.com
@@ -4648,6 +4647,7 @@ guncelsikayetler-970.sbs
 guncelsistemhaber.com
 gunceltrsikayetler-258.sbs
 guncelyorumlar.com
+gundelikhaberlerr.sbs
 gundemcizgisi.gifts
 gundemdunyasi.company
 gundemdunyasi.world
@@ -6961,7 +6961,6 @@ laminyamalfans.duckdns.org
 landcomcare.com
 landerlerdesnes.duckdns.org
 landscapeuganda.com
-lanfits.netlify.app
 laptopdrivers.gifts
 larek.vu
 larpers.fun
@@ -7642,6 +7641,7 @@ mbbgvchjhsax.shop
 mcafilo.com
 mcelerndeslesw.duckdns.org
 mckinsey-careers.com
+mdsfhfgsr.com
 meaametbaba.cfd
 meadowlyn.cfd
 meadowsantiques.com
@@ -8521,6 +8521,7 @@ ns-wwwhaber7com-haber.rojadirecta-com.co
 ns-wwwhaber7com.almach.shop
 ns-wwwhaber7com.descarga-mg.co
 ns-wwwhaber7com.kerbed.cfd
+ns-wwwhaber7com.rojadirecta-com.co
 ns-wwwpostacomtr.fakingguango.cfd
 nsacasbvsaasa.sbs
 nsaxasdahdasd.cfd
@@ -8908,8 +8909,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -10105,7 +10106,6 @@ randevusaatiolun.com
 randevusalisler.com
 randevusorgulamamhrsonline.duckdns.org
 randevusuzgunlerden.duckdns.org
-randevuyaklari.com
 randkvkkakklks.net
 randnvdtv.space
 randv-kontlr-etmek-m.web.app
@@ -13050,6 +13050,7 @@ wamanharipethe.s3.ap-south-1.amazonaws.com
 warqwrghw.xyz
 warwarawra.my.canva.site
 wasaredoor.shop
+wastingtime.co
 watchworldcup.watch
 watchworldcup.world
 watchworldcup2026.xyz
