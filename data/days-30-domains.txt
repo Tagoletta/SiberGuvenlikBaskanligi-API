@@ -323,7 +323,6 @@ akmobil-cepteislemler-ekrani-com.webredirect.org
 akmobil-onlinebasvuru-ekrani-com.webredirect.org
 akmobil-onlineislem-ekrani.duckdns.org
 akmobil-onlineislem-guncel-ekran.duckdns.org
-akmobil-onlineislemler-com.duckdns.org
 akmobil-onlineislemlerim-com.duckdns.org
 akmobil-onlineislemlerim-guncel.duckdns.org
 akmobildend.duckdns.org
@@ -3609,7 +3608,6 @@ pazarama.ilandan-fast.com
 pazarama.ile-e-sepetler.com.tr
 pazarama.magazamda-ilanim.com
 pazarama.onlinesiparislerim.com
-pazarama.ozel-magazadan.com
 pazarama.satiskapida.com
 pazararna.com
 pcstorezone.com

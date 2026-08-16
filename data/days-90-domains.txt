@@ -573,7 +573,6 @@ a-yonlendir.ink
 a.101onlinesiparis.duckdns.org
 a.cacacax.click
 a.dev-tunnels.com
-a.sicex.lol
 a1-82rvdnalbrdan.org
 a1001.online
 a100111aa101110202.duckdns.org
@@ -1559,7 +1558,6 @@ basvuru23153.sbs
 basvuruadresima.cloud
 basvuruasdagarantili.shop
 basvuruherzamandevamsiparis.sbs
-basvuruinternettalepleri.duckdns.org
 basvurukontrlleri.rf.gd
 basvurukuvytpromosyon.duckdns.org
 basvurularbaslasdir.cloud
@@ -2455,7 +2453,6 @@ ceptesok.guncelfirsatiniz.com
 ceptesok.hizlifirsatim.com
 ceptesok.hizligiriss.com
 ceptesokfirsatlarim.com
-ceptete.pzbsin.com
 cepteteb-merkeziislemler.my-homeip.de
 ceredefe-dereteyeuere.lol
 ceretese-derersede.lol
@@ -4199,7 +4196,6 @@ garantiden-kredi-firsati.sbs
 garantiden-kredi-firsatlari.sbs
 garantiden.click
 garantiform.vercel.app
-garantigaranti.pzbsin.com
 garantiimenkuldegerler.com
 garantikampanyan.click
 garantili-basvuru-islemlerim.webredirect.org
@@ -5849,7 +5845,6 @@ info-akb.online
 info-referanslinki.com
 infobireysel.online
 infocontablidades.it.com
-infomusteri.com
 infonaria.com
 infonexusline.com
 infopilotpro.com
@@ -9885,7 +9880,6 @@ pttavmkmsorgum.com
 pttavmkmsorgumerkezi.web.app
 pttavmonlinesepethemenal.com
 pttavmsepethemenal.com
-pttavmsepettensatinal.com
 pttavmturkiye.shop
 pttavn-islemler-hgs-sorgulama.firebaseapp.com
 pttavn-islemler-hgs-sorgulama.web.app
@@ -11557,7 +11551,6 @@ sube.mufgfinance.net
 sube.sekermenkul.com
 sube.sekerplatform.pro
 subedenmobiliz.myonlineportal.de
-subeinf.com
 subeislemlerim-akbank.ph
 subemiz-garanti.myonlineportal.eu
 subesimobil.my-homeip.de
