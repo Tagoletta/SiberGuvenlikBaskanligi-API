@@ -2048,7 +2048,6 @@ dijionline-siparismarkt.sbs
 dijionline-siparisver.sbs
 dijisiparis-internet.sbs
 dijital-bilgi.sbs
-dijital-bireyselbasvurular.sbs
 dijital-bireyselbasvurulari.sbs
 dijital-bireyselbasvurularim.sbs
 dijital-bireyselbasvurulariniz.sbs
@@ -3733,6 +3732,8 @@ hizmet-merkezi-online.com
 hizmetfirsatlarimkatil.duckdns.org
 hizmetlerimsizisf.click
 hizmetlermizdnens.click
+hizmetlermizdnensxasx.click
+hizmetlermizdnenwsxasx.click
 hizmetvakfi-net.vercel.app
 hjhejres.online
 hjkmrtynertbw.click
@@ -4333,7 +4334,6 @@ karvend.courses
 kasalarsaglamtanktank.net
 kasalarsaglamtnn.net
 kastamaonulusarmisakciskkke3x.duckdns.org
-katilimda.nicepage.io
 katilimlinki.com
 katilingrnlt.xyz
 katilmak-gornm-g-rn.myonlineportal.ch
@@ -5047,6 +5047,7 @@ lunxo.xyz
 lunyra.xyz
 luodiye.live
 luoksa99asdasdasdsadsada.click
+luokuoasdhashdhasd22sda.click
 lutuosdahshad124sadh23sda.click
 lynxsecurity.ru
 lyricinspire.com
@@ -5121,6 +5122,7 @@ mail.tuvturkmuayene.duckdns.org
 main.d1donrzp70jfih.amplifyapp.com
 mainoptionsllc.com
 maintaining-drawings-rand-porter.trycloudflare.com
+makarayizbizabitakmasen.duckdns.org
 makeitupguide.com
 makepasskey.com
 makerolleds.info
@@ -6133,8 +6135,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -7262,6 +7264,7 @@ safephoto-vault.info
 safernetwork.io
 safety-languag-gr-web.myonlineportal.ch
 safevault-hub.info
+safksafsafkjasfjkfssssfasafasafkj.com
 safsaqwrcs.sbs
 sagligakavusmakicinbiradim.digital
 saglik-182.com
@@ -7892,6 +7895,7 @@ sorguinfaz.org
 sorgukurum.org
 sorgula-borctahsil.com
 sorgula-borctahsilat.com
+sorgulagec.online
 sorgulama-ekrani.online
 sorgulama-tr.online
 sorgunbosphours.com
@@ -8862,6 +8866,8 @@ ucurumsunbana5.uk
 ucurumsunbana9.uk
 ucuz.obilet-mobil.uk
 ucuz.obilet-tr.uk
+ugogo9gashdahsdhash99as.click
+ugosahdahsdhas923sada.click
 uguogashdashdhashd923asda.click
 uhufudure-resederete.lol
 ukzisrgh.cfd
@@ -9743,7 +9749,6 @@ zitrkfs.cfd
 ziyaret-prise-lov.myonlineportal.ch
 ziyoklam.biz
 ziytratgx.cfd
-zkopera.cfd
 zkoperatiedfi.cfd
 zkoperatifi.cfd
 zkoperatifs.cfd
