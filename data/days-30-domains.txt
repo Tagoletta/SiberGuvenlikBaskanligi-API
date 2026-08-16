@@ -144,6 +144,7 @@
 515155555555555.duckdns.org
 52235236fsd523.click
 52308235fdhj235.click
+541221125565556559992.duckdns.org
 54375432423342645.org
 5638563454132.org
 5685632523532.org
@@ -233,7 +234,6 @@ aacacdsjkx12312l312z312.cfd
 ac123xlkdsdaxjk12kj3123c12.cfd
 acacacacacac.sbs
 acascadkx123jkasdas.sbs
-acc.hdfportfoy.com
 acc.hedeffon.com
 acc.hedefonportfoyum.com
 accapple.ru
@@ -286,6 +286,7 @@ aethersyncmatrix6.lol
 aethersyncmatrix7.lol
 aethersyncmatrix8.lol
 aethersyncmatrix9.lol
+agstosfrsatttwa.com
 agugoawsdasdhga923asdas.click
 agustosc.dnsup.net
 ahdaratlegalservices.com
@@ -395,7 +396,6 @@ aotuzbirharcaharcatmez.duckdns.org
 apartment.devour.top
 apexkurumsalfilo.com
 app-3-ai.liyalabs.com
-app.hdfportfoy.com
 app.hedeffon.com
 app.hedefonportfoyum.com
 appledisk.ru
@@ -411,6 +411,7 @@ appsy.vu
 apricotfilepoint.com
 aquamsis.com
 araba--paribu.com
+araba--paribu.live
 araba-cekilisi-paribu.com
 araba-cekilisi-paribu.ezgateway.net
 araba-cekilisi-paribu.mywire.org
@@ -835,6 +836,7 @@ cebinde-temmuz.org.tr
 cebinde-temmuz.tv.tr
 cebteteb.my-homeip.de
 cederese-deresedese.lol
+cekilis--araba.live
 cekilis--binance.com
 cekilis-binance.com
 cekilisbinance.com
@@ -1169,7 +1171,6 @@ e-nvirandevu.com
 e-nvirandevu.net
 e-nvirandevu.org
 e-sagligahemenkavussss.digital
-e-sube.hdfportfoy.com
 e-sube.hedeffon.com
 e-sube.hedefonportfoyum.com
 e-sube.tunafonyonetimi.com
@@ -1298,7 +1299,6 @@ esbmonline.com
 eslesme-edinim.guru
 esnek-figur.ink
 esorguuzlasma.org
-esube.hdfportfoy.com
 esube.hedeffon.com
 esube.hedefonportfoyum.com
 esube.sumergrup.org
@@ -1853,12 +1853,10 @@ hazineceza.org
 hazinekurum.org
 hazineleri.com
 hazinesicil.org
-hdfportfoy.com
 headlinecore.gifts
 healthvello.com
 heasdawdas.duckdns.org
 hedeffon.com
-hedefon.hdfportfoy.com
 hedefon.hedeffon.com
 hedefon.hedefonportfoyum.com
 hedefonportfoyum.com
@@ -2849,6 +2847,7 @@ mhrs5nwdkm3.duckdns.org
 mhrsanlikodemehizli.icu
 mhrsanlkodemebra.duckdns.org
 mhrsbilgi.duckdns.org
+mhrsc347niz234wfh.com
 mhrsekrangirisyonlendirme.duckdns.org
 mhrsrandevu346.duckdns.org
 mhrsrandevumerkezi.myshopify.com
@@ -2858,6 +2857,7 @@ mhrsrarandvzhmzrsbrda.sbs
 mhrsrarandvzlrmmhrsbrda.sbs
 mhrsrx2ndevuh3zmetleriniz45012.com
 mhrsrxn3devuuhxzm3tleri45732.com
+mhrss-2026.duckdns.org
 mhrss.mersinstar.com
 mhrsvatandasportalekranlarimiz.duckdns.org
 mhsdfbavbsd.art
@@ -3357,7 +3357,6 @@ pafada-dertuyyu.lol
 paibu.cn
 paiwudyea.love
 panel.evsahibibasvuru.com
-panel.hdfportfoy.com
 panel.hedeffon.com
 panel.hedefonportfoyum.com
 panel.qsewjn.icu
@@ -3471,6 +3470,7 @@ paribucark-burada.com
 paribucark-burada.info
 paribucark-burada.link
 paribucark-cevir.com
+paribucark-geldi.com
 paribucark-geldi.info
 paribucark-hediye.com
 paribucark-hediye.info
@@ -4165,7 +4165,9 @@ siparisver-hemen.com
 siparisverhemen.com
 sivri.ezpizi.click
 size-ozel.ink
+sizlerininicburadayiz.click
 sizlerleberaber.sbs
+sizlerleyizz.sbs
 skaldnmfbsjdpvsvcmvdlbo63.click
 sketchworksy.com
 skmarlktlr.com
@@ -4589,7 +4591,6 @@ ttyz.top
 tubitak4005stefam.blogspot.com
 tuerq1.carrd.co
 tum-web.click
-tum-web.xyz
 tunafonyonetimi.com
 tunaportfoyonetim.com
 tunaportfoyyatirim.com
@@ -4760,7 +4761,6 @@ veltrani.it.com
 veltrim.vu
 velxi.shop
 veri-donustur.ink
-veri-ikonik.click
 veri.casa
 veridica.pro
 verification-salesforce.com
@@ -4955,7 +4955,6 @@ ya-l-bankac-l.vercel.app
 yanitlama-grs.garden
 yapikredi.com.ph
 yapikredi.giris.2g0c.com
-yapikredimobil.netlify.app
 yapikredisubesigirisg.com.ph
 yardimdestek.org
 yardimdestekpaketim.com
@@ -5032,6 +5031,7 @@ yolweb.guru
 yonhome-g.my-homeip.de
 yonlen-toplan-security.ink
 yonlendir-g.my-homeip.de
+yonlendir-secur-gr.my-homeip.de
 yonlendir-sifre-guncel.ink
 yonlendiren-stafy.ink
 yonlendirme-security.ink
