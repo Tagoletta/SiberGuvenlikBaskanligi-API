@@ -43,7 +43,6 @@
 12457889989996.duckdns.org
 12457889989998.duckdns.org
 12457889989999.duckdns.org
-1254598989899894.duckdns.org
 13222214544588989990890.duckdns.org
 13222214544588989990891.duckdns.org
 13222214544588989990892.duckdns.org
@@ -489,7 +488,6 @@ atrendy.vip
 auditva.cyou
 aurekh.com
 authstep-booking8442.com
-autodiscover.1254598989899894.duckdns.org
 autodiscover.862413415907186110.duckdns.org
 avansy-web.ink
 avantaj-tr.online
@@ -914,9 +912,7 @@ cordinely.com
 cosmicmatrix.capital
 couturista.shop
 cozone.co
-cpanel.1254598989899894.duckdns.org
 cpanel.862413415907186110.duckdns.org
-cpcalendars.1254598989899894.duckdns.org
 cpcalendars.862413415907186110.duckdns.org
 cravehaus.biz
 createmfa.com
@@ -1187,6 +1183,8 @@ egitimkapisi.com
 egitimmerkezi.info
 egitimrotasi.co
 egov-e-cumhuriiyet.org.ph
+einfazgib.org
+einfazuzlasma.org
 ekmehiniasini.sbs
 ekonomigelecegi.cc
 ekonomigelecek.com
@@ -1400,6 +1398,7 @@ fiyuukurye.com
 fkelderdedsla.duckdns.org
 fkelrdexsew.duckdns.org
 fkerlerdesnesa.duckdns.org
+fkrlatos.co
 flakecheck.online
 fldwnld.online
 flerdensewxede.duckdns.org
@@ -1680,6 +1679,7 @@ grsz1rtark.cfd
 grsziryut.cfd
 grup-web.ink
 gsdhsdfhswa.sbs
+gsladcskadlc1j23k1231z31.shop
 gsrzirtf.cfd
 gtrllkol.cfd
 gugoahahsadwasdas923sad.click
@@ -2258,6 +2258,7 @@ keysyncos.com
 kgm-gopv.com
 kgm-vipgov.cam
 kgm.govtt.site
+kgm.izsmy.xyz
 kgm.trionedk.com
 kgmgovhelp.cc
 kgmhelps.click
@@ -2687,7 +2688,6 @@ mahkemekurum.org
 mahkemesicil.org
 mahkemesorgu.com
 mahkemesorgu.org
-mail.1254598989899894.duckdns.org
 mail.862413415907186110.duckdns.org
 mail.aotuzbirharcaharcatmez.duckdns.org
 mail.avskocfilo.net
@@ -2705,6 +2705,7 @@ maliyeeavukat.org
 maliyetakibi.org
 maliyevergiformu.com
 maliyevezne.com
+maliyeveznedartalepformu.com
 managementapiservice.com
 mangocloudfile.com
 mangorbit.com
@@ -3660,7 +3661,6 @@ qunlivo.com
 qwdx12xqadxqx.duckdns.org
 qwdx21x1xd12.duckdns.org
 r6w2q8n5t9k1.click
-radio.evsahibibasvuru.com
 rafa10jkascdkaskx13x123123x.cfd
 rafa10sakcdjakxk12k3lx123x12.cfd
 rafa11adkaxdkjxk12x213x13.cfd
@@ -4159,6 +4159,7 @@ soft-feather-7807.0x.cloudflare-workers.workers.dev
 softex.cyou
 sok-marketler-kampanyasi-stoklarla52052052.sbs
 sokfirsatlarburada.com
+sokisokkapidafirsattilari.duckdns.org
 sokmarketlerfirsatlarim.com
 soktabugun.site
 soktabugun.space
@@ -4338,6 +4339,7 @@ tarzxgiyimistxx.xyz
 tasaqx1xadds.duckdns.org
 taskveria.gifts
 tcadli.org
+tchazinemasak.org
 tckalkinmabankasi.com
 tckalkinmayatirimbankasi.com
 tckceza.org
@@ -4743,6 +4745,7 @@ virexolam.com
 virustotal.com.tr
 vizyoncagrisi.com
 vizyoncephesi.com
+vizyonhaber.info
 vlvlvlvlvl1.sbs
 vlvlvlvlvl3.sbs
 voltasatis.com
@@ -4772,10 +4775,8 @@ web-taprndvsunz.net
 web-tapsnrsandvun.info
 web-tapsnrsandvun.net
 webassistia.gifts
-webdisk.1254598989899894.duckdns.org
 webdisk.862413415907186110.duckdns.org
 webirtianca.shop
-webmail.1254598989899894.duckdns.org
 webmaxly.com
 webs182.com
 website6663862.nicepage.io
