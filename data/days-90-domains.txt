@@ -1547,6 +1547,7 @@ basvuruherzamandevamsiparis.sbs
 basvurukontrlleri.rf.gd
 basvurukuvytpromosyon.duckdns.org
 basvurulardevamediyo.cloud
+basvurulari-1.sbs
 basvurularimiz.myonlineportal.de
 basvurulariniaslasman.sbs
 basvurularinitamamlar.sbs
@@ -2712,7 +2713,6 @@ crfsthipermrk.cfd
 criminalcloudflare.online
 critical-silver-yak.pages.dev
 crm.turkcellpasajsanalmagaza.com
-crpsonlcen.cfd
 crsastore.vercel.app
 cryoturbine.net
 cryptomeshforge1.lol
@@ -3383,7 +3383,6 @@ efsisqnko.abrdns.com
 efskwqhalx.ice.fo
 efsnekmpnyalartknmkuzere1o1.shop
 efsnwsbnk.abrdns.com
-efsolndiirlmsaatlerionline.com
 efsqsbnqis.duckdns.org
 efssbnqis.duckdns.org
 efsxibnsk.gleeze.com
@@ -8905,6 +8904,7 @@ otokocarabakiralama.com.tr
 otokocarackirala.com.tr
 otokocarackirala.net.tr
 otokocarackirala.org
+otokocaviskiralama.net
 otokocelektroniksozlesme.com
 otokocfilo.net
 otokocfilo.org
@@ -8912,8 +8912,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -10605,7 +10605,6 @@ sastoro.com
 satin-al-siparis.com
 satinal-siparis.com
 satinalonlinesiparis.com
-satinalsepetimodeme.com
 satir-web.ink
 satiskapida.com
 satiskapinda.com
@@ -10973,6 +10972,7 @@ shopmobil.online
 shopnova.digital
 shops-mobil.online
 shopsites.shop
+shopstore-tr.online
 shopventura.shop
 showmixly.net
 showmori.vu
@@ -11361,7 +11361,6 @@ sposnorlu-basvurularim.vercel.app
 spotifylink.me
 spsksjj.blogspot.com
 sptiseput.net
-sptlrflrsatlrsizinlee.com
 sptlrfrsltlrguncell.com
 sqfepjvmrd.xyz
 srabklmhrndval.com
@@ -11758,7 +11757,6 @@ teknosakz-a5c3f6g4s7r9y5f4hk3d1a94g3hn15a9tgx1v2ju8sq8r2.com
 teknosakz.com
 tekoas.com
 tekraradnpromosyon.cloud
-tekrardan.arakampanyalardonem.cloud
 tekrardanbasvurozamanas.sbs
 tekrardansoktayiz.cloud
 tekrardevametmelin3.cloud
@@ -12127,7 +12125,6 @@ torkasaq.gifts
 torkrama.gifts
 torlino.cfd
 torlotiq.gifts
-torncakeoanrsa.cfd
 torqami.tr
 torqani.info
 torsepet.gifts
@@ -13694,7 +13691,6 @@ youarases.lat
 yoursfind.com
 ypmakarss.com
 yqhalktvmf.com
-yrprsapcoeceka.cfd
 ytastaub.com
 ytrsdsndsn-ytrseresrsr.com
 ytunrtyndfgwe.click

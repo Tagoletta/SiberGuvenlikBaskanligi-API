@@ -572,6 +572,7 @@ basvuru23152.sbs
 basvuru23153.sbs
 basvuruasdagarantili.shop
 basvuruherzamandevamsiparis.sbs
+basvurulari-1.sbs
 basvurularimiz.myonlineportal.de
 basvurulariniaslasman.sbs
 basvurularinitamamlar.sbs
@@ -2899,7 +2900,6 @@ modelturizm.com
 modernki.com
 modernsorgulamam.shop
 modernsupplyhub.shop
-molecularpath.capital
 molvent.forum
 more-inf.ink
 mossylorex.com
@@ -3277,6 +3277,7 @@ otokocarabakirala.com.tr
 otokocarabakiralama.com.tr
 otokocarackirala.com.tr
 otokocarackirala.net.tr
+otokocaviskiralama.net
 otokocfilo.net
 otokocfilo.org
 otokocfilokirala.com.tr
@@ -4099,6 +4100,7 @@ shopier.guvenli-hizmet.online
 shopier.webislemlerimiz.com
 shopmobil.online
 shops-mobil.online
+shopstore-tr.online
 sicilmahkeme.org
 sidisncis.com
 silashield.space

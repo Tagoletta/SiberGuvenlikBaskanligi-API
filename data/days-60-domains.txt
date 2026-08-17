@@ -1040,6 +1040,7 @@ basvuruasdagarantili.shop
 basvuruherzamandevamsiparis.sbs
 basvurukontrlleri.rf.gd
 basvurukuvytpromosyon.duckdns.org
+basvurulari-1.sbs
 basvurularimiz.myonlineportal.de
 basvurulariniaslasman.sbs
 basvurularinitamamlar.sbs
@@ -6090,14 +6091,15 @@ otokocarabakiralama.com.tr
 otokocarackirala.com.tr
 otokocarackirala.net.tr
 otokocarackirala.org
+otokocaviskiralama.net
 otokocelektroniksozlesme.com
 otokocfilo.net
 otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -7660,6 +7662,7 @@ shoplunaq.digital
 shopmobil.online
 shops-mobil.online
 shopsites.shop
+shopstore-tr.online
 showmixly.net
 showpulsera.net
 showsix.digital
