@@ -146,6 +146,7 @@
 541221125565556559993.duckdns.org
 541221125565556559994.duckdns.org
 541221125565556559995.duckdns.org
+541221125565556559996.duckdns.org
 54375432423342645.org
 5638563454132.org
 5685632523532.org
@@ -1557,6 +1558,7 @@ glerdenlerdews.duckdns.org
 glitch-vibe.com
 globalcleaningservice.nl
 glowfernix.com
+glrdesnlweesw.duckdns.org
 gmtracker.online
 go-para-odeme.online
 goalmate.ru
@@ -1754,7 +1756,6 @@ haberler145425462.shop
 haberler1542334.shop
 haberler163234.shop
 haberler23232.shop
-haberler235423.sbs
 haberler2373432.shop
 haberler311748.shop
 haberler3242.sbs
@@ -1809,6 +1810,7 @@ halklimit.online
 halklimitim.help
 halklimitim.online
 halklimitim.xyz
+halklimitin.online
 halkmobil-internet-basvuruekrani-com.duckdns.org
 halkmobil-internet-guncell-com.duckdns.org
 halkmobil-internet-islemlerim-com.duckdns.org

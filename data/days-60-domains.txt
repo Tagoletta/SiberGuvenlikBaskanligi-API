@@ -268,6 +268,7 @@
 541221125565556559993.duckdns.org
 541221125565556559994.duckdns.org
 541221125565556559995.duckdns.org
+541221125565556559996.duckdns.org
 54375432423342645.org
 54435623412534265432.org
 5515151.xyz
@@ -2975,6 +2976,7 @@ glintryvo.com
 glitch-vibe.com
 globalcleaningservice.nl
 glowfernix.com
+glrdesnlweesw.duckdns.org
 gmail.evsahibibasvuru.com
 gmslb.net
 gmtracker.online
@@ -3420,6 +3422,7 @@ halklimit.online
 halklimitim.help
 halklimitim.online
 halklimitim.xyz
+halklimitin.online
 halkmobil-internet-basvuruekrani-com.duckdns.org
 halkmobil-internet-guncell-com.duckdns.org
 halkmobil-internet-islemlerim-com.duckdns.org

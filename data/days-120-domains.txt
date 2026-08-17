@@ -524,6 +524,7 @@
 541221125565556559993.duckdns.org
 541221125565556559994.duckdns.org
 541221125565556559995.duckdns.org
+541221125565556559996.duckdns.org
 5423423.net
 54354982138943214000.net
 54375432423342645.org
@@ -6218,6 +6219,7 @@ globalfinancehub.world
 globalfiscaldaily.com
 globalheadlinehub.online
 glowfernix.com
+glrdesnlweesw.duckdns.org
 gmail.evsahibibasvuru.com
 gmaildestekpro.com
 gmaildestektr.com
@@ -6986,6 +6988,7 @@ halklimit.online
 halklimitim.help
 halklimitim.online
 halklimitim.xyz
+halklimitin.online
 halkmobil-internet-basvuruekrani-com.duckdns.org
 halkmobil-internet-guncell-com.duckdns.org
 halkmobil-internet-islemlerim-com.duckdns.org
