@@ -2133,7 +2133,6 @@ battleflight.pro
 batuhancicekcilik.com.tr
 baukartech.com
 baviolern.com
-baviro.click
 bavrunular.hegikeiroz.workers.dev
 bavrusistemit.cfd
 bavsuru.duckdns.org
@@ -2718,7 +2717,6 @@ bireysel-islemler-com-garanti.duckdns.org
 bireysel-islemlerim-garanti.freemyip.com
 bireysel-islemleriniz-garanti.duckdns.org
 bireysel-kampanya-teb.my-homeip.de
-bireysel-kampanyam.my-homeip.de
 bireysel-kampanyan.my-homeip.net
 bireysel-mobil-shop.sbs
 bireysel-mobil-tr.sbs
@@ -3335,7 +3333,6 @@ buyazapp1-43a83c3c83a4.herokuapp.com
 buyhatch.store
 buyhatch.xyz
 buyhujufede-readesede.lol
-buynest.gifts
 buypeak.gifts
 buyudaretreese.hicam.net
 buyugukucuguonlnesrma.sbs
@@ -3751,7 +3748,6 @@ clearhorizon.click
 clearpass.garantibbvakredibasvuru.com
 clearshaven.com
 clearthghinking.pro
-cleartrajectory.live
 cleverccsd.com
 clickeron.com
 clickonix.media
@@ -4027,6 +4023,7 @@ cryptotoki.site
 cryptotokimarket.store
 crystaltoki.site
 csaxasdsafa-ee.cfd
+csdf.rauzmiklimlendirme.com
 csgb-gov-tr.app
 csgb-gov-tr.com
 csgbgovtr.me
@@ -5555,6 +5552,7 @@ finanssalstruktur.com
 finanssohbeti.club
 finario.capital
 finclass.courses
+findforme.vip
 finger.cldvrfd.click
 fingersnaapp.lat
 finlora.blog
@@ -6243,7 +6241,6 @@ gokuryebasvuru.net
 gokyuzugun.com
 goldblueapp.shop
 goldengoose.sbs
-goldenpixel.cfd
 goldenriftway.pro
 goldentpath.com
 golledsack.info
@@ -9347,7 +9344,6 @@ kmsorgulahizli.click
 kmsorgupratik.com
 kmsorgupratik.web.app
 kmsorgupttavm.com
-kmsrgoalamayapalimhemenlea.duckdns.org
 kmsrgoalamyapalimkmhmnamt.com
 kmsrgulamagovptt.duckdns.org
 kmverimerkezi.firebaseapp.com
@@ -9880,6 +9876,7 @@ login-odoo.com
 login-salesforce.com
 login.evsahibibasvuru.com
 login.garantibbvakredibasvuru.com
+login.org.tr
 login.trees4sale.net
 logisticabiomedica.com
 logiswebmail.top
@@ -9894,7 +9891,6 @@ loloyagel.click
 lolstreet.lol
 lolukhuguferete-desededse.lol
 lomas-capital.com
-lomexa.click
 lomirekadu.com
 lonetraapp.store
 lonetsoh.net
@@ -10178,8 +10174,6 @@ lta.vrlez.top
 lta.vrlit.top
 lta.vrliy.top
 ltgxo.buzz
-lucknest.gifts
-luforadeniq.com
 lulink.click
 lumarapolli-sedere.lol
 lumavo.info
@@ -12300,6 +12294,7 @@ osymodemeekrani.xyz
 otaviofritzen.online
 otcast.pics
 otoaracteoglion.org
+otobus.obilet-mobil.uk
 otokoc.rent
 otokocarabakirala.com.tr
 otokocarabakiralama.com.tr
@@ -12314,8 +12309,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -14428,7 +14423,6 @@ saldsaldsaldsadpoool.net
 salealert.vu
 salecraft.store
 salega.ru
-salegrid.store
 saleo.nicepage.io
 salero.gifts
 saletiszacipo.club
@@ -14537,7 +14531,6 @@ sdkmob.org
 sdsahashsahsahsahahashha.kozow.com
 sdvfad1x312asdx13123x1.cfd
 sdw35rhgf32.com
-sdxc321xcx.duckdns.org
 seagalnssteavens.com
 seahorsemethod.com
 searchdocumentsfree.com
@@ -14649,7 +14642,6 @@ sellmaxim.digital
 sellnightcare.com
 sellora.vu
 sellorax.store
-sellpeak.store
 selmbngldmbrndns.live
 selmuroq.com
 selsandannda.com
@@ -17312,7 +17304,6 @@ trvtrkdsnrsvjsd.store
 trwtwsn.duckdns.org
 tryclorenta.site
 tryclorenta.store
-trynex.click
 tryweb-logr-home.ink
 tryyourselfs.com
 trztrts.cfd
@@ -17503,6 +17494,7 @@ turksondakikadunyasi.com
 turksondakikalar.com
 turksworkgraphics.com
 turktelekom.sbs
+turkticaretbankasi.login.org.tr
 turkticaretbankasi.org.ph
 turktoday.blog
 turline.xyz
@@ -18334,6 +18326,7 @@ webnexus360.com
 webnox.xyz
 webora.cfd
 weborbitpro.com
+webs182.com
 website655558.nicepage.io
 website6647428.nicepage.io
 website6657196.nicepage.io
@@ -18862,6 +18855,7 @@ yatirimblogu.com
 yatirimci-merkezi.com
 yatirimci-merkezi.net
 yatirimfinansmanmenkuldegerler.net
+yatirimhedef.com
 yatirimmerkeziinfo.net
 yatirimnotu.world
 yatirimrehberi.site
