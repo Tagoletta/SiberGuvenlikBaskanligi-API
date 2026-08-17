@@ -214,6 +214,7 @@
 182-webs.help
 182-webs.online
 182-webs.sbs
+182-webs.store
 182-website.com
 182-weeb.net
 182.24612-20114.click
@@ -837,7 +838,6 @@ a101market.xyz
 a101marketinizgeldi.ph
 a101mayisfirsatlari.x10.mx
 a101mayisfirsatlari.xo.je
-a101nisankampanyalari.com
 a101online.help
 a101onlineaktuelmarket.com
 a101onlineislemlermerkezi.pages.dev
@@ -1961,7 +1961,6 @@ baklavakocak.com
 baknburdaherseyvarsndegelhadi81.click
 balancedoutlook.info
 balancedperspective.info
-baldiza.site
 balerdenmased.duckdns.org
 balikcihasogeliyo.fun
 bambaska.casa
@@ -3152,8 +3151,10 @@ bsvurrrkmpnyylrrsnfrstlarr.info
 bsvurum-kvveyt.xyz
 bsvvrrrrkrediiiprmsynnnkmpnyaa.info
 bsvvrrrrkrediiiprmsynnnkmpnyaa.pro
+bsvvvurrrsnfrstlrrrkmpyasii.click
 bsvvvurrrsnfrstlrrrkmpyasii.info
 bsvvvurrrsnfrstlrrrkmpyasii.live
+bsvvvurrrsnfrstlrrrkmpyasii.pro
 bsykartech.com
 btcturk-cekilis.com
 btcturk-kripto1781772972.zendesk.com
@@ -6605,7 +6606,6 @@ guvedekalin.com
 guven-oto-cikma.com
 guvenceleriyle.online
 guvencelisepet.online
-guvencesinde.online
 guvencesiyle.com
 guvencesiyle.online
 guvendealimlarimiz.com
@@ -6660,6 +6660,7 @@ guvenlisepetim-hizmet.online
 guvenlisepetler-hizmet.online
 guvenlisiparis-49100.com
 guvenlisiparisler.com
+guvenlisiparislerin.com
 guvenlisiparisleriniz.com
 guvenlislem.com
 guvenliteslim.online
@@ -7163,7 +7164,6 @@ hedefonportfoyum.com
 hedefportfoykurumsal.com
 hedefprtfoy.com
 hediye50gb.space
-hediyenyaninda.online
 hefeelfeguystr.duckdns.org
 hefelfeguystr.duckdns.org
 heilbronner-fruehlingssymposium.de
@@ -7944,6 +7944,7 @@ ilan-paramguvende.online
 ilan.hizmet-islememleri.com
 ilanda-sepetim-1091.com
 ilanda-sepetim-1092.com
+ilanda-sepetim-1093.com
 ilanda-siparislerim.com
 ilandan-fast.com
 ilandetay-jet.com
@@ -10750,6 +10751,7 @@ mhmrmsnmnrsm.org
 mhmrmsnmznsmdfn.org
 mhmrsmnzlemrsndsn.com
 mhns.randevu-bilgi.it.com
+mhpubrsle.digital
 mhr-al-hadisende.duckdns.org
 mhr.serceparmak.cyou
 mhr.serceparmak.xyz
@@ -12829,6 +12831,7 @@ pazarama.sorunsuzodeme.com
 pazaramabireyselsatis.online
 pazaramahizlionay.com
 pazaramahizlionay.net
+pazaramakapinda.com
 pazaramatg.duckdns.org
 pazararna.com
 pazararna.online
@@ -13463,6 +13466,7 @@ publicpost.garantibbvakredibasvuru.com
 publicspeakingtip.org
 publicupdate.org
 publicyn.com
+pubmhsl.digital
 pueedusstaff.unaux.com
 pulse-vol.com
 pulsebasap.pro
@@ -14548,7 +14552,6 @@ secure.ssa-documentsync.com
 secureauthpasskey.com
 securepulse.space
 securesepetim.com
-securesepetim.shop
 securesitem1.co
 security-password.casa
 security.bpfi.digital
@@ -14699,6 +14702,7 @@ sepetimde-siparisler.com
 sepetimdeindirimleriyakala.com
 sepetimdeonline.click
 sepetimdeonline.online
+sepetimdeonline.site
 sepetimdeonline.store
 sepetimeyonlendir.xyz
 sepetimonay.click
@@ -17072,8 +17076,6 @@ tr-online-mobil.sbs
 tr-polisi.online
 tr-porland.cfd
 tr-porland.shop
-tr-sahibinden.info
-tr-sahibinden.online
 tr-salomonturkiye.com
 tr-siparisonay.online
 tr-sokarca.shop
@@ -17614,6 +17616,7 @@ tvtrkjhzmetlrebsd.online
 tvtrkjhzmetlrebsd.store
 tvtrkkdshhzimetburds.online
 tvtrkkdshhzimetburds.store
+tvtrksnrhzsdme.store
 tvtur-k.net
 tvturk-ei.digital
 tvutkyns.net

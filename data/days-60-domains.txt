@@ -114,6 +114,7 @@
 182-webs.help
 182-webs.online
 182-webs.sbs
+182-webs.store
 182.24612-20114.click
 182.24612-20114.xyz
 182.24612-yara.click
@@ -636,7 +637,6 @@ allportcargoservice.com
 allpurposebay.shop
 alo182.org
 alo182biziz.duckdns.org
-aloo-182.sbs
 aloo-182.xyz
 alphabitcapital.info
 alphagridnexus1.lol
@@ -1430,8 +1430,10 @@ bsvrurgiriss.nicepage.io
 bsvrussbbnkonay.webhop.me
 bsvvrrrrkrediiiprmsynnnkmpnyaa.info
 bsvvrrrrkrediiiprmsynnnkmpnyaa.pro
+bsvvvurrrsnfrstlrrrkmpyasii.click
 bsvvvurrrsnfrstlrrrkmpyasii.info
 bsvvvurrrsnfrstlrrrkmpyasii.live
+bsvvvurrrsnfrstlrrrkmpyasii.pro
 btcturk-cekilis.com
 btcturk-kripto1781772972.zendesk.com
 btcturkcekilisi.online
@@ -3259,6 +3261,7 @@ guvenlionline.com
 guvenlipanel.store
 guvenlisatismerkezi.com
 guvenlisiparisler.com
+guvenlisiparislerin.com
 guvenlisiparisleriniz.com
 guyoagsdgasgd89sadhahsd8.click
 guyofahsdhashd89sadas.click
@@ -3926,6 +3929,7 @@ ilan-paramguvende.online
 ilan.hizmet-islememleri.com
 ilanda-sepetim-1091.com
 ilanda-sepetim-1092.com
+ilanda-sepetim-1093.com
 ilandan-fast.com
 ilanim-fast.com
 ilanservis-odemehizmetler.online
@@ -5298,6 +5302,7 @@ mhlrdanrndcgds.shop
 mhlrskasf.com
 mhlshemen.uk
 mhlshemenc.men
+mhpubrsle.digital
 mhr-al-hadisende.duckdns.org
 mhr.serceparmak.cyou
 mhr.serceparmak.xyz
@@ -5883,7 +5888,6 @@ ocrrrrss.blogspot.com
 ode.maliyeveznetalepformu.com
 odeal-yelvano.it.com
 odehgssode.cfd
-odeme-ilanim-48773.com
 odeme-ilanim-48774.com
 odeme-ilanim-48775.com
 odeme-ilanim-48776.com
@@ -6543,6 +6547,7 @@ pazarama.ozel-magazadan.com
 pazarama.satiskapida.com
 pazarama.satiskontrol.com
 pazaramabireyselsatis.online
+pazaramakapinda.com
 pazararna.com
 pazmarto.com
 pcdriverbox.gifts
@@ -6863,6 +6868,7 @@ pub-620528e2dc874e16937673265aa23d39.r2.dev
 pub-8de732e10a3a4e1f83e01c2f7a25bcbf.r2.dev
 pub-9682d5896df841679c5a17eb41273f89.r2.dev
 publicpost.garantibbvakredibasvuru.com
+pubmhsl.digital
 pueedusstaff.unaux.com
 pulse-vol.com
 pulsechronicle.site
@@ -7486,6 +7492,7 @@ sepetimde-odeme-3955.com
 sepetimde-odeme-3957.com
 sepetimdeonline.click
 sepetimdeonline.online
+sepetimdeonline.site
 sepetimdeonline.store
 sepetimonay.click
 sepetimonay.online
@@ -8837,7 +8844,7 @@ tvtrkhdizmbeyrs.online
 tvtrkhdizmbeyrs.store
 tvtrkhzimerbuds.online
 tvtrkhzimerbuds.store
-tvtrkkdshhzimetburds.store
+tvtrksnrhzsdme.store
 tvtur-k.net
 tvturk-ei.digital
 tvutkyns.net

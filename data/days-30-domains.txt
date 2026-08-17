@@ -69,6 +69,7 @@
 182-webs.help
 182-webs.online
 182-webs.sbs
+182-webs.store
 182.24612-20114.xyz
 182.24612-yara.click
 186randevuburadan.duckdns.org
@@ -751,6 +752,8 @@ bsvrrrkmnpyyyprmsnnnkredii.pro
 bsvrurgiris.nicepage.io
 bsvrurgiriss.nicepage.io
 bsvvrrrrkrediiiprmsynnnkmpnyaa.info
+bsvvvurrrsnfrstlrrrkmpyasii.click
+bsvvvurrrsnfrstlrrrkmpyasii.pro
 btcturkcekilisi.online
 btkurumsal.ph
 buapp1-99579a8a4cfa.herokuapp.com
@@ -1732,6 +1735,7 @@ guvenlik-web-security.ink
 guvenliodemehizli.com
 guvenlipanel.store
 guvenlisiparisler.com
+guvenlisiparislerin.com
 guvenlisiparisleriniz.com
 guyoagsdgasgd89sadhahsd8.click
 guyofahsdhashd89sadas.click
@@ -1892,7 +1896,6 @@ hgs-rho.vercel.app
 hgsbaciyetkisi.art
 hgsbakiye-yuklemeciburda.firebaseapp.com
 hgsbakiyeyuklmeanlik.web.app
-hgsbkyeyklecfd.cfd
 hgshgsykleykle.cfd
 hgsodemehizmetler.com
 hgsodemehizmetler.info
@@ -2064,6 +2067,7 @@ ilan-paramguvende.online
 ilan.hizmet-islememleri.com
 ilanda-sepetim-1091.com
 ilanda-sepetim-1092.com
+ilanda-sepetim-1093.com
 ilandan-fast.com
 ilanim-fast.com
 ile-e-islem.com.tr
@@ -2810,6 +2814,7 @@ mhgfshsfdhds.art
 mhherkesrs.com
 mhkasdmk34734awdzg.com
 mhkasdmk3474578f.com
+mhpubrsle.digital
 mhr-al-hadisende.duckdns.org
 mhr23623wfqwd.duckdns.org
 mhr23k6m236njsdf.duckdns.org
@@ -3541,6 +3546,7 @@ pazarama.ile-e-sepetler.com.tr
 pazarama.magazamda-ilanim.com
 pazarama.onlinesiparislerim.com
 pazarama.satiskapida.com
+pazaramakapinda.com
 pazararna.com
 peer.saintpetersburgresident.ru
 pending-verification.com
@@ -3612,7 +3618,6 @@ pttavm.com.ph
 pttavm.ilan-sepetimde.com
 pttavm.islemlerin-mobilde.com
 pttavm.islemleriniz-mobilden.com
-pttavm.siparis-guvenliodeme.com
 pttavmhgsbakieyuklme.web.app
 pttavmhgsbakiyedoldur.web.app
 pttavmkilomtre.web.app
@@ -3623,6 +3628,7 @@ ptthizligecisbakiyenileme.web.app
 ptthizligecisyukleme.web.app
 pttkargotakip.com.ph
 publicpost.garantibbvakredibasvuru.com
+pubmhsl.digital
 pueedusstaff.unaux.com
 pulsechronicle.site
 pulseriz.com
@@ -3763,7 +3769,6 @@ roshanpackages.store
 routekeeper.space
 routeshield.space
 royalsabit2026.com
-ruhsuzpanel.online
 ruhsuzpanel.site
 ruhsuzpanel1.site
 ruhsuzpanel5.site
@@ -3822,23 +3827,15 @@ safksafsafkjasfjkfssssfasafasafkj.com
 safsaqwrcs.sbs
 sagligakavusmakicinbiradim.digital
 sahabndnparanizguvende.com
-sahibinden-get.emobileservislerrn.online
-sahibinden-get.eurunhizmetin.com
-sahibinden-get.guveli-hizmet.online
-sahibinden-get.guvenliodemehizmet.online
-sahibinden-get.islem-alisveris-hizmet.com.tr
 sahibinden-get.islem-guvende.online
 sahibinden-get.mobilservisin-25.sbs
 sahibinden-get.mobilservisin-33.sbs
 sahibinden-get.mobilservisin-37.sbs
-sahibinden-get.mobilservisler-49.sbs
 sahibinden-get.mobilservisler-84.sbs
 sahibinden-get.mobilservisler-89.sbs
 sahibinden-get.mobilservisleriniz-14.sbs
 sahibinden-get.mobilservisleriniz-16.sbs
-sahibinden-get.mobilservisleriniz-2.sbs
 sahibinden-get.mobilservisleriniz-5.sbs
-sahibinden-get.vercel.app
 sahibinden-param-guvende.islemonayla.online
 sahibinden-param-guvende.islemonaylatr.online
 sahibinden-param-guvende.islemonaytr.online
@@ -3943,6 +3940,7 @@ sepet-mobil-tr.online
 sepete-ozel-tr.site
 sepetimdeonline.click
 sepetimdeonline.online
+sepetimdeonline.site
 sepetimdeonline.store
 sepetimonay.click
 sepetimonaycom.shop
@@ -4619,6 +4617,7 @@ tuvturkistasyonlari.ph
 tuvturkmuayene.duckdns.org
 tv.evsahibibasvuru.com
 tvtrkarcmuayne.cfd
+tvtrksnrhzsdme.store
 tvuturkk-ee.com
 twweqtikqlassndee.com
 txl.xyttkx.cc
