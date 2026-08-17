@@ -267,6 +267,7 @@
 541221125565556559992.duckdns.org
 541221125565556559993.duckdns.org
 541221125565556559994.duckdns.org
+541221125565556559995.duckdns.org
 54375432423342645.org
 54435623412534265432.org
 5515151.xyz
@@ -2423,6 +2424,7 @@ erkendenalma.duckdns.org
 erkengulen.biz
 erkenmobilhizli.site
 erkndn1-82rvdalsn.org
+erkutdemirsigorta.com
 erp-account-sg.top
 erp-backend-account.top
 erp.sg-to.top
@@ -3603,6 +3605,7 @@ hgsbakyeyklesmdi.cfd
 hgsbkyeyklecfd.cfd
 hgsbkyeyklehdi.cfd
 hgseklebkyeykle.cfd
+hgshgsdeykle.cfd
 hgshgsykleykle.cfd
 hgsilegirecemeli.xyz
 hgsodemehizmetler.com
@@ -6104,8 +6107,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net

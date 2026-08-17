@@ -145,6 +145,7 @@
 541221125565556559992.duckdns.org
 541221125565556559993.duckdns.org
 541221125565556559994.duckdns.org
+541221125565556559995.duckdns.org
 54375432423342645.org
 5638563454132.org
 5685632523532.org
@@ -1270,6 +1271,7 @@ erkendenalma.duckdns.org
 erkengulen.biz
 erkenmobilhizli.site
 erkndn1-82rvdalsn.org
+erkutdemirsigorta.com
 erp-account-sg.top
 erp-backend-account.top
 erp.sg-to.top
@@ -1887,6 +1889,7 @@ hgs-rho.vercel.app
 hgsbaciyetkisi.art
 hgsbakiye-yuklemeciburda.firebaseapp.com
 hgsbakiyeyuklmeanlik.web.app
+hgshgsdeykle.cfd
 hgshgsykleykle.cfd
 hgsodemehizmetler.com
 hgsodemehizmetler.info
