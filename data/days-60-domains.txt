@@ -1325,6 +1325,7 @@ bot.evsahibibasvuru.com
 botaniccicekcim.com
 botanikplatinumotel.com
 botasinternational.com.tr
+botibofilgo-solere.lol
 botitilanme-katore.lol
 botivedonse-katore.lol
 botonline.click
@@ -4121,7 +4122,6 @@ istanbulmefe.xyz
 istanbulmruzgar.xyz
 istanbulonline.uk
 istanbulrandevutek.xyz
-istanbulrandevvuucanaa.xyz
 istanbultamamco.online
 istanbululasim.duckdns.org
 istanbulyorum.info
@@ -5441,6 +5441,7 @@ mobil-deniz-com-promosyonum-cepte.loseyourip.com
 mobil-deniz-promosyyon-bilgi-ekranim.theworkpc.com
 mobil-deniz-promosyyon-cepte.webredirect.org
 mobil-deniz-promosyyon-ekrani.theworkpc.com
+mobil-dijital-firsatlar.sbs
 mobil-erisim.my-homeip.de
 mobil-erisim.myonlineportal.de
 mobil-guvenli-ve-basit.xyz
@@ -6143,8 +6144,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
