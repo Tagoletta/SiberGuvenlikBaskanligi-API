@@ -13,6 +13,7 @@
 101-extra-sadece-online-sepet-ozel-indirim-shop-mobilde-tr.cepsel-tr.online
 101-mobil-bugune-ozel-indirim-sadece-online-alisveris-tr.extramarket.online
 101-sadece-bugune-ozel-online-extra-indirim-tr.sepetextra.online
+101-sadece-mobil-ozel-extra-alisveris-sepet-indirimleri-tr.webstores-tr.online
 101-sadece-online-ozel-extra-mobil-sepeti-tr.blog-web.online
 101kariyer.com
 101kralsfe.duckdns.org
@@ -34,7 +35,6 @@
 1245115544166558998991.duckdns.org
 1245115544166558998992.duckdns.org
 1245445898978979907990.duckdns.org
-12457889989991.duckdns.org
 12457889989992.duckdns.org
 12457889989993.duckdns.org
 12457889989994.duckdns.org
@@ -149,6 +149,7 @@
 541221125565556559996.duckdns.org
 541221125565556559997.duckdns.org
 541221125565556559998.duckdns.org
+541221125565556559999.duckdns.org
 54375432423342645.org
 5638563454132.org
 5685632523532.org
@@ -1192,7 +1193,6 @@ efhtkuvrevrbfv.blogspot.com
 efsane-lndirim-havasi-kapinda.com
 efsanefrstlarkapinizda1o1.shop
 efsanevibasvurularburadann.digital
-efsbknakmbl.webhop.me
 efscmdnzbn.ice.mom
 efskwqhalx.ice.fo
 egirisceza.org
@@ -1823,7 +1823,6 @@ hakkinda-uyum.ink
 halaaranmyorsunartkyuhkankagelsendeburda.click
 halhalican.co
 halk-bireysel-basvur-com.duckdns.org
-halk-mobil-kredimcepte-com.duckdns.org
 halk-mobil-online-islemler-com.duckdns.org
 halk-mobil-online-islemlerin.duckdns.org
 halkbankasipromosyondeneme.duckdns.org
@@ -1906,6 +1905,7 @@ hemensielmnokta-islnakt.net
 hemislemnokta-sonuc.net
 hemsaksdertedas.duckdns.org
 hepberaberiz.sbs
+hepberaberiz4.sbs
 hepsivurada.ph
 heregelerdes.duckdns.org
 hergetxdeedxx.duckdns.org
@@ -1926,7 +1926,6 @@ hgsbakiye-yuklemeciburda.firebaseapp.com
 hgsbakiyeyuklmeanlik.web.app
 hgshgsdeykle.cfd
 hgsodemehizmetler.com
-hgsodemehizmetler.info
 hgsodykle.com
 hgsyklebkyeonlne.cfd
 hhizservslr.click
@@ -1956,6 +1955,7 @@ hizli-siparis-onaylama-baglantisi.com
 hizlibakiyuklemehgss.web.app
 hizlibasvuralartoplan.sbs
 hizlibasvurmalisina.sbs
+hizlibasvurulariolusturum.sbs
 hizlifilolar.com
 hizlifilom.com
 hizlifinansyeriniz.xyz
@@ -2423,6 +2423,7 @@ krediye-online-basvur.cfd
 krediye-online-basvur.click
 kredst-pay.cfd
 kremaliduck.duckdns.org
+kreyzduck.duckdns.org
 krostel.best
 krssxrglamalarinin.net
 krvebrdasznrdsnz.com
@@ -2488,6 +2489,7 @@ lorivexanto.world
 loseorwin.co
 ls.j2x8a.top
 ls11112.site
+lsksnxcbxz8z9a2.cfd
 lta-billcenter.com
 lta-billtrack.com
 lta-epayment.top
@@ -3816,6 +3818,7 @@ rinexinstegramsorguapi.rf.gd
 rinexsystems.edgeone.dev
 rioma.website
 rixosluxuryhotels.com
+rixosparkhotels.com
 rixospremiumshotels.com
 rixosshotels.com
 rndvlahzmetler.com
@@ -3844,7 +3847,6 @@ s-paramguvende.islembilgitr.online
 s-paramguvende.islemonaylatr.online
 s-paramguvende.onaybilgi.online
 s-paramguvende.servisbilgi-tr.online
-s-paramguvende.tr-onaybilgi.online
 s-sahibinden-sozlesme.com
 s-x.xxxxxxxxx111111.xyz
 s.orove.cn
@@ -4437,6 +4439,7 @@ tckalkinmabankasi.com
 tckalkinmayatirimbankasi.com
 tckceza.org
 tcksorgu.org
+tcmasak.net
 tcportal.org
 tcsicil.org
 te-teb-cep.myonlineportal.de
@@ -4569,7 +4572,6 @@ tr-binance2026.duckdns.org
 tr-binancelogin.com
 tr-binancemasak.duckdns.org
 tr-karaca.store
-tr-onaybilgi.online
 tr-tekoaos.cc
 tr45-guncelsikaytler.sbs
 tradli.net
@@ -4600,7 +4602,9 @@ trendyol0b7.k9d9c.my
 trendyol0e8.p17l23.my
 trendyol0ef.p17l23.my
 trenuxalo.org
+trhazinemasak.net
 trhazinemasak.org
+tri-plytas-wr.ink
 trible-shot.myonlineportal.ch
 trimnt.com
 trispol.surf
@@ -4612,6 +4616,7 @@ trkaraca.homes
 trkkffkfs.cfd
 trlandmark.pro
 trmaliyehazine.org
+trmasak.net
 trndyl.medianova.com
 tromvax.com
 trovant.click

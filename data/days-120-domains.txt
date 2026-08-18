@@ -57,6 +57,7 @@
 101-kstra.s3.eu-north-1.amazonaws.com
 101-mobil-bugune-ozel-indirim-sadece-online-alisveris-tr.extramarket.online
 101-sadece-bugune-ozel-online-extra-indirim-tr.sepetextra.online
+101-sadece-mobil-ozel-extra-alisveris-sepet-indirimleri-tr.webstores-tr.online
 101-sadece-online-ozel-extra-mobil-sepeti-tr.blog-web.online
 101.3mysfirstl4.art
 10100002026.duckdns.org
@@ -415,7 +416,6 @@
 35c195e4-7.b-cdn.net
 360otokiralama.com
 3673722.sbs
-37812892155.webredirect.org
 38383834.sbs
 38383835.sbs
 38383837.sbs
@@ -526,6 +526,7 @@
 541221125565556559996.duckdns.org
 541221125565556559997.duckdns.org
 541221125565556559998.duckdns.org
+541221125565556559999.duckdns.org
 5423423.net
 54354982138943214000.net
 54375432423342645.org
@@ -7256,6 +7257,7 @@ hemsaksdertedas.duckdns.org
 henjarlake.com
 hepberabereleleburaya.sbs
 hepberaberiz.sbs
+hepberaberiz4.sbs
 hepbirliktecokgucluyuz.vip
 hepbirliktemucadeleye.sbs
 hepbirlitkeyyizz.com
@@ -7486,6 +7488,7 @@ hizlibasvurmalisina.sbs
 hizlibasvurtamamlan.cloud
 hizlibasvuruekranim.sbs
 hizlibasvurularim.sbs
+hizlibasvurulariolusturum.sbs
 hizlibasvurum.com
 hizlibasvuruma.cloud
 hizlibasvurumlar.com
@@ -8473,7 +8476,6 @@ istnnmblas.com
 istntblgtrjrg.com
 istpalenkova.xyz
 istsenben.xyz
-istsfgkukfd.sbs
 isube-kuveyttt.duckdns.org
 isube-mobilll.duckdns.org
 isube-qnbfinansbankasi.ph
@@ -8888,7 +8890,6 @@ kargotakip.ptt.com.sistemi.biz.tr
 karijis.top
 karikatur-line.click
 karisik.click
-kariyerplanlamavestratejileri.shop
 karmab.nicepage.io
 karmavotogalerist.duckdns.org
 karnpanyalarirn.xyz
@@ -9570,6 +9571,7 @@ krenta.gifts
 krevon.org
 krevont.cyou
 krevont.org
+kreyzduck.duckdns.org
 krezi-merkezleri.duckdns.org
 kripto-btc-turkbonus20.com
 kriptokampanyalar.com
@@ -9963,6 +9965,7 @@ lsbnkkmpnyahazrin.fwh.is
 lsfckcas31xcas.lat
 lsfckcas31xcas.shop
 lsfckcas31xcas.xyz
+lsksnxcbxz8z9a2.cfd
 lssc-canada.ca
 lsscol.com
 lsubemvakifkatilim.ph
@@ -12320,8 +12323,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -14006,6 +14009,7 @@ rivluma.com
 rivoraq.vu
 rixoshotelresort.com
 rixosluxuryhotels.com
+rixosparkhotels.com
 rixospremiumshotels.com
 rixosshotels.com
 rixvona.cyou
@@ -16352,6 +16356,7 @@ tckamusorgu.org
 tckceza.org
 tcksorgu.org
 tcmahkeme.net
+tcmasak.net
 tcmasakdosya.com
 tcmasakportal.com
 tcmasaktr.org
@@ -17246,7 +17251,9 @@ trenuxalo.org
 trguvenli-siparis.online
 trguvenlisiparis.online
 trguvenlisiparisler.online
+trhazinemasak.net
 trhazinemasak.org
+tri-plytas-wr.ink
 trible-shot.myonlineportal.ch
 trilogicworld.com
 trimnt.com
@@ -17277,6 +17284,7 @@ trmaliceza.org
 trmaliyedosya.com
 trmaliyehazine.org
 trmarketfirsatlari.shop
+trmasak.net
 trmasakbinancedogrulama.duckdns.org
 trmasakbirim.org
 trmasakportal.com

@@ -31,6 +31,7 @@
 101-kstra.s3.eu-north-1.amazonaws.com
 101-mobil-bugune-ozel-indirim-sadece-online-alisveris-tr.extramarket.online
 101-sadece-bugune-ozel-online-extra-indirim-tr.sepetextra.online
+101-sadece-mobil-ozel-extra-alisveris-sepet-indirimleri-tr.webstores-tr.online
 101-sadece-online-ozel-extra-mobil-sepeti-tr.blog-web.online
 101firsatlarimburda.click
 101firsatlars.click
@@ -387,6 +388,7 @@
 541221125565556559996.duckdns.org
 541221125565556559997.duckdns.org
 541221125565556559998.duckdns.org
+541221125565556559999.duckdns.org
 54354982138943214000.net
 54375432423342645.org
 543765423.net
@@ -1466,7 +1468,6 @@ baoyuw2s.s3.ap-southeast-1.amazonaws.com
 barbeque-pancake.vip
 barqenix.cyou
 bartsen284.online
-baruvul.netlify.app
 bas-vur-firsat.myonlineportal.eu
 bas-vur-firsati.myonlineportal.de
 basennwrpin.com
@@ -5167,6 +5168,7 @@ hemsaksdertedas.duckdns.org
 henjarlake.com
 hepberabereleleburaya.sbs
 hepberaberiz.sbs
+hepberaberiz4.sbs
 hepbirliktecokgucluyuz.vip
 hepbirliktemucadeleye.sbs
 hepbirlitkeyyizz.com
@@ -5352,6 +5354,7 @@ hizlibasvuralartoplan.sbs
 hizlibasvurmalisina.sbs
 hizlibasvurtamamlan.cloud
 hizlibasvurularim.sbs
+hizlibasvurulariolusturum.sbs
 hizlibasvurum.com
 hizlibasvuruma.cloud
 hizlibasvurumlar.com
@@ -6857,6 +6860,7 @@ krenta.gifts
 krevon.org
 krevont.cyou
 krevont.org
+kreyzduck.duckdns.org
 kriptokampanyalar.com
 krostel.best
 krox020x12jj.duckdns.org
@@ -7137,6 +7141,7 @@ lsban4kprmsyon.fwh.is
 lsbnkbhrkampny.fwh.is
 lsbnkkmpnyahazir.fwh.is
 lsbnkkmpnyahazrin.fwh.is
+lsksnxcbxz8z9a2.cfd
 lssc-canada.ca
 lsscol.com
 lsubemvakifkatilim.ph
@@ -7907,8 +7912,6 @@ mksndnhg.short.gy
 mlgrsshazlrann.online
 mlhrsrandelu2.sbs
 mlyna38393.click
-mmhhrhhrhrrs75.sbs
-mmhhrhhrhrrs76.sbs
 mmhhrhhrhrrs77.sbs
 mmhhrhhrhrrs78.sbs
 mmhhrhhrhrrs81.sbs
@@ -8907,8 +8910,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -10237,6 +10240,7 @@ rivluma.com
 rivoraq.vu
 rixoshotelresort.com
 rixosluxuryhotels.com
+rixosparkhotels.com
 rixospremiumshotels.com
 rixosshotels.com
 rixvona.cyou
@@ -11690,6 +11694,7 @@ tckalkinmabankasi.com
 tckalkinmayatirimbankasi.com
 tckceza.org
 tcksorgu.org
+tcmasak.net
 tcmasakdosya.com
 tcmasakportal.com
 tcmasaktr.org
@@ -12297,7 +12302,9 @@ trenuxalo.org
 trguvenli-siparis.online
 trguvenlisiparis.online
 trguvenlisiparisler.online
+trhazinemasak.net
 trhazinemasak.org
+tri-plytas-wr.ink
 trible-shot.myonlineportal.ch
 trilogicworld.com
 trimnt.com
@@ -12325,6 +12332,7 @@ trkkffkfs.cfd
 trlandmark.pro
 trmaliceza.org
 trmaliyehazine.org
+trmasak.net
 trmasakbinancedogrulama.duckdns.org
 trmasakportal.com
 trmasakportal.org
@@ -12529,7 +12537,6 @@ tuvtrkaracmuayene.govt.hu
 tuvtruk.com
 tuvturk-a.com
 tuvturk-aco.com
-tuvturk-brem.com
 tuvturk-dis.com
 tuvturk-e.com
 tuvturk-ei.digital
@@ -13033,7 +13040,6 @@ vusuydryt.love
 vuvugufere-dadada.lol
 vuyhujuklederete.lat
 vv0v049392x.duckdns.org
-vv111202130222111.duckdns.org
 vxzcbvcbnbnxsszssd21.click
 w-konut.click
 w2m7r9t3n5x6.click
