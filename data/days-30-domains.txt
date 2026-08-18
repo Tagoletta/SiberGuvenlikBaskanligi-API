@@ -246,7 +246,6 @@ access-account-web.online
 accessing-gregory-mhz-commitments.trycloudflare.com
 aceleetme.sbs
 acentamerkezi.com
-acik-web-gir.casa
 acikdenizde.my-homeip.net
 acikdenizlere.my-homeip.de
 activatemypasskey.com
@@ -1722,6 +1721,7 @@ granti-web.nicepage.io
 granti-webbn.nicepage.io
 grantiibba.duckdns.org
 grantiscylk.cfd
+gratis-tr.obliqueprism.com
 gratis.anointedacres.com
 gratis.globalscholarpress.com
 gratis.lakeboundtech.com
@@ -2061,6 +2061,7 @@ homeneedslane.shop
 homeneedsmarket.shop
 homeparcel.shop
 homesteadmart.shop
+homestikest.duckdns.org
 homestkald.duckdns.org
 homeutilitystore.shop
 homevaluebay.shop
@@ -4719,7 +4720,6 @@ tubitak4005stefam.blogspot.com
 tubitakfenlisesi.info
 tubitakfenlisesi.site
 tuerq1.carrd.co
-tum-web.click
 tunafonyonetimi.com
 tunaportfoyonetim.com
 tunaportfoyyatirim.com

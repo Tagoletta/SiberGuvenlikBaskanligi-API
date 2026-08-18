@@ -1097,7 +1097,6 @@ agwrlwr.xyz
 ahdaratlegalservices.com
 ahhoh.sbs
 ahlarahdalders.duckdns.org
-ahlatcikuyumculuk.org
 ahlatcikuyumculuk.site
 ahmetafafaan.net
 ahmetkafalarcancan.net
@@ -6273,7 +6272,6 @@ gokyuzugun.com
 goldblueapp.shop
 goldengoose.sbs
 goldenriftway.pro
-goldentpath.com
 golledsack.info
 gomaoyuzh.xyz
 goodpanelforgoodjob.com
@@ -6431,6 +6429,7 @@ grantiscylk.cfd
 grapehardwarejourney.com
 gratis-tr.craftyhour.com
 gratis-tr.empordafibra.com
+gratis-tr.obliqueprism.com
 gratis-tr.optosupply.com
 gratis.anointedacres.com
 gratis.blixtrader.com
@@ -7770,6 +7769,7 @@ homenestkrtest.duckdns.org
 homeorbitx.com
 homeparcel.shop
 homesteadmart.shop
+homestikest.duckdns.org
 homestkald.duckdns.org
 homestlerkestfg.duckdns.org
 hometbe.com
@@ -12392,8 +12392,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -14322,7 +14322,6 @@ saglikhizm3t1.com
 saglikkkligunlerdiler.com
 sagliklibilgi.duckdns.org
 saglikligunlerhuzurdolu.loseyourip.com
-saglikligunlerr.net
 sagliklihizmetleregunleresizlere.webredirect.org
 saglikliol.giize.com
 saglikliolnnn.mywire.org
