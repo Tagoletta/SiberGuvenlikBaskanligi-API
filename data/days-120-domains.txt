@@ -780,7 +780,6 @@ a-101-extra-sadece-online-ozel-mobilde-tr.shop-tr-online-mobil.site
 a-101-extra-sadece-online-ozel-tr.online-shop-bireysel-tr.sbs
 a-101-extra-sadece-online-ozel-tr.online-tr-shop-mobil.sbs
 a-101-extra-sadece-online-siparis-ver-tr.ozel-mobil-shop.sbs
-a-101-ml.shop
 a-101-mobil-extra-sadece-bugune-ozel-firsatlar-tr.onlinecep-tr.site
 a-101-online-ozel-extra-mobil-tr.sepette-indirim.online
 a-101-sadece-bugune-ozel-extra-indirimleri-tr.ozel-shop.site
@@ -792,7 +791,6 @@ a-101-sadece-online-ozel-firsat-tr.store-sepette-tr.online
 a-101-tr-online-sadece-bugune-ozel-indirim.sepete-ozel.online
 a-101c0mtlc.shop
 a-101indirim.com
-a-101nlsian.shop
 a-101xaxakapinda.com
 a-1o1-c.duckdns.org
 a-alisveris-sepetim.com
@@ -8757,7 +8755,6 @@ kampanyafirsatlariniz.duckdns.org
 kampanyafirsatlarinn.duckdns.org
 kampanyagel101.duckdns.org
 kampanyagnu.dnsup.net
-kampanyahemen.org.tr
 kampanyakapimizdayakalamaburada.xyz
 kampanyalar-karaca.vercel.app
 kampanyalarbur.duckdns.org
@@ -11066,7 +11063,6 @@ mobilerism.myonlineportal.de
 mobilfirsatbbvagar.duckdns.org
 mobilfirsatimburada.xyz
 mobilfirsatlarilims.duckdns.org
-mobilhaber.shop
 mobilhalkta.duckdns.org
 mobilhimztlerimlerde.duckdns.org
 mobilhizmetcuma.duckdns.org
@@ -12321,8 +12317,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
