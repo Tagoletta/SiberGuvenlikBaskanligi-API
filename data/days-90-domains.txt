@@ -5405,7 +5405,6 @@ hizligecinbakiyesi.web.app
 hizligecisbakiesi.web.app
 hizligecisbakiesni.web.app
 hizligecisbakiyebayi.web.app
-hizligecisbakiyemerkezi.web.app
 hizligecisbakiyeniz.firebaseapp.com
 hizligecisbakiyerdm.firebaseapp.com
 hizligecisbakiyesistemi.firebaseapp.com
