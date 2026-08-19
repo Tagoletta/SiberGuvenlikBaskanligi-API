@@ -4760,7 +4760,6 @@ livoria.world
 lixalish.gifts
 lixbutiq.gifts
 lixbutro.gifts
-lixdepo.gifts
 lixgooda.gifts
 lixmalliq.com
 lixmelya.gifts
@@ -5221,7 +5220,6 @@ mavbuylo.com
 mavolino.vu
 mavqelo.gifts
 mavstokq.gifts
-mavstoreq.com
 mayistadahauygunuz.shop
 mazi-web.myonlineportal.ch
 mcafilo.com
@@ -9275,7 +9273,6 @@ webvexa.vu
 weby-lybre.pro
 webys.guru
 weekly.table-news-today.org
-wellivo.gifts
 wenab58919.site
 wenab58919.space
 wenab58919.store
