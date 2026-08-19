@@ -213,7 +213,6 @@ a-g-r.my-homeip.de
 a-yonlendir.ink
 a1-82rvdnalbrdan.org
 a100111aa101110202.duckdns.org
-a101-ekstra.s3.eu-north-1.amazonaws.com
 a101-firsatlariniz-artik-burada.duckdns.org
 a101-firsatlariniza-gelin.duckdns.org
 a101-girisfacebook.click
@@ -382,7 +381,6 @@ amplifyko.com
 amzndev.in
 amzndev.ru
 amznprod.in
-anadolugenis.com
 anadolukapsami.com
 anaforlarindanam.sbs
 andansiparisa.sbs
@@ -439,6 +437,7 @@ araccimmuayeyen.com
 aracimizmuayenede.com
 aracimmmuayeyem.com
 aracimmuayenen.com
+aracimmuayyenedeyaa.com
 aracingelsin.net
 arackiralamaislem.com
 arackiralamasozlesmesi.com
@@ -674,6 +673,7 @@ blog.turkcellpasajsanalmagaza.com
 blogs-innovations-accessing-jackson.trycloudflare.com
 blsouqs.com
 blue-harbor.ink
+blzaeagent.com
 bn1151220s2d.duckdns.org
 bnbrdaykensnnereygs.com
 bnc023df12236.duckdns.org
@@ -1255,7 +1255,6 @@ enparakampanyabasvuru.ph
 enparasubegiris.ph
 enpprrrprmss.xyz
 enrollpasskey.com
-entry-web.guru
 enuygunaraba.com.tr
 enuygunarabakirala.com.tr
 enuygunarabakiralama.com.tr
@@ -1458,7 +1457,6 @@ frsttrndvulrdaim.com
 funchats.ru
 fusu.us.ci
 futurecurrent.online
-fvckthesystem.duckdns.org
 fximbra.weebly.com
 fymixae.digital
 galderenderlerdens.duckdns.org
@@ -1574,6 +1572,7 @@ glerdenlerdews.duckdns.org
 glitch-vibe.com
 globalcleaningservice.nl
 glowfernix.com
+glowmedaesthetics.com
 glrdesnlweesw.duckdns.org
 gmtracker.online
 gmtrackerreserve.online
@@ -1848,6 +1847,7 @@ hangikredi.ersoylabs.com
 hangikredin489874120.sbs
 hapsetmediscord.com.tr
 hargelerdenlerden.duckdns.org
+harveylewisinsuranceagency.com
 hasatgo.com
 hasnataherherh.uk
 hastane-mhrs.digital
@@ -1886,6 +1886,7 @@ helboystr.duckdns.org
 helfeguystr.duckdns.org
 hellomonsterler.duckdns.org
 helwmgsl.sbs
+helxiagent.com
 hemen-aninda.cards
 hemen-birkacdakika.guru
 hemenaracbakim.blogspot.com
@@ -2050,6 +2051,7 @@ hopcipiti-fipfipsede.lol
 horizonguard.space
 hoterstler.help
 house.currently.top
+houstongaragedoorinstallers.com
 hpmzbrdnrvdaldk.store
 hrefbfdhfhgre-1422102728.cos.ap-hongkong.myqcloud.com
 hsbcrewards-homesa.info
@@ -2233,6 +2235,7 @@ iztoaofsa.blogspot.com
 iztsdwws.blogspot.com
 j565656.click
 j8zn5qvr2xmk9wpth6cylab.click
+jacksonvillemma.com
 jerusalem.androiddebugbridge.su
 jetcepte.info
 jetcepte.xyz
@@ -2468,6 +2471,7 @@ kustanoma.ooguy.com
 kuveyjttjkredibsvru.duckdns.org
 kuvvetdenkuvvetdogar.co
 laismxj98skd342fcx.cfd
+lalandscapelighting.com
 laminyamalfans.duckdns.org
 landerlerdesnes.duckdns.org
 lapellelaser.pl
@@ -2741,6 +2745,7 @@ lta.vrlez.top
 lta.vrlit.top
 lta.vrliy.top
 lumarapolli-sedere.lol
+lumenagnet.com
 lunakove.com
 lunshopro.com
 luokuoasdhashdhasd22sda.click
@@ -2795,6 +2800,7 @@ managementapiservice.com
 mangocloudfile.com
 mangorbit.com
 mannaras.click
+mansfieldpediatrics.com
 mantelterminalevyemekleris.duckdns.org
 markapalas.click
 market-web.cards
@@ -2818,6 +2824,7 @@ marksandspencer1.online
 marmaracicekcim.com.tr
 masakpro.app
 masaktakibi.org
+masakvezne.com
 masakveznedar.com
 maskirovka.space
 mass.gov-cuod.shop
@@ -3059,6 +3066,7 @@ n8x2q7v4c1r8t.sbs
 n8x2q7v4k1m5.lol
 na-microsoft.com
 nahis.online
+nailscanai.com
 nakil-web.ink
 nakil-web.my-homeip.de
 naslolacakbudurumlarbylecuzdan.life
@@ -3208,6 +3216,7 @@ npmjs.us.org
 ns-wwwhaber7com.almach.shop
 ns-wwwhaber7com.hungnot.cfd
 ns-wwwhaber7com.rojadirecta-com.co
+numericagent.com
 nunuhugu-gugufueu.lol
 nwcsprasevess.duckdns.org
 nxtdrcliam.site
@@ -3404,7 +3413,6 @@ ozel-indirimler.online
 ozelarackiralama.com
 ozlllfrsltrrbsvrrkmpnyalari.info
 p3w9z6c1r8t2.lol
-p4z8r1t6w3y9.cfd
 p5t8r3w9n2x6.click
 p9q4x6v1k8z2.lol
 package-proxy.cf11oobworker.workers.dev
@@ -3690,6 +3698,7 @@ pratik-portal.shop
 prderzstansews.duckdns.org
 presscraftly.net
 presslifyra.com
+pressureulcerlawyer.com
 prime-store-tr.online
 primeproxy.space
 primexly.com
@@ -3911,7 +3920,6 @@ s3177.site
 sabigtgirsi2026.com
 sabiltgirszi2026.com
 sabiltgirzsi2026.com
-sabir.jspara-col.cfd
 sabitlgirzsi2026.com
 sabitzgirizsi2026.com
 sacskllkgdcl1k2321kl3123x.shop
@@ -4253,7 +4261,6 @@ skmarlktlr.com
 skmarltkler.com
 skmlrketler.com
 skorostvpn.space
-sky-head.cfd
 skylinvo.com
 skyproxy.space
 skythelight.co
@@ -4472,6 +4479,7 @@ tckceza.org
 tcksorgu.org
 tcmasak.net
 tcportal.org
+tcsexp.us.cc
 tcsicil.org
 te-teb-cep.myonlineportal.de
 teb-bank.com
@@ -4542,6 +4550,7 @@ things-solve-medicines-premium.trycloudflare.com
 ticgo-cloud.com
 tiktok-officialcenter.com
 timewebnet.in
+tintingsd.com
 tiny-cloud.ink
 tiogleon.com
 tiogleon.com.tr
@@ -4791,7 +4800,6 @@ uygula-mobile.online
 uygunarabakirala.com.tr
 uygunarabakiralama.com.tr
 uygunarackirala.com.tr
-uzatma.casa
 uzerlerguzelim.co
 uzlasmabirim.org
 uzlasmadosyakontrol.org
@@ -4925,6 +4933,7 @@ webte-182.com
 webte182.com
 weby-lybre.pro
 webys.guru
+wechatstablecoin.com
 wenab58919.site
 westers.724s5w8wa.click
 westpacone-homesc.info
@@ -4966,7 +4975,6 @@ www-qnbfinansbank-access.ph
 www-qnbfinansbank-banking.ph
 www-qnbfinansbank-contact.ph
 www-qnbfinansbank-help.ph
-www-qnbfinansbank-kampanya.ph
 www-qnbfinansbank-login.ph
 www-qnbfinansbank-online.ph
 www-qnbfinansbank-secure-login.ph
