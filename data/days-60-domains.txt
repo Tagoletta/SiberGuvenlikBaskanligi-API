@@ -1263,6 +1263,7 @@ birgulususebepolur.sbs
 birgulususebepolur1.sbs
 birikimkutusu.site
 birimadli.org
+birimkurum.org
 birimuzlasma.org
 birliktegucluyuz.pages.dev
 birlinks-tr.online
@@ -2829,6 +2830,7 @@ garanti-krediye-basvur.sbs
 garanti-sube-bonus-islemlerim.mayddns.com
 garanti-yesil-kredili-garanti.xyz
 garanti.3w17.com
+garanti.giris.yansitek.cam
 garanti.vva8.com
 garantibbva-acres.com.ph
 garantibbva-bell.com.ph
@@ -3013,7 +3015,6 @@ gocmenkarar.online
 gocmenkarar.xyz
 gogainiq.click
 gokaca.store
-gokarcas.store
 gokcencicek.com.tr
 goktepe-loravuni.lol
 goktr.sbs
@@ -3366,6 +3367,7 @@ haberler346654.shop
 haberler3538434.shop
 haberler3552323.shop
 haberler363234.shop
+haberler421352.shop
 haberler432432.shop
 haberler4422424.shop
 haberler4561.sbs
@@ -6177,8 +6179,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -6526,6 +6528,7 @@ paribusponsorlucekilisi.online
 paribusponsorlucekilisim.online
 paribusponsorlucekilisleri.online
 paribusponsorlucekils.online
+paribusponsorlugudacekilis.online
 paribusponsorlugunda-cekilisi.online
 paribusponsorlugunda-cekils.online
 paribusponsorlugunda.online
@@ -7851,6 +7854,7 @@ sivri.ezpizi.click
 sixseven-krdili-taruzyuz.xyz
 size-ozel.ink
 sizinicinburadayiz2.sbs
+sizinicinburadayiz3.sbs
 sizinicinburadayiz5.sbs
 sizlerininicburadayiz.click
 sizlerle-yunatip-g.myonlineportal.ch
@@ -8002,7 +8006,6 @@ sosyal-media.garden
 sosyalhizmetbasvuru.site
 sosyalkonut-toplukonut.vercel.app
 sosyalkonut-toplukonutlar.vercel.app
-sosyalkonutbasvurular.cfd
 sosyalxzmetleremeklicn.xyz
 sosyalyardimlasmadernegi.sbs
 sosylbasvurugovtr.sbs
@@ -8172,6 +8175,7 @@ sv.evsahibibasvuru.com
 svclsc.com
 sverchtun.store
 sverchvpn.space
+svkvktrcaydan.lat
 svs-verificationdate.beer
 svuatwea.love
 svvkkosfrsati.lat
@@ -9709,6 +9713,7 @@ yukeshapi.neocities.org
 yukifabrikasatis.com
 yuklmezamni.cfd
 yuksekdagindumani.co
+yunussendeburdaolcabuk12.casa
 yupuasdashdhashda902sahdha.click
 yurtici-kargo.guvenli-hizmet.online
 yurudumdurmamasla.sbs

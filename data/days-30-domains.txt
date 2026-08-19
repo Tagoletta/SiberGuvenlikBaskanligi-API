@@ -302,10 +302,8 @@ aidatiademerkezi.my-homeip.de
 aidatiadeonline.my-homeip.de
 aidatmerkezislem.my-homeip.de
 ailebilgisi.com
-aileegitimi.cyou
 ailegelecegi.co
 ailegelecegi.com
-ailegelecek.xyz
 ailemgov.biz
 ailemtr.biz
 ailemyanimda.org
@@ -487,7 +485,6 @@ asleoaslaeodsla.online
 asset-finnans.com
 assignpasskey.com
 ast.ols-img-12.workers.dev
-asube-teb.myonlineportal.de
 atakanaylar.com
 atamam-net.ink
 ataytportfoy.com
@@ -660,6 +657,7 @@ bireysel-ziraatli-kampanya.my-homeip.net
 bireyselsiparis.com
 bireyselsubehalkbank.com.ph
 birimadli.org
+birimkurum.org
 birimuzlasma.org
 birliktegucluyuz.pages.dev
 birolalimisterdim.sbs
@@ -829,7 +827,6 @@ cekilisleriparibu.com
 cekilissonucqnbfinans.com.ph
 cekilissonucuqnbfinans.com.ph
 cep-te-teb.myonlineportal.de
-cepde-tebden.myonlineportal.de
 cepgarantisubeci.ph
 cepte-islemleriniz-garanti.duckdns.org
 cepte-shop.online
@@ -1194,8 +1191,6 @@ ekonomigelecek.com
 ekonomik-tcdd.biletal.uk
 ekonomimersin.net
 ekonomirehberi.capital
-ekonomiturkey.click
-ekranim.turkcell-magaza.com
 ekwlqrsgm.sbs
 elaexallance.com
 elaexxalence.com
@@ -1351,7 +1346,6 @@ facebookloginstable.com.ph
 facebookloginuser.com.ph
 faderdasdleer.duckdns.org
 fahrettindanizmansert.com
-faktor-edilgen.guru
 falstor.study
 fark-hazirdikkat.casa
 fasea.top
@@ -1480,6 +1474,7 @@ garanti-cepte-islemler-com.webredirect.org
 garanti-kredili-bonus-com.mayddns.com
 garanti-sube-bonus-islemlerim.mayddns.com
 garanti.3w17.com
+garanti.giris.yansitek.cam
 garanti.vva8.com
 garantibbva-acres.com.ph
 garantibbva-bell.com.ph
@@ -1562,7 +1557,6 @@ giftcornera.homes
 gildrak.forum
 giri-sfg.cfd
 gironetcdn.ru
-girsizsabit2026.com
 girsizsabiti2026.com
 girsizsabits2026.com
 gitgidebildiginyerdeyiz.sbs
@@ -1792,6 +1786,7 @@ haberler34432.sbs
 haberler3465672.sbs
 haberler346623.sbs
 haberler346654.shop
+haberler421352.shop
 haberler432432.shop
 haberler48751.sbs
 haberler562346.sbs
@@ -1991,7 +1986,6 @@ hizmetvakfi-net.vercel.app
 hjsdfgffgdasgjvvzxvbte83.live
 hlkbn2.blogspot.com
 hlkwebsubayrntilarsub493.shop
-hlkwebsubayrntilarsub532.shop
 hlkwebsubayrntilarsub583.shop
 hlkwebsubayrntilarsub593.shop
 hlkwebsubayrntilarsub693.shop
@@ -2254,7 +2248,6 @@ jhdgfaddd.nicepage.io
 jhtlncm8494849.click
 join.evsahibibasvuru.com
 joinzooms.com
-joltrim.lat
 jonesthom.duckdns.org
 josterlerkest.duckdns.org
 jott.life
@@ -2330,7 +2323,6 @@ kefalukka.com
 kefmsegkw.sbs
 kehribartesbihevikuka.duckdns.org
 kekecdanisman.com
-kelspar.shop
 kelvort.click
 kemandersidenemeleri.duckdns.org
 kendmzszemenaetettksendebasvur4.click
@@ -3070,7 +3062,6 @@ mzhrrndvlrnzgovptt.duckdns.org
 n-vc.com
 n-xsorguapileri.onrender.com
 n4zyl8qwe2xrm7pkhv1cla.click
-n5x9r3w7t2q8.click
 n7q5m2y8v4k3.sbs
 n8x2q7v4c1r8t.sbs
 n8x2q7v4k1m5.lol
@@ -3597,6 +3588,7 @@ paribusponsorlucekilisi.online
 paribusponsorlucekilisim.online
 paribusponsorlucekilisleri.online
 paribusponsorlucekils.online
+paribusponsorlugudacekilis.online
 paribusponsorlugunda-cekilisi.online
 paribusponsorlugunda-cekils.online
 paribusponsorlugunda.online
@@ -3769,7 +3761,6 @@ qantasrewardsa-homes.info
 qantasrewardsb-homes.info
 qarfalunix.shop
 qarfomelix.cyou
-qavlumo.shop
 qavpazar.com
 qbvn83748.click
 qmenkul.com
@@ -4263,6 +4254,7 @@ siparisverhemen.com
 sivri.ezpizi.click
 size-ozel.ink
 sizinicinburadayiz2.sbs
+sizinicinburadayiz3.sbs
 sizinicinburadayiz5.sbs
 sizlerininicburadayiz.click
 sizlerleberaber.sbs
@@ -4404,7 +4396,6 @@ stnlyyenikmp.com.tr
 stocksnt.com
 stokta-sayili-urun.sbs
 storagepioneer.com
-storban.surf
 storvam.pics
 stparaguvende.servisbilgi-tr.online
 stretar7.contabilfacil.sbs
@@ -4437,6 +4428,7 @@ surayyabrand.com
 sutf.kafekarachi.com
 sverchtun.store
 sverchvpn.space
+svkvktrcaydan.lat
 svvkkosfrsati.lat
 sw.sayatatata.cyou
 sxxemizlexxetexx.duckdns.org
@@ -4615,7 +4607,6 @@ toprakpazar.com
 topu-randevu-devlet.vercel.app
 topu-randevum-e-devlet.vercel.app
 topu-rondevum-e-devlet.vercel.app
-topu314.vercel.app
 towebsite.cfd
 tpaohisseleri.pro
 tpaokamuyatirim-platformu.com
@@ -4670,7 +4661,6 @@ trmaliyehazine.org
 trmasak.net
 trndyl.medianova.com
 tromvax.com
-trovant.click
 trumore.org
 trumoresiparis.com
 trustedgoods.shop
@@ -4700,7 +4690,6 @@ turbotunnel.space
 turirapolra-fidere.lol
 turk.googlai.net
 turkbasin.blog
-turkcell-ui.netlify.app
 turkcurrent.blog
 turkey-benz.com
 turkeyynewss.com
@@ -4710,8 +4699,6 @@ turkish-petroleum.sbs
 turkishairlines.net.ph
 turkishairlineskampanyalari.zelenskkk.click
 turkishairlineskampanyalari.zosssdalin.click
-turkishekonomi.click
-turkishpazar.click
 turkiye-petrolleri-hisseleri.com
 turkiye.gov.1pgw.com
 turkiyebilgi.cc
@@ -4888,14 +4875,12 @@ vesirapolgo-tudore.lol
 vespatch-lybr.ink
 vesperavillas.com
 vexalotri.sbs
-vexanoruk.shop
 vexo-daily.ink
 viemio.com
 vigmanet.ru
 viixzhsldndu3dx3e.click
 violet-87cardo.workers.dev
 vioxgarmblsbe.ice.mom
-virexolam.com
 virustotal.com.tr
 vizyoncagrisi.com
 vizyoncephesi.com
@@ -5152,6 +5137,7 @@ yugosadgsagdgasd92sadh23s.click
 yukifabrikasatis.com
 yuklmezamni.cfd
 yuksekdagindumani.co
+yunussendeburdaolcabuk12.casa
 yurtici-kargo.guvenli-hizmet.online
 yxcpanel.online
 z0iraat.cfd
@@ -5222,7 +5208,6 @@ ztraattrr-com.cfd
 ztrasattas.nicepage.io
 ztrasattass.nicepage.io
 ztrattata.nicepage.io
-ztrtrtryl.cfd
 zunarikex.com
 zunvexo.com
 zuretede-sedevedere.lol
