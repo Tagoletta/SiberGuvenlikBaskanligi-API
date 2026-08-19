@@ -15,6 +15,7 @@
 101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
 101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-shop-tr.avantajshop.online
+101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
 101-extra-sadece-online-ozel-mobil-indirim-sepeti-tr.services
 101-extra-sadece-online-sepet-ozel-indirim-shop-mobilde-tr.cepsel-tr.online
 101-kstra.s3.eu-north-1.amazonaws.com
@@ -818,6 +819,7 @@ asdfoafaslroasdl.online
 asdfsdfgdssdf.duckdns.org
 asdfsdfsdgdf.duckdns.org
 asdfsdfwsdf.duckdns.org
+asdklmklwqmklm34637.duckdns.org
 asdsrversdersetrseser.com
 asdxkwqkexjqwx123x1.cfd
 aselsan-ai.sbs
@@ -3701,6 +3703,7 @@ hizlibasvurulariolustur3.sbs
 hizlibasvurulariolusturum.sbs
 hizlicasatinalhemensendebirlikteyiz.online
 hizlicasatinalhemensendebirlikteyiz.store
+hizliciatoplama.sbs
 hizlidanogren.xyz
 hizlifilolar.com
 hizlifilom.com
@@ -4160,6 +4163,7 @@ isube-mobilll.duckdns.org
 isube-qnbfinansbankasi.ph
 it.evsahibibasvuru.com
 ivdesube.com
+ivdportalmobil.com
 iyilikhareketi.cc
 iyilikmerkezi.capital
 iyiliknoktasi.live
@@ -5218,6 +5222,7 @@ mavbuylo.com
 mavolino.vu
 mavqelo.gifts
 mavstokq.gifts
+mawarid.top
 mayistadahauygunuz.shop
 mazi-web.myonlineportal.ch
 mcafilo.com
@@ -6600,6 +6605,7 @@ pazaramakapinda.com
 pazararna.com
 pazmarto.com
 pcdriverbox.gifts
+pcfridkc33.com
 pcstorezone.com
 peer.saintpetersburgresident.ru
 pemex-payment.xyz
@@ -8251,8 +8257,6 @@ tcportal.org
 tcsicil.org
 te-teb-cep.myonlineportal.de
 teaandcake-how.info
-teacat-future.xyz
-teacatcreate.info
 teb-bank.com
 tebbasvuruonay.my-homeip.de
 tebbasvurusayfa.my-homeip.de
@@ -9369,6 +9373,7 @@ www-qnbfinansbank-secure.ph
 www-qnbfinansbank-service.ph
 www-qnbfinansbank-transfer.ph
 www-teb-com-tr-basvuru-aidat-iade.my-homeip.de
+www-teb-com-tr-basvuru-islemler.my-homeip.de
 www-teb-com-tr-emekli-promosyon.my-homeip.de
 www-teb-com-tr-emekli.my-homeip.de
 www-toki-gov-tr-ev.vercel.app
@@ -9793,7 +9798,6 @@ zirsis.cfd
 zirtiigf.cfd
 zirtilif.cfd
 zitrkfs.cfd
-ziyaret-prise-lov.myonlineportal.ch
 ziyoklam.biz
 ziytratgx.cfd
 zkrikayt.cfd

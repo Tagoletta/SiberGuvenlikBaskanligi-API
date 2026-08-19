@@ -52,6 +52,7 @@
 101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
 101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-shop-tr.avantajshop.online
+101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
 101-extra-sadece-online-ozel-mobil-indirim-sepeti-tr.services
 101-extra-sadece-online-sepet-ozel-indirim-shop-mobilde-tr.cepsel-tr.online
 101-kstra.s3.eu-north-1.amazonaws.com
@@ -342,7 +343,6 @@
 263737.sbs
 27478900203.duckdns.org
 278973fea636720-5xrydy.csb.app
-27948323.click
 2841948923.com
 290299234.sbs
 2934858585949.net
@@ -1655,6 +1655,7 @@ asdfsdfwsdf.duckdns.org
 asdhashdh99000ashdhasdasd.click
 asdhashdhas2asdahsd827sad.click
 asdjxk12312z1232123.cfd
+asdklmklwqmklm34637.duckdns.org
 asdlakdlajdk.blogspot.com
 asdlfdsamfksdafmkl.net
 asdsaf0sdvldmv.net
@@ -3036,7 +3037,6 @@ brighttrend.shop
 brightupdates.info
 brika.surf
 brimarto.gifts
-brindleap.click
 brinelavo.vu
 brinshopqa.cyou
 briskinternet.com
@@ -3847,7 +3847,6 @@ coingolfsummer.com
 coinsec.co
 coinsecimi.com
 cokkolaymis.shop
-cokkolaymis.store
 cokyt.top
 col012f0232di.duckdns.org
 colendiportfoy.com
@@ -7519,6 +7518,7 @@ hizlicasatinalhemensendebirlikteyiz.online
 hizlicasatinalhemensendebirlikteyiz.store
 hizlicasatinalhemensendebirlikteyiz.xyz
 hizliccabasvurum.cloud
+hizliciatoplama.sbs
 hizlidanogren.xyz
 hizlifilolar.com
 hizlifilom.com
@@ -8509,6 +8509,7 @@ iuaemm.cc
 ivdesube.com
 ivdharcpulu.com
 ivdmobil.com
+ivdportalmobil.com
 ivorilla.cloud
 ivozt.com
 iyikivarmisiniz.com
@@ -10556,6 +10557,7 @@ mavorila.com
 mavqelo.gifts
 mavstokq.gifts
 mavstoreq.com
+mawarid.top
 maxapk.xyz
 maximumgenc.online
 maxolutions243.com
@@ -12189,7 +12191,6 @@ onoplainai.ink
 onoplanoai.ink
 onsalevip.xyz
 onsversyn.net
-onsvserssy.net
 onsvvsrry.net
 onygardsyarsnibnaver.sbs
 oob-worker.cf102-baf.workers.dev
@@ -12276,7 +12277,6 @@ oratoriax.vu
 orbexi.vu
 orbitalynd.pro
 orbitareport.digital
-orbitlane.click
 orbitmeshlink1.lol
 orbitmeshlink10.lol
 orbitmeshlink2.lol
@@ -12291,7 +12291,6 @@ orbitnuvo.com
 orbitpeakd.top
 orderapiserver.info
 oresasny.com
-organkcalsmalarypryz.click
 orhanceylan.art
 orijinaldiploma.co
 orlsvesynsa.net
@@ -12919,6 +12918,7 @@ pazrama.duckdns.org
 pazramaa.duckdns.org
 pbhxgl.help
 pcdriverbox.gifts
+pcfridkc33.com
 pcstorezone.com
 pcxturkiye.com
 pcxturkiye.online
@@ -18621,6 +18621,7 @@ www-qnbfinansbank-service.ph
 www-qnbfinansbank-transfer.ph
 www-qnbfinansbank-yenilenen-subem.ph
 www-teb-com-tr-basvuru-aidat-iade.my-homeip.de
+www-teb-com-tr-basvuru-islemler.my-homeip.de
 www-teb-com-tr-emekli-promosyon.my-homeip.de
 www-teb-com-tr-emekli.my-homeip.de
 www-toki-gov-tr-ev.vercel.app
@@ -18748,7 +18749,6 @@ xn--btso-qpa.com
 xn--dngdongsz-vpbh.xyz
 xn--firsatlar-kacmaz-neseli-gnler-9bd.com.tr
 xn--fnakosyuz-vpb.com
-xn--frst-kmpaynyasobilet-ibdn.xyz
 xn--guven-oto-para-sjb.com
 xn--gvencyatrm-9db75db.com
 xn--gvenfinans24-dlb.com

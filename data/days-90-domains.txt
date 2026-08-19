@@ -26,6 +26,7 @@
 101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
 101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-shop-tr.avantajshop.online
+101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
 101-extra-sadece-online-ozel-mobil-indirim-sepeti-tr.services
 101-extra-sadece-online-sepet-ozel-indirim-shop-mobilde-tr.cepsel-tr.online
 101-kstra.s3.eu-north-1.amazonaws.com
@@ -1235,6 +1236,7 @@ asdfsdfgdssdf.duckdns.org
 asdfsdfsdgdf.duckdns.org
 asdfsdfwsdf.duckdns.org
 asdjxk12312z1232123.cfd
+asdklmklwqmklm34637.duckdns.org
 asdlakdlajdk.blogspot.com
 asdlfdsamfksdafmkl.net
 asdsaf0sdvldmv.net
@@ -2336,7 +2338,6 @@ cariwebsiteku.com
 cark-cekilisim.com
 cark-cekilisim.info
 carkcekiliisi-hemenbasvur1.duckdns.org
-carreffouersa.vercel.app
 carreffuoersa.vercel.app
 carrolc.com
 carrotclothelevation.com
@@ -4188,7 +4189,6 @@ garantili-islemlerim-bireysel-com.mayddns.com
 garantili-islemlerim-bireysel-com.webredirect.org
 garantili-islemlerim-cepte-com.webredirect.org
 garantilihall.shop
-garantilisin.duckdns.org
 garantillifk.cfd
 garantillik.cfd
 garantimenkuldegerler.com
@@ -4775,7 +4775,6 @@ haber789.shop
 haber789124.sbs
 haberakisi24.com
 haberaktueltr.com
-habercepte456.shop
 haberctr.shop
 haberdar.at
 haberduyurular.com
@@ -5378,6 +5377,7 @@ hizlicakmburda.xyz
 hizlicasatinalhemensendebirlikteyiz.online
 hizlicasatinalhemensendebirlikteyiz.store
 hizlicasatinalhemensendebirlikteyiz.xyz
+hizliciatoplama.sbs
 hizlidanogren.xyz
 hizlifilolar.com
 hizlifilom.com
@@ -6005,7 +6005,6 @@ istanbulcancanbaba.xyz
 istanbulcancanw.xyz
 istanbulcanlo.com
 istanbulcuhaso.xyz
-istanbuldanvnbnawarvr.sbs
 istanbuldatekheryer.xyz
 istanbuldurbizim.xyz
 istanbuldurum.com
@@ -6125,6 +6124,7 @@ it.evsahibibasvuru.com
 ivdesube.com
 ivdharcpulu.com
 ivdmobil.com
+ivdportalmobil.com
 ivorilla.cloud
 iyilikhareketi.cc
 iyilikmerkezi.capital
@@ -7657,6 +7657,7 @@ mavolino.vu
 mavqelo.gifts
 mavstokq.gifts
 mavstoreq.com
+mawarid.top
 maxapk.xyz
 maximumgenc.online
 maxolutions243.com
@@ -9451,6 +9452,7 @@ pazmarto.com
 pazrama.duckdns.org
 pazramaa.duckdns.org
 pcdriverbox.gifts
+pcfridkc33.com
 pcstorezone.com
 pcxturkiye.online
 pdf-reader.help
@@ -11234,7 +11236,6 @@ sokflrsatlarharikala.shop
 sokindirim-market.com
 sokisokkapidafirsattilari.duckdns.org
 sokkampanyaindirimleri.duckdns.org
-sokkampanyalarbayrami.click
 sokmarketlerfirsatlarim.com
 soksinirlistok.duckdns.org
 soksoksokdahadasok.click
@@ -13335,6 +13336,7 @@ www-qnbfinansbank-service.ph
 www-qnbfinansbank-transfer.ph
 www-qnbfinansbank-yenilenen-subem.ph
 www-teb-com-tr-basvuru-aidat-iade.my-homeip.de
+www-teb-com-tr-basvuru-islemler.my-homeip.de
 www-teb-com-tr-emekli-promosyon.my-homeip.de
 www-teb-com-tr-emekli.my-homeip.de
 www-toki-gov-tr-ev.vercel.app
