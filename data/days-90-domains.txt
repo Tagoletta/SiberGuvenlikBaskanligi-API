@@ -485,7 +485,6 @@
 7asdjckasdklxakdslxl123x12.cfd
 7d3e329f-5.b-cdn.net
 7hgs.top
-81844dnsnf241.com
 82-2-rnvlrdanbrda.com
 838466ca-e.b-cdn.net
 8455630456652.click
@@ -5251,6 +5250,7 @@ hgs-odemeleri.duckdns.org
 hgs-pttavm.ph
 hgs-rho.vercel.app
 hgs-simdi-yukleme-zamani.cfd
+hgs-v575.vercel.app
 hgs15temmuz.ph
 hgsaracdolum.web.app
 hgsbaciyetkisi.art
@@ -9170,9 +9170,17 @@ paribu-sponsorlu-cekilis.online
 paribu-sponsorlu-cekilisi.live
 paribu-sponsorlu-cekilisi.online
 paribu-sponsorlu-cekilisler.live
+paribu-sponsorlu.online
 paribu-sponsorlucekilis.live
 paribu-sponsorlucekilis.online
+paribu-sponsorlucekilisleri.online
 paribu-sponsorlugunda-cekilis.live
+paribu-sponsorlugunda-cekilisi.online
+paribu-sponsorlugunda-cekils.online
+paribu-sponsorlugunda.online
+paribu-sponsorlugundacekilisi.online
+paribu-sponsorlugundacekilisleri.online
+paribu-sponsorlugundacekils.online
 paribu-technology.com
 paribu-tr.click
 paribu-tr.site
@@ -9320,9 +9328,17 @@ paribupepehediyem.info
 paribupepehediyem.link
 paribusanscarki.com
 paribusponsorlu-cekilis.online
+paribusponsorlu.online
 paribusponsorlucekilis.online
 paribusponsorlucekilisi.online
+paribusponsorlucekilisim.online
+paribusponsorlucekilisleri.online
+paribusponsorlucekils.online
+paribusponsorlugunda-cekilisi.online
+paribusponsorlugunda-cekils.online
 paribusponsorlugundacekilis.online
+paribusponsorlugundacekilisi.online
+paribusponsorlugundacekils.online
 paribustock.org
 paributechnology.com
 parkfauna.com
@@ -10584,6 +10600,7 @@ sahibinden.sepetimguvende.shop
 sahibinden.sepetimonay.site
 sahibinden.siparis-magazasi.com
 sahibinden.siparishizli-ver.com
+sahibinden.siparishizliver.com
 sahibinden.siparisim-guvende.online
 sahibinden.siparissatin-al.com
 sahibinden.siparisver-hemen.com
@@ -10805,6 +10822,7 @@ sepetinguvende.online
 sepette-ilanlar-9811.com
 sepette-ilanlar-9812.com
 sepetteindirimlergel.xyz
+sepetteonline.click
 sepetteonline.site
 sephora-careers.com
 ser-tas-tas-al-rand.duckdns.org
@@ -11081,6 +11099,7 @@ siparisaktif.online
 siparisbilgitr.online
 siparishizli-ver.com
 siparishizliolsut.cloud
+siparishizliver.com
 siparisim-guvende.online
 siparisiniz-tamam.com
 siparislerolunsuyor.cloud
@@ -11226,6 +11245,7 @@ sokaraca.shop
 sokarcas.store
 soketescepte.lat
 sokfirsatlarburada.com
+sokflrsatlarharikala.shop
 sokindirim-market.com
 sokisokkapidafirsattilari.duckdns.org
 sokkampanyaindirimleri.duckdns.org
@@ -11933,6 +11953,7 @@ tiktokforbadge.com
 time.evsahibibasvuru.com
 timefocus.watch
 timewebnet.in
+tiny-cloud.ink
 tioagliea.net
 tiogleon.com
 tiogleon.com.tr
