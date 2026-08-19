@@ -39,6 +39,7 @@
 101kariyer.com
 101kereonline.shop
 101kralsfe.duckdns.org
+101marketleravantaji.com
 101onlinemerkezlersistem.pages.dev
 101satislar.click
 10sadcdajdskjakjkx123kx12312.sbs
@@ -692,6 +693,7 @@ acentabayitursab.top
 acentalarbirligi.org
 acentamerkezi.com
 acentasicilsorgu.org
+acentecozumleri.cfd
 acik-web-gir.casa
 acikdenizde.my-homeip.net
 acikdenizlere.my-homeip.de
@@ -918,6 +920,7 @@ albarakaaiprojects.com
 albayquery.space
 alburdan.shop
 alcs.xyttkx.cc
+alderdasdewas.duckdns.org
 aldimal.xyz
 aldin1.space
 aldinaldin.ekstra101.dpdns.org
@@ -2836,7 +2839,6 @@ datapulseforge8.lol
 datapulseforge9.lol
 datario.digital
 datolabndsaxzd.xyz
-davabirimi.org
 davadosyasorgu.com
 davadurum.org
 davaeavukat.org
@@ -3068,6 +3070,7 @@ dijtalisbq.space
 dijtalsbn.space
 dikdiy.xyz
 dinamik-hat-verileri.myonlineportal.ch
+dinamikmenkuldeger.com
 dinamikuygulama.pro
 dinamikuygulamagiris.pro
 dipdkwj1a.cfd
@@ -3128,7 +3131,6 @@ doktoraix.com
 dolandiriciyakuptv.click
 dolap.e-ilan-elektronik-siparisim.com
 dolap.guvenli-hizmet.online
-dolap.ilanim-onay-762213.com
 dolap.servsjethizmet.online
 dolapilanlarim.com
 dolmaq.shop
@@ -3626,7 +3628,6 @@ esube-fibayatirim.com
 esube-referans.com
 esube-teraportfoy.com
 esube.expresgroup.com
-esube.fbavarlikmenkul.com
 esube.fbpiyasa.com
 esube.hbyatirim.com
 esube.hdfonmusteripaneli.com
@@ -3785,7 +3786,6 @@ faydaliyasam.info
 fazlalik-verat-rgrn.myonlineportal.ch
 fb755442-4.b-cdn.net
 fbaesubem.com
-fbavarlikmenkul.com
 fbl05y.icu
 fbstadalex.xyz
 fbvarlik.com
@@ -5359,6 +5359,7 @@ hizli-siparis-onaylama-baglantisi.com
 hizli-siparis-sayfasi.com
 hizliaracgecisilieriniz.sbs
 hizlibakiyuklemehgss.web.app
+hizlibasvrularain.sbs
 hizlibasvuralartoplan.sbs
 hizlibasvurmalisina.sbs
 hizlibasvurtamamlan.cloud
@@ -5737,7 +5738,6 @@ ilanda-sepetim-1095.com
 ilanda-sepetim-1096.com
 ilandan-fast.com
 ilanim-fast.com
-ilanim-onay-762213.com
 ilanservis-odemehizmetler.online
 ile-alisverislerini-tamamlama.com
 ile-e-islem.com.tr
@@ -5835,6 +5835,7 @@ ingbank-online-kampanya.ph
 ingbankasi.ph
 ingbanktrwebsube.ph
 inherittaxpapers.site
+initody.cyou
 inkflowra.com
 insight-sweet-drainage-appreciated.trycloudflare.com
 insightbasehq.com
@@ -5918,6 +5919,7 @@ islemkanali.com
 islemkhemennktasi.net
 islemler-akbank.ph
 islemlerhizmet.online
+islemleriniz.duckdns.org
 islemlerinizeburdandevamedin.yyuyy.com
 islemnktnasna.net
 islemnokta-nasita.net
@@ -6005,7 +6007,6 @@ istanbulcanlo.com
 istanbulcuhaso.xyz
 istanbuldanvnbnawarvr.sbs
 istanbuldatekheryer.xyz
-istanbuldaynasilharvr.sbs
 istanbuldurbizim.xyz
 istanbuldurum.com
 istanbulekonomix.com
@@ -8141,6 +8142,7 @@ musivo.gifts
 musparlamentolivo.com
 muygufuderesede.lat
 muzeburasi.com
+muzeburda.com
 muzedunyasi.com
 muzegezi.click
 muzehizmet.click
@@ -8785,7 +8787,6 @@ online-tuv.com
 online-web-store.online
 online.evsahibibasvuru.com
 online.fbasube.pro
-online.fbavarlikmenkul.com
 online182.com
 onlineburda.duckdns.org
 onlinedinamik.com
@@ -8936,8 +8937,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -12485,6 +12486,7 @@ turkbasin.blog
 turkcell-ui.netlify.app
 turkcell.tamamla-sip.com
 turkcellduyuru.com
+turkcurrent.blog
 turkey-benz.com
 turkeybyte.live
 turkeyeconomyinsights.com
