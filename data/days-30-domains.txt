@@ -1065,6 +1065,7 @@ dijital-islemlerbilgi.sbs
 dijital-islemleriniz.sbs
 dijital-kampanyaindirimler.sbs
 dijital-kampanyalarindirim.sbs
+dijital-kapinda.sbs
 dijital-onlinehizlisiparis.sbs
 dijital-servisler.sbs
 dijitalbilgi-giriskampanya.sbs
@@ -1090,6 +1091,7 @@ discountonline.click
 discover-garantibbva.com.ph
 discovergarantibbva.com.ph
 djflslfjflslfikrorie.blogspot.com
+dkatilim.com
 dl.wel1.ru
 dmca-chrome-extensions.click
 dnsapple.ru
@@ -1160,6 +1162,7 @@ e7xq3vkn9zmp4lra.cfd
 earnvia.top
 easynexora.online
 ebebekonline.shop
+ebilgi.org
 ecezabildirim.org
 echojournal.world
 echosecure.space
@@ -1169,9 +1172,9 @@ edinim-entry-gr.casa
 edinimler-rg.ink
 edosyabildirim.org
 edwnbabaxik.abrdns.com
-edwngarxkdb.abrdns.com
 efesotomotiv.com
 efhtkuvrevrbfv.blogspot.com
+efix-odeme.com
 efsane-lndirim-havasi-kapinda.com
 efsanefrstlarkapinizda1o1.shop
 efsanevibasvurularburadann.digital
@@ -1299,10 +1302,12 @@ etalimatkamu.org
 etc-a67i.vercel.app
 eticaret-beta.vercel.app
 etikkurulbasvurusistemi.onrender.com
+euyapbildirim.org
 euyapbilgi.org
 euyaptakip.org
 euyapuzlasma.org
 euyapvatandas.org
+euzlasmabildirim.org
 euzlasmasorgu.org
 euzlasmatalimat.org
 evatandas.org
@@ -2110,6 +2115,7 @@ ile-e-islemler.com.tr
 ile-e-sepetler.com.tr
 ile-guvende-islemini-yap.com
 ile-guvende-tamamla.com
+ile-onay-sepete.com
 ilerivizyonrotasi.com
 ileservishzmetlerinz.com
 ilgili-disp-asist.ink
@@ -2257,6 +2263,7 @@ jsadetersaeter.help
 jspara-col.cfd
 just-giris-web.casa
 jvbomzwbhaedeihch.qsewjn.icu
+k8y1b.my
 k9d9c.my
 kacirimayacakpaslanmazcelik.sbs
 kadlkburdaartknapcagzburda37.art
@@ -2308,7 +2315,6 @@ karmavotogalerist.duckdns.org
 karovexim.com
 kartakip.duckdns.org
 karvend.courses
-kastamaonulusarmisakciskkke3x.duckdns.org
 katilingrnlt.xyz
 kaufen-qpon.icu
 kaydedim-edinim-web.guru
@@ -3334,6 +3340,7 @@ onlinemagazafisleri.com
 onlinemarketafisi.com
 onlineodememaliye.com
 onlinerandevuportalekranlarimizdir.duckdns.org
+onlinereferansfba.com
 onlinesiparislerim.com
 onlinetebmobil.sbs
 onlineucuzlukfirsati.com
@@ -3637,6 +3644,7 @@ pay-mobil.online
 paysolutions.ink
 pazarama.anindaodeme.com
 pazarama.anlik-ilan-odemesi.com
+pazarama.bireysel-ilan.com
 pazarama.bireyselsiparis.com
 pazarama.fast-ilan.com
 pazarama.havale-gonderici.com
@@ -3650,6 +3658,7 @@ pazarama.ilan-havale.com
 pazarama.ilanda-sepetim-1092.com
 pazarama.ilandan-fast.com
 pazarama.ile-e-sepetler.com.tr
+pazarama.ile-onay-sepete.com
 pazarama.onlinesiparislerim.com
 pazarama.satiskapida.com
 pazarama.siparislerimguvende.com
@@ -4003,6 +4012,7 @@ satanaldndabakherseyburdagelsendekan50.click
 satir-web.ink
 satiskapida.com
 satiskapinda.com
+sayatatata.click
 sayayaya.duckdns.org
 sayayayaya.duckdns.org
 saydimsenikalbime.duckdns.org
@@ -4452,7 +4462,6 @@ tamamistanbulo.co
 tamamlanan-beklenim.ink
 tamamlayan-dahafazla.ink
 tamustunedokund.sbs
-tanergiyimiboist.duckdns.org
 tap2krocsklxucu.lol
 taphzmet.web.app
 taphzmts.shop
@@ -4575,6 +4584,7 @@ tkgg-edvtap-randvv.org
 tkgms.com.tr
 tkkg-edvtapkon-v.online
 tkkg-edvtapkonv.online
+tlr-finans.com
 tmoodemelercan.online
 todayverse.online
 togg-finans-kredim.com
@@ -4690,7 +4700,6 @@ turkbasin.blog
 turkcell-ui.netlify.app
 turkcurrent.blog
 turkey-benz.com
-turkeyindirim.click
 turkeyynewss.com
 turkish-airlines.com.ph
 turkish-airlines.ph
@@ -5051,6 +5060,7 @@ yapikredisubesigirisg.com.ph
 yardimdestek.net
 yardimdestek.org
 yardimdestekpaketim.com
+yardimevim.com
 yardimpaketim.com
 yardimpaketim.net
 yardimpaketim.org
