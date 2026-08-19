@@ -782,7 +782,6 @@ cabalakosturkaltak.sbs
 cacavavacq.duckdns.org
 cag-hizlanmasi-tr.ink
 cairivo.sbs
-calisma-net.casa
 caninelab.co
 canva-arts.com
 cap-t1.spec-connectweb3.tv
@@ -2501,6 +2500,7 @@ linatatravel.com
 lindacarmical.com
 lindarentacar.com
 linktrum.com
+little-wave.ink
 littleads.in
 littledns.ru
 lllprdannndandan.com
