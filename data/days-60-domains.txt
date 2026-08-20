@@ -4518,7 +4518,6 @@ kilometre-sonuclarinizi-ogrnn.web.app
 kilometre-sonuclarnzi-ogrnin.web.app
 kilometre-verilernzi-ogrenin.web.app
 kilometrecikus.xyz
-kilometrecikusburda.xyz
 kilometresorgulamapttavm.com
 kilometresorgupttavm.com
 kilometrogrenin.web.app
@@ -4595,8 +4594,6 @@ kmogren-durumbilgi.firebaseapp.com
 kmogren-durumbilgi.web.app
 kmogren-guvenlivehizli.firebaseapp.com
 kmogren-guvenlivehizli.web.app
-kmogren-hizmetler.firebaseapp.com
-kmogren-hizmetler.web.app
 kmogren-kmbilgilendirici.web.app
 kmogren-sorgulamaci.firebaseapp.com
 kmogren-sorgulamaci.web.app
@@ -8747,7 +8744,6 @@ trendoria.pro
 trendrally.online
 trendvista.site
 trendyol-ekargo-4000.netlify.app
-trendyol-ile-baglanti-tamamla.com
 trendyol-siparistamamla.com
 trendyol-siparistamamla.com.tr
 trendyol-siparistamamla.online
