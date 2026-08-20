@@ -154,7 +154,6 @@
 1254598989899894.duckdns.org
 1255665988451698992.duckdns.org
 1255665988451698993.duckdns.org
-126003.duckdns.org
 12855w652.click
 12855w652.cyou
 12855w652.forum
@@ -12425,8 +12424,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net

@@ -3095,7 +3095,6 @@ diplomaal.online
 diplomaal.web.app
 diplomasatisi.online
 direktsube-akbank.ph
-dis-ak-kampaing.myonlineportal.ch
 disciplinenahidwin.st
 disclaud-password-security.myonlineportal.ch
 discountonline.click
@@ -9005,8 +9004,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -11853,7 +11852,6 @@ technovy.digital
 techovoise.digital
 techrock.digital
 techva.cyou
-techvera.digital
 techveras.online
 tecnorix.com
 teeeekfirsatspnsrlurklam.com

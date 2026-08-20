@@ -4690,7 +4690,6 @@ koveyttork.online
 koveyttorkiye.duckdns.org
 koveytturkile.duckdns.org
 koveytumm.duckdns.org
-koylu-bot.neocities.org
 koyunn.nicepage.io
 kozmoyenigirisadresi.com
 kracadanda.duckdns.org
@@ -6265,8 +6264,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
