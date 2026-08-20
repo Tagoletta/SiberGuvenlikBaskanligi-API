@@ -421,7 +421,6 @@ apricotfilepoint.com
 aquamsis.com
 araba--paribu.com
 araba--paribu.live
-araba-cekilisi-paribu.com
 araba-cekilisi-paribu.ezgateway.net
 araba-cekilisi-paribu.mywire.org
 araba-cekilisi.live
@@ -2956,7 +2955,6 @@ mhr2srandv5larnzi.duckdns.org
 mhrasd432734jnsdf.duckdns.org
 mhrefshemenrndv.ice.lol
 mhrk23km6747.duckdns.org
-mhrs-2.digital
 mhrs-app.online
 mhrs-e-devlet.vercel.app
 mhrs-edevletgiris.sbs
@@ -3515,7 +3513,6 @@ paribu-arabayakala.info
 paribu-arabayakala.link
 paribu-cark-cekilisi.opik.net
 paribu-cark-hediye.com
-paribu-carkcekilisi.com
 paribu-cekilisi.online
 paribu-cekilisim.live
 paribu-cekilisim.online

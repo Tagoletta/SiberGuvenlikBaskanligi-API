@@ -170,7 +170,6 @@
 13222214544588989990897.duckdns.org
 13222214544588989990898.duckdns.org
 13222214544588989990899.duckdns.org
-132xkacskldc213x12.shop
 14124124.duckdns.org
 14214124124.duckdns.org
 14512246565578998990.duckdns.org
@@ -12426,8 +12425,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
