@@ -1232,7 +1232,6 @@ aktuselbizimel.xyz
 aktuselfirsatlarkapinda.xyz
 aktutelfirsatlarkapinda.com
 aktutelfirsatlarkapinda.xyz
-akutelcebinde.xyz
 akutelfirsat.com
 akyaman-lodrefiku.lol
 al-rndev-smdi-hemen.duckdns.org
@@ -5294,7 +5293,6 @@ evimyuvanolsun.org
 evinde-bns-lging.info
 evisa-gov-tr.com
 evolanexgroup.com
-evrakkontrol.org
 evrenyum.site
 evsahibi.online
 evvlypyrbrsylrsdedr.com
@@ -5592,7 +5590,6 @@ firsati-kacirma.duckdns.org
 firsatisindeekran.duckdns.org
 firsatlar-diyari.duckdns.org
 firsatlar-herzaman-burada.blogspot.com
-firsatlar-tepdecepte.my-homeip.net
 firsatlar.myonlineportal.ch
 firsatlar.obilet-tr.uk
 firsatlar101.click
@@ -12379,8 +12376,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -19193,7 +19190,6 @@ yonlendirilisordinunuz.duckdns.org
 yonlendiriliy2osunuz231.duckdns.org
 yonlendiriliyordsunus12.duckdns.org
 yonlendiriliyordustahk1.duckdns.org
-yonlendiriliyors314.duckdns.org
 yonlendiriliyorusyairan.duckdns.org
 yonlendiriliyrsundunz.duckdns.org
 yonlendirilyordusunksi.duckdns.org
