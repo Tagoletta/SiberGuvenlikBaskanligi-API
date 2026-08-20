@@ -9735,7 +9735,6 @@ l55polisii.online
 l55polisil55polis.online
 l55polisitr.shop
 l55polistr.shop
-l55tr-polis.shop
 lab-vers.xyz
 labuns.netlify.app
 lackservice.short.gy
@@ -10423,7 +10422,6 @@ maliyehazine.org
 maliyekamusorgu.org
 maliyemasak.org
 maliyeodemehizmeti.com
-maliyeportal.net
 maliyesicil.net
 maliyesicil.org
 maliyesorgutr.org
@@ -12369,8 +12367,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
