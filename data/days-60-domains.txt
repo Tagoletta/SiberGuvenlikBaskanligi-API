@@ -27,6 +27,7 @@
 101-kstra.s3.eu-north-1.amazonaws.com
 101-mobil-bugune-ozel-indirim-sadece-online-alisveris-tr.extramarket.online
 101-mobil-sadece-online-alisverise-ozel-indirim-sepeti-shop-tr.e-mobil-tr.online
+101-sadece-bugune-ozel-alisveris-sepet-indirimi-mobilde-tr.buystore-tr.online
 101-sadece-bugune-ozel-mobil-alisveris-sepeti-tr.online-store-tr.online
 101-sadece-bugune-ozel-online-alisveris-sepet-indirimleri-tr.sepetgo.online
 101-sadece-bugune-ozel-online-extra-indirim-tr.sepetextra.online
@@ -614,7 +615,6 @@ aktifkvytpromosion.duckdns.org
 aktuel-a-1-0-1.duckdns.org
 aktuelcebindecom.com
 aktuelfirsat.com
-aktuelfirsatlarihizliii.duckdns.org
 aktuelortisc.com
 aktuelseninle.com
 akutelfirsat.com
@@ -673,6 +673,7 @@ alphastore.vg
 alrndv1-82brdan.com
 alrzumcaymaknesi.shop
 alt.e-wl.com
+altinyunushotelcesme.com
 alts6343.blogspot.com
 altzserberin.info
 aluminiostramuntana.com
@@ -776,6 +777,7 @@ araba-paribu.com
 arabacekilis.com
 arabacekilis.info
 arabacekilisi.click
+arabacekilisi.online
 arabacekilisim.com
 arabacekilisim.info
 arabam--paribu.com
@@ -1892,7 +1894,6 @@ daha-be-gunduz-nato.xyz
 daha-fazlasi.guru
 daha-imtina.casa
 daha-kolay-entry.garden
-dahacok-insuarenc.myonlineportal.ch
 daily-facts.info
 dailybasketport.shop
 dailybasketway.shop
@@ -2200,6 +2201,7 @@ drive-mofa-account-downlaod-folder-production.up.railway.app
 driverbackup.gifts
 driverclone.gifts
 drivervault.gifts
+dro4432.site
 dromax.digital
 dromax.vu
 dropboxi.com
@@ -4841,7 +4843,6 @@ likihigidese-derepiluyu.lol
 liksaderese-zeredesede.lol
 lilipoliposideferszede.xyz
 limefilescope.com
-limit-var-kredin.biz
 limitbbva.online
 linatatravel.com
 lindacarmical.com
@@ -7566,6 +7567,7 @@ salt-okunur.click
 saltokunur.casa
 samel.casa
 sana-ozeel-zrrat.cfd
+sanalcilarsystems2.pro
 sanasiparilerindensok.cloud
 sanatsal-g.myonlineportal.ch
 sanolin.com
@@ -8535,6 +8537,7 @@ tkgg-edvtap-randvv.org
 tkgms.com.tr
 tkkg-edvtapkon-v.online
 tkkg-edvtapkonv.online
+tkktktklaspsrlurklm.com
 tksiccerde.net
 tksiehhfi.net
 tlgrdplantwzqyy.com
@@ -8561,6 +8564,7 @@ togg5000stok.cfd
 togg5000stok.click
 toggarac.com
 toggbasvurum.com
+toggfinans.com
 toggfinans.online
 toggfinansman.com
 togghizlibasvuru.sbs
