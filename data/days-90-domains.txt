@@ -944,7 +944,6 @@ alderdasdewas.duckdns.org
 aldimal.xyz
 aldin1.space
 aldinaldin.ekstra101.dpdns.org
-aldinaldinaktuel.blogspot.com
 aldinaldinburda.duckdns.org
 aldinaldinekstra.site
 aldinaldinekstra.xyz
@@ -2324,7 +2323,6 @@ c5v2t8k6n1w9.sbs
 c77478.site
 c8q1r4x7p9m3.cfd
 cabalakosturkaltak.sbs
-cabbarbro.duckdns.org
 cabukherkseburdaaldnsendegelal.info
 cacacax.click
 cacavavacq.duckdns.org
@@ -8201,7 +8199,6 @@ ms365-live.com
 msantencere.lat
 msfconfig.icu
 mshandebu23.sbs
-mshandebu28.sbs
 mslearn.online
 mslraktivhemen.uk
 msopsa.top
@@ -9054,8 +9051,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
