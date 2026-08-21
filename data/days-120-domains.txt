@@ -64,6 +64,7 @@
 101-kstra.s3.eu-north-1.amazonaws.com
 101-mobil-bugune-ozel-indirim-sadece-online-alisveris-tr.extramarket.online
 101-mobil-sadece-online-alisverise-ozel-indirim-sepeti-shop-tr.e-mobil-tr.online
+101-sadece-bugune-ozel-mobil-alisveris-sepeti-tr.online-store-tr.online
 101-sadece-bugune-ozel-online-alisveris-sepet-indirimleri-tr.sepetgo.online
 101-sadece-bugune-ozel-online-extra-indirim-tr.sepetextra.online
 101-sadece-mobil-ozel-extra-alisveris-sepet-indirimleri-tr.webstores-tr.online
@@ -390,7 +391,6 @@
 32z23kr3323.duckdns.org
 3333200233321333.gleeze.com
 340182733.sbs
-342324342ss.sbs
 342354325435123.duckdns.org
 34236544.net
 3424firsatbsvuru.com
@@ -1104,6 +1104,7 @@ agustosc.dnsup.net
 agustoscepte.sbs
 agustosfirsatlarisadecea101.com
 agustostakimsesandalyesizkalmayacak.sbs
+agustsceptesok.lat
 agwrlwr.xyz
 ahdaratlegalservices.com
 ahhoh.sbs
@@ -1718,6 +1719,7 @@ asliyegov.org
 asliyesorgusu.org
 asnasnahyaaslananala.49843544322684.sbs
 asncxbyaaasdanala.49843544322684.sbs
+asncxbyaaasdanala.benimlekalbirazdahadur.sbs
 asons.top
 aspenglideupd.info
 assadsasddscsddsasacas.uk
@@ -4686,6 +4688,7 @@ dx432342232.shop
 dxaxdasklcklqwexl123x1.cyou
 dxuhsn.buzz
 dxzepf.click
+dygr-forest.my-homeip.de
 dynamoforged.pro
 dynavo.site
 dysoncomtr.rf.gd
@@ -5284,6 +5287,7 @@ euyapuzlasma.org
 euyapvatandas.org
 euzlasmabildirim.org
 euzlasmabilgi.org
+euzlasmacbs.org
 euzlasmagib.org
 euzlasmasorgu.org
 euzlasmatalimat.org
@@ -6545,6 +6549,7 @@ guidelin.com
 gukaracs.store
 gukgukmuyo-cikcikfede.lol
 gulkigieresedere.xyz
+gulluoglubaklavalari.com
 gulluoglubaklavalari.shop
 gulluoglushop.abacusai.app
 gumrukurunleri101.com
@@ -6635,7 +6640,6 @@ gundemrotasi.info
 gundemyolu.cyou
 gunler-may-lifty.myonlineportal.ch
 gunlukbakislar.com
-gunlukbilgiler.online
 gunlukbilgilerbrda.sbs
 gunlukbilgilerburadadir.blog
 gunlukbilgilerr.sbs
@@ -8094,6 +8098,7 @@ ilginc-detay-web.ink
 ililtrakds.nicepage.io
 ililtraks23.nicepage.io
 ilk-evimbasvurulari.com
+ilkarabambasvur.com
 ilkbasvur.my-homeip.net
 ilkbasvurum.click
 ilkbasvurum.my-homeip.net
@@ -8467,6 +8472,7 @@ istanbullardans.shop
 istanbullbelggimkart.xyz
 istanbullbelggimkartu.xyz
 istanbullbelggimm.xyz
+istanbullbelgimkart.xyz
 istanbullbiizmlaa.xyz
 istanbullcokoolay.xyz
 istanbullkaartttcan.xyz
@@ -10848,6 +10854,8 @@ mh-rs.182iletisim.click
 mh-rsgiris.cyou
 mh4asdk436tttr.com
 mh4rsnadevulariniz3.ydns.eu
+mhbdbuealldnndeu.fun
+mhbdbuealldnndeu.website
 mhcese.netlify.app
 mhddyy.click
 mhgfshsfdhds.art
@@ -11908,6 +11916,7 @@ ns-wwwhaber7com.almach.shop
 ns-wwwhaber7com.descarga-mg.co
 ns-wwwhaber7com.hungnot.cfd
 ns-wwwhaber7com.kerbed.cfd
+ns-wwwhaber7com.punjumskeet.cfd
 ns-wwwhaber7com.rojadirecta-com.co
 ns-wwwhaber7com.siegerlapses.cfd
 ns-wwwntvcomtr.sludgy.cfd
@@ -12442,8 +12451,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -13855,6 +13864,7 @@ ra-backup.com
 racestrech.info
 radio.evsahibibasvuru.com
 radium-client.com
+radsagency.com
 raf3134sadacjj1x3jk1jk23x12.shop
 rafa0102xadskjx2h3jx12312.cfd
 rafa09lasdck123x123.cfd
@@ -14466,6 +14476,7 @@ sahibinden-param-guvende.siparisbilgitr.online
 sahibinden-param-guvende.siparisonayi.online
 sahibinden-param-guvende.urunodeme-tr.online
 sahibinden-param-guvende.urunodemetr.online
+sahibinden-paramguvende-tr.ct.ws
 sahibinden-paramguvende.github.io
 sahibinden-paramguvende.islemonaylatr.online
 sahibinden-police.ozel-hizmet-islemleri.com

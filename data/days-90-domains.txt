@@ -37,6 +37,7 @@
 101-kstra.s3.eu-north-1.amazonaws.com
 101-mobil-bugune-ozel-indirim-sadece-online-alisveris-tr.extramarket.online
 101-mobil-sadece-online-alisverise-ozel-indirim-sepeti-shop-tr.e-mobil-tr.online
+101-sadece-bugune-ozel-mobil-alisveris-sepeti-tr.online-store-tr.online
 101-sadece-bugune-ozel-online-alisveris-sepet-indirimleri-tr.sepetgo.online
 101-sadece-bugune-ozel-online-extra-indirim-tr.sepetextra.online
 101-sadece-mobil-ozel-extra-alisveris-sepet-indirimleri-tr.webstores-tr.online
@@ -817,6 +818,7 @@ agustosc.dnsup.net
 agustoscepte.sbs
 agustosfirsatlarisadecea101.com
 agustostakimsesandalyesizkalmayacak.sbs
+agustsceptesok.lat
 agwrlwr.xyz
 ahdaratlegalservices.com
 ahhoh.sbs
@@ -1303,6 +1305,7 @@ asleoaslaeodsla.online
 asliyesorgusu.org
 asnasnahyaaslananala.49843544322684.sbs
 asncxbyaaasdanala.49843544322684.sbs
+asncxbyaaasdanala.benimlekalbirazdahadur.sbs
 asons.top
 assadsasddscsddsasacas.uk
 asset-finnans.com
@@ -2333,7 +2336,6 @@ cambioefectivo.com
 camerondev1.github.io
 camlarfilmli.click
 camorreado.click
-campixo.media
 canavarndevusyfasi.duckdns.org
 caninelab.co
 canlaradlarsbaotldnapackasn.site
@@ -3266,6 +3268,7 @@ dvsc-promo.top
 dvsc-secure.sbs
 dwlfils.online
 dx432342232.shop
+dygr-forest.my-homeip.de
 dysoncomtr.rf.gd
 dysphoria.androiddebugbridge.su
 e-basvurularburada.digital
@@ -3705,6 +3708,7 @@ euyapuzlasma.org
 euyapvatandas.org
 euzlasmabildirim.org
 euzlasmabilgi.org
+euzlasmacbs.org
 euzlasmasorgu.org
 euzlasmatalimat.org
 euzlasmateblig.com
@@ -4672,6 +4676,7 @@ guideib.com
 gukaracs.store
 gukgukmuyo-cikcikfede.lol
 gulkigieresedere.xyz
+gulluoglubaklavalari.com
 gulluoglubaklavalari.shop
 gulluoglushop.abacusai.app
 gunbirlikveberaberlikgunudur.sbs
@@ -5494,7 +5499,6 @@ hizlikmlerinizburda.web.app
 hizlikmvemuz.xyz
 hizlimarketalim.click
 hizlimenu-yazi.click
-hizlimobilbasvurular.sbs
 hizlimobilfirsatlarim.sbs
 hizlionaygerekenislerde.com
 hizlionaygerekenislerde.net
@@ -5834,6 +5838,7 @@ ilgili-disp-asist.ink
 ilginc-detay-web.ink
 ililtraks23.nicepage.io
 ilk-evimbasvurulari.com
+ilkarabambasvur.com
 ilkbasvur.my-homeip.net
 ilkbasvurum.click
 ilkbasvurum.my-homeip.net
@@ -6106,6 +6111,7 @@ istanbulkartttt.xyz
 istanbullbelggimkart.xyz
 istanbullbelggimkartu.xyz
 istanbullbelggimm.xyz
+istanbullbelgimkart.xyz
 istanbullbiizmlaa.xyz
 istanbullkaartttcan.xyz
 istanbulllbelgimcan.xyz
@@ -6254,7 +6260,6 @@ jekep3410.store
 jerryshvac.com
 jerusalem.androiddebugbridge.su
 jet-bireysel-hizmetler.online
-jet-eservis-hizmetlerin.online
 jet-guvenlihizmetleriniz.online
 jet-hizmetlerim.online
 jetbrains-apps-group.gitlab.io
@@ -7878,6 +7883,8 @@ mh-r-al-randv-simdi-hemence.duckdns.org
 mh-rs.182iletisim.click
 mh4asdk436tttr.com
 mh4rsnadevulariniz3.ydns.eu
+mhbdbuealldnndeu.fun
+mhbdbuealldnndeu.website
 mhcese.netlify.app
 mhgfshsfdhds.art
 mhherkesrs.com
@@ -8651,6 +8658,7 @@ ns-wwwhaber7com.almach.shop
 ns-wwwhaber7com.descarga-mg.co
 ns-wwwhaber7com.hungnot.cfd
 ns-wwwhaber7com.kerbed.cfd
+ns-wwwhaber7com.punjumskeet.cfd
 ns-wwwhaber7com.rojadirecta-com.co
 ns-wwwhaber7com.siegerlapses.cfd
 ns-wwwpostacomtr.fakingguango.cfd
@@ -9575,7 +9583,6 @@ personalsafe.cyou
 pestquiltsurprise.com
 petalara.com
 petalbella.gifts
-petflow.gifts
 pfpro-dp1nr9t4cenw.edgeone.dev
 pfpro-dpmhin81x651.edgeone.dev
 pfpro-dpswdueht4s8.edgeone.dev
@@ -10192,6 +10199,7 @@ r9m2p6w4k8n1.sbs
 racestrech.info
 radio.evsahibibasvuru.com
 radium-client.com
+radsagency.com
 raf3134sadacjj1x3jk1jk23x12.shop
 rafa0102xadskjx2h3jx12312.cfd
 rafa09lasdck123x123.cfd
@@ -10626,6 +10634,7 @@ sahibinden-param-guvende.siparisbilgitr.online
 sahibinden-param-guvende.siparisonayi.online
 sahibinden-param-guvende.urunodeme-tr.online
 sahibinden-param-guvende.urunodemetr.online
+sahibinden-paramguvende-tr.ct.ws
 sahibinden-paramguvende.islemonaylatr.online
 sahibinden-police.ozel-hizmet-islemleri.com
 sahibinden-satis-sozlesmesi.kurumsal-online-islem.com
@@ -12945,7 +12954,6 @@ uzaktankayit.abrdns.com
 uzatma.casa
 uzerlerguzelim.co
 uzlasmabirim.org
-uzlasmadosya.com
 uzlasmadosyakontrol.org
 uzlasmaegm.org
 uzlasmaevrak.org
@@ -13213,7 +13221,6 @@ vpnmyha.shop
 vpnmyxa.site
 vraxolim.media
 vrf.cldvrfd.click
-vrmynartkbktkblfdr.sbs
 vrpckcamsnkzbrdy.xyz
 vson-panel-718844.vercel.app
 vtururk.com
@@ -13828,8 +13835,6 @@ yilmaz-ticaret-ile-siparisini-tamamla.com
 yilmaz-ticaret-ile-siparisinizi-tamamlayiniz.com
 yilmaz-ticaret-motor-ile-siparisi-tamamlayiniz.com
 yinveyang10.sbs
-yinveyang2.sbs
-yinveyang3.sbs
 yinveyang4.sbs
 yinveyang5.sbs
 yinveyang8.sbs
