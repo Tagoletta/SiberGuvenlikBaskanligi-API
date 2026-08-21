@@ -4687,7 +4687,6 @@ guncelsikayetler-459.sbs
 guncelsikayetler-773.sbs
 guncelsikayetler-778.sbs
 guncelsikayetler-970.sbs
-guncelsistemhaber.com
 gunceltrsikayetler-258.sbs
 guncelyorumlar.com
 gundelikhaberlerr.sbs
@@ -8997,8 +8996,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
