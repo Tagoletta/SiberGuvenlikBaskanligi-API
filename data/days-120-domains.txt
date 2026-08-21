@@ -654,7 +654,6 @@
 7658576324143645.org
 767676ll64435.duckdns.org
 774f0eueuht.thechidocas.cyou
-77534342.sbs
 77700051455705s0a.duckdns.org
 777771112202102777.gleeze.com
 777777777.duckdns.org
@@ -1518,6 +1517,7 @@ araba-cekilisim.com
 araba-cekilisim.info
 araba-cekilisim.online
 araba-cekilisin.online
+araba-kazanma-sansi.online
 araba-paribu.com
 arabacekilis.com
 arabacekilis.info
@@ -2925,6 +2925,7 @@ bnsgrn.ink
 bnsksndnsndnsadasa.com
 bnsnscnlngrsler.com
 bnss1t5vg.icu
+bntr-cekilisim.online
 bnuzm.duckdns.org
 bnv4545454.click
 bnvnb89484.click
@@ -5001,7 +5002,6 @@ elconews.blog
 elektro-tr.online
 elektronik-alisveris-merkezi.com
 elektronik-alisverisin.com
-elektronik-alisverisleriniz.com
 elektronik-magaza-sepetim.com
 elektronik-urun-sepetim.com
 elektronikdtm.com
@@ -5462,7 +5462,6 @@ fcuzdan.com
 fdfdgfgfghfhdf.duckdns.org
 feastlane.food
 feastnecktax.com
-feaznveaz.webredirect.org
 feelyourpain.co
 feeua.top
 feezossl.xyz
@@ -9235,7 +9234,6 @@ kilometrekontrol.com
 kilometrekusu.xyz
 kilometresorgulamapttavm.com
 kilometresorgupttavm.com
-kilometreuzmani.click
 kilometrogrenin.web.app
 kilomtresorgulabilgi.web.app
 kilomtresorgulma.web.app
@@ -9994,6 +9992,7 @@ lntlntlntltnltn.net
 lnylntltnllntl.net
 lo155polisi.online
 load-craft.com
+localcito.com
 localgallery.cyou
 location-findmydevice.info
 lodolasdenzdeneleser.xyz
@@ -11021,6 +11020,7 @@ miappl.com
 micescrewdriverspear.com
 microservice-update-s2-bucket.cc
 microsft.updata.net.cn
+midiroseagustos.sbs
 midnightmotion.digital
 migadyn.info
 migros-extramobilem.vercel.app
@@ -12456,8 +12456,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -12912,6 +12912,7 @@ pasamotor.com
 paslanmazbizimekip.sbs
 pass-kampanya.click
 passbasvur.click
+passiligbasvurun.com
 passkey-check.com
 passkey-connect.com
 passkey-enable.com
@@ -13410,6 +13411,7 @@ promosyonzamnakampayaherkesburda.info
 promotds.us
 promotk.com
 promsyon-isbank.bounceme.net
+promsyongunleriagstos.giize.com
 promsyonvakti.cfd
 promvio.media
 prosearium.net
@@ -14301,6 +14303,7 @@ s0karmetler.shop
 s0kf1rsatlr.com
 s0kfi-rsatiar-s1mdi-sibura.shop
 s0kkap1n4gel5infir5s4tl4ri.cyou
+s0kkap1n4gel5infir5s4tl4ri.duckdns.org
 s0kmalketler.shop
 s0kmalrketller.shop
 s0kmalrlet.shop
@@ -14641,6 +14644,7 @@ sanalcilarsystems2.pro
 sanasiparilerindensok.cloud
 sanatsal-g.myonlineportal.ch
 sanayeminedebilirim.sbs
+sandegelbasvrkazan81.click
 sankotextile-tr.com
 sanolin.com
 santafebuno.top
@@ -14723,7 +14727,6 @@ sdfsdfggfd.duckdns.org
 sdfsdfqweqwef.duckdns.org
 sdfvksdfvksdvfk.shop
 sdfvksdfvksdvfkddd.shop
-sdhafdhafa1.lol
 sdk.dl.wel1.ru
 sdklcflsd231xasc123x12.cfd
 sdklcflsd231xasc123x12.lol
@@ -15402,7 +15405,6 @@ snksnctysnysnns.com
 snkzbrdansatnalrkennrd.cfd
 snkzbrdansatnalrkennrd.lol
 snkzlplrdansnnns.com
-snlrdansdrdasndass.shop
 snnfrstlrarrkmpnyaabsvrsu14785.info
 snnfrstlrarrkmpnyaabsvrsu14785.pro
 snrlsaydcakm.cfd
@@ -15444,6 +15446,7 @@ sokkampanyalarbayrami.click
 sokkaracaileindir.shop
 sokmakket.shop
 sokmalrket.shop
+sokmarket.lat
 sokmarket.spinetabided.cfd
 sokmarkethepsi.shop
 sokmarketlerfirsatlarim.com
@@ -17161,6 +17164,7 @@ toplukonut1251251.vercel.app
 toplukonut129215215.vercel.app
 toplukonut152825121.vercel.app
 toplukonut18221921.vercel.app
+toplukonut2026-toki2026.vercel.app
 toplukonut2777059834.vercel.app
 toplukonut3641008438.vercel.app
 toplukonut3758414441.vercel.app
@@ -18447,7 +18451,6 @@ vpnmyha.shop
 vpnmyxa.site
 vpolisi155.online
 vrakudeli.com
-vraqelun.com
 vraxolim.media
 vrelastonid.gifts
 vrenodakilu.info
