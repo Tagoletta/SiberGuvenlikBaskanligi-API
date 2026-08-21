@@ -1001,6 +1001,7 @@ davsanllargiyimvs.duckdns.org
 degerlendirme-aninda.ink
 degerodaklari.com
 degisiklik-hakkinda.ink
+demo.axxel1.com
 denemebendes.duckdns.org
 deniz-mobb.duckdns.org
 deniz-mobbll.duckdns.org
@@ -1414,7 +1415,6 @@ firsatlar.obilet-tr.uk
 firsatlardanfaydalanmalar.duckdns.org
 firsatlarra.website
 firsatlrmbrdancaydanligim.mooo.com
-firsatmerkeziqx.sbs
 first-onayweb.ink
 firstlrkapndatukenyr1o1.info
 fiscalapi.ro
@@ -1788,6 +1788,7 @@ haberler12348.shop
 haberler123531234.shop
 haberler1283432.shop
 haberler1436542.sbs
+haberler14534925.shop
 haberler145365349.sbs
 haberler145425462.shop
 haberler1542334.shop
@@ -1992,7 +1993,6 @@ hizligecisyuklemenizz.web.app
 hizligecisyuklemenzz.web.app
 hizligectimoldu.shop
 hizlikapida.com
-hizlikapinda.com
 hizlikargolar.com
 hizlionaygerekenislerdebirlikteyizs.com
 hizlisindansiparisingeldi.xyz
@@ -2128,6 +2128,7 @@ ile-e-islemler.com.tr
 ile-e-sepetler.com.tr
 ile-guvende-islemini-yap.com
 ile-guvende-tamamla.com
+ile-guvenlice-tamamlama.com
 ile-onay-sepete.com
 ileservishzmetlerinz.com
 ilgili-disp-asist.ink
@@ -2954,7 +2955,6 @@ mhrs.alllahnerdekiya.sbs
 mhrs.cicekcihizli.homes
 mhrs.mersinstar.com
 mhrs.mersinstar.xyz
-mhrs5nwdkm3.duckdns.org
 mhrsanlikodemehizli.icu
 mhrsanlkodemebra.duckdns.org
 mhrsbilgi.duckdns.org
@@ -3467,7 +3467,6 @@ paramguvende-banaozel.sbs
 parebu.click
 parfumfinansapp25.com
 paribu--araba.live
-paribu--arabacekilisi.com
 paribu--cekilis.live
 paribu-araba-cekilis.live
 paribu-araba-cekilis.online
@@ -4099,7 +4098,6 @@ serhathosting.xyz
 serkancx.duckdns.org
 service-center-instagram.com
 service8date.com
-servisbilgi-tr.online
 seryotocargaleryx.duckdns.org
 serzjkow.cfd
 setpasskey.com
@@ -4430,7 +4428,6 @@ stnlyyenikmp.com.tr
 stokta-sayili-urun.sbs
 storagepioneer.com
 store-plus.online
-storvam.pics
 stparaguvende.servisbilgi-tr.online
 stretar7.contabilfacil.sbs
 stuffdns.in
