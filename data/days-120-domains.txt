@@ -1554,7 +1554,6 @@ arackgmkontrol.online
 arackiralamaislem.com
 arackiralamasozlesmesi.com
 aracklmtrlerinogren.sbs
-arackmsorgu.web.app
 arackmsorgula.com
 aracmuaeyeneislemlerr.com
 aracmuayenede.xyz
@@ -8209,7 +8208,6 @@ internetsubesi-finans.my-homeip.net
 internetsubesi-ingbank-tr.ph
 internetsubesi.online
 internews.tr
-intknal-sube.click
 intranet.evsahibibasvuru.com
 intranet.garantibbvakredibasvuru.com
 intrawld.com
@@ -9335,7 +9333,6 @@ kmkmsorgulamazfer.web.app
 kmkmsrglumaislemlergovptttmbb.duckdns.org
 kmkmsrgulamagvvtptmt.duckdns.org
 kmkolayasorgu.firebaseapp.com
-kmkolaysorgu.firebaseapp.com
 kmkontrol.com
 kmlrenizsorgulanirhizlisindan.duckdns.org
 kmm-verilerinizi-ogrenin.web.app
@@ -14541,6 +14538,7 @@ sahibinden.siparissatin-al.com
 sahibinden.siparisver-hemen.com
 sahibinden.siparisverhemen.com
 sahibinden.sozlesme-islemleri-online.com
+sahibinden.tr-alisveris-islemler.online
 sahibinden.trguvenli-siparis.online
 sahibinden.trguvenlisiparisler.online
 sahibinden.trhizmetservis.online
@@ -17225,6 +17223,7 @@ tprlarrsc.space
 tpurandevolstur.uk
 tr-115-polistr.online
 tr-akbank.ph
+tr-alisveris-islemler.online
 tr-aselsan.com
 tr-bbva-garanti.ph
 tr-binance2026.duckdns.org
@@ -18550,6 +18549,7 @@ website6667809.nicepage.io
 website6668123.nicepage.io
 websitegit.lol
 websitetasarimlarim.sbs
+webstt182.com
 webtapcs.store
 webtapsc.store
 webte-182.com
