@@ -26,6 +26,7 @@
 101-cepte-sadece-online-ozel-sepet-indirimleri-mobilde-tr-extra.elektro-tr.online
 101-de-sadece-online-ozel-extra-mobil-indirimleri-shop-tr.plus
 101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online
+101-extra-mobil-online-sadece-bugune-ozel-sepet-indirimi-tr.shop
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
 101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online
 101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-shop-tr.avantajshop.online
@@ -700,6 +701,7 @@ acentamerkezi.com
 acentasicilsorgu.org
 acentasorgulama.com
 acentecozumleri.cfd
+acik-deniz.my-homeip.de
 acik-web-gir.casa
 acikdenizde.my-homeip.net
 acikdenizlere.my-homeip.de
@@ -1210,6 +1212,7 @@ arracxxacnmuyayne.online
 arrrzumstwt.com
 arrzuminndrim.com
 arrzzumnndrrs.com
+arsbeyzfstt.com
 arskrgmnsnz.giize.com
 artcnb.com
 arti-web.my-homeip.de
@@ -2446,6 +2449,7 @@ ceptesok.guncelfirsatiniz.com
 ceptesok.hizlifirsatim.com
 ceptesok.hizligiriss.com
 ceptesokfirsatlarim.com
+ceptesokindirmleri.online
 cepteteb-merkeziislemler.my-homeip.de
 ceptetebliye-ozel.my-homeip.de
 ceredefe-dereteyeuere.lol
@@ -2844,7 +2848,6 @@ daspino.vu
 daspol.surf
 dastore.top
 data.evsahibibasvuru.com
-datalinea.digital
 datanaria.com
 datapulseforge1.lol
 datapulseforge10.lol
@@ -7209,6 +7212,7 @@ lorivexanto.world
 lorqexo.gifts
 loseorwin.co
 loserrq0j1sha8.com
+lovememore.click
 lowertea.info
 lowertea.xyz
 lppppsrppp.xyz
@@ -8567,7 +8571,6 @@ nomivo.gifts
 nonoestlerkest.duckdns.org
 nop.lat
 nopanel-36672.top
-nopanel-564732.top
 nopanel-815625.top
 nopanel-85434.top
 nopanel2026.online
@@ -8693,6 +8696,7 @@ odeme-siparisim-12570.com
 odeme.togg.lol
 odemehemen.com
 odemekontrol.com
+odeyklehgs.cfd
 odlassadan.shop
 odmeebasvurlarinia.sbs
 odmyeyklezmni.cfd
@@ -10641,6 +10645,7 @@ sahibinden.kolaysiparisler.com
 sahibinden.live
 sahibinden.magazada-online.com
 sahibinden.magazadan-odeme.com
+sahibinden.mobilservislerim-1.sbs
 sahibinden.mobilservislerim-2.sbs
 sahibinden.mobilservisleriniz-6.sbs
 sahibinden.odeme-ilanim-48773.com
@@ -11600,7 +11605,6 @@ strip-mens.tilda.ws
 stuffdns.in
 stylexa.run
 suanokadar.sbs
-sube-fba.com
 sube-garantilibbva.my-homeip.net
 sube-kuveyt-mobilturk.duckdns.org
 sube-kuveyt-ttr.duckdns.org
@@ -11740,6 +11744,7 @@ tap2krocsklxucu.lol
 tapgncweb.web.app
 taphzmet.web.app
 taphzmett.shop
+taphzmrl.shop
 taphzmts.shop
 tapp-wweeb.com
 taprnbdbvdhgzimet.online
@@ -13457,6 +13462,7 @@ x2t7q5z9v3m6.cfd
 x4n6v1m8z9p3.cfd
 x7m2q9v4n8k1.cfd
 x7m6ha235fds3df2.click
+x7m6ha235fds3df2.duckdns.org
 x7m6ha35f253fsd.cfd
 x7m6ha35fds3df2.cfd
 x7m6ha54n1g1.cfd

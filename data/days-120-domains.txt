@@ -53,6 +53,7 @@
 101-cepte-sadece-online-ozel-sepet-indirimleri-mobilde-tr-extra.elektro-tr.online
 101-de-sadece-online-ozel-extra-mobil-indirimleri-shop-tr.plus
 101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online
+101-extra-mobil-online-sadece-bugune-ozel-sepet-indirimi-tr.shop
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
 101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online
 101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-shop-tr.avantajshop.online
@@ -976,6 +977,7 @@ acentasicilsorgu.org
 acentasorgulama.com
 acentecozumleri.cfd
 aceritop.com
+acik-deniz.my-homeip.de
 acik-web-gir.casa
 acikdenizde.my-homeip.net
 acikdenizlere.my-homeip.de
@@ -1610,6 +1612,7 @@ arracxxacnmuyayne.online
 arrrzumstwt.com
 arrzuminndrim.com
 arrzzumnndrrs.com
+arsbeyzfstt.com
 arskrgmnsnz.giize.com
 artcnb.com
 arti-web.my-homeip.de
@@ -2745,7 +2748,6 @@ bireysel-mobil-tr.sbs
 bireysel-promosion-firsatlar.my-homeip.de
 bireysel-shop-tr.click
 bireysel-teb-firsati.my-homeip.de
-bireysel-teb-kampanya-girisler.my-homeip.net
 bireysel-teb-promosyon.my-homeip.de
 bireysel-trans.my-homeip.de
 bireysel-transcation.my-homeip.net
@@ -3653,6 +3655,7 @@ ceptesok.guncelfirsatiniz.com
 ceptesok.hizlifirsatim.com
 ceptesok.hizligiriss.com
 ceptesokfirsatlarim.com
+ceptesokindirmleri.online
 ceptete.pzbsin.com
 cepteteb-merkeziislemler.my-homeip.de
 cepteteb.pzbsin.com
@@ -9316,7 +9319,6 @@ kmarsanbrdana-182.org
 kmbilgiogren.com
 kmbilgisi-ogrenin.firebaseapp.com
 kmbilgisi.firebaseapp.com
-kmbilgisi.web.app
 kmchc78xjosmlas.cfd
 kmdetaylar.com
 kmdurumanaliz.com
@@ -10034,6 +10036,7 @@ lorivexanto.world
 lorqexo.gifts
 loseorwin.co
 loserrq0j1sha8.com
+lovememore.click
 lowertea.info
 lowertea.xyz
 lowtidecorner.info
@@ -11024,7 +11027,6 @@ mindpeak.icu
 mindtheattacks.com
 minedata.pics
 mineralpeak.icu
-minilec.kulsofttech.com
 miningnews.pics
 ministrew.info
 mintbranch.live
@@ -12003,6 +12005,7 @@ odemeguvencesi.online
 odemehemen.com
 odemekontrol.com
 odemeyap.digital
+odeyklehgs.cfd
 odlassadan.shop
 odm0.siyangoil.com
 odmeebasvurlarinia.sbs
@@ -14520,6 +14523,7 @@ sahibinden.live
 sahibinden.magaza-mobil.com
 sahibinden.magazada-online.com
 sahibinden.magazadan-odeme.com
+sahibinden.mobilservislerim-1.sbs
 sahibinden.mobilservislerim-2.sbs
 sahibinden.mobilservisleriniz-6.sbs
 sahibinden.odeme-ilanim-48773.com
@@ -15230,7 +15234,6 @@ siparisim-sepette.com
 siparisimpttavm.com
 siparisin-magazada.com
 siparisiniz-tamam.com
-siparisleriniolusturs.cloud
 siparislerolunsuyor.cloud
 siparisonayi.online
 siparisonayim.online
@@ -16425,6 +16428,7 @@ tapgncweb.web.app
 taphzmet.store
 taphzmet.web.app
 taphzmett.shop
+taphzmrl.shop
 taphzmts.shop
 tapp-wweeb.com
 taprnbdbvdhgzimet.online
@@ -16957,7 +16961,6 @@ tisssbasfasjfagsax.sbs
 titanixo.com
 tivento.shop
 tj.tajikistandip.com
-tjqlgn.cc
 tjskxlkhz8kaxa.cfd
 tk-tapursevrandvun.info
 tk-tapursevrandvun.net
@@ -18240,7 +18243,6 @@ velunori.top
 velvanto.shop
 velxi.shop
 velxo.xyz
-vemdarok.vu
 vemobillegirislimite.xyz
 venarel.gifts
 vendflow.xyz
@@ -18787,6 +18789,7 @@ x32bc232.duckdns.org
 x4n6v1m8z9p3.cfd
 x7m2q9v4n8k1.cfd
 x7m6ha235fds3df2.click
+x7m6ha235fds3df2.duckdns.org
 x7m6ha35f253fsd.cfd
 x7m6ha35fds3df2.cfd
 x7m6ha54n1g1.cfd

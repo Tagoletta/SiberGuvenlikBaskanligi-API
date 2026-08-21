@@ -16,6 +16,7 @@
 101-cepte-sadece-online-ozel-sepet-indirimleri-mobilde-tr-extra.elektro-tr.online
 101-de-sadece-online-ozel-extra-mobil-indirimleri-shop-tr.plus
 101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online
+101-extra-mobil-online-sadece-bugune-ozel-sepet-indirimi-tr.shop
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
 101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online
 101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-shop-tr.avantajshop.online
@@ -456,6 +457,7 @@ acentamerkezi.com
 acentasicilsorgu.org
 acentasorgulama.com
 acentecozumleri.cfd
+acik-deniz.my-homeip.de
 acik-web-gir.casa
 acikdenizde.my-homeip.net
 acikdenizlere.my-homeip.de
@@ -822,6 +824,7 @@ arracxacnmuyayne.com.tr
 arracxxacnmuyayne.online
 arrrzumstwt.com
 arrzzumnndrrs.com
+arsbeyzfstt.com
 arskrgmnsnz.giize.com
 artcnb.com
 arti-web.my-homeip.de
@@ -1437,7 +1440,6 @@ bsvrrrkmpnyaaaprmsynn.info
 bsvrrrkmpnyaaaprmsynn.live
 bsvrrrkmpnyaaaprmsynn.pro
 bsvrrrkmpnyacklssss.click
-bsvrrrkmpnyacklssss.info
 bsvrrrkmpnyacklssss.pro
 bsvrrrkmpnyyykrediiifrstlrr.pro
 bsvrrrkmpyyynyyykrediiifrstlrr.info
@@ -1649,6 +1651,7 @@ ceptemobilim.my-homeip.de
 ceptenmobilkredi.my-homeip.de
 ceptep-basvurularonline.myonlineportal.de
 ceptesokfirsatlarim.com
+ceptesokindirmleri.online
 cepteteb-merkeziislemler.my-homeip.de
 ceptetebliye-ozel.my-homeip.de
 ceredefe-dereteyeuere.lol
@@ -2918,7 +2921,6 @@ garentafilokurumsal.com
 garfielddom.xyz
 garikalisna-solere.lol
 garislennmenleritemmuzfrsatalr.site
-garrkasdcjk123x1csdakx123.cfd
 gartnix21j3x12jk1x2.sbs
 gayporn.twilightparadox.com
 gearupgywu.com
@@ -3247,7 +3249,6 @@ gtrllkol.cfd
 gucum109.click
 gugoahahsadwasdas923sad.click
 gugoashdahshdashd999wdsa.click
-gukaracs.store
 gukgukmuyo-cikcikfede.lol
 gulkigieresedere.xyz
 gulluoglubaklavalari.shop
@@ -3382,7 +3383,6 @@ haberler.sizde.com.solanamolana.click
 haberler112233.shop
 haberler11278945.shop
 haberler122746.sbs
-haberler123.shop
 haberler12348.shop
 haberler1283432.shop
 haberler131231123.site
@@ -4905,6 +4905,7 @@ lorivan.gifts
 lorivexanto.world
 lorqexo.gifts
 loseorwin.co
+lovememore.click
 lowertea.info
 lowertea.xyz
 lrdansandanll.sbs
@@ -6029,6 +6030,7 @@ odeme-ilanim-48775.com
 odeme-ilanim-48776.com
 odemehemen.com
 odemekontrol.com
+odeyklehgs.cfd
 odmeebasvurlarinia.sbs
 odmyeyklezmni.cfd
 oeannon.com
@@ -6991,8 +6993,6 @@ pttavm.sip-tamamlat.com
 pttavm.siparis-guvenliodeme.com
 pttavmaracanaliz.firebaseapp.com
 pttavmaracanaliz.web.app
-pttavmaracdetay.firebaseapp.com
-pttavmaracdetay.web.app
 pttavmaracsorgu.firebaseapp.com
 pttavmaracsorgu.web.app
 pttavmdetaykontrol.firebaseapp.com
@@ -7183,7 +7183,6 @@ rafa1sackcsakkjx123.shop
 rafa1yapisadkjkcj12jk3x123.cfd
 rafa22xadskjqwkjecqw.shop
 rafa23aksdjackdkjx123.cfd
-rafa2acsjcdskjxjakk13x12.cfd
 rafa2askjcaskx123z123.cfd
 rafa2casdkkj13x123.cfd
 rafa2halksckdjkx123x13.sbs
@@ -7530,6 +7529,7 @@ sahibinden.kolaysiparisler.com
 sahibinden.live
 sahibinden.magazada-online.com
 sahibinden.magazadan-odeme.com
+sahibinden.mobilservislerim-1.sbs
 sahibinden.mobilservislerim-2.sbs
 sahibinden.mobilservisleriniz-6.sbs
 sahibinden.order-id42942.cfd
@@ -8325,6 +8325,7 @@ tap2krocsklxucu.lol
 tapgncweb.web.app
 taphzmet.web.app
 taphzmett.shop
+taphzmrl.shop
 taphzmts.shop
 tapp-wweeb.com
 taprndvhsladnber.store
@@ -9535,6 +9536,7 @@ x2t7q5z9v3m6.cfd
 x4n6v1m8z9p3.cfd
 x7m2q9v4n8k1.cfd
 x7m6ha235fds3df2.click
+x7m6ha235fds3df2.duckdns.org
 x7m6ha35f253fsd.cfd
 x7m6ha35fds3df2.cfd
 x7m6ha54n1g1.cfd

@@ -10,6 +10,7 @@
 101-cepte-sadece-online-ozel-sepet-indirimleri-mobilde-tr-extra.elektro-tr.online
 101-de-sadece-online-ozel-extra-mobil-indirimleri-shop-tr.plus
 101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online
+101-extra-mobil-online-sadece-bugune-ozel-sepet-indirimi-tr.shop
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
 101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online
 101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-shop-tr.avantajshop.online
@@ -249,6 +250,7 @@ aceleetme.sbs
 acentamerkezi.com
 acentasorgulama.com
 acentecozumleri.cfd
+acik-deniz.my-homeip.de
 acikdenizde.my-homeip.net
 acikdenizlere.my-homeip.de
 acrfruxtmulgvyvtbwgq.supabase.co
@@ -458,6 +460,7 @@ aroraorijinalparcalari.com
 arorayedekparcasi.com
 arracxacnmuyayne.com.tr
 arrzzumnndrrs.com
+arsbeyzfstt.com
 arskrgmnsnz.giize.com
 artcnb.com
 arti-web.my-homeip.de
@@ -831,6 +834,7 @@ ceptemobilim.my-homeip.de
 ceptenmobilkredi.my-homeip.de
 ceptep-basvurularonline.myonlineportal.de
 ceptesokfirsatlarim.com
+ceptesokindirmleri.online
 cepteteb-merkeziislemler.my-homeip.de
 ceptetebliye-ozel.my-homeip.de
 ceredefe-dereteyeuere.lol
@@ -2541,6 +2545,7 @@ lomas-capital.com
 longbeachalanya.com
 lorivexanto.world
 loseorwin.co
+lovememore.click
 ls.j2x8a.top
 ls11112.site
 lsksnxcbxz8z9a2.cfd
@@ -3256,6 +3261,7 @@ ode.maliyeveznetalepformu.com
 odeal-yelvano.it.com
 odehgssode.cfd
 odemekontrol.com
+odeyklehgs.cfd
 odmeebasvurlarinia.sbs
 odmyeyklezmni.cfd
 office365onedrivedoc.com
@@ -3994,6 +4000,7 @@ sahibinden.ileservishzmetlerinz.com
 sahibinden.islemlerin-mobilde.com
 sahibinden.kolaysiparisler.com
 sahibinden.live
+sahibinden.mobilservislerim-1.sbs
 sahibinden.mobilservislerim-2.sbs
 sahibinden.siparishizliver.com
 sahibinden.siparisver-hemen.com
@@ -4471,6 +4478,7 @@ tamamlanan-beklenim.ink
 tamamlayan-dahafazla.ink
 tap2krocsklxucu.lol
 taphzmet.web.app
+taphzmrl.shop
 taphzmts.shop
 tapu-randevum-e-devlet.vercel.app
 tapu-randevumsu-tkgm-e-devlet.vercel.app
@@ -5011,13 +5019,13 @@ wwwdhl-parcel.dffbeauty.com.au
 wwwwwxxxxxxssw.duckdns.org
 wxswwxxxxw.duckdns.org
 x7m6ha235fds3df2.click
+x7m6ha235fds3df2.duckdns.org
 x7m6ha35f253fsd.cfd
 x7m6ha35fds3df2.cfd
 x9m1v6k4z7q2.lol
 xaratatata.duckdns.org
 xavneli.xyz
 xbossgymxistanbul.xyz
-xczvcxdsa.com
 xemro.xyz
 xemzqli2vu.ai-app.pub
 xenlatis.com
