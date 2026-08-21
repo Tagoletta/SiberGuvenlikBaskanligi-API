@@ -1361,7 +1361,6 @@ alvenco.store
 alvoriax.shop
 alyrmmdombvsaglklgn.b-cdn.net
 alyrmmdombvsaglklgn.lol
-alyrmmdombvsaglklgn.quest
 amazon-garantibbva.ph
 ambistan.lat
 ambivalencesmislabor.site
@@ -2912,7 +2911,6 @@ bngfse.click
 bnlardanhpssnnyarr.shop
 bnlrdansndeal.com
 bnmsndntekdlgmmtlytr.shop
-bnncsebsvvurulartr.com
 bnsabsydmdensnne.com
 bnsanxjenfnsd.cfd
 bnscsacktifgirisler.com
@@ -4022,7 +4020,6 @@ crm.turkcellpasajsanalmagaza.com
 cropsurname.com
 crpsonlcen.cfd
 crsastore.vercel.app
-crsktlenbykmrkzn.cfd
 crtttsaaaonlakcan.xyz
 cryoturbine.net
 crypto-stroe.cc
@@ -7660,8 +7657,6 @@ hizlisdbakieyr.online
 hizlisdbakieyr.store
 hizlisindansiparisingeldi.xyz
 hizlisiparis-ver.com
-hizlisiparis.siegerlapses.cfd
-hizlisiparisolusturr.cloud
 hizlitaoplabasvurlar.sbs
 hizlivekolaysorgulamam.shop
 hizlixrandxvuu.com
@@ -8295,7 +8290,6 @@ islehayatbaska.sbs
 islehaytinkolaylassin.sbs
 islem-hizmet.com
 islem-linkiniz.com
-islem-onay-tr.online
 islembilgisistemi.abrdns.com
 islembilgitr.online
 islemek-giris.casa
@@ -9217,7 +9211,6 @@ kilometrecikus.xyz
 kilometrecikusburda.xyz
 kilometrekontrol.com
 kilometrekusu.xyz
-kilometreshop.click
 kilometresorgula.com
 kilometresorgulamapttavm.com
 kilometresorgupttavm.com
@@ -9229,7 +9222,6 @@ kimbilirziya.click
 kimseyitutmuyorum.sbs
 kindbranch.click
 kindmeersgurpbiz.sbs
-kindsharbor.com
 kingcobragummies.com
 kinghoruswe.info
 kiptownim.info
@@ -9344,7 +9336,6 @@ kmkmsrglumaislemlergovptttmbb.duckdns.org
 kmkmsrgulamagvvtptmt.duckdns.org
 kmkolayasorgu.firebaseapp.com
 kmkolaysorgu.firebaseapp.com
-kmkolaysorgu.web.app
 kmkontrol.com
 kmlrenizsorgulanirhizlisindan.duckdns.org
 kmm-verilerinizi-ogrenin.web.app
@@ -9500,7 +9491,6 @@ kocrental.org
 koelra-lg-grn.myonlineportal.ch
 koent.website
 kofeynayagush.com
-kofteci.uygunfiyatlar.cloud
 kofteciyusuf.online
 kofteciyusuff.online
 kofteciyusufum.com
@@ -11649,7 +11639,6 @@ neverthiskeep.xyz
 nevtasermenurlerynvcxguncelil.xyz
 nevvyorksmmsevrice.duckdns.org
 new-g.digital
-new-teb-kampanyalar.my-homeip.net
 new.blnance-basvuru.info
 new.got8rflowes.info
 new147.shop
@@ -12441,8 +12430,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
