@@ -807,6 +807,7 @@ arackiralamasozlesmesi.com
 aracmuaeyeneislemlerr.com
 aracmuayenede.xyz
 aracmuayenenz.xyz
+aracmuayenerandevu.com
 aracmuayenerandevualma.blogspot.com
 aracmuayeneyaptir.sbs
 aracmuayyyenen.com
@@ -929,7 +930,6 @@ avis.arackiralamaislem.com
 avis.hizmet-merkezi-online.com
 avis.sozlesme-islemleri-online.com
 avisfilo.rent
-avisfiloarackirala.sbs
 avisfilotr.com
 avisfilotr.net
 aviskirala.com
@@ -1194,6 +1194,7 @@ benzin-pro.com
 bepviews.com
 berdewselerce.duckdns.org
 bergenlerdasdaw.duckdns.org
+bernagulcicekcilik.com.tr
 besthalukhub.cyou
 bet.slotgambit.com
 beta.turkcellpasajsanalmagaza.com
@@ -2330,7 +2331,6 @@ efsane-lndirim-havasi-kapinda.com
 efsane1o1kmpnyalartukenyr.shop
 efsanefrstlarburdakpnda1o1.shop
 efsanefrstlarkapinizda1o1.shop
-efsanehaziranlndrmi.com
 efsanemarketindirim.cloud
 efsanevibasvurularburadann.digital
 efsbknakmbl.webhop.me
@@ -3631,7 +3631,6 @@ hemenguvendeileal.com
 hemenislemhkatsa.net
 hemenislemler.com
 hemenislemn-sonuc.net
-hemenislemnktans.net
 hemenislemnktasna.net
 hemenislemnktsi.net
 hemenislemnoktasnin.net
@@ -3728,6 +3727,7 @@ hgsyklebrcsrgu.xyz
 hgsyklehgssrgla.cfd
 hgsykleprahgsykle.cfd
 hgsykleykleode.cfd
+hgsyklodesmdi.cfd
 hgszmniykleme.net
 hgszmniykleme.online
 hgszmniykleme.store
@@ -4425,6 +4425,7 @@ karapara.icu
 karar-onemli.ink
 karartr.net
 karelunox.cyou
+kargomhizli.com
 kargotakip.e-ilan-elektronik-siparisim.com
 karikatur-line.click
 karmab.nicepage.io
@@ -4682,7 +4683,6 @@ konukweb.wtf
 konveyt-giris.duckdns.org
 kookjar.com
 kopkop.click
-kopru-bagla-t.myonlineportal.ch
 kopyaciceksepeti.ph
 koravelo.sbs
 korovkavpn.space
@@ -6260,8 +6260,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -6956,8 +6956,6 @@ pttavm-hizli-km-ogrenme.firebaseapp.com
 pttavm-hizli-km-ogrenme.web.app
 pttavm-hizli-ve-guvenli.firebaseapp.com
 pttavm-hizli-ve-guvenli.web.app
-pttavm-hizliveguvenlidir.firebaseapp.com
-pttavm-hizliveguvenlidir.web.app
 pttavm-kilo-metre-sorgulama.web.app
 pttavm-km-hizliogren.firebaseapp.com
 pttavm-km-hizliogren.web.app
@@ -8190,6 +8188,7 @@ storagepioneer.com
 storban.capital
 storban.surf
 storbon.surf
+store-plus.online
 storvam.pics
 storvax.com
 storyhubix.com
@@ -8703,7 +8702,6 @@ tr-bbva-garanti.ph
 tr-binance2026.duckdns.org
 tr-binancelogin.com
 tr-binancemasak.duckdns.org
-tr-binancetr.duckdns.org
 tr-grsnzonln.lat
 tr-karaca.store
 tr-onaybilgi.online
@@ -8898,7 +8896,6 @@ turkeyynewss.com
 turkgundem.online
 turkhaberaktuel.com
 turkhaberz.com
-turkhavayollari.click
 turkiinvest.com
 turkish-airlines.com.ph
 turkish-airlines.ph
@@ -9627,7 +9624,6 @@ y0nl3ndiriliiyo0esunu.duckdns.org
 y0nl3ndiriliy0rsunuze.duckdns.org
 y0nl3ndiriliy0s0n.webhop.me
 y0nl3ndiriliy0senuz.duckdns.org
-y0nl3ndiriliyors0nuz24.duckdns.org
 y0nl3ndiriliyors4nuz.duckdns.org
 y0nl3ndiriliyors4nz1453.duckdns.org
 y0nl3ndrilyirosun.duckdns.org
@@ -9689,6 +9685,7 @@ yatirim.oykportfolio.com
 yatirim.oykportfolio.online
 yatirimci-merkezi.com
 yatirimci-merkezi.net
+yatirimfinans.com
 yatirimhedef.com
 yatirimmerkeziinfo.net
 yatirimnotu.world

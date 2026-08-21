@@ -532,7 +532,6 @@
 546446545487.duckdns.org
 54695869586922222.net
 54698599004949000.net
-5505959.sbs
 5515151.xyz
 552662.lat
 55454545454.sbs
@@ -750,7 +749,6 @@ a-101-de-extra-sadece-bugune-ozel-firsat.onlinecep-tr.site
 a-101-de-extra-sadece-bugune-ozel-mobilde-tr.bireysel-shop-tr.sbs
 a-101-de-extra-sadece-bugune-ozel-sepette-tr.bireysel-shop-tr.online
 a-101-de-extra-sponsor-mobil-tr.online-bireysel-mobil-tr.click
-a-101-de-sadece-bugune-ozel-tr.online-shop-cepte-tr.site
 a-101-de-sadece-extra-bugune-ozel-indirimli-siparis-tr.onlinecep-tr.site
 a-101-extra-bugune-ozel-mobil.sepet-mobil-tr.site
 a-101-extra-bugune-ozel-siparis-tr.onlinecep-tr.site
@@ -1563,6 +1561,7 @@ aracmuayenehaber.com
 aracmuayeneislem.com
 aracmuayeneislemleri.sbs
 aracmuayenenz.xyz
+aracmuayenerandevu.com
 aracmuayenerandevualma.blogspot.com
 aracmuayeneyaptir.sbs
 aracmuaynalhemen.uk
@@ -2571,6 +2570,7 @@ beralisvc.info
 beransraol.com
 berdewselerce.duckdns.org
 bergenlerdasdaw.duckdns.org
+bernagulcicekcilik.com.tr
 bernasibutuwqu2.com
 besbeskardeszczgssuper.online
 besiprogrami.nicepage.io
@@ -7487,6 +7487,7 @@ hgsyklebrcsrgu.xyz
 hgsyklehgssrgla.cfd
 hgsykleprahgsykle.cfd
 hgsykleykleode.cfd
+hgsyklodesmdi.cfd
 hgsylgcsonlinebrcpm.com
 hgsylgcsonlinebrcpmz.com
 hgsymra.com
@@ -8410,7 +8411,6 @@ istanbulbiz.sbs
 istanbulbizim.cfd
 istanbulbizim.click
 istanbulbizim.lol
-istanbulbizim.sbs
 istanbulbizim.uk
 istanbulbizim3434.xyz
 istanbulbizimba.xyz
@@ -8534,7 +8534,6 @@ istbelgimtek.xyz
 istbelgimteka.xyz
 istbes.xyz
 istbizim.biz
-istbizim.sbs
 istbz.click
 istcanban.xyz
 istcanistanbulbelgim.xyz
@@ -9006,6 +9005,7 @@ kardeslerorda.click
 karelunox.cyou
 karg00-vakti.sbs
 karg00-vaktii.sbs
+kargomhizli.com
 kargotakip.e-ilan-elektronik-siparisim.com
 kargotakip.mobilservis-82.sbs
 kargotakip.ptt.com.sistemi.biz.tr
@@ -15583,7 +15583,6 @@ sorgula-borctahsilat.com
 sorgulagec.online
 sorgulama-ekrani.online
 sorgulama-tr.online
-sorgulamaislemlerifast.duckdns.org
 sorgulamaislemleriniz.duckdns.org
 sorgulamaislemlerinizfast.duckdns.org
 sorgulamasisteminde.xyz
@@ -15798,6 +15797,7 @@ storagepioneer.com
 storban.capital
 storban.surf
 storbon.surf
+store-plus.online
 stormplayavia.com
 storvam.pics
 storvax.com
@@ -19112,6 +19112,7 @@ yatirim.oykportfolio.online
 yatirimblogu.com
 yatirimci-merkezi.com
 yatirimci-merkezi.net
+yatirimfinans.com
 yatirimfinansmanmenkuldegerler.net
 yatirimhedef.com
 yatirimmerkeziinfo.net
