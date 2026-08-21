@@ -63,6 +63,7 @@
 101-extra-sadece-online-sepet-ozel-indirim-shop-mobilde-tr.cepsel-tr.online
 101-kstra.s3.eu-north-1.amazonaws.com
 101-mobil-bugune-ozel-indirim-sadece-online-alisveris-tr.extramarket.online
+101-mobil-sadece-online-alisverise-ozel-indirim-sepeti-shop-tr.e-mobil-tr.online
 101-sadece-bugune-ozel-online-extra-indirim-tr.sepetextra.online
 101-sadece-mobil-ozel-extra-alisveris-sepet-indirimleri-tr.webstores-tr.online
 101-sadece-online-ozel-extra-mobil-sepeti-tr.blog-web.online
@@ -441,7 +442,6 @@
 412221222145558999896.duckdns.org
 412221222145558999897.duckdns.org
 412221222145558999898.duckdns.org
-4124124.duckdns.org
 4124124124.duckdns.org
 41242142142151512421.duckdns.org
 412941234531.com
@@ -1361,7 +1361,6 @@ alvenco.shop
 alvenco.site
 alvenco.store
 alvoriax.shop
-alyrmmdombvsaglklgn.b-cdn.net
 alyrmmdombvsaglklgn.lol
 amazon-garantibbva.ph
 ambistan.lat
@@ -1671,6 +1670,7 @@ asdhashdh99000ashdhasdasd.click
 asdhashdhas2asdahsd827sad.click
 asdjxk12312z1232123.cfd
 asdklmklwqmklm34637.duckdns.org
+asdkmwlqkmkl36347.duckdns.org
 asdlakdlajdk.blogspot.com
 asdlfdsamfksdafmkl.net
 asdsaf0sdvldmv.net
@@ -3896,7 +3896,6 @@ confirmed11190.cfd
 connect.garantibbvakredibasvuru.com
 connectasia.asia
 connectptogether.ink
-conny-tortilla.club
 conny-tortilla.vip
 consequuntur.com
 consistentdigital.de
@@ -6850,6 +6849,7 @@ haberler122746.sbs
 haberler123.shop
 haberler1230149.shop
 haberler12348.shop
+haberler123531234.shop
 haberler1283432.shop
 haberler131231123.site
 haberler141153.shop
@@ -8282,6 +8282,7 @@ isdijitale.space
 isebanke.com
 isfirsatlarimbugun.duckdns.org
 isgilan.com
+ishano456.sbs
 isimdesinburada.duckdns.org
 isisjaofnsormwo.cfd
 iskampanyasub3.sbs
@@ -9261,6 +9262,7 @@ kizlarburada.click
 kizlarburada.sbs
 kizlarvixlex.cfd
 kizlarvixlex.click
+kizlarvixlex.monster
 kk155polis.online
 kk155polisi.online
 kkajdasics.net
@@ -9523,6 +9525,7 @@ kontrolpanel3541.com
 konukweb.wtf
 konuriskalmaksa.click
 konveyt-giris.duckdns.org
+kookjar.com
 kopkop.click
 kopru-bagla-t.myonlineportal.ch
 kopyaciceksepeti.ph
@@ -9686,6 +9689,7 @@ krvlerlerklmacyrz.shop
 krybra.site
 krylo.sbs
 kryptonclientcrack.lovable.app
+kshahnd.sbs
 ksiyt3wmdupp.icu
 ksr-racingparts.com
 ksuueue211.duckdns.org
@@ -9853,7 +9857,6 @@ lekimo.info
 lemonfilewave.com
 lendovia.top
 leniencyskirttray.com
-lenussystem.shop
 leofstbrdaclsyrz.com
 lestresot.info
 lesyatsmhzmt.com
@@ -10667,6 +10670,7 @@ mcelerndeslesw.duckdns.org
 mckinsey-careers.com
 mczwdx.click
 mdsfhfgsr.com
+mdsjhd.sbs
 meaametbaba.cfd
 meadowlyn.cfd
 meadowsantiques.com
@@ -11803,6 +11807,7 @@ nltlntlntltnl.net
 nltlntltnlntltnlntl.net
 nltnlltnltnlntl.net
 nmhlrasfhsa.com
+nmnsny.sbs
 nmrmplazagarageex.xyz
 nmtlanmla.net
 nmtlmnltlntan.net
@@ -12232,7 +12237,6 @@ onlineilanlarimptt.com
 onlineindirimkulubu4.sbs
 onlineislemler-canliyardim.duckdns.org
 onlineislemmerkezleria101.pages.dev
-onlinekampanyabasvurulari.duckdns.org
 onlinekgmyolgcsbrcodyn.com
 onlinekirasozlesmesi.com
 onlinekmm.com
@@ -15470,7 +15474,6 @@ son101.duckdns.org
 son101cilerkaldi.cloud
 sonbilet.com.tr
 sondakikada.org
-sondakikahaber360.click
 sondakikahaberler2026.com
 sondakikahaberler724.com
 sondakikahaberleri2026.shop
@@ -15490,6 +15493,7 @@ sondakkahaberleri724.com
 sonddkaknpanya360.click
 sondemlemebitiyor.sbs
 sondurumunua.b-cdn.net
+sonfffrstlrbstsbvrrrkmpnyaaaa986532.pro
 sonfirsaattkmpnyaabsvrr.live
 sonfrsaattbsvrrrkmpnyaaa.art
 sonfrsaattbsvrrrkmpnyaaa.click
@@ -15901,7 +15905,6 @@ sw.sayatatata.cyou
 swapy-lim-gir.myonlineportal.ch
 sweeffg.online
 sweepquest.info
-swifchor.com
 swift-sh.com
 swift-zip.com
 sx1886.com
@@ -17211,7 +17214,6 @@ torqami.tr
 torqani.info
 torsepet.gifts
 tortila-wrd.vip
-tortilla-cup.club
 torvendi.tr
 torvenqa.gifts
 torziva.gifts
@@ -17768,7 +17770,6 @@ tuvturk-pt.com
 tuvturk-rose.com
 tuvturk-rov.com
 tuvturk-wir.com
-tuvturk-xls.com
 tuvturk-xxk.com
 tuvturk.rauzmiklimlendirme.com
 tuvturk23randevu.duckdns.org
@@ -17810,6 +17811,7 @@ tuvvturks.digital
 tuyoahsadhahsd909adsdhas.click
 tuyoashdahsdhashd92sdh92sad.click
 tv.evsahibibasvuru.com
+tvrkdrtsandvbhs.store
 tvrkrsnzhdsmsvc.store
 tvrktshdabzursd.store
 tvtrkarcmuayne.cfd
@@ -17834,6 +17836,8 @@ tweqtqlasepttee.com
 twweqtikqlassndee.com
 txl.xyttkx.cc
 txt.sayatatata.xyz
+ty4523.space
+ty54fgd435.my
 tylarion867mino.com
 tyldoreq.media
 tylvaruna.buzz
@@ -17871,6 +17875,7 @@ ucuz-obilet.online
 ucuz.obilet-mobil.uk
 ucuz.obilet-tr.uk
 udvyiwvfs.xn--cyou-yea
+ue886578433.online
 ueppll.click
 uetsteblig.org
 ugl-y-lisan-g-rn.myonlineportal.ch
@@ -18872,6 +18877,7 @@ xlabslover.lol
 xleonalpos.icu
 xlinmensadhas3cx3.cfd
 xlzs.cc
+xmsae.sbs
 xn--a101alsveris-64b.com
 xn--aatszu-o9a.xyz
 xn--alsveis-sok-indirimli-gunlerii-3qe.info.tr
@@ -18932,6 +18938,7 @@ xrdnet.click
 xrr30x8v8232s.duckdns.org
 xsafxacasdasax.cyou
 xsceig.buzz
+xshaon123.sbs
 xswwwxswwsx.duckdns.org
 xtrafftrck.net
 xtskxasxasx-xa.cfd
