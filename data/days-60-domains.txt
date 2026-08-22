@@ -6174,7 +6174,6 @@ onllinekonomimobilleapptr.xyz
 onlne-182.cfd
 onlnesstemlerinizhalkimizla.sbs
 onlnne-sorgumerkez.sbs
-onnlne-aktarmekranlari.sbs
 onnnle-girisasamasi.sbs
 oob-worker.cf102-baf.workers.dev
 oob-worker.cf103-070.workers.dev
@@ -6256,8 +6255,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -7575,7 +7574,6 @@ sayatatata.click
 sayayaya.duckdns.org
 sayayayaya.duckdns.org
 saydimsenikalbime.duckdns.org
-sayfadakal.duckdns.org
 sbmrsbsvr.com
 sbogovtr.com
 sbsbsbsbsbs.sbs
@@ -8398,7 +8396,6 @@ tektiklasponsorlureklam.com
 tektiklasponsorlureklamm.com
 tektklaalsveriskpndaa.com
 tektqlspsrlrqlamsnde.com
-tektusunabakacak.com
 telaviv.androiddebugbridge.su
 telekommobilhattasima.com.tr
 tellocancan.co
