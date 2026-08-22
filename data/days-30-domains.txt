@@ -315,7 +315,6 @@ ahmetkerimcanatbalata.digital
 aidatiademerkezi.my-homeip.de
 aidatiadeonline.my-homeip.de
 aidatmerkezislem.my-homeip.de
-ailegelecegi.co
 ailemgov.biz
 ailemtr.biz
 ailemyanimda.org
@@ -652,7 +651,6 @@ bilgilendirme-shop.online
 bilgilendirme-tr.online
 bilgilendirmemm.netlify.app
 bilgipanel.net
-bilgiplatformu.biz
 bilgiplatformu.com
 bilgiradar.co
 bilgis-tr.online
@@ -1007,7 +1005,6 @@ deniz-mobil-promossyon-ekrani-guncel-com.duckdns.org
 deniz-seyehatplanlama.duckdns.org
 denizdentoprag.my-homeip.de
 denizmenkul.pro
-denizmobil-basvuru-ekranim.duckdns.org
 deploypasskey.com
 depos-happy.ink
 depremzeminsorgulama.com
@@ -1192,7 +1189,6 @@ elativexona.sbs
 elektro-tr.online
 elektronikdtm.com
 elenen-edinim-gr.ink
-elestiri-online.ink
 elitgsm.com
 emaliyeegm.org
 emekli-ozel-kampanya.online
@@ -1789,6 +1785,7 @@ haberler346623.sbs
 haberler346654.shop
 haberler421352.shop
 haberler432432.shop
+haberler47852.shop
 haberler562346.sbs
 haberler5632494.sbs
 haberler568794.sbs
@@ -1849,7 +1846,6 @@ harveylewisinsuranceagency.com
 hasnataherherh.uk
 hasntanrernere.uk
 hastane-mhrs.digital
-hastanekayit.duckdns.org
 hastanem.uk
 hastanemrandevumsizlerle.uk
 hastanerandevu.uk
@@ -1882,7 +1878,6 @@ heismebktaltara.net
 helboystr.duckdns.org
 helfeguystr.duckdns.org
 hellomonsterler.duckdns.org
-helwmgsl.sbs
 helxiagent.com
 hemen-aninda.cards
 hemenaracbakim.blogspot.com
@@ -2050,6 +2045,7 @@ hpmzbrdnrvdaldk.store
 hrefbfdhfhgre-1422102728.cos.ap-hongkong.myqcloud.com
 hrryagustosgunlerindepr.duckdns.org
 hrrynewgnler.duckdns.org
+hryagstsprmsyn.duckdns.org
 hsbcrewards-homesa.info
 hsbcrewards-homesb.info
 hubpasskey.com
@@ -2177,6 +2173,7 @@ istanbul-indirimci.com
 istanbulbeelgim.xyz
 istanbulbegimcan.xyz
 istanbulbegimkart.xyz
+istanbulbegimlcan.com
 istanbulbegimsel.xyz
 istanbulbelgiim.xyz
 istanbulbelgiimkart.xyz
@@ -2430,7 +2427,6 @@ kofteciyusuff.online
 kofteciyusufum.com
 kolay-kredi-basvuru.cloud
 kolaydiploma.com
-kolektifweb.digital
 kolibofilna-lucere.lol
 kolirapolse-vadore.lol
 koly-g.my-homeip.de
@@ -2983,7 +2979,6 @@ mmmmmmm4.duckdns.org
 mobil-basvuru-talep.vercel.app
 mobil-cep-online-tr.site
 mobil-cep-ozel.online
-mobil-deniz-com-esube.duckdns.org
 mobil-deniz-promosyyon-bilgi-ekranim.theworkpc.com
 mobil-deniz-promosyyon-cepte.webredirect.org
 mobil-deniz-promosyyon-ekrani.theworkpc.com
@@ -3039,7 +3034,6 @@ more-inf.ink
 mossmesh17.com
 mossylorex.com
 mrelerdenlsewsa.duckdns.org
-mrhs-aps.online
 mrhsbsvronline.com
 mrhssrandevuum.com
 ms365-device.com
@@ -4600,6 +4594,7 @@ tkkg-edvtapkonv.online
 tkktktklaspsrlurklm.com
 tlr-finans.com
 tmoodemelercan.online
+tmsgrup.online
 togg-finans-kredim.com
 togg.best
 togg.website
@@ -4731,6 +4726,7 @@ tuvturkmuayene.duckdns.org
 tvrkdrtsandvbhs.shop
 tvrkdrtsandvbhs.store
 tvrkrsnzhdsmsvc.store
+tvrkrtsandsavsc.com
 tvtrksnrhzsdme.online
 tvtrksnrhzsdme.store
 tvuturkk-ee.com
@@ -5006,7 +5002,6 @@ wwwwwxxxxxxssw.duckdns.org
 wxswwxxxxw.duckdns.org
 x7m6ha235fds3df2.click
 x7m6ha235fds3df2.duckdns.org
-x7m6ha35f253fsd.cfd
 x7m6ha35fds3df2.cfd
 x9m1v6k4z7q2.lol
 xaratatata.duckdns.org
