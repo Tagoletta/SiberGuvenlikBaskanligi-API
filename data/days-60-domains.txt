@@ -304,7 +304,6 @@
 61322122214545578899896.duckdns.org
 61322122214545578899897.duckdns.org
 6161616161.duckdns.org
-62354234.net
 6348732od4we43.click
 643264361.sbs
 643643sdf2253ssdf.click
@@ -341,7 +340,6 @@
 78566452.net
 7979b423-2.b-cdn.net
 7asdjckasdklxakdslxl123x12.cfd
-7d3e329f-5.b-cdn.net
 7hgs.top
 82-2-rnvlrdanbrda.com
 838466ca-e.b-cdn.net
@@ -1275,7 +1273,6 @@ bireysel-iade-halkbank.ph
 bireysel-islemler-com-garanti.duckdns.org
 bireysel-islemlerim-garanti.freemyip.com
 bireysel-islemleriniz-garanti.duckdns.org
-bireysel-mobil-shop.sbs
 bireysel-ziraatli-kampanya.my-homeip.net
 bireyselbasvurdenizbank.74-235-34-0.plesk.page
 bireyselsiparis.com
@@ -1626,9 +1623,12 @@ cekilis--araba.live
 cekilis--binance.com
 cekilis--paribu.com
 cekilis-binance.com
+cekilis-burada.online
+cekilis-hemenburada.online
 cekilisbinance.com
 cekilisburada.online
 cekilise-katil.online
+cekilishemen-burada.online
 cekilisi--paribu.com
 cekilisi-paribu.co
 cekilisleriparibu.com
@@ -2020,6 +2020,7 @@ dev.turkcellpasajsanalmagaza.com
 devamediyoruzbasvurla.sbs
 deviom.xyz
 devlet-mhrs-randevu.com
+devletdestek.vercel.app
 devmarketv.net
 devmodular.bond
 devmora.live
@@ -2688,6 +2689,7 @@ finance96-perspiciatis7.sbs
 finance99-dolor1.sbs
 financeavira.com
 finansai.org
+finansbankkredikarti.ph
 finansbankkrediparacepte.ph
 finansfactoring.com
 finansgundemi.media
@@ -2793,8 +2795,6 @@ freshperspective.info
 freshscopehub.com
 freshtrail.info
 freshvista.website
-friestea.info
-friestea.xyz
 frm1ktr.top
 frontsignal.top
 frrrssrsarstlarrkmpnshhyaasbsvrrr14559587.info
@@ -3444,6 +3444,7 @@ haberturkey1453.sbs
 haberturkiye1453.sbs
 habervakti.org
 haberzone24.com
+hacbasvuru.org
 hadglgzlmuzklragdlm.shop
 hadhadhkhgfdd.sbs
 hadhsynsynr.uk
@@ -3563,6 +3564,7 @@ hazinekurum.org
 hazineleri.com
 hazinesicil.org
 hazinesorgu.org
+Hazinetr.org
 haziranayi5000stok.cfd
 haziranbasvurular.online
 haziranindiirimler.duckdns.org
@@ -3648,6 +3650,7 @@ hersekesyettklbudurumda2.click
 herseybrdanalrn.shop
 herseyhalkimiziicin.sbs
 herseymaziden.sbs
+herseynbsndsvgvsygvar.click
 herseyyeneartkboyleoldusendegel.info
 hertkestyer.duckdns.org
 herzamandevamsiparis.sbs
@@ -3789,6 +3792,7 @@ hizlika-mpanyalar.biz
 hizlikapida.com
 hizlikapinda.com
 hizlikargolar.com
+hizlionaygerekenislerdebirlikteyiz.ph
 hizlionaygerekenislerdebirlikteyizs.com
 hizlionline.com
 hizlisatismerkezi.com
@@ -4186,6 +4190,7 @@ istanbulio.shop
 istanbulkartbasvuru.xyz
 istanbulkarttbelgimm.xyz
 istanbulkartttt.xyz
+istanbulkrtdasnsrz.online
 istanbullbelggimkart.xyz
 istanbullbelggimkartu.xyz
 istanbullbelggimm.xyz
@@ -4336,7 +4341,9 @@ kalibre-g-r-esenlik.myonlineportal.ch
 kalsandnsdansdn.com
 kambers.xyz
 kampanhshshshs.com
+kampanya-burada.online
 kampanya-cebte.click
+kampanya-hemenburada.online
 kampanya-tebte.click
 kampanya.myonlineportal.ch
 kampanyabul.sbs
@@ -4345,6 +4352,7 @@ kampanyafirsatlariniz.duckdns.org
 kampanyafirsatlarinn.duckdns.org
 kampanyagel101.duckdns.org
 kampanyagnu.dnsup.net
+kampanyahemen-burada.online
 kampanyalarbur.duckdns.org
 kampanyalarikacirma.com
 kampanyalarikacirmateoglion.com.tr
@@ -4534,6 +4542,7 @@ kisitkaldirmalinkibasvuru.duckdns.org
 kizibittik.click
 kizlarburada.click
 kizlarburada.sbs
+kizlarvixlex.baby
 kizlarvixlex.cfd
 kizlarvixlex.click
 kizlarvixlex.monster
@@ -4826,7 +4835,6 @@ lindacarmical.com
 lindarentacar.com
 link-flux.com
 linkifier.click
-linkskisaltma-tr.click
 linkstrdizayn.online
 linktrum.com
 liravo.gifts
@@ -5420,6 +5428,7 @@ mhr23k6m236njsdf.duckdns.org
 mhr2srandv5larnzi.duckdns.org
 mhrasd432734jnsdf.duckdns.org
 mhrefshemenrndv.ice.lol
+mhriberazonle.icu
 mhrk23km6747.duckdns.org
 mhroasppnl.shop
 mhrs-2.digital
@@ -6239,8 +6248,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -6343,6 +6352,7 @@ paramguvende-banaozel.my
 paramguvende-banaozel.sbs
 paramguvende-getilan.my
 paramguvende.tr-siparisonay.online
+paranguvende-get.sbs
 parapulsu.site
 paravon.capital
 parebu.click
@@ -6442,6 +6452,7 @@ paribu-sponsorlugunda-cekilis.online
 paribu-sponsorlugunda-cekilisi.online
 paribu-sponsorlugunda-cekils.online
 paribu-sponsorlugunda.online
+paribu-sponsorlugundacekilis.online
 paribu-sponsorlugundacekilisi.online
 paribu-sponsorlugundacekilisleri.online
 paribu-sponsorlugundacekils.online
@@ -6593,6 +6604,7 @@ paribusponsorlucekilisim.online
 paribusponsorlucekilisleri.online
 paribusponsorlucekils.online
 paribusponsorlugudacekilis.online
+paribusponsorlugunda-cekilis.online
 paribusponsorlugunda-cekilisi.online
 paribusponsorlugunda-cekils.online
 paribusponsorlugunda.online
@@ -7536,6 +7548,7 @@ sanasiparilerindensok.cloud
 sanatsal-g.myonlineportal.ch
 sandegelbasvrkazan81.click
 sanolin.com
+sanshemen-burada.online
 santaskagsaen.online
 sanvo.cyou
 sapdfsaodfsadl.online
@@ -7893,6 +7906,7 @@ sizinicinburadayiz1.sbs
 sizinicinburadayiz2.sbs
 sizinicinburadayiz3.sbs
 sizinicinburadayiz5.sbs
+sizinleyizzz.sbs
 sizlericin.lol
 sizlerininicburadayiz.click
 sizlerleberaber.sbs
@@ -7967,6 +7981,7 @@ sokkaracaileindir.shop
 sokmarket.lat
 sokmarkethepsi.shop
 sokmarketler.shop
+sokmarketlerdeindirim.shop
 sokmarketlerfirsatlarim.com
 sokta-gunler.com.tr
 sokta-gunler.info.tr
@@ -8003,7 +8018,6 @@ sonhaberonline.com
 soniz.top
 sonkmpnyalartukenyr1o1.shop
 sonrakihizmetler.click
-sonsiparislerinden.cloud
 sonuc-avantaj.ink
 sonuc-baksrnaltas.net
 sonuc-iislemknhem.net
@@ -8320,6 +8334,7 @@ tcsicil.org
 te-teb-cep.myonlineportal.de
 teaandcake-how.info
 teb-bank.com
+teb-com-tr-web.my-homeip.de
 tebbasvuruonay.my-homeip.de
 tebbasvurusayfa.my-homeip.de
 tebbmb.cfd
@@ -8413,7 +8428,6 @@ tentens.duckdns.org
 teoglionrandevu.org
 teorkeance.loseyourip.com
 tepelecir.store
-tepki-stil.myonlineportal.ch
 teqfirsatagstos.com
 tera-home.com
 teragrup.org
@@ -9119,6 +9133,7 @@ vaystilgiyimxxl.duckdns.org
 vazifen-cagdaslik-edinim.myonlineportal.ch
 vazsellq.com
 vdigitalemobileonllinelimit.xyz
+vector.my-homeip.de
 vectorplatform.cc
 vectorquantforge1.lol
 vectorquantforge10.lol
@@ -9433,6 +9448,7 @@ www-teb-com-tr-basvuru-islemler.my-homeip.de
 www-teb-com-tr-basvuru-yap.my-homeip.de
 www-teb-com-tr-emekli-basvuru.my-homeip.de
 www-teb-com-tr-emekli-promosyon.my-homeip.de
+www-teb-com-tr-emekli-sayfa.my-homeip.de
 www-teb-com-tr-emekli.my-homeip.de
 www-teb-com-tr-promosyon-emekli.my-homeip.de
 www-toki-gov-tr-ev.vercel.app
