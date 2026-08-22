@@ -590,7 +590,6 @@ basvuruherzamandevamsiparis.sbs
 basvurulari-1.sbs
 basvurulariniaslasman.sbs
 basvurularinitamamlar.sbs
-basvurun-cepten.myonlineportal.de
 basvurusitesi-production.up.railway.app
 basvurznr.sbs
 batuhancicekcilik.com.tr
@@ -3300,7 +3299,6 @@ omnidataflow6.lol
 omnidataflow7.lol
 omnidataflow8.lol
 omnidataflow9.lol
-onayli-siparis-417843.ph
 onayvermebana.art
 one-cikar.casa
 onemitoring.top
@@ -3358,7 +3356,6 @@ onemotoring.vrleryz.top
 onemottoring.top
 onemoytoring.top
 onemytoring.top
-onlaynilebirliktesahipol.sbs
 online-hizli-islem.com
 online-kredi-merkezi.cloud
 online-kredi-onay.cloud
@@ -3757,7 +3754,6 @@ pttavm.islemlerin-mobilde.com
 pttavm.islemleriniz-mobilden.com
 pttavmdetaykontrol.firebaseapp.com
 pttavmdetaykontrol.web.app
-pttavmhgsbakieyuklme.web.app
 pttavmhgsbakiyedoldur.web.app
 pttavmkilomtre.web.app
 pttavmkm.web.app
@@ -3901,7 +3897,6 @@ rodrodrodrodmusic.com
 rofortrade.com
 romuai-web.pages.dev
 roqqcloud.com
-roshanpackages.store
 routekeeper.space
 routeshield.space
 royalsabit2026.com
@@ -4514,7 +4509,6 @@ tebpageinternet.my-homeip.com
 tecnorix.com
 tefasplatfrom.com
 tefasportfoyyonetimi.com
-tefasyatirimgiris.com
 tejjdjsks.nicepage.io
 tejjdjskss.nicepage.io
 tejjdjskssf.nicepage.io
