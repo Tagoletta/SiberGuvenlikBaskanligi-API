@@ -1748,6 +1748,7 @@ habagas.sbs
 haber-merityen18556.sbs
 haber-stanbul1453.sbs
 haber-turk.sbs
+haber-turkey12721.shop
 haber-turkey4567.shop
 haber145216562.sbs
 haber789124.sbs
@@ -1759,6 +1760,7 @@ haberler11278945.shop
 haberler122746.sbs
 haberler12348.shop
 haberler123531234.shop
+haberler1278945.shop
 haberler1283432.shop
 haberler1436542.sbs
 haberler14534925.shop

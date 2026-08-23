@@ -3332,6 +3332,7 @@ habagas.sbs
 haber-merityen18556.sbs
 haber-stanbul1453.sbs
 haber-turk.sbs
+haber-turkey12721.shop
 haber-turkey4567.shop
 haber-turkiye.lat
 haber-turkiye.sbs
@@ -3372,6 +3373,7 @@ haberler11278945.shop
 haberler122746.sbs
 haberler12348.shop
 haberler123531234.shop
+haberler1278945.shop
 haberler1283432.shop
 haberler131231123.site
 haberler1436542.sbs
