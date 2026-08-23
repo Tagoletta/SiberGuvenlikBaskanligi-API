@@ -200,7 +200,6 @@
 a-1-0-1-sadece-online-ozel-mobil-indirimler-sepette-tr.bilgis-tr.online
 a-101-bugune-ozel-indirim-sepeti-mobil-cep.pay-tr.online
 a-101-bugune-ozel-indirim-tr-sepette-mobil.online-ozel-siparis.online
-a-101-extra-bugune-ozel-mobil.sepet-mobil-tr.site
 a-101-extra-mobil-sadece-bugune-ozel-indirimli-sepet-tr.cepte-shop.online
 a-101-extra-sadece-bugune-ozel-indirimler-mobilde.ekstra-tr.online
 a-101-extra-sadece-bugune-ozel-sepette-indirim-tr.ozel-tr.online
@@ -1071,6 +1070,7 @@ dijitalneybilgi-giris.sbs
 dijitalonline-hizlisiparis.sbs
 dijitalsiparis-kampanyalar.sbs
 dijitalsiparis-kapinda.sbs
+dijitalsiparisler-kapinda.sbs
 dikdiy.xyz
 dinamikmenkuldeger.com
 diplomaal.online
@@ -1079,7 +1079,6 @@ diplomasatisi.online
 discountonline.click
 discover-garantibbva.com.ph
 discovergarantibbva.com.ph
-djflslfjflslfikrorie.blogspot.com
 dkatilim.com
 dkis.com.tr
 dl.wel1.ru
@@ -1513,6 +1512,7 @@ geldasdawcce.duckdns.org
 geldelerdensgeasw.duckdns.org
 geldesgeahhsder.duckdns.org
 geldesmmeasdwas.duckdns.org
+gelecekongorusu.misecure.com
 gelecekyakini.com
 gelerdesewend.duckdns.org
 gelisimbasligi.com
@@ -1895,6 +1895,7 @@ hepberaberiz4.sbs
 hepsiburada-garantibbva.ph
 hepsiburadagarantibbva.ph
 hepsivurada.ph
+hergetens.duckdns.org
 hergetxdeedxx.duckdns.org
 herkes-kullanabilsindiye.sbs
 herkessahipolsundiyesinirlisayida.sbs
@@ -2139,7 +2140,6 @@ intsube-enpara.ph
 inwebcentral.com
 ironproxy.space
 irsatlargeldi.duckdns.org
-is-01-ast.ols-img-12.workers.dev
 isacsakldcjkcjk123x12321.shop
 isbak.online
 isbankasivatandaspayi.digital
@@ -2386,6 +2386,7 @@ kkxxcsswxxx.duckdns.org
 kl21177.com
 klerdesnweasdes.duckdns.org
 klevdpo.com
+klometresrgulamacomptt.duckdns.org
 klv1kl3k1c31x231x123x12.xyz
 km-bilgialmak-icin-burarya.web.app
 km-bilgilerinizeulsmak-icin.web.app
@@ -2924,7 +2925,6 @@ mhr23623wfqwd.duckdns.org
 mhr23k6m236njsdf.duckdns.org
 mhr2srandv5larnzi.duckdns.org
 mhrasd432734jnsdf.duckdns.org
-mhrefshemenrndv.ice.lol
 mhriberazonle.icu
 mhrk23km6747.duckdns.org
 mhrs-e-devlet.vercel.app
@@ -3099,7 +3099,6 @@ nato-xv.info
 nato-zp.info
 naturturizmvilla.com
 navi-happy.ink
-nazargiyim.duckdns.org
 ncminvest-global.com
 ncminvestmentmenkuldegerler.com
 ncxbmbvxvccxcnbvxcnnbvd57.click
@@ -4261,6 +4260,7 @@ sizinicinburadayiz2.sbs
 sizinicinburadayiz3.sbs
 sizinicinburadayiz5.sbs
 sizinleyizzz.sbs
+sizinleyizzz2.sbs
 sizlericin.lol
 sizlerininicburadayiz.click
 sizlerleyizz.sbs
@@ -4768,6 +4768,7 @@ uygula-mobile.online
 uygunarabakirala.com.tr
 uygunarabakiralama.com.tr
 uygunarackirala.com.tr
+uzaktanhemen.abrdns.com
 uzaktankayit.abrdns.com
 uzerlerguzelim.co
 uzlasmabirim.org
@@ -5155,7 +5156,6 @@ zirsis.cfd
 ziyoklam.biz
 zm8w2krx5qvph9tcn4ylb.click
 zolikhide-sedapilogife.lol
-zoominviteus1.pages.dev
 zortlata.ezpizi.click
 zosssdal.click
 zratatsatsa.cfd
