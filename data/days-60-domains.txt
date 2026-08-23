@@ -2092,6 +2092,7 @@ dipixcanax.xyz
 diplomaal.online
 diplomaal.web.app
 diplomasatisi.online
+diramodi-ralamoli.lol
 disciplinenahidwin.st
 disclaud-password-security.myonlineportal.ch
 discountonline.click
@@ -2263,7 +2264,6 @@ ecologygrid.capital
 ecvmenuwguncell.xyz
 edavabildirim.org
 edavateblig.org
-edavauzlasma.com
 edevgovtr.com
 edevlet.multidium.com
 edevlet1.net
@@ -2855,7 +2855,6 @@ garantibbvafirsatlri.duckdns.org
 garantibbvahesaphareketleri.ph
 garantibbvaiade.ph
 garantibbvakasikornbank.ph
-garantibbvakredi.otzo.com
 garantibbvakredibasvurusu.info
 garantibbvamobil.netlify.app
 garantibbvatoyota.ph
@@ -3403,7 +3402,6 @@ haberler99534945.shop
 haberlersizdengelenler.biz
 haberlerturk146519.sbs
 habermeridyen10811.sbs
-habermeridyen34.cfd
 habermerityen10811.sbs
 habermerityen1453.sbs
 haberportalim.name
@@ -4572,7 +4570,6 @@ kmarsanbrdana-182.org
 kmbilgisi-ogrenin.firebaseapp.com
 kmchc78xjosmlas.cfd
 kmhn-82rvdalsn.org
-kmkayitpttavm.com
 kmkmsorgulamazfer.firebaseapp.com
 kmkmsorgulamazfer.web.app
 kmkmsrgulamagvvtptmt.duckdns.org
@@ -6231,7 +6228,6 @@ otokockirala.net.tr
 otokockiralamatr.com
 otokockurumsal.org
 otokockurumsalfilo.net
-otokockurumsalkiralama.com
 otokockurumsaltr.com
 otokoclakirala.com
 otokoclakiralama.com
@@ -6959,7 +6955,6 @@ pttavmkmislem.firebaseapp.com
 pttavmkmislem.web.app
 pttavmkmkontrol.firebaseapp.com
 pttavmkmportal.web.app
-pttavmkmraporlama.com
 pttavmkmsorguladim.web.app
 pttavmkmsorgum.com
 pttavmkmsormakweb.web.app
@@ -7624,6 +7619,7 @@ setupssopasskey.com
 sevdlyrklerdebyyzsrgnlr.com
 sevenlerpastaci.shop
 sevgielimyardimlari.com
+sewap426322me.shop
 seyimacidi.duckdns.org
 sfjalsflasfaksflkasflkasfljafkasfjasl.cfd
 sfjalsflasfaksflkasflkasfljafkasfjasl.click
@@ -8488,7 +8484,6 @@ toki-gov-tr-017.vercel.app
 toki-gov-tr-018.vercel.app
 toki-gov-tr-019.vercel.app
 toki-gov-tr-020.vercel.app
-toki-gov-tr-17.vercel.app
 toki-gov-tr-18.vercel.app
 toki-gov-tr-19.vercel.app
 toki-gov-tr-fatih.vercel.app
