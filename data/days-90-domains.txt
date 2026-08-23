@@ -5329,7 +5329,6 @@ hgsbakiyeukleyin.web.app
 hgsbakiyeyukleme.duckdns.org
 hgsbakiyeyuklemeniz.firebaseapp.com
 hgsbakiyeyuklemetr.com.ph
-hgsbakiyeyuklme.web.app
 hgsbakiyeyuklmeanlik.web.app
 hgsbakiyeyuklmei.firebaseapp.com
 hgsbakiyeyuklmei.web.app
@@ -9072,8 +9071,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -9147,7 +9146,6 @@ ozel-magazam.com
 ozelarackiralama.com
 ozelkmpnyaprmsynnbsvruuuu.click
 ozelkmpnyaprmsynnbsvruuuu.info
-ozeltrack-lifonsi-statik.myonlineportal.ch
 ozeltrack-statik.myonlineportal.ch
 ozlkkmpnyssbsvrrrrrsnfrstlrr.info
 ozllkmpnyaprmsnnbsvr.art
@@ -9742,7 +9740,6 @@ porladtr.shop
 porland-tr.shop
 porlandsale.shop
 porlanducuz.shop
-portakalisoydum.lat
 portal-mhrs.digital
 portal-netgsm.co
 portal-netgsm.live
@@ -14063,7 +14060,6 @@ zenmezi.website
 zeno-place.ink
 zensec.vip
 zenshield.space
-zenvira.vu
 zenvoria.top
 zerdesa-turyederte.lol
 zerdesede-yuhgurete.lol
