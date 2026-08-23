@@ -1186,7 +1186,6 @@ akmobil-bireysel-com.duckdns.org
 akmobil-ceptebasvuru-ekrani-com.duckdns.org
 akmobil-ceptebasvuru-ekrani-com.webredirect.org
 akmobil-cepteislemler-ekrani-com.webredirect.org
-akmobil-kredimcebimde.duckdns.org
 akmobil-onlinebasvuru-ekrani-com.webredirect.org
 akmobil-onlineislem-ekrani.duckdns.org
 akmobil-onlineislem-guncel-ekran.duckdns.org
@@ -2063,7 +2062,6 @@ basvur-isceponay.space
 basvur.myonlineportal.de
 basvurbizlkelerle.sbs
 basvurbrd.sbs
-basvurdum.click
 basvurdunyasi.shop
 basvurevtkixz.sbs
 basvurhemenkapinda.cfd
