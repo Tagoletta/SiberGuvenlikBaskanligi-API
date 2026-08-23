@@ -3550,7 +3550,6 @@ hazinesorgu.org
 Hazinetr.org
 haziranayi5000stok.cfd
 haziranbasvurular.online
-haziranindiirimler.duckdns.org
 hbs-tarbiil.com
 hbyatirim.com
 hdfportfoy.com
@@ -8521,7 +8520,6 @@ toki-gov-tr-mobil-giris.vercel.app
 toki-gov-tr-mobil.vercel.app
 toki-gov-tr-mobiliniz.vercel.app
 toki-gov-tr.vercel.app
-toki-gov-trk.vercel.app
 toki-gov.yapisalkonutlar.lol
 toki-toplu-konutlar.vercel.app
 toki-toplukonut.gravitycl.app
