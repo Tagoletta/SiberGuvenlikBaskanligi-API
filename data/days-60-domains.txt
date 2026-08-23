@@ -1233,6 +1233,7 @@ binance--cekilisi.com
 binance--cekilisleri.com
 binance-cekilisi.com
 binance-cekilisleri.com
+binance-sign-in.vercel.app
 binance-tr-cekilis.com
 binancecekilisi.com
 binancemasakdogrulamaactivasyon.duckdns.org
@@ -4594,8 +4595,6 @@ kmogren-durumbilgi.web.app
 kmogren-kmbilgilendirici.web.app
 kmogren-sorgulamaci.firebaseapp.com
 kmogren-sorgulamaci.web.app
-kmogretici-bilgilendiriciler.firebaseapp.com
-kmogretici-bilgilendiriciler.web.app
 kmp-gfirsttlrr.xyz
 kmpanyasa.dnsup.net
 kmpnnnyaabsvrrsnnnfrsltar.info
@@ -6195,7 +6194,6 @@ ortakisiklar.com
 ortakkaynak.com
 ortakkilavuz.com
 ortakkosemiz.com
-ortaknotlarim.com
 ortaksayfalar.com
 ortaksehir.com
 ortakverimerkezi.com
@@ -6231,8 +6229,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -6982,7 +6980,6 @@ pttavmkmdogrulama.com
 pttavmkmislem.firebaseapp.com
 pttavmkmislem.web.app
 pttavmkmkontrol.firebaseapp.com
-pttavmkmkontrol.web.app
 pttavmkmportal.web.app
 pttavmkmraporlama.com
 pttavmkmsorguladim.web.app
@@ -7491,7 +7488,6 @@ sahibinden.sozlesme-islemleri-online.com
 sahibinden.tr-alisveris-islemler.online
 sahibinden.trguvenli-siparis.online
 sahibinden.trguvenlisiparisler.online
-sahibinden.trsiparisodeme.online
 sahibinden63.com
 sahibindenguvenli.click
 sahibindenguvenlikasko.com
