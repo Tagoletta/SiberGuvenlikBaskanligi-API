@@ -569,7 +569,6 @@ akaycicekcilik.com
 akbadonerd.click
 akbank-bireysel-sube.ph
 akbank-bireysel-subesi.ph
-akbank-borc-sorgulama.ph
 akbank-isube.ph
 akbank-kredi-basvuru-merkezi.loseyourip.com
 akbank.com.ph
@@ -1123,7 +1122,6 @@ bbay0nl3ndiriliy0rs0n.duckdns.org
 bbva-adyen-garantibbva.com.ph
 bbvagarantimobiladres.ph
 bbvagarantiwebiadeleri.ph
-bbvagarantiwebiadesi.ph
 bbvagarantiyenikard.ph
 bbvagarantiyeniyilkredisi.ph
 bbytyzirtar.cfd
@@ -2241,7 +2239,6 @@ e-nvirandevu.net
 e-nvirandevu.org
 e-sagligahemenkavussss.digital
 e-sozlesme.kurumsal-online-islem.com
-e-sube-isbank.ph
 e-sube.coin-tr.net
 e-sube.hdfportfoy.com
 e-sube.hedeffon.com
@@ -2413,7 +2410,6 @@ enhanceblabber.cc
 eniyisiyim.sbs
 enlightgo.com
 enlimitonay.online
-enpara-mobilsubem.ph
 enpara-qnbfinansnankan.ph
 enparakampanyabasvuru.ph
 enparasubegiris.ph
@@ -2489,7 +2485,6 @@ esube.hedeffon.com
 esube.hedefonmusteripanel.com
 esube.hedefonportfoyum.com
 esube.sumergrup.org
-esubem--qnbfinansbank.ph
 esubeturkishkayit.com
 etakip.org
 etalimatdava.org
@@ -6233,8 +6228,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
