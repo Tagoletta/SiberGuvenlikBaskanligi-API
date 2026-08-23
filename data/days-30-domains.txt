@@ -217,7 +217,6 @@ a-101xaxakapinda.com
 a-g-r.my-homeip.de
 a-yonlendir.ink
 a1-82rvdnalbrdan.org
-a100111aa101110202.duckdns.org
 a101-firsatlariniz-artik-burada.duckdns.org
 a101-firsatlariniza-gelin.duckdns.org
 a101-girisfacebook.click
@@ -327,7 +326,6 @@ akbadonerd.click
 akbank-bireysel-sube.ph
 akbank-bireysel-subesi.ph
 akbank.com.ph
-akbankbireysel-sube.ph
 akbankinvestprogram.click
 aklbnakbasvkampnya.com
 akmobil-bireysel-com.duckdns.org
@@ -502,6 +500,7 @@ aslicezasorgu.org
 asnasnahyaaslananala.49843544322684.sbs
 asncxbyaaasdanala.49843544322684.sbs
 asncxbyaaasdanala.65735677234232.sbs
+asncxbyaaasdanala.89465489421.sbs
 asncxbyaaasdanala.benimlekalbirazdahadur.sbs
 asset-finnans.com
 assignpasskey.com
@@ -516,7 +515,6 @@ auditva.cyou
 aurekh.com
 authstep-booking8442.com
 autodiscover.862413415907186110.duckdns.org
-avansy-web.ink
 avantaj-tr.online
 avaraj.my-homeip.de
 avis-sozlesme.com
@@ -772,7 +770,6 @@ buy-tr.online
 bva-digital.shop
 bytezi.xyz
 byyrdrmdmdnsnttt.com
-c-8796086020260726-019d4d23-f9e1-7d22-bcd6-535b8233ac63.codepen.dev
 c2.saintpetersburgresident.ru
 c2qv9xrh7mzk4ptw6jyniii.click
 c4433.site
@@ -1084,6 +1081,7 @@ discover-garantibbva.com.ph
 discovergarantibbva.com.ph
 djflslfjflslfikrorie.blogspot.com
 dkatilim.com
+dkis.com.tr
 dl.wel1.ru
 dmca-chrome-extensions.click
 dnsapple.ru
@@ -1488,7 +1486,6 @@ garantibbvaais.ph
 garantibbvacreditsuisse.ph
 garantibbvafirsatlri.duckdns.org
 garantibbvakasikornbank.ph
-garantibbvakredibasvurusu.info
 garantibbvatoyota.ph
 garantili-basvuru-islemlerim.webredirect.org
 garantili-bireysel-islemim-com.duckdns.org
@@ -1869,6 +1866,7 @@ hedeffon.com
 hedefon.hedeffon.com
 hedefon.hedefonportfoyum.com
 hedefonportfoyum.com
+hediyen--burada.online
 hefeelfeguystr.duckdns.org
 hefelfeguystr.duckdns.org
 heismebktaltara.net
@@ -2931,8 +2929,6 @@ mhriberazonle.icu
 mhrk23km6747.duckdns.org
 mhrs-e-devlet.vercel.app
 mhrs-edevletgiris.sbs
-mhrs-giris.blog
-mhrs-hastane.digital
 mhrs.alllahnerdekiya.sbs
 mhrs.cicekcihizli.homes
 mhrs.mersinstar.com
@@ -2948,7 +2944,6 @@ mhrsislemlerin.com
 mhrsrandevu346.duckdns.org
 mhrsrandevumerkezi.myshopify.com
 mhrsrandevunx.blogspot.com
-mhrsrarandvlrmbrda.sbs
 mhrsrarandvzhmzrsbrda.sbs
 mhrsrarandvzlrmmhrsbrda.sbs
 mhrsrndsjlvsv.com
@@ -3410,7 +3405,6 @@ otokocaviskiralama.net
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilomturkey.net
-otokocfiloturkiye.com
 otokockirala.com.tr
 otokockirala.net.tr
 otokoclakiralama.com
@@ -3425,7 +3419,6 @@ otokocturkiyefilo.com
 otoplusaracal.com
 otoplusaraclar.com
 oturum-isleyis.work
-outlook-office.micsrosoftonline.com
 owa-ms365.com
 ozdeslesim-tire.ink
 ozel-hizmet-islemleri.com
@@ -4063,7 +4056,6 @@ senbanaddosatbensanaclick.sbs
 senbnademdnmmvgzl.com
 sendegelbasvurkazanpromosyon75.click
 senkrona.com
-sepet-mobil-tr.online
 sepete-ozel-tr.site
 sepetimdeonline.online
 sepetimdeonline.site
@@ -4791,7 +4783,6 @@ v73947934.click
 vakifbank-2--vakifbanktr.replit.app
 vala.e-wl.com
 valenspara-elemond.it.com
-valenspara-elre.it.com
 valenspara-fejoo.it.com
 valorvo.com
 valuechoicebay.shop
@@ -4834,7 +4825,6 @@ velirapolse-pudore.lol
 veltrani.it.com
 veri-donustur.ink
 verification-salesforce.com
-verify-akbank.testyourphishing.com
 verityluxenova.com
 vertexengine.cc
 vertexpulsecore1.lol
