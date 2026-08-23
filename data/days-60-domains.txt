@@ -1327,7 +1327,6 @@ bookedadmpanel.pro
 booking-careers.com
 bookreservphoto.pro
 borsaci.site
-borsagundemi.media
 borsalio.click
 borsava.capital
 boss.turkiyekalkinmabankasi.com
@@ -2014,6 +2013,7 @@ dfgdfgerht.duckdns.org
 dfgdfssdfffgs.duckdns.org
 dfsopsdkopkfdbsdfsbbbb.shop
 dgctf.concretewestgj.com
+dgellolardaws.duckdns.org
 dhdsjsdjxc.duckdns.org
 dhetressedest.duckdns.org
 diamond-cli-znsxphqell.cn-shanghai.fcapp.run
@@ -2668,7 +2668,6 @@ finansai.org
 finansbankkredikarti.ph
 finansbankkrediparacepte.ph
 finansfactoring.com
-finansgundemi.media
 finansman-togg.com
 finansmaninfo.biz
 finansportali.media
@@ -2705,6 +2704,7 @@ firsatlarfiro.duckdns.org
 firsatlarhomest.duckdns.org
 firsatlarra.website
 firsatlrmbrdancaydanligim.mooo.com
+firsatmerkezi.sbs
 firsatmerkeziqx.sbs
 firsaturunleral.com
 firsaturunleral.net.tr
@@ -3350,6 +3350,7 @@ haberler123531234.shop
 haberler1278945.shop
 haberler1283432.shop
 haberler131231123.site
+haberler1425123.shop
 haberler1436542.sbs
 haberler14534925.shop
 haberler145365349.sbs
@@ -8506,7 +8507,6 @@ toki-gov-tr-017.vercel.app
 toki-gov-tr-018.vercel.app
 toki-gov-tr-019.vercel.app
 toki-gov-tr-020.vercel.app
-toki-gov-tr-19.vercel.app
 toki-gov-tr-fatih.vercel.app
 toki-gov-tr-girisi.vercel.app
 toki-gov-tr-konut.vercel.app
