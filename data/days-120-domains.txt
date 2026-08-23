@@ -12453,8 +12453,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -19595,7 +19595,6 @@ zirgirismobildenekrani.sbs
 zirindfc.cfd
 zirkalex.mom
 zirmobilaktifekran.sbs
-zirmobilekranlarim.sbs
 ziroootget.cfd
 zirpon.forum
 zirsis.cfd
