@@ -2122,7 +2122,6 @@ basvuruherzamandevamsiparis.sbs
 basvuruinternettalepleri.duckdns.org
 basvurukontrlleri.rf.gd
 basvurukuvytpromosyon.duckdns.org
-basvurukvytaleplerimiz.duckdns.org
 basvurularbaslasdir.cloud
 basvurulardevamediyo.cloud
 basvurulari-1.sbs
