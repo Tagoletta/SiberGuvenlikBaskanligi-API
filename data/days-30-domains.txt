@@ -778,6 +778,7 @@ cap-t2.spec-connectweb3.tv
 cap.spec-connectweb3.tv
 capitalzone.best
 capulcu.xyz
+caramodi-jalapara.lol
 cardo.workers.dev
 cark-cekilisim.com
 cark-cekilisim.info
@@ -1377,8 +1378,11 @@ finpath.world
 firebase.e-wl.com
 firsatavcisi.sbs
 firsatbonus.digital
+firsatcilarcepte.online
 firsatdefteri.sbs
 firsatgunlugu.sbs
+firsatkapinda.online
+firsatkutusu.sbs
 firsatlar-herzaman-burada.blogspot.com
 firsatlar.obilet-tr.uk
 firsatlarcepte.xyz
@@ -1396,6 +1400,7 @@ flakecheck.online
 fldwnld.online
 flerdensewxede.duckdns.org
 flrsatagustos.com
+flrsatdiyari.com
 flrsatlardiyari.com
 flsdwnld.online
 fluokq.xyz
@@ -2102,6 +2107,7 @@ incele.online
 income-liquidity.com
 indirim-istanbulo.net
 indirimli-sepet-mobilde-tr.online
+indirimsepeti.sbs
 indirimsonfrstt.dnsup.net
 indirimsonfrsttxx.duckdns.org
 infaztc.net
@@ -2331,6 +2337,7 @@ kephepsiburada.com
 kerametran.ezgateway.net
 keskn5brdaclsyrz.com
 kespola.surf
+keyifteyiz.duckdns.org
 keyokta.com
 keysyncos.com
 kgm-gopv.com
@@ -2448,6 +2455,7 @@ kredi-basvurusu-yap.cloud
 kredi-destek-online.cloud
 kredi-online-basvurular.net
 kredi-online-hizmetleri.buzz
+kredi-online-hizmetleri.online
 kredibasvuruonline.lat
 krediibsvrrrkmnpyyyprmsnnn.info
 krediye-online-basvur.cfd

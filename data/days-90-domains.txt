@@ -484,7 +484,6 @@
 75853489.xyz
 7640450a-b.b-cdn.net
 76423243.net
-76456352.net
 765234525.net
 76524315.net
 76535432.net
@@ -1357,7 +1356,6 @@ autoupdatethis.com
 avansy-web.ink
 avantaj-tr.online
 avantaj-web.guru
-avantajlimarketler.click
 avantajnoktasi24.sbs
 avaraj.my-homeip.de
 avenza.cfd
@@ -1769,7 +1767,6 @@ belsis.xyz
 beltmealmusic.com
 beltrainstormsnowman.com
 benbenks.duckdns.org
-benburdaykenkimseekmekyiyemez1.net
 benburdaykenkimseekmekyiyemez2.net
 benburlarnherseyncanlagrdm35.info
 bendegilbizdemeliyiz.sbs
@@ -2360,6 +2357,7 @@ capitalnuvo.com
 capitalzone.best
 capitolom.com
 capulcu.xyz
+caramodi-jalapara.lol
 carderyakuptv.click
 cardioora.com
 cardo.workers.dev
@@ -3308,8 +3306,6 @@ e-girionlin.cfd
 e-ilan-elektronik-sepetimiz.com
 e-ilan-elektronik-siparisim.com
 e-ilan-elektronik.com
-e-ilan-online-alisveris-sepetim.com
-e-ilan-online-alisveriz-sepetim.com
 e-imza-sozlesme.com
 e-islemler-online-saglik.com
 e-islemler-online-sagliklar.com
@@ -3981,8 +3977,11 @@ firsat-urununuz-sondemler.sbs
 firsatarackiralama.online
 firsatavcisi.sbs
 firsatbonus.digital
+firsatcilarcepte.online
 firsatdefteri.sbs
 firsatgunlugu.sbs
+firsatkapinda.online
+firsatkutusu.sbs
 firsatlar-herzaman-burada.blogspot.com
 firsatlar.myonlineportal.ch
 firsatlar.obilet-tr.uk
@@ -4040,6 +4039,7 @@ flowexi.com
 floworix.com
 flowradarpro.com
 flrsatagustos.com
+flrsatdiyari.com
 flrsatlardiyari.com
 flrsatvaktlndekaplnizageldi.com
 flsdwnld.online
@@ -5898,6 +5898,7 @@ indirimli-sepet-mobilde-tr.online
 indirimlibirgun.duckdns.org
 indirimligunlerretto.duckdns.org
 indirimmarketleri.click
+indirimsepeti.sbs
 indirimsepetinde.com
 indirimsonfrstt.dnsup.net
 indirimsonfrsttxx.duckdns.org
@@ -6600,6 +6601,7 @@ keskn5brdaclsyrz.com
 kespola.surf
 kevangida.com
 kexbazar.gifts
+keyifteyiz.duckdns.org
 keyokta.com
 keypmenu.info
 keysyncos.com
@@ -6805,7 +6807,6 @@ kmpnyaabsvrrprmsnynnsnfrstlarr.pro
 kmpnyaabsvrrrhksnfrstlarrr.info
 kmpnyaabsvrrrhksnfrstlarrr.online
 kmpnyaaemekkliiprmsnyn.live
-kmpnyaasnnnfrsattlrrrbsvrr.art
 kmpnyaasnnnfrsattlrrrbsvrr.live
 kmpnyaasonfirsaattbsvrr.online
 kmpnyabsvbrrprmsynn147852.online
@@ -6970,6 +6971,7 @@ kredi-destek-online.cloud
 kredi-online-basvuru-platform.sbs
 kredi-online-basvurular.net
 kredi-online-hizmetleri.buzz
+kredi-online-hizmetleri.online
 kredi-online-islem.lat
 kredi-online-islem.sbs
 kredi-online-islemleri.lat
@@ -7166,7 +7168,6 @@ lifereal.digital
 lifescapehub.com
 likeboop.com
 likemojo.com
-likid-write-logrnol.myonlineportal.ch
 likihigidese-derepiluyu.lol
 liksaderese-zeredesede.lol
 lilhzvkpsmxn.icu
@@ -8230,7 +8231,6 @@ mslraktivhemen.uk
 msopsa.top
 mspasskey.com
 msrhonlbvr.com
-msshrdkevu.com
 msshrmsfgs.com
 msshrrdkevu.com
 mtmediareach.com
@@ -9084,8 +9084,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -9787,7 +9787,6 @@ pplardandandan.shop
 ppp00oo3o0ooopp.duckdns.org
 pppzirpppsf.nicepage.io
 ppvagirisgonizlemenuapptr.space
-pqvagirisonizlemenugapptr.space
 pratik-portal.shop
 pray-subcommittee-dogs-milan.trycloudflare.com
 prb.coinsecimi.com
@@ -9979,7 +9978,6 @@ pttavm-oto-kontrol.firebaseapp.com
 pttavm-oto-kontrol.web.app
 pttavm-tramer-km-sorgu.web.app
 pttavm.com.ph
-pttavm.crefrsnzngtrdklri.info
 pttavm.e-ilan-online.com
 pttavm.guvenli.ilanlar.duckdns.org
 pttavm.guvenlihizmet.online
