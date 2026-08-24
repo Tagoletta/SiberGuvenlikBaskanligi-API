@@ -22,7 +22,6 @@
 10-06-2026dogrulama.duckdns.org
 10-06-2026kampanyam.duckdns.org
 10000000001.opik.net
-1001harcabitmez.click
 101-cepte-sadece-online-ozel-sepet-indirimleri-mobilde-tr-extra.elektro-tr.online
 101-de-sadece-online-ozel-extra-mobil-indirimleri-shop-tr.plus
 101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online
@@ -7959,6 +7958,7 @@ mhrlsahmnal.uk
 mhrlshastnisleri.com
 mhrlshmnaktv.uk
 mhrlsisleriogren.cfd
+mhrlww.com
 mhroasppnl.shop
 mhrs-2.digital
 mhrs-app.online
@@ -9084,8 +9084,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -9750,7 +9750,6 @@ porland-tr.shop
 porlandsale.shop
 porlanducuz.shop
 portal-mhrs.digital
-portal-netgsm.co
 portal-netgsm.live
 portal-netgsm.online
 portal-web3-extension-welcome.pages.dev
