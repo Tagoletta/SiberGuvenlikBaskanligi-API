@@ -11,6 +11,7 @@
 101-de-sadece-online-ozel-extra-mobil-indirimleri-shop-tr.plus
 101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online
 101-extra-mobil-online-sadece-bugune-ozel-sepet-indirimi-tr.shop
+101-extra-mobil-sadece-online-ozel-sepette-indirim-tr.web-sepet.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
 101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online
 101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-shop-tr.avantajshop.online
@@ -820,6 +821,7 @@ cekilishemenburada.online
 cekilisi-paribu.co
 cekilissonucqnbfinans.com.ph
 cekilissonucuqnbfinans.com.ph
+celikzirhli.click
 cepgarantisubeci.ph
 cepte-islemleriminz-garanti.duckdns.org
 cepte-islemleriniz-garanti.duckdns.org
@@ -1057,8 +1059,10 @@ dijital-kampanyaindirimler.sbs
 dijital-kampanyalarindirim.sbs
 dijital-kapinda.sbs
 dijital-onlinehizlisiparis.sbs
+dijital-onlinesiparis.sbs
 dijital-servisler.sbs
 dijital-simdikapinda.sbs
+dijital-urunkapinda.sbs
 dijitalbilgi-giriskampanya.sbs
 dijitalbilgi-girisnetkampanya.sbs
 dijitalbilgi-sorguislem.sbs
@@ -1120,7 +1124,6 @@ dro4432.site
 dry-bush-5408.animalrescueeducationcenter-org.workers.dev
 dsdsdsdssd.sbs
 dsfggfdfdgfdg.duckdns.org
-dskflkaksldklcasx123x12.cfd
 dstndnstnckym.click
 dubai.customszf.top
 duckduckdcqc.duckdns.org
@@ -1599,7 +1602,6 @@ googlenets.ru
 googleplaydown.com
 gorunum-ayarlar.ink
 gosats.us
-goshaw.milanopitza.cfd
 gov.onemotorlng.cc
 gov.onemotoryng.cc
 gov.sg-bila.top
@@ -1872,6 +1874,7 @@ hedefon.hedefonportfoyum.com
 hedefonportfoyum.com
 hediyen--burada.online
 hediyen-burada.online
+hediyenburada.online
 hefeelfeguystr.duckdns.org
 hefelfeguystr.duckdns.org
 heismebktaltara.net
@@ -3112,6 +3115,7 @@ nahis.online
 nailscanai.com
 nakil-web.ink
 nakil-web.my-homeip.de
+nakliyathizmetlerieniyisiburada.sbs
 nalikalisgo-modere.lol
 nato-by.info
 nato-ie.info
@@ -3961,6 +3965,7 @@ safksafsafkjasfjkfssssfasafasafkj.com
 safsaqwrcs.sbs
 sagliklikalalim.cfd
 sagliklikalalim.sbs
+sagliklikalalim.xyz
 sahibinden-get.hizlikapimda.com
 sahibinden-get.islem-guvende.online
 sahibinden-get.mobilsepetlerimservis.online
@@ -3992,6 +3997,7 @@ sahibinden.guvenli-tamamla.com
 sahibinden.hizlial-siparis.com
 sahibinden.id53131.cfd
 sahibinden.ilan-havale-fast.com
+sahibinden.ilanda-sepetim-1099.com
 sahibinden.ileservishzmetlerinz.com
 sahibinden.islemlerin-mobilde.com
 sahibinden.kolaysiparisler.com
@@ -4342,6 +4348,7 @@ sorguhukuk.org
 sorgulagec.online
 sorgulama-tr.online
 sorgulamasisteminde.xyz
+sorgumalitr.org
 sorgunbosphours.com
 sorgupaneli.ink
 sorgupanelimapi.atspace.tv
@@ -4506,6 +4513,7 @@ teb-com.my-homeip.de
 tebbasvuruonay.my-homeip.de
 tebbasvurusayfa.my-homeip.de
 tebbmb.cfd
+tebcepte-com.my-homeip.de
 tebdeburdabasvuru.my-homeip.de
 tebicinbasvuru.my-homeip.de
 tebinternetpage.my-homeip.de
