@@ -582,7 +582,6 @@ a1001.online
 a100111aa101110202.duckdns.org
 a101-com-tr-aldin-aldin-extra-online.elenamasaj.com
 a101-com-tr-onlineozel.duckdns.org
-a101-com.tr.webliosy.online
 a101-ekstra.s3.eu-north-1.amazonaws.com
 a101-firsatlariniz-artik-burada.duckdns.org
 a101-firsatlariniza-gelin.duckdns.org
@@ -946,6 +945,7 @@ aldinaldin.ekstra101.dpdns.org
 aldinaldinburda.duckdns.org
 aldinaldinekstra.site
 aldinaldinekstra.xyz
+aldinaldinfirsatkapinagelsin.com
 aldinaldinredmicilergeliyorburdan.sbs
 aldinaldinsuper.sbs
 aldinaldintemmuz.com
@@ -3487,6 +3487,7 @@ ehhgsyukleme.org
 ehibeler.cfd
 ehukukgov.org
 ehukukteblig.org
+eifffeeeeel.opik.net
 eikamet-sigorta.com
 einarkramer.22web.org
 einfazgib.org
@@ -4249,6 +4250,7 @@ garanti.3w17.com
 garanti.bb.va-tr.com
 garanti.giris.yansitek.cam
 garanti.vva8.com
+garantibank-iade-kampanya.ph
 garantibbva-acres.com.ph
 garantibbva-bell.com.ph
 garantibbva-cainiao.ph
@@ -4492,6 +4494,7 @@ gmaildestektr.com
 gmslb.net
 gmtracker.online
 gmtrackerreserve.online
+gnbfinansbank-mobilfirsatlari.ph
 gnceladresweb.web.app
 go-para-odeme.online
 goalfree.cfd
@@ -6520,6 +6523,7 @@ karacabutik.com.tr
 karacaclub.shop
 karacadoms.club
 karacadoms.co
+karacaev.shop
 karacaevs.store
 karacaevtr.store
 karacagood.shop
@@ -6662,6 +6666,7 @@ kepguncelleme.com
 kephepsiburada.com
 kepyenileme.com
 kerametran.ezgateway.net
+kereraasz4n.blogspot.com
 kerrrsnaw.duckdns.org
 keskn5brdaclsyrz.com
 kespola.surf
@@ -6777,6 +6782,7 @@ kkuvvve.duckdns.org
 kkxqbh.top
 kkxxcsswxxx.duckdns.org
 kl21177.com
+klardenslenews.duckdns.org
 klavli.site
 klenderadmsnevllh.shop
 klerdesnweasdes.duckdns.org
@@ -7673,7 +7679,6 @@ magazaindirimi.com
 magazamda-ilanim.com
 magazanizagelenfirsat.click
 magelan-nato.net
-magenta-chough-241198.hostingersite.com
 mahkemebirim.org
 mahkemeceza.com
 mahkemeceza.org
@@ -7883,7 +7888,6 @@ mehcar.com.tr
 meherese.xyz
 meherese317.com
 meheresebayram2.sbs
-meheresebayram7.sbs
 mehereses2keratar.vercel.app
 meherse.com
 mehersel.com
@@ -9158,8 +9162,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -13598,7 +13602,6 @@ wsb-tapsverndvun.info
 wsb-tapsverndvun.net
 wtw252s-wrw5tww.xyz
 wtyqahsd.xyz
-wunzarek.media
 wututuututu.nicepage.io
 wwdx23b3.duckdns.org
 wwvhalkbankcekilis.org.ph
@@ -13630,6 +13633,7 @@ www-qnbfinansbank-cekilis-firsat-com.ph
 www-qnbfinansbank-cepsubesi-com.ph
 www-qnbfinansbank-contact.ph
 www-qnbfinansbank-help.ph
+www-qnbfinansbank-internetsubesi-com-tr.ph
 www-qnbfinansbank-kampanya.ph
 www-qnbfinansbank-login.ph
 www-qnbfinansbank-online.ph
