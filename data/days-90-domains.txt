@@ -147,7 +147,6 @@
 182-alo.com
 182-hatti.com
 182-intt.com
-182-meharese.com
 182-mehharese.com
 182-mherase.com
 182-net.com
@@ -263,7 +262,6 @@
 278973fea636720-5xrydy.csb.app
 2841948923.com
 290299234.sbs
-2934858585949.net
 29c02a5b-e.b-cdn.net
 2a0aabb0-e.b-cdn.net
 2akjsjcdsakkkjx123x131.sbs
@@ -5902,7 +5900,6 @@ income-bankroll.com
 income-liquidity.com
 income-wallet.com
 indexfa.com
-indexlin.com
 indexvin.com
 indirim-cepte.online
 indirim-dunyasi.click
@@ -6960,7 +6957,6 @@ kratoslep.duckdns.org
 kravisonline.net
 kravonixel.com
 krayllrihgsyle.cfd
-krdanlopardansd.click
 krdiibsvrrfrsltrrrspnnnnn.art
 krdiibsvrrfrsltrrrspnnnnn.info
 krdiibsvrrfrsltrrrspnnnnn.pro
@@ -8010,7 +8006,6 @@ mhrsekrangirisyonlendirme.duckdns.org
 mhrsgiris-edvltlogin2026.com
 mhrsgiris.sbs
 mhrsgirisportaliburada.digital
-mhrshekimlarandevusu.vercel.app
 mhrshekimzlrandevusu.vercel.app
 mhrshemenler.com
 mhrsilerandevuekrani.duckdns.org
@@ -9115,8 +9110,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -10336,7 +10331,6 @@ rallyhollow.com
 ralstore.gifts
 ramsparkgirisi.sbs
 randebulerle.uk
-randesavuluzamassnninicin.com
 randevhziemtbst.online
 randevhziemtbst.store
 randevu.12855w652.cfd
