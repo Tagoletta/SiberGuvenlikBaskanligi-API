@@ -10,7 +10,6 @@
 009987b555552.duckdns.org
 010101023x235.duckdns.org
 0101ksks0101ss.com
-010202ks02sk.com
 012492352.duckdns.org
 019d442a-endpoint.com
 019d442e-endpoint.com
@@ -694,7 +693,6 @@
 876654465.net
 87665543.net
 8768345345.net
-87878787.sbs
 87e0b6c636999b.lhr.life
 87e0bbc636999b.lhr.life
 887879ymnsdssdsas.com
@@ -864,7 +862,6 @@ a1o1ekstra.duckdns.org
 a1o1ekstrac.duckdns.org
 a1o1ekstralar.cc.dvrlists.com
 a1o1eksttra.duckdns.org
-a1o1firnisanfirsatlari.blogdns.com
 a1o1firnisanfirsatlbtry.blogdns.com
 a1o1firnisanfirsatlnisb.blogdns.com
 a1o1firnisanfirstlanistr.blogdns.com
@@ -1383,7 +1380,6 @@ anadoluisigi.com
 anadolukapsami.com
 anadolukesiti.com
 anadolukoprusu.com
-anadolulinked.com
 anadolumahkeme.org
 anadolusehri.com
 anadolusync.com
@@ -6167,6 +6163,7 @@ gercekrealistsa.remotewire.net
 gercektencokozurdileriz.duckdns.org
 gerdasreea.duckdns.org
 gerdelerdesess.duckdns.org
+gerdenleawkelr.duckdns.org
 gereatas.nicepage.io
 geri-bildirim.biz
 geri-bildirimler.ink
@@ -6307,6 +6304,7 @@ glantix.surf
 glantos.org
 glatas.nicepage.io
 glazed-client.com
+glerdanesakare.duckdns.org
 glerdenlerdews.duckdns.org
 glimzo.click
 glintryvo.com
@@ -9378,6 +9376,7 @@ kizlarvixlex.baby
 kizlarvixlex.cfd
 kizlarvixlex.click
 kizlarvixlex.monster
+kizlarvixlex.sbs
 kizlarvixlex.xyz
 kk155polis.online
 kk155polisi.online
@@ -12565,8 +12564,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -12640,6 +12639,7 @@ owlstoryweapon.com
 oxdzxz.click
 oyakglobal.com
 oyaktrade.com
+oyaktradeplus.com
 oykportfolio.online
 oynat.click
 oyrnassevry.net
@@ -14486,7 +14486,6 @@ saddssonlisftrarsaltct1.blogdns.com
 sadebakis.gifts
 sadeconbfirsatlartrsdv.blogdns.com
 sadeconfitlartrsdv1o1.blogdns.com
-sadecoslfighrsatlrfbghklbhb.blogspot.com
 sadecosnfirsatlar1o1d.blogdns.com
 sadecsonlirnefirsatlar.blogdns.com
 sadeosolsprisatlaybftrk11.blogspot.com
@@ -15488,6 +15487,7 @@ slabworks.sbs
 slardankardanlardan1234.click
 sldmigeldisten.xyz
 sleno.pro
+sliyteye-aktrlar.com
 slkmalkretler.shop
 slkmalrkelr.shop
 slmgr.sh
@@ -15626,6 +15626,7 @@ solvio.cfd
 solvixo.xyz
 solvoro.xyz
 solxo.xyz
+somkerler.com
 son-gun-destekleme.cfd
 son101.duckdns.org
 son101cilerkaldi.cloud
