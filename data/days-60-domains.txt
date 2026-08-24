@@ -2843,7 +2843,6 @@ garanti-cepte-basvuru-com.webredirect.org
 garanti-cepte-basvuruekrani-com.webredirect.org
 garanti-cepte-islemler-com.webredirect.org
 garanti-kredili-bonus-com.mayddns.com
-garanti-krediye-basvur.sbs
 garanti-sube-bonus-islemlerim.mayddns.com
 garanti-yesil-kredili-garanti.xyz
 garanti.3w17.com
@@ -6263,8 +6262,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -7178,7 +7177,6 @@ rafa4dkjacjkdcakdx23.cfd
 rafa5cjkadscasdjxk13x123.cfd
 rafa6cadkjasjkdax13x1x312.cfd
 rafa7cadscadskjxk13x123x123.cfd
-rafa9911klasdkajx123x123.sbs
 rafa9jdasjxjhasxakdjaxksx13123.cfd
 rafac123lx123klx123z1.cfd
 rafadantayfa13x123x1312.sbs
@@ -7646,7 +7644,6 @@ sepetimdeonline.online
 sepetimdeonline.site
 sepetimdeonline.store
 sepetimonay.click
-sepetimonay.online
 sepetimonay.shop
 sepetimonay.study
 sepetimonay.surf
@@ -8550,9 +8547,6 @@ toggotoyedek.com
 toggtrumoresatis.com
 toki-apartman.gravitycl.app
 toki-gov-e-dev-basvuru-yap.online
-toki-gov-tr-017.vercel.app
-toki-gov-tr-018.vercel.app
-toki-gov-tr-019.vercel.app
 toki-gov-tr-020.vercel.app
 toki-gov-tr-fatih.vercel.app
 toki-gov-tr-konut.vercel.app

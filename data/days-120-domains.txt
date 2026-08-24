@@ -2714,7 +2714,6 @@ binancetr.duckdns.org
 binancetrbasvurulari.duckdns.org
 binancetrcekilis.com
 binancetrkampanya.com
-binanceturbasvuru2.duckdns.org
 binanciapools.top
 binanciasgreece.top
 binanciaspool.top
@@ -10543,7 +10542,6 @@ mail.adayislem.com.tr
 mail.aotuzbirharcaharcatmez.duckdns.org
 mail.avskocfilo.net
 mail.ayuzbirdeotuzbir.duckdns.org
-mail.binanceturbasvuru2.duckdns.org
 mail.blnance-basvuru.info
 mail.digital-ode.com
 mail.evsahibibasvuru.com
@@ -12031,7 +12029,6 @@ ns-wwwntvcomtr.sludgy.cfd
 ns-wwwpostacomtr.fakingguango.cfd
 nsacasbvsaasa.sbs
 nsaxasdahdasd.cfd
-nsortasikrca.cfd
 ntamlnmtalnmtla.net
 ntkltklnklntlknt.net
 ntlanmatkak.net
@@ -15731,7 +15728,6 @@ sorgula-borctahsilat.com
 sorgulagec.online
 sorgulama-ekrani.online
 sorgulama-tr.online
-sorgulamaislemleriniz.duckdns.org
 sorgulamasisteminde.xyz
 sorgumahkeme.org
 sorgumali.org
