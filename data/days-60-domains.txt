@@ -1378,7 +1378,6 @@ briefzone.xyz
 brightbulletin.site
 brightloop.today
 brightnexa.in
-brightscope.today
 brighttrend.shop
 brika.surf
 brinelavo.vu
@@ -4206,7 +4205,6 @@ istcanistanbulbelgim.xyz
 istelmancankart.xyz
 istemredo.xyz
 istengelenler.shop
-isthemenbasvur.uk
 istkadarbkasadn.com
 istkartlabuanlama.duckdns.org
 istkartsamabggy.icu
@@ -8261,7 +8259,6 @@ tasklina.cyou
 tasklix.blog
 taskveria.gifts
 tavello.cyou
-tavexel.xyz
 tax-filecenter-irs.matthewtarwater.com
 tays.sayatatata.xyz
 tbdefirsat.xyz
@@ -8497,7 +8494,6 @@ toki-gov-tr-konut4.vercel.app
 toki-gov-tr-konut5.vercel.app
 toki-gov-tr-konut6.vercel.app
 toki-gov-tr-mobil-giris.vercel.app
-toki-gov-tr-mobil.vercel.app
 toki-gov-tr-mobiliniz.vercel.app
 toki-gov-tr.vercel.app
 toki-gov.yapisalkonutlar.lol
@@ -8707,7 +8703,6 @@ trplgnlerdervdalsn.click
 trpolis155.online
 trsiparisbilgi.online
 trsiparisonay.online
-trsorgu.net
 trturk24ku.com
 trturk24nex.com
 trturk24qor.com
@@ -8805,7 +8800,6 @@ turkiyegozlemagi.com
 turkiyegundem24.com
 turkiyegunleri.com
 turkiyehaberblog.com
-turkiyehaberportal.com
 turkiyehaberzone.com
 turkiyekalkinmabankasi.com
 turkiyekalkinmayatirimbankasi.com
@@ -9270,6 +9264,7 @@ website6667589999.nicepage.io
 website6667809.nicepage.io
 website6668123.nicepage.io
 webstt182.com
+websube-akbank.ph
 webte-182.com
 webte182.com
 webtkrmsal.com
