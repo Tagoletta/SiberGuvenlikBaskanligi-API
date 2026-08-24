@@ -954,6 +954,7 @@ avsfiloarackiralama.com
 avsfilobayi.com
 avsfilocar.org
 avsfilokiralamaa.com
+avsfilokurumsal.com
 avsfilorental.com
 avskirala.net
 avskiralamafilo.com
@@ -1622,6 +1623,7 @@ cep-te-teb.myonlineportal.de
 cepde-tebden.myonlineportal.de
 cepgarantisube.ph
 cepgarantisubeci.ph
+ceppptesokklarli.online
 cepsube-finansbank.ph
 cepte-com.my-homeip.de
 cepte-islemleriminz-garanti.duckdns.org
@@ -1641,6 +1643,7 @@ ceptesoklarile.online
 cepteteb-com.my-homeip.de
 cepteteb-emekli-basvur.myonlineportal.ch
 cepteteb-merkeziislemler.my-homeip.de
+ceptetebde-com.my-homeip.de
 ceptetebden.my-homeip.de
 ceptetebeva.my-homeip.de
 ceptetebli-basvurum.my-homeip.de
@@ -2057,6 +2060,7 @@ dijital-simdikapinda.sbs
 dijital-sipariskapinda.sbs
 dijital-siparislerkapinda.sbs
 dijital-urunkapinda.sbs
+dijital-urunlerkapinda.sbs
 dijitalbilgi-giris.sbs
 dijitalbilgi-giriskampanya.sbs
 dijitalbilgi-girisnetkampanya.sbs
@@ -3213,6 +3217,7 @@ gstaticsnews.org
 gstaticsnewsz.com
 gta6-play.ru
 gtrllkol.cfd
+gttignyeryerdegil.sbs
 gucum109.click
 gugoahahsadwasdas923sad.click
 gugoashdahshdashd999wdsa.click
@@ -3573,6 +3578,7 @@ hediyeler-burada.online
 hediyelerburada.online
 hediyelerim--burada.online
 hediyelerim-burada.online
+hediyelerimburada.online
 hediyelerin--burada.online
 hediyelerin-burada.online
 hediyelerinburada.online
@@ -3580,6 +3586,7 @@ hediyem-burada.online
 hediyen--burada.online
 hediyen-burada.online
 hediyenburada.online
+heemenisn-sonuc.net
 hefeelfeguystr.duckdns.org
 hefelfeguystr.duckdns.org
 heismebktaltara.net
@@ -3601,6 +3608,7 @@ hemen-aninda.cards
 hemen-birkacdakika.guru
 hemen-hediye--burada.online
 hemen-hediye-burada.online
+hemen-hediyeburada.online
 hemen-siparisver.com
 hemenaracbakim.blogspot.com
 hemenas-sonvlsak.net
@@ -3628,6 +3636,8 @@ hemennalrtnlasna.net
 hemennotknaslnta.net
 hemenogren.abrdns.com
 hemens-naosnuc.net
+hemensansburaya.online
+hemensielm-sonuc.net
 hemensielmkntasi.net
 hemensielmnokta-islnakt.net
 hemensonucislemnt.net
@@ -3779,7 +3789,6 @@ hizlicadevamsektorer.sbs
 hizlicasatinalhemensendebirlikteyiz.online
 hizliciadevametmeliyiz.sbs
 hizliciatoplama.sbs
-hizlidanogren.xyz
 hizlifilolar.com
 hizlifilom.com
 hizlifinansyeriniz.xyz
@@ -4091,7 +4100,6 @@ insightbasehq.com
 instagram-secured-assistance.ph
 instagram-secured-login.ph
 instagramlogin74.blogspot.com
-insuarence-lgty.myonlineportal.ch
 intelbyte.cc
 inter-bouw.eu
 interiordecor.pics
@@ -4209,6 +4217,7 @@ istanbulkrtdasnsrz.online
 istanbullbelggimkart.xyz
 istanbullbelggimkartu.xyz
 istanbullbelggimm.xyz
+istanbullbelgiimkart.xyz
 istanbullbelgimkart.xyz
 istanbullbelgimtek.xyz
 istanbullbiizmlaa.xyz
@@ -5265,6 +5274,7 @@ maplebrookfieldridge.icu
 markafilo.net
 markapalas.click
 market-web.cards
+marketalisverislerimizucuzlugua101.duckdns.org
 marketbasketcenter.shop
 marketcanvas.shop
 marketchoicebay.shop
@@ -7532,6 +7542,7 @@ sandegelbasvrkazan81.click
 sanolin.com
 sans-hemenburada.online
 sanshemen-burada.online
+sanshemenburaya.online
 santaskagsaen.online
 sanvo.cyou
 sapdfsaodfsadl.online
@@ -7658,6 +7669,7 @@ servisbilgi-tr.online
 seryotocargaleryx.duckdns.org
 serzjkow.cfd
 setpasskey.com
+setsahipsizkalmasinkimse.sbs
 sett.basitdom.biz
 setupsso.com
 setupssopasskey.com
@@ -7866,6 +7878,8 @@ siparis-hizliislem.com
 siparis-hizliodeme.com
 siparis-hizlisatinal.com
 siparis-onay-tr.online
+siparis-onay.online
+siparis-onayin.online
 siparis-onayli-115546.com
 siparis-onayli-115551.com
 siparisaktif.online
@@ -8379,7 +8393,6 @@ tekrarsa.dnsup.net
 tekrartekrarbasvurdana.sbs
 teksenbilisimn.com
 teksoksiparisi.cloud
-tektiklakapinagelicek.com
 tektiklasponsorlureklam.com
 tektiklasponsorlureklamm.com
 tektklaalsveriskpndaa.com
@@ -9370,6 +9383,7 @@ wututuututu.nicepage.io
 wwvhalkbankcekilis.org.ph
 www-braun-tr.com
 www-brauntr.com
+www-cepte-teb-com.my-homeip.de
 www-cepteteb-com-tr-basvuru.my-homeip.de
 www-internetbankacilik-qnbfinansbank.ph
 www-pirantech.com

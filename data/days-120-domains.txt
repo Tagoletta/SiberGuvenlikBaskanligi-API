@@ -540,7 +540,6 @@
 54698599004949000.net
 5515151.xyz
 552662.lat
-55454545454.sbs
 55465465461455.duckdns.org
 55555551200055555005.gleeze.com
 5638563454132.org
@@ -1902,6 +1901,7 @@ avsfilobayi.com
 avsfilocar.org
 avsfilokirala.net
 avsfilokiralamaa.com
+avsfilokurumsal.com
 avsfilorental.com
 avsfilosu.com
 avskirala.net
@@ -3652,6 +3652,7 @@ cepc4b1scepc4b1sburda84.live
 cepde-tebden.myonlineportal.de
 cepgarantisube.ph
 cepgarantisubeci.ph
+ceppptesokklarli.online
 cepsube-finansbank.ph
 cepte-com.my-homeip.de
 cepte-islemleriminz-garanti.duckdns.org
@@ -3682,6 +3683,7 @@ cepteteb-com.my-homeip.de
 cepteteb-emekli-basvur.myonlineportal.ch
 cepteteb-merkeziislemler.my-homeip.de
 cepteteb.pzbsin.com
+ceptetebde-com.my-homeip.de
 ceptetebden.my-homeip.de
 ceptetebeva.my-homeip.de
 ceptetebli-basvurum.my-homeip.de
@@ -4468,6 +4470,7 @@ dijital-simdikapinda.sbs
 dijital-sipariskapinda.sbs
 dijital-siparislerkapinda.sbs
 dijital-urunkapinda.sbs
+dijital-urunlerkapinda.sbs
 dijital-webkampanyalar.com
 dijital-zirkampanya.com
 dijital-zirkampanyalar.com
@@ -6578,6 +6581,7 @@ gstaticsnews.org
 gstaticsnewsz.com
 gta6-play.ru
 gtrllkol.cfd
+gttignyeryerdegil.sbs
 gucum109.click
 gudkoarancasa.cfd
 gugoahahsadwasdas923sad.click
@@ -7294,6 +7298,7 @@ hediyeler-burada.online
 hediyelerburada.online
 hediyelerim--burada.online
 hediyelerim-burada.online
+hediyelerimburada.online
 hediyelerin--burada.online
 hediyelerin-burada.online
 hediyelerinburada.online
@@ -7301,6 +7306,7 @@ hediyem-burada.online
 hediyen--burada.online
 hediyen-burada.online
 hediyenburada.online
+heemenisn-sonuc.net
 hefeelfeguystr.duckdns.org
 hefelfeguystr.duckdns.org
 heilbronner-fruehlingssymposium.de
@@ -7331,6 +7337,7 @@ hemen-aninda.cards
 hemen-birkacdakika.guru
 hemen-hediye--burada.online
 hemen-hediye-burada.online
+hemen-hediyeburada.online
 hemen-satinal.com
 hemen-siparisver.com
 hemenalnsanra.net
@@ -7386,6 +7393,8 @@ hemennalrtnlasna.net
 hemennotknaslnta.net
 hemenogren.abrdns.com
 hemens-naosnuc.net
+hemensansburaya.online
+hemensielm-sonuc.net
 hemensielmkntasi.net
 hemensielmnokta-islnakt.net
 hemensmdkk.space
@@ -8554,6 +8563,7 @@ istanbullardans.shop
 istanbullbelggimkart.xyz
 istanbullbelggimkartu.xyz
 istanbullbelggimm.xyz
+istanbullbelgiimkart.xyz
 istanbullbelgimkart.xyz
 istanbullbelgimtek.xyz
 istanbullbiizmlaa.xyz
@@ -10627,6 +10637,7 @@ markapalas.click
 market-web.cards
 market-yapi.com
 marketaktuellerim.com
+marketalisverislerimizucuzlugua101.duckdns.org
 marketbasketcenter.shop
 marketcanvas.shop
 marketchoicebay.shop
@@ -14757,6 +14768,7 @@ sankotextile-tr.com
 sanolin.com
 sans-hemenburada.online
 sanshemen-burada.online
+sanshemenburaya.online
 santafebuno.top
 santaskagsaen.online
 santyonaxa.xyz
@@ -15085,6 +15097,7 @@ seryotocargaleryx.duckdns.org
 serzjkow.cfd
 setpasskey.com
 setpot-forward.vip
+setsahipsizkalmasinkimse.sbs
 sett.basitdom.biz
 setupsso.com
 setupssopasskey.com
@@ -15349,6 +15362,8 @@ siparis-hizlisatinal.com
 siparis-iade.com
 siparis-magazasi.com
 siparis-onay-tr.online
+siparis-onay.online
+siparis-onayin.online
 siparis-onayli-115546.com
 siparis-onayli-115551.com
 siparis-satinal.com
@@ -17805,7 +17820,6 @@ turkiye.gov.tr-resmigazete.77-83-201-134.plesk.page
 turkiyeaktifhaber.com
 turkiyebilgi.cc
 turkiyebilgiagi.com
-turkiyebilgialani.com
 turkiyebilgihatti.com
 turkiyebilgirehberi.com
 turkiyebilgisi.com
@@ -18856,6 +18870,7 @@ wwvhalkbankcekilis.org.ph
 www-155polisi.online
 www-braun-tr.com
 www-brauntr.com
+www-cepte-teb-com.my-homeip.de
 www-cepteteb-com-tr-basvuru.my-homeip.de
 www-enpara-qnbfinans-com-tr.ph
 www-fifa.com
