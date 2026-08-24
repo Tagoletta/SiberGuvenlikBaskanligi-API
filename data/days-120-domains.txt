@@ -665,7 +665,6 @@
 7829346792392765982439237.app
 78566452.net
 78653423.net
-787878787.sbs
 78909.sbs
 789797.net
 790315482.lat
@@ -3649,7 +3648,6 @@ cepte-shop.online
 cepte-sok.shop
 cepte-sokindirim.rf.gd
 ceptehabaerglobalim.shop
-ceptehaber3445.shop
 ceptehaber45.shop
 ceptehizlimenulerss.store
 ceptelinks-tr-mobil-tr.online
@@ -12486,8 +12484,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -13413,7 +13411,6 @@ prmsynnnnkmpnyaaacklsss.live
 prmsynnnnkmpnyaaacklsss.pro
 procraft.tr
 prodacserv.net
-prodamdamkazanc.com
 profasyonasyon.co
 profdrhizmet.xyz
 profitew.com
