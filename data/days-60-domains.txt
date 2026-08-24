@@ -29,6 +29,7 @@
 101-kstra.s3.eu-north-1.amazonaws.com
 101-mobil-bugune-ozel-indirim-sadece-online-alisveris-tr.extramarket.online
 101-mobil-sadece-online-alisverise-ozel-indirim-sepeti-shop-tr.e-mobil-tr.online
+101-mobil-sadece-online-ozel-sepette-indirim-alisveris-tr.sepetbox.online
 101-sadece-bugune-ozel-alisveris-sepet-indirimi-mobilde-tr.buystore-tr.online
 101-sadece-bugune-ozel-mobil-alisveris-sepeti-tr.online-store-tr.online
 101-sadece-bugune-ozel-online-alisveris-sepet-indirimleri-tr.sepetgo.online
@@ -576,6 +577,7 @@ akbank-bireysel-subesi.ph
 akbank-isube.ph
 akbank-kredi-basvuru-merkezi.loseyourip.com
 akbank.com.ph
+akbank.online
 akbankbireysel-sube.ph
 akbankdirekmobil.ph
 akbankdireksube.ph
@@ -1912,6 +1914,7 @@ davadosyasorgu.com
 davaeavukat.org
 davamerkezi.org
 davsanllargiyimvs.duckdns.org
+dcfbuilders.com
 ddosyemiyomkralinaboyunegmiyom.xyz
 dealvella.com
 decooroms.com
@@ -2734,6 +2737,7 @@ flobox.gifts
 florarentcar.org
 flrsatagustos.com
 flrsatdiyari.com
+flrsathadigewldsen.shop
 flrsatlardiyari.com
 flsdwnld.online
 fluokq.xyz
@@ -3177,6 +3181,7 @@ gratis-tr.craftyhour.com
 gratis-tr.obliqueprism.com
 gratis.anointedacres.com
 gratis.globalscholarpress.com
+gratis.kasihinfo.com
 gratis.lakeboundtech.com
 gratis.obliqueprism.com
 grederladsefasdwe.duckdns.org
@@ -3591,6 +3596,7 @@ hellowhomest.duckdns.org
 helpuapipl.org
 helwmgsl.sbs
 helxiagent.com
+hemeins-nsonuc.net
 hemeleterfesa.duckdns.org
 hememislemnkta.net
 hemen--hediye-burada.online
@@ -3620,6 +3626,7 @@ hemenislmatknas.net
 hemenislmkntokas.net
 hemenislmokntai.net
 hemenismlantans.net
+hemenkampanyaburaya.online
 hemenl-40binpromo-buradan.sbs
 hemennalrtnlasna.net
 hemennotknaslnta.net
@@ -3648,6 +3655,7 @@ hergetxdeedxx.duckdns.org
 herkes-kullanabilsindiye.sbs
 herkesfirsatibulsun.sbs
 herkesfirsatiniyakalasin.sbs
+herkesindirimibulsun.sbs
 herkessahipolsundiyesinirlisayida.sbs
 herkessetsahibiolsundiye.sbs
 hersekesyettklbudurumda2.click
@@ -4011,6 +4019,7 @@ ilanda-sepetim-1101.com
 ilandan-fast.com
 ilanim-fast.com
 ilanonayi.online
+ilanonayin.online
 ilanonayla.online
 ilanservis-odemehizmetler.online
 ilaynaturizm.com
@@ -4364,6 +4373,8 @@ kampanyalarbur.duckdns.org
 kampanyalarikacirma.com
 kampanyalarikacirmateoglion.com.tr
 kampanyalarimiz-yaz.myonlineportal.ch
+kampanyam--burada.online
+kampanyam-burada.online
 kampanyapusulasi.sbs
 kampanyarehberi7x.sbs
 kampanyasoksokkampnyalarimizzer.duckdns.org
@@ -5497,7 +5508,9 @@ mhsdfbavbsd.art
 mhsdfbcxvbsd.art
 mhsdhfxbvcb.art
 mhshemen.uk
+mhsksrsnrndsv.com
 mhsrarandvlrmzbrda.sbs
+mhsrrandvu.com
 mhurbiraznle.sbs
 mhxrsr3ndevuhizm3tlerinizrxnd3vu.com
 microsft.updata.net.cn
@@ -6329,6 +6342,7 @@ panel.hedefonportfoyum.com
 panel.qsewjn.icu
 panelsorgu.space
 paparaemankuldegerler.com
+paparaemenkuldegerler.com
 parabir.site
 parabulutu.site
 paragonshellyonetimk.one
@@ -7266,6 +7280,7 @@ rixosparkhotels.com
 rixospremiumshotels.com
 rixosshotels.com
 rixvona.cyou
+rnddvhszsjfsf.store
 rndvlahzmetler.com
 rndvuburdaalingelin.duckdns.org
 roamvella.com
@@ -7419,12 +7434,14 @@ sahibinden-get.vercel.app
 sahibinden-guvenli.siparisonayim.online
 sahibinden-hizmet.online
 sahibinden-param-guvende.ilan-onayla.online
+sahibinden-param-guvende.ilanonayin.online
 sahibinden-param-guvende.ilanonayla.online
 sahibinden-param-guvende.islemonayla.online
 sahibinden-param-guvende.islemonaylatr.online
 sahibinden-param-guvende.islemonaytr.online
 sahibinden-param-guvende.siparisbilgitr.online
 sahibinden-param-guvende.siparisonayi.online
+sahibinden-param-guvende.siparisonayin.online
 sahibinden-param-guvende.urunodeme-tr.online
 sahibinden-param-guvende.urunodemetr.online
 sahibinden-paramguvende-tr.ct.ws
@@ -7867,6 +7884,7 @@ siparisiniz-tamam.com
 siparislerolunsuyor.cloud
 siparisonayi.online
 siparisonayim.online
+siparisonayin.online
 siparisver-hemen.com
 siparisverhemen.com
 sireneluxury.com
@@ -8650,6 +8668,7 @@ trendyol-siparistamamla.com
 trendyol-siparistamamla.com.tr
 trendyol-siparistamamla.online
 trendyol.guvenli-hizmet.online
+trendyol.mobilsepetlerimtrservisin.online
 trendyol.mobilservisin-24.sbs
 trendyol.servsjethizmet.online
 trendyol0-1029.l3v0.my
