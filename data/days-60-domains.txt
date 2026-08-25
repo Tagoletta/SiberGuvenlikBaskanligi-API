@@ -8546,7 +8546,6 @@ toggotoyedek.com
 toggtrumoresatis.com
 toki-apartman.gravitycl.app
 toki-gov-e-dev-basvuru-yap.online
-toki-gov-tr-020.vercel.app
 toki-gov-tr-fatih.vercel.app
 toki-gov-tr-konut.vercel.app
 toki-gov-tr-konut1.vercel.app
