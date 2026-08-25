@@ -1511,7 +1511,6 @@ arabam-paribu.com
 arabaprotokol.com
 arabulucukontrol.org
 arabulucumerkezi.org
-arabulucusistemi.org
 arac-gerec.cards
 aracbakimhizmeti.blogspot.com
 aracbakimhizmetin.blogspot.com
@@ -2427,6 +2426,7 @@ bb-bb-vv-aa-ss-dd.xyz
 bb-cc-vv.shop
 bb-dd-cc-aa-gg.lat
 bb-dd-cc-aa-gg.xyz
+bb-garantibbva.ph
 bb-vv-aa-aa-gg-dd.xyz
 bb-vv-aa-aa-gg-sd.xyz
 bb-vv-aa-aa-ss-dd.xyz
@@ -4976,7 +4976,6 @@ ekamugib.org
 ekamukontrol.org
 ekamutebligat.org
 ekkkerss.dns.navy
-ekkstrsan.duckdns.org
 ekmehiniasini.sbs
 ekolayzer-lemongarenad-lil.myonlineportal.ch
 ekonnomicerceve.com
@@ -5228,6 +5227,7 @@ erp.sg-tollr.top
 erp.sg-yi.top
 erp.sg-yu.top
 erp.turkcellpasajsanalmagaza.com
+erstebankgarantibbva.ph
 ertasafs.nicepage.io
 erthanguvenilir.site
 ertnefgbertbwe.sbs
@@ -5977,12 +5977,14 @@ garanti.vva8.com
 garanti45465456465465.duckdns.org
 garantibank-iade-kampanya.ph
 garantibbva-acres.com.ph
+garantibbva-bb.ph
 garantibbva-bell.com.ph
 garantibbva-cainiao.ph
 garantibbva-cepmobilsubekazandiriyor.ph
 garantibbva-cgd.ph
 garantibbva-com-tr.replit.app
 garantibbva-creditsuisse.ph
+garantibbva-erstebank.ph
 garantibbva-hepsiburada.com.ph
 garantibbva-isbank.com.ph
 garantibbva-netflix.ph
@@ -8990,6 +8992,7 @@ kampma-sorgnu.cfd
 kampsandalyeleri.vercel.app
 kampsandalyesi.vercel.app
 kampsendalyesi.vercel.app
+kamsok.duckdns.org
 kamuceza.net
 kamudosyaportal.org
 kamudosyasorgu.com
@@ -11167,7 +11170,6 @@ mmhhrhhrhrrs14.sbs
 mmhhrhhrhrrs15.sbs
 mmhhrhhrhrrs17.sbs
 mmhhrhhrhrrs18.sbs
-mmhhrhhrhrrs2.sbs
 mmhhrhhrhrrs20.sbs
 mmhhrhhrhrrs21.sbs
 mmhhrhhrhrrs22.sbs
@@ -11182,7 +11184,6 @@ mmhhrhhrhrrs36.sbs
 mmhhrhhrhrrs37.sbs
 mmhhrhhrhrrs38.sbs
 mmhhrhhrhrrs39.sbs
-mmhhrhhrhrrs4.sbs
 mmhhrhhrhrrs40.sbs
 mmhhrhhrhrrs41.sbs
 mmhhrhhrhrrs45.sbs
@@ -11262,7 +11263,6 @@ mobil-ziraatbasvurulariszie.duckdns.org
 mobil.obilet-tr.uk
 mobil.uyap-gov.com
 mobilbasvuru.my-homeip.de
-mobilbasvurularimozell.duckdns.org
 mobilbasvurunuz.myonlineportal.de
 mobilbet.my-homeip.net
 mobilbireyselkatilimm.online
@@ -11410,7 +11410,6 @@ mrhsrmrmsmrn.com
 mrhssrandevuum.com
 mrketlrdendece.cfd
 mrorrspis.net
-mrrs-saglk.com
 mrss-saglikk2.com
 mrss-saglk.com
 mrssaglik.com
@@ -12558,8 +12557,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -14199,7 +14198,6 @@ regdev-google.com
 regeurope.online
 reggysolution.info
 reggyupdated.info
-reggzx.help
 register.mediumser.com
 registerpasskey.com
 regorganize.ru

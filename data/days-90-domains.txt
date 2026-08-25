@@ -1710,6 +1710,7 @@ bb-bb-vv-aa-ss-dd.xyz
 bb-cc-vv.shop
 bb-dd-cc-aa-gg.lat
 bb-dd-cc-aa-gg.xyz
+bb-garantibbva.ph
 bb-vv-aa-aa-gg-dd.xyz
 bb-vv-aa-aa-gg-sd.xyz
 bb-vv-aa-aa-ss-dd.xyz
@@ -3686,6 +3687,7 @@ erp.sg-tollr.top
 erp.sg-yi.top
 erp.sg-yu.top
 erp.turkcellpasajsanalmagaza.com
+erstebankgarantibbva.ph
 ertasafs.nicepage.io
 ertnefgbertbwe.sbs
 ertyuosahdahsdhasdh98sada.click
@@ -4259,12 +4261,14 @@ garanti.giris.yansitek.cam
 garanti.vva8.com
 garantibank-iade-kampanya.ph
 garantibbva-acres.com.ph
+garantibbva-bb.ph
 garantibbva-bell.com.ph
 garantibbva-cainiao.ph
 garantibbva-cepmobilsubekazandiriyor.ph
 garantibbva-cgd.ph
 garantibbva-com-tr.replit.app
 garantibbva-creditsuisse.ph
+garantibbva-erstebank.ph
 garantibbva-hepsiburada.com.ph
 garantibbva-isbank.com.ph
 garantibbva-netflix.ph
@@ -6516,6 +6520,7 @@ kampenya.shop
 kampsandalyeleri.vercel.app
 kampsandalyesi.vercel.app
 kampsendalyesi.vercel.app
+kamsok.duckdns.org
 kamudosyatakip.org
 kamusorgum.org
 kamutakibi.org
@@ -9212,8 +9217,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -11135,7 +11140,6 @@ sephora-careers.com
 ser-tas-tas-al-rand.duckdns.org
 seravix.cyou
 serce101hizmeti.duckdns.org
-sercekokuve.gleeze.com
 serceparmak.cfd
 serceparmak.cyou
 serceparmak.xyz
