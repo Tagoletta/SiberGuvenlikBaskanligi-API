@@ -11788,7 +11788,6 @@ sponlorlusok.online
 sponlorluyonlledirme.online
 sponsorgaranti.page.gd
 sponsorlu--tanitim.online
-sponsorlu-11.duckdns.org
 sponsorlu-12.duckdns.org
 sponsorlu-14.duckdns.org
 sponsorlu-cekilisler-paribu.live
