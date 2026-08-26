@@ -869,6 +869,7 @@ akbank-bireysel-sube.ph
 akbank-bireysel-subesi.ph
 akbank-borc-sorgulama.ph
 akbank-com.ph
+akbank-direkt-firsatkampanyasi-esubetr.ph
 akbank-invest-hub.sbs
 akbank-isube.ph
 akbank-kredi-basvuru-merkezi.loseyourip.com
@@ -883,6 +884,7 @@ akbankinvestprogram.click
 akbankk-bireysell.ph
 akbankmobil.netlify.app
 akbankmobilnet.ph
+akbankonline-giris.ph
 akbasvurumobil.duckdns.org
 akefsmblsbbe.duckdns.org
 akillisechim.today
@@ -3729,6 +3731,7 @@ esube-fibamenkul.com
 esube-fibayatirim.com
 esube-referans.com
 esube-teb-cepteteb.myonlineportal.de
+esube-teb-com-cepteteb.my-homeip.de
 esube-teraportfoy.com
 esube.expresgroup.com
 esube.fbpiyasa.com
@@ -4497,6 +4500,7 @@ girisrandevuisleminiz.strangled.net
 girisss-aktiff-sorsisteme.sbs
 girisssulkesorguekraniniz.sbs
 girissube-akbank.ph
+giristurkiyegovtr.vercel.app
 gironetcdn.ru
 girsisonnlneslemleriniz.sbs
 girsizsabit2026.com
@@ -4594,6 +4598,7 @@ gotoinvst.com
 goturkey.blog
 goturkishmart.shop
 gov-kbstar-garantibbva.ph
+gov-trendyol.com.ph
 gov-trendyol.ph
 gov.onemotorlng.cc
 gov.onemotoryng.cc
@@ -5801,6 +5806,7 @@ hoparlor.click
 hopbala.click
 hopcipiti-fipfipsede.lol
 hopdedik.click
+horferruhs.duckdns.org
 horizoneguide.com
 horizonera.cfd
 horizonguard.space
@@ -6072,6 +6078,7 @@ intelbyte.cc
 inter-bouw.eu
 interiordecor.pics
 interland-ofise-g.myonlineportal.ch
+internatsube-akbank.ph
 internet--qnbfinansbankasi.ph
 internet-koveyttork.duckdns.org
 internet-teb-entry.my-homeip.de
@@ -8457,7 +8464,6 @@ muzesitesi.com
 muzeziyaret.click
 mvsdnyrsnds-tnysds.com
 mwcspraseves.duckdns.org
-mwvqt9a1uv.lol
 mxhxrxsgel.com
 my-facebook-login-deal.ph
 my-securty-gr.ink
@@ -9268,8 +9274,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net

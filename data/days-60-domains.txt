@@ -570,6 +570,7 @@ akaycicekcilik.com
 akbadonerd.click
 akbank-bireysel-sube.ph
 akbank-bireysel-subesi.ph
+akbank-direkt-firsatkampanyasi-esubetr.ph
 akbank-isube.ph
 akbank-kredi-basvuru-merkezi.loseyourip.com
 akbank.com.ph
@@ -581,6 +582,7 @@ akbankdirekt-kampanyalar.ph
 akbankinvestprogram.click
 akbankmobil.netlify.app
 akbankmobilnet.ph
+akbankonline-giris.ph
 akefsmblsbbe.duckdns.org
 akillisechim.today
 akkampanyalar.shop
@@ -2450,6 +2452,7 @@ esube-fibamenkul.com
 esube-fibayatirim.com
 esube-referans.com
 esube-teb-cepteteb.myonlineportal.de
+esube-teb-com-cepteteb.my-homeip.de
 esube-teraportfoy.com
 esube.hbyatirim.com
 esube.hdfonmusteripaneli.com
@@ -2975,6 +2978,7 @@ giris-secim-kampany.sbs
 girisim-mhrs-randevu.vercel.app
 girisim-mhrs-randevum.vercel.app
 girisrandevuisleminiz.strangled.net
+giristurkiyegovtr.vercel.app
 gironetcdn.ru
 girsizsabit2026.com
 girsizsabiti2026.com
@@ -3053,6 +3057,7 @@ gotoinvst.com
 goturkey.blog
 goturkishmart.shop
 gov-kbstar-garantibbva.ph
+gov-trendyol.com.ph
 gov-trendyol.ph
 gov.onemotorlng.cc
 gov.onemotoryng.cc
@@ -3898,6 +3903,7 @@ honestkartes.duckdns.org
 honestlerkesjer.duckdns.org
 honestx.duckdns.org
 hopcipiti-fipfipsede.lol
+horferruhs.duckdns.org
 horizoneguide.com
 horizonguard.space
 hospitalinstallation.com
@@ -4078,6 +4084,7 @@ instagramlogin74.blogspot.com
 intelbyte.cc
 inter-bouw.eu
 interiordecor.pics
+internatsube-akbank.ph
 internet--qnbfinansbankasi.ph
 internet-teb-entry.my-homeip.de
 internet-teb-entry.myonlineportal.de
@@ -5632,7 +5639,6 @@ muhugufe-redesede.lol
 mujuhubi-bililide.lol
 mukemmelbirbaslangicicinharikagunlerde.lat
 mukemmelds6f.nicepage.io
-mulkukulupolisde-derete.xyz
 mulopikare-zudese.xyz
 muluguharese-defe.xyz
 murvpn.space
@@ -6210,8 +6216,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net

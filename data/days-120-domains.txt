@@ -1141,6 +1141,7 @@ akbank-bireysel-sube.ph
 akbank-bireysel-subesi.ph
 akbank-borc-sorgulama.ph
 akbank-com.ph
+akbank-direkt-firsatkampanyasi-esubetr.ph
 akbank-invest-hub.sbs
 akbank-isube.ph
 akbank-kredi-basvuru-merkezi.loseyourip.com
@@ -1155,6 +1156,7 @@ akbankinvestprogram.click
 akbankk-bireysell.ph
 akbankmobil.netlify.app
 akbankmobilnet.ph
+akbankonline-giris.ph
 akbasvurumobil.duckdns.org
 akbiadekampanya2025.click
 akbireyselislemkanali.duckdns.org
@@ -5280,6 +5282,7 @@ esube-fibayatirim.com
 esube-infoyatirim.com
 esube-referans.com
 esube-teb-cepteteb.myonlineportal.de
+esube-teb-com-cepteteb.my-homeip.de
 esube-teraportfoy.com
 esube.expresgroup.com
 esube.fbavarlikmenkul.com
@@ -6300,6 +6303,7 @@ giriss-times.cfd
 girisss-aktiff-sorsisteme.sbs
 girisssulkesorguekraniniz.sbs
 girissube-akbank.ph
+giristurkiyegovtr.vercel.app
 gironetcdn.ru
 girs-onlne-aktiff.sbs
 girsgelsmesocnu.sbs
@@ -6415,6 +6419,7 @@ gotoinvst.com
 goturkey.blog
 goturkishmart.shop
 gov-kbstar-garantibbva.ph
+gov-trendyol.com.ph
 gov-trendyol.ph
 gov.onemotorlng.cc
 gov.onemotoryng.cc
@@ -7982,6 +7987,7 @@ hoparlor.click
 hopbala.click
 hopcipiti-fipfipsede.lol
 hopdedik.click
+horferruhs.duckdns.org
 horizoneguide.com
 horizonera.cfd
 horizonguard.space
@@ -8348,6 +8354,7 @@ intercttp.xyz
 interiordecor.pics
 interland-ofise-g.myonlineportal.ch
 intern-gr-lenade.myonlineportal.ch
+internatsube-akbank.ph
 internet--qnbfinansbankasi.ph
 internet-koveyttork.duckdns.org
 internet-teb-entry.my-homeip.de
@@ -9474,7 +9481,6 @@ kmdurumanaliz.com
 kmeksper.com
 kmgecmisiniogren.com
 kmhizlikontrol.firebaseapp.com
-kmhizlikontrol.web.app
 kmhn-82rvdalsn.org
 kmkayitpttavm.com
 kmkmsorgulamagovpttdonerbicagi.duckdns.org
@@ -9587,7 +9593,6 @@ kmsorgucu-enhizlisi.firebaseapp.com
 kmsorgucu-enhizlisi.web.app
 kmsorgudetay.com
 kmsorgudetay.firebaseapp.com
-kmsorgudetay.web.app
 kmsorgulahizli.click
 kmsorgulamamizz.web.app
 kmsorgupratik.com
@@ -12588,8 +12593,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -19384,7 +19389,6 @@ yenizgirirs2026.com
 yenpanlen35x321.duckdns.org
 yenpatladnkamtanyasd33.click
 yens6da.nicepage.io
-yenyapburaakdiaa.click
 yepisyen.18mayisbasvurlardadevam.cloud
 yepisyen.arakampanyalardonem.cloud
 yepyenifirsaatlarsk.com
