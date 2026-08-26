@@ -1896,6 +1896,7 @@ halkfirsat.click
 halkfirsat.online
 halkfirsat.shop
 halkfirsat.wiki
+halkinfirsati.cam
 halklimit.click
 halklimit.homes
 halklimit.lat
@@ -1969,6 +1970,7 @@ helboystr.duckdns.org
 helfeguystr.duckdns.org
 hellomonsterler.duckdns.org
 helxiagent.com
+heme-sn-sonuc.net
 hemeins-nsonuc.net
 hemen--hediye-burada.online
 hemen--hediyeburada.online
