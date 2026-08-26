@@ -104,7 +104,9 @@
 1379889898999899091.duckdns.org
 1379889898999899092.duckdns.org
 1379889898999899093.duckdns.org
+1379889898999899096.duckdns.org
 1379889898999899097.duckdns.org
+1379889898999899098.duckdns.org
 145455588989998990.duckdns.org
 145455588989998992.duckdns.org
 145455588989998995.duckdns.org
@@ -607,6 +609,7 @@ aksigortabankasigortaciligi.hediyemo.com
 aktarimsorgurkranlariniz.sbs
 aktifgirisparibu.xyz
 aktifkvytpromosion.duckdns.org
+aktivasyonlinkibasvurusu.duckdns.org
 aktuelcebindecom.com
 aktuelfirsat.com
 aktuelseninle.com
@@ -1548,7 +1551,6 @@ capulcu.xyz
 caramodi-jalapara.lol
 cardo.workers.dev
 careers-openai.com
-carelinno.gifts
 cariwebsiteku.com
 cark-cekilisim.com
 cark-cekilisim.info
@@ -1817,6 +1819,7 @@ csdf.rauzmiklimlendirme.com
 csgb-gov-ct.com
 csgbgovtr.me
 csgodownload.ru
+cspragstsayn.duckdns.org
 cspryenignce.duckdns.org
 css-cameras-strongly-jaguar.trycloudflare.com
 ctrgarlerimenuguncel.xyz
@@ -2088,6 +2091,7 @@ dijitalonline-hizlisiparis.sbs
 dijitalportalgiris.com
 dijitalsimdi-kapinda.sbs
 dijitalsimdisiparisver.sbs
+dijitalsiparis-hizlial.sbs
 dijitalsiparis-kampanyalar.sbs
 dijitalsiparis-kapinda.sbs
 dijitalsiparisler-kapinda.sbs
@@ -2537,6 +2541,7 @@ ext.dl.wel1.ru
 extranet.evsahibibasvuru.com
 extrashoot.cfd
 eylulayindayizbiz.duckdns.org
+eylulbasiaazkaldi.duckdns.org
 eylulbasiguzeldr.duckdns.org
 eylulgunsonlari.duckdns.org
 ezgateway.net
@@ -2872,7 +2877,6 @@ garantiden-kredi-firsati.sbs
 garantiden-kredi-firsatlari.sbs
 garantiden.click
 garantiform.vercel.app
-garantiimenkuldegerler.com
 garantikampanyan.click
 garantili-basvuru-islemlerim.webredirect.org
 garantili-bireysel-islemim-com.duckdns.org
@@ -3380,7 +3384,6 @@ haberler235342.com
 haberler2354123.shop
 haberler235423.sbs
 haberler2373432.shop
-haberler2523432.sbs
 haberler311422.sbs
 haberler311748.shop
 haberler3123512.shop
@@ -3686,6 +3689,7 @@ herzmnhizlidir.xyz
 hesapdumantvn.net
 hesapdumantvrk.net
 hesaphareket.com
+hesapli.online
 hesaplikasap.online
 hesaserfskert.duckdns.org
 hesseyyarkablo.click
@@ -3857,6 +3861,7 @@ hmnislemnoktnasn.net
 hmnislemntkas.net
 hmnisllmnktnas.net
 hmnislmeonkt.net
+hmnislmeonktar.net
 hmnislmkntlasi.net
 hmnislmnktasni.net
 hmnislmnktnas.net
@@ -3967,7 +3972,6 @@ hukulugude-redesee.lol
 huligili-gulederase.lol
 hulubikasa-deresefu.xyz
 hulugo-paresedefu.lol
-huluguhufuere-sede.xyz
 hulukuede-reteyesede.lol
 hunasdkjxakjsk12312.shop
 hurgadatour.shop
@@ -4599,6 +4603,7 @@ kkxxcsswxxx.duckdns.org
 kl21177.com
 klardenslenews.duckdns.org
 klarna-garantibbva.com.ph
+klarnagarantibbva.com.ph
 klerdesnweasdes.duckdns.org
 klevdpo.com
 klimbat.com
@@ -5788,6 +5793,7 @@ nazargiyim.duckdns.org
 ncduuyese.live
 ncm-invest.com
 ncminvest-global.com
+ncminvestmenkuldegerler.com
 ncminvestmentmenkuldegerler.com
 ncxbmbvxvccxcnbvxcnnbvd57.click
 nebulachecker.icu
@@ -6267,8 +6273,8 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -9305,7 +9311,6 @@ windowscreenrepairnearme.com
 windowserv.net
 windowsmp.ru
 winhardwarehub.gifts
-winride.gifts
 winter-smoke-a612.icy-star-f45c.workers.dev
 winter-waterfall-0606.rihaniomar21.workers.dev
 wispelt.com
@@ -9589,7 +9594,6 @@ yeninokta.abrdns.com
 yenipartibagisgovtr.sbs
 yenpanlen35x321.duckdns.org
 yereavsy.net
-yesilin-garantisi.xyz
 yetimotorsgalareyxx.duckdns.org
 yetkibelgeleri.com
 yevzori.cfd
@@ -9727,7 +9731,6 @@ zessdeli.club
 zeuscarkiralama.com
 zeytaro.com
 zfonemk.cfd
-zfwalfjcadcswlfjwsdfw.sbs
 zhelerdsnlerd.duckdns.org
 zhuknet.online
 zhukvpn.online
@@ -9747,6 +9750,7 @@ ziraat-cvc.cfd
 ziraat-inislemin.cfd
 ziraat.bkasionline.com
 ziraatbank-onlinesbi.ph
+ziraatbank-ssa.com.ph
 ziraatkapll.cfd
 ziraatmobilin.mobilsubeden.sbs
 ziraatsbank.cftcrecovry.com
