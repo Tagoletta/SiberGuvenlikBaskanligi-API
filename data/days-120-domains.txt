@@ -2749,7 +2749,6 @@ bireysel-teb-promosyon.my-homeip.de
 bireysel-trans.my-homeip.de
 bireysel-ziraatli-kampanya.my-homeip.net
 bireyselbasvurdenizbank.74-235-34-0.plesk.page
-bireyselimpttavm.com
 bireyselsatici.com
 bireyselsatici.online
 bireyselsiparis.com
@@ -4558,7 +4557,6 @@ dolap.guvenli-hizmet.online
 dolap.ilanim-onay-762213.com
 dolap.odemeni-gerceklestir.com
 dolap.servsjethizmet.online
-dolap.urun-ilanlarim.com
 dolapilanlarim.com
 dolmaq.shop
 domatisc.ink
@@ -10499,7 +10497,6 @@ maliyeeavukat.org
 maliyegib.org
 maliyehazine.org
 maliyemasak.org
-maliyeodemehizmeti.com
 maliyesicil.net
 maliyesicil.org
 maliyesorgutr.org
@@ -12421,8 +12418,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -14514,7 +14511,6 @@ sahibinden.onay-ilanim-534.com
 sahibinden.online-alisveris-sepetiniz.com
 sahibinden.order-id42942.cfd
 sahibinden.param-guvende-ilanim.com
-sahibinden.paranguvende.my
 sahibinden.s-paran-guvenli.online
 sahibinden.satin-al-siparis.com
 sahibinden.satin-alsiparis.com
@@ -19101,7 +19097,6 @@ yazkampanyalari.com
 yazkampanyasi.beer
 yb2xzzz2k4343.duckdns.org
 ybvgsdfdsghfsdsax.lol
-ybvgsdfdsghfsdsax.sbs
 ydndnasld.com
 yelkent-luparefi.lol
 yelkora-zondupika.lol
