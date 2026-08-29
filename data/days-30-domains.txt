@@ -46,8 +46,6 @@
 1231516frrrssrstlarrkmpnyaasbsvrr.online
 1234654psnylsyndns.com
 124124124.duckdns.org
-13222214544588989990898.duckdns.org
-13222214544588989990899.duckdns.org
 1379889898999899091.duckdns.org
 1379889898999899092.duckdns.org
 1379889898999899093.duckdns.org
@@ -349,7 +347,6 @@ al1-82-rvdn.com
 alacatibeachsresort.com
 alarm-taslagi.garden
 albarakaaiprojects.com
-albayquery.space
 alderdasdewas.duckdns.org
 aldinaldinfirsatkapinagelsin.com
 aldnaldnucuzfirsaatlr.com
@@ -421,7 +418,6 @@ apricotfilepoint.com
 aquamsis.com
 araba--paribu.com
 araba--paribu.live
-araba-cekilisi-paribu.ezgateway.net
 araba-cekilisi-paribu.mywire.org
 araba-cekilisi.live
 araba-cekilisi.online
@@ -1646,7 +1642,6 @@ googlenets.ru
 googleplaydown.com
 gopiraventuxelazim.sbs
 gorunum-ayarlar.ink
-gosats.us
 gov-kbstar-garantibbva.ph
 gov-trendyol.com.ph
 gov-trendyol.ph
@@ -3168,7 +3163,6 @@ mrhsbsvronline.com
 mrhssrandevuum.com
 ms365-device.com
 ms365-live.com
-mslearn.online
 mspasskey.com
 msrhonlbvr.com
 msshrmsfgs.com
@@ -3362,8 +3356,6 @@ novafinans.digital
 novarixelto.world
 noxelavitumporazek.cfd
 npm-cache.com
-npmjs.store
-npmjs.us.org
 ns-wwwhaber61net.cobblex.sbs
 ns-wwwhaber61net.feints.cfd
 ns-wwwhaber7com.almach.shop
@@ -4038,7 +4030,6 @@ rixosshotels.com
 rktnosa21.loseyourip.com
 rnddvhszsjfsf.online
 rnddvhszsjfsf.store
-rndvlahzmetler.com
 rndvuburdaalingelin.duckdns.org
 rnndnddvvvlrrrr.lol
 roblox-play.ru
@@ -4928,7 +4919,6 @@ un98exb3k22azr3z7c.sbs
 unarsitilsmantar3zx.duckdns.org
 unifiedvo.com
 uninstalltooll.ru
-universus.stream
 unkapanbr.duckdns.org
 updateservs.com
 urbanloria.gifts
