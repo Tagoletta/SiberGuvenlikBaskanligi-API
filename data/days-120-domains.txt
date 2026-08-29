@@ -1299,6 +1299,7 @@ alisverisinizguvende.com
 alisverisjet.online
 alisverislerikacirma1o1.ph
 alisverisptt-avm.com.ph
+alisverisptt-avm.ph
 alisverissokgunleri.info.tr
 alivelikrdokuselli4950.online
 alkampanyadan.cfd
@@ -2765,7 +2766,6 @@ bireysel-mobil-tr.sbs
 bireysel-promosion-firsatlar.my-homeip.de
 bireysel-satis.com
 bireysel-shop-tr.click
-bireysel-teb-promosyon.my-homeip.de
 bireysel-ziraatli-kampanya.my-homeip.net
 bireyselbasvurdenizbank.74-235-34-0.plesk.page
 bireyselsatici.com
@@ -6868,9 +6868,7 @@ haberhemencebinde.shop
 haberhizli456.shop
 haberhizliaktif.com
 haberhizlidurum.com
-haberhizliplatform.com
 haberhizlisistem.com
-haberhizlitaksi.com
 haberhizliyorum.com
 haberim1453.shop
 haberinadresi112233.shop
@@ -8670,7 +8668,6 @@ istcanman.xyz
 istcano.xyz
 isteansfaz.duckdns.org
 istebasvurulariiniz.theworkpc.com
-istecep.site
 istefirsatlarburda.com
 istekuzerineistanbul.xyz
 istelmancankart.xyz
@@ -9022,6 +9019,7 @@ kampsendalyesi.vercel.app
 kamsok.duckdns.org
 kamubirim.org
 kamuceza.net
+kamuceza.org
 kamudosyasorgu.com
 kamudosyatakip.org
 kamudosyatr.org
@@ -9818,6 +9816,7 @@ kubamotorturkiye.com
 kubaonlinesatis.com
 kufar.org
 kufsen.netlify.app
+kuhugug-redesede.lol
 kuluhugude-redesede.lol
 kuluhugudefere.xyz
 kumbara.iyiliginmucitleri.com
@@ -13205,6 +13204,7 @@ piligederesede-resugere.lol
 pingapp.site
 pinkyslauncher.com
 pinnacle-labs.lat
+pinyeniyil.online
 pipicka.xyz
 pipipoopochek6.com
 piramitsube.com
@@ -14496,6 +14496,7 @@ sahabndnparanizguvende.com
 sahbindn.pages.dev
 sahib.indenonline.com
 sahibinden-get-ilanservisiniz-jet.com
+sahibinden-get-paramguvende-ode.gt.tc
 sahibinden-get.alimlarinizhizmetler.online
 sahibinden-get.detayservisn.com
 sahibinden-get.emobileservislerr.com
@@ -14519,6 +14520,8 @@ sahibinden-get.jet-servis-hizmetlerim.online
 sahibinden-get.jetservishizmetleriniz.online
 sahibinden-get.jetservisleriniz.com
 sahibinden-get.mobil-eservisin.com
+sahibinden-get.mobiliservis.com
+sahibinden-get.mobilsepetalim-15.online
 sahibinden-get.mobilsepetalim-25.online
 sahibinden-get.mobilsepetlerimservis.online
 sahibinden-get.mobilsepetlerimtrservisin.online
@@ -14540,9 +14543,11 @@ sahibinden-get.mobilservisler-70.sbs
 sahibinden-get.mobilservisler-71.sbs
 sahibinden-get.mobilservisler-84.sbs
 sahibinden-get.mobilservisler-89.sbs
+sahibinden-get.mobilservisleriniz-11.sbs
 sahibinden-get.mobilservisleriniz-14.sbs
 sahibinden-get.mobilservisleriniz-16.sbs
 sahibinden-get.mobilservisleriniz-2.sbs
+sahibinden-get.mobilservisleriniz-3.sbs
 sahibinden-get.mobilservisleriniz-5.sbs
 sahibinden-get.servislerjethizmetler.online
 sahibinden-get.servsjethizmet.online
@@ -14951,7 +14956,6 @@ senatoria.sbs
 senbanaddosatbensanaclick.sbs
 senbnademdnmmvgzl.com
 sende-gelal.duckdns.org
-sendegarantlolsendekazan80.click
 sendegartnbuldahsel252.click
 sendegelbasvurkazanpromosyon75.click
 sendegelbesendegelartkyap52.click
@@ -17753,7 +17757,6 @@ turkgundem.online
 turkhaberaktiflink.com
 turkhaberaktuel.com
 turkhaberbilgileri.com
-turkhaberhizliyayin.com
 turkhaberonlineportal.com
 turkhaberplatform.com
 turkhaberplatformu.com

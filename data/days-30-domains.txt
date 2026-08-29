@@ -368,6 +368,7 @@ alisveris-sepetimiz.com
 alisveris.lol
 alisverishizmeti.online
 alisverisjet.online
+alisverisptt-avm.ph
 alkampanyadan.cfd
 almayankalmasinhereve.sbs
 alo182biziz.duckdns.org
@@ -2081,7 +2082,6 @@ hizli-kredi-basvurusu.cloud
 hizli-odemem.com
 hizli-online-islemler.com
 hizli-seri-entry-g.ink
-hizli-siparis-onaylama-baglantisi.com
 hizli-siparisislem.com
 hizli-tuvttr.site
 hizlial-siparis.com
@@ -2432,6 +2432,7 @@ kampsandalyesi.vercel.app
 kampsendalyesi.vercel.app
 kamsok.duckdns.org
 kamubirim.org
+kamuceza.org
 kamudosyatakip.org
 kamusorgum.org
 kamutakibi.org
@@ -2659,6 +2660,7 @@ kshahnd.sbs
 ksr-racingparts.com
 kt-bank-ag.com
 kubafabrika.com
+kuhugug-redesede.lol
 kunaz.xyz
 kur.e-abakus.net
 kura-sans.online
@@ -3885,6 +3887,7 @@ picknow.top
 pilifuere-sederilise.lol
 piligederesede-resugere.lol
 pinnacle-labs.lat
+pinyeniyil.online
 pirantechyaz.online
 pivotq.top
 piyasaodagi.site
@@ -4041,7 +4044,6 @@ rakvtxsdn.cc
 randbevhszlsd.online
 randbevhszlsd.store
 randevuhaliyle.duckdns.org
-randevulugunlerburada.duckdns.org
 randevunoktasi.duckdns.org
 randevusaatiniolustur.duckdns.org
 randvhsziemtsd.store
@@ -4144,9 +4146,12 @@ sagliklikalalim.cfd
 sagliklikalalim.click
 sagliklikalalim.sbs
 sagliklikalalim.xyz
+sahibinden-get-paramguvende-ode.gt.tc
 sahibinden-get.hizlikapimda.com
 sahibinden-get.hizlikargolama.com
 sahibinden-get.islem-guvende.online
+sahibinden-get.mobiliservis.com
+sahibinden-get.mobilsepetalim-15.online
 sahibinden-get.mobilsepetalim-25.online
 sahibinden-get.mobilsepetlerimservis.online
 sahibinden-get.mobilsepetlerimtrservisin.online
@@ -4155,8 +4160,10 @@ sahibinden-get.mobilservisin-33.sbs
 sahibinden-get.mobilservisin-37.sbs
 sahibinden-get.mobilservisin-55.sbs
 sahibinden-get.mobilservisler-89.sbs
+sahibinden-get.mobilservisleriniz-11.sbs
 sahibinden-get.mobilservisleriniz-14.sbs
 sahibinden-get.mobilservisleriniz-16.sbs
+sahibinden-get.mobilservisleriniz-3.sbs
 sahibinden-get.siparisguvende.com
 sahibinden-guvenli.siparisonayim.online
 sahibinden-order.com
@@ -4594,7 +4601,6 @@ ssopasskey.com
 ssslllllpppppsssbrrr.lat
 ssslllllpppppsssbrrr.lol
 ssslllllpppppsssbrrr.sbs
-sstbonlinebasvuru.com
 sstmrvdbrdanbk.click
 stableproxy.space
 stardancer.fun
