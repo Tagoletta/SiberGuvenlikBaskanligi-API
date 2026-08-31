@@ -6995,6 +6995,7 @@ haberler6723236.sbs
 haberler73421.shop
 haberler7452523.shop
 haberler78912.sbs
+haberler8676.shop
 haberler8834232.shop
 haberler911.sbs
 haberler93748.shop
@@ -7564,6 +7565,7 @@ hgsbakiyeyuklme.web.app
 hgsbakiyeyuklmeanlik.web.app
 hgsbakiyeyuklmei.firebaseapp.com
 hgsbakiyeyuklmei.web.app
+hgsbakiyukleme.org
 hgsbakiyukleme.web.app
 hgsbakiyuklemes.firebaseapp.com
 hgsbakiyuklemes.web.app
@@ -7744,6 +7746,7 @@ hizligecisbakiymerkezi.web.app
 hizligecisbakyeyuklme.web.app
 hizligecisbakynsi.lat
 hizligecisbakysi.lat
+hizligecisbayisi.org
 hizligecisbays.lat
 hizligecisbaysi.web.app
 hizligecisdolmbayi.lat
@@ -11280,6 +11283,7 @@ mobilinbankasi-akbank.ph
 mobils-tr.online
 mobilsepet-tr.online
 mobilsepetalim-10.online
+mobilsepetalim-20.online
 mobilsepetlerimservis.online
 mobilsepetlerimtralimlar.online
 mobilsepetlerimtrservis.online
@@ -17163,6 +17167,7 @@ tkisencis.net
 tkkg-edvtapkon-v.online
 tkkg-edvtapkonv.online
 tkktktklaspsrlurklm.com
+tkno-sa.info
 tksiccerde.net
 tksiehhfi.net
 tkssafafaxassxcafc.xyz
@@ -19693,6 +19698,7 @@ ziraitarimfs.cfd
 ziraqvmtxkplndwbhsca.sbs
 zirat-kredi-basvuru-formu.duckdns.org
 zirat.sbs
+ziratkampanya.sbs
 ziratoff.online
 ziratpngj.cfd
 ziratt-yeni.com
