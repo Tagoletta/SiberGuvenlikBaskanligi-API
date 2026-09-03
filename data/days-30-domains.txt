@@ -187,9 +187,6 @@ a-1-0-1-sadece-online-ozel-mobil-indirimler-sepette-tr.bilgis-tr.online
 a-10-1mlarketl.shop
 a-101-bugune-ozel-indirim-sepeti-mobil-cep.pay-tr.online
 a-101-extra-mobil-sadece-bugune-ozel-indirimli-sepet-tr.cepte-shop.online
-a-101-extra-sadece-bugune-ozel-indirimler-mobilde.ekstra-tr.online
-a-101-extra-sadece-bugune-ozel-sepette-tr.pay-tr.online
-a-101-extra-sadece-mobile-ozel-sepette-indirim-tr.sepette.online
 a-101-sadece-bugune-ozel-extra-indirimleri-tr.ozel-shop.site
 a-101-sadece-bugune-ozel-sepette-indirim-online-mobil-cep-tr.360-plus.com
 a-101-sadece-online-bugune-ozel-sepet-indirimleri-tr.shop
@@ -805,7 +802,6 @@ bva-appbonus.shop
 bva-digital.shop
 bva-lite.shop
 bvmdva.duckdns.org
-c2qv9xrh7mzk4ptw6jyniii.click
 c4433.site
 c77478.site
 cabernafer.duckdns.org
@@ -2265,7 +2261,6 @@ ilanda-sepetim-1102.com
 ilanda-sepetim-1103.com
 ilanda-sepetim-1104.com
 ilanda-sepetim-1105.com
-ilandan-fast.com
 ilanguvende.online
 ilanonayi.online
 ilanonayin.online
@@ -3915,7 +3910,6 @@ pazarama.ilanda-sepetim-1092.com
 pazarama.ilanda-sepetim-1099.com
 pazarama.ilanda-sepetim-1102.com
 pazarama.ilanda-sepetim-1103.com
-pazarama.ilandan-fast.com
 pazarama.ilandetaylari.com
 pazarama.ile-e-islemlerde.com.tr
 pazarama.ile-e-sepetler.com.tr
@@ -4990,7 +4984,6 @@ tri-plytas-wr.ink
 trible-shot.myonlineportal.ch
 trkaraca.club
 trkaraca.homes
-trmaliyehazine.org
 trmasak.net
 trplgnlerdervdalsn.click
 trptt-gov.club
