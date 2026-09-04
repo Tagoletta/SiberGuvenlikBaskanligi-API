@@ -1671,6 +1671,7 @@ basvurusitesi-production.up.railway.app
 basvurziyytar.cfd
 basvurznr.sbs
 batkartech.com
+batrakossvkad.click
 batuhancicekcilik.com.tr
 baukartech.com
 baviolern.com
@@ -3277,6 +3278,7 @@ dijitalnetbilgi-giris.sbs
 dijitalnetform.sbs
 dijitalneybilgi-giris.sbs
 dijitalonline-hizlisiparis.sbs
+dijitalonline-kampanyaliurunler.duckdns.org
 dijitalonline-sepetsiparis.sbs
 dijitalportalgiris.com
 dijitalsimdi-kapinda.sbs
@@ -4070,6 +4072,7 @@ fate-dale-candidates-quantitative.trycloudflare.com
 fatihomercetin.netlify.app
 fatmaouzh.xyz
 faturakom-faskero.it.com
+favelotu-mikadese.lol
 faydagelecek.com
 faydakoprusu.live
 faydaliyasam.info
@@ -4291,6 +4294,7 @@ forever-daily.ink
 forex-inside.com
 formatf.ru
 formbasvurum.com
+formentor.klasna.solm.batrakossvkad.click
 fortivpn.com.tr
 fortunatoankara.xyz
 fortunstan.com
@@ -5926,6 +5930,7 @@ hmenlnkarsan.net
 hminislmeonkt.com
 hmlknat.net
 hmnasantasns.net
+hmnbasvrkrdgrnt.lol
 hmnbnlaraglsnde.com
 hmneislemnktasi.net
 hmnenislemnoktas.net
@@ -8849,6 +8854,7 @@ n7q5m2y8v4k3.sbs
 n8x2q7v4c1r8t.sbs
 n8x2q7v4k1m5.lol
 na-microsoft.com
+nabandxnsnamsn.org
 naeznaemloda.duckdns.org
 nagios.evsahibibasvuru.com
 nahis.online
@@ -9617,8 +9623,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokiralama.org
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -13279,6 +13285,7 @@ tri-plytas-wr.ink
 trible-shot.myonlineportal.ch
 trilogicworld.com
 trimnt.com
+trinstroisbank.com
 tripadvisor-photo-view.com
 trispal.rest
 trispol.surf
