@@ -2394,7 +2394,6 @@ bva-lite.shop
 bva-mobile.shop
 bva-request.shop
 bvbvbva128282828992.duckdns.org
-bvbvbva28282828992.duckdns.org
 bvmdva.duckdns.org
 bxfh.tzcdq.cn
 bxivo.quest
@@ -6593,7 +6592,6 @@ istanfreefess.xyz
 istankart.xyz
 istankarttt.xyz
 istbassvuruogren.xyz
-istbelgim.xyz
 istbelgimcan.xyz
 istcanban.xyz
 istcanistanbulbelgim.xyz
@@ -6662,7 +6660,6 @@ izlakfoas.blogspot.com
 izlakosta.blogspot.com
 izlaotsaas.blogspot.com
 izlasfqwrs.blogspot.com
-izlcnn.duckdns.org
 izlcon.dnsup.net
 izlcop.dnsup.net
 izlcos.dnsup.net
@@ -7315,7 +7312,6 @@ kmyikilmazi.xyz
 kndanglrbndensana.shop
 kndemvaerc.duckdns.org
 knnasi.net
-knorse2xz1.duckdns.org
 knowib.com
 knowledgetree.courses
 knv7qztr3mxc8lb.sbs
@@ -9639,8 +9635,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokiralama.org
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
