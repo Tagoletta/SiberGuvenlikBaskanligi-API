@@ -1211,7 +1211,6 @@ aktuelurunlerburadalar.blogspot.com
 aktuelurunlercay.blogspot.com
 aktuelurunlerkampanyalariburada.blogspot.com
 aktuelvefirsatlarim.xyz
-aktuselbizimel.xyz
 aktuselfirsatlarkapinda.xyz
 aktutelfirsatlarkapinda.com
 aktutelfirsatlarkapinda.xyz
@@ -1253,7 +1252,6 @@ aldincaymakine.lat
 aldinekstra.dpdns.org
 aldinekstraaldin.shop
 aldinpaketindecayin.online
-aldinpaketliler.xyz
 aldinsenbura.club
 aldinsenburarlardan.lat
 aldnaldn-cay.xyz
@@ -6204,7 +6202,6 @@ gratis.anointedacres.com
 gratis.ask4tree.com
 gratis.blixtrader.com
 gratis.craftyhour.com
-gratis.cwbots.com
 gratis.doordk.com
 gratis.dumfi.com
 gratis.empordafibra.com
@@ -9532,7 +9529,6 @@ kuveyturkk.site
 kuvttb.com
 kuvuytilebizlrlee.online
 kuvvetdenkuvvetdogar.co
-kuvyethacseveri.duckdns.org
 kuzey-islem.22web.org
 kuzeymenkulas.com
 kuzeymenkuldegerleras.com
@@ -12146,8 +12142,8 @@ otokocfilokiralama.com.tr
 otokocfilokiralama.org
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
