@@ -7346,7 +7346,6 @@ koveyt-tork-net.duckdns.org
 koveyt-turk-org.duckdns.org
 koveyttork.online
 koveyttorkiye.duckdns.org
-koveytturk.duckdns.org
 koveytturkile.duckdns.org
 koveytturkumre.duckdns.org
 koveytturkumreseyehat.duckdns.org
@@ -12888,7 +12887,6 @@ tlkkkslekr.space
 tlnktlanmana.net
 tlr-finans.com
 tmoodemelercan.online
-tmosalmevzular.com
 tmsgrup.online
 tmsq.tzcdq.cn
 tnb.touchdownvienna.com
