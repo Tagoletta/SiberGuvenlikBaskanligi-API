@@ -4947,7 +4947,6 @@ esube.my-homeip.de
 esube.sumergrup.org
 esubem--qnbfinansbank.ph
 esubem-teb.my-homeip.de
-esubem-tebde-pro.my-homeip.de
 esubem.my-homeip.de
 esubeturkishkayit.com
 etakip.org
@@ -6365,7 +6364,6 @@ guncelsikayetler-778.sbs
 guncelsikayetler-970.sbs
 guncelsistemhaber.com
 gunceltrsikayetler-258.sbs
-guncelverimerkezi.com
 guncelyorumlar.com
 gundelikhaberlerr.sbs
 gundemcizgisi.gifts
@@ -12190,8 +12188,8 @@ otokocfilokiralama.com.tr
 otokocfilokiralama.org
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
