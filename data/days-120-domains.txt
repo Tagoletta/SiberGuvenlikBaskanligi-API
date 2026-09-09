@@ -10948,7 +10948,6 @@ mobile-facebook.com.ph
 mobile-karaca.vercel.app
 mobile-obilet.uk
 mobile-qnbfinansbank.ph
-mobilekranlardakayitlar.duckdns.org
 mobilentry.my-homeip.de
 mobilerism.myonlineportal.de
 mobilgiris-adresiniz.top
@@ -12205,8 +12204,8 @@ otokocfilokiralama.com.tr
 otokocfilokiralama.org
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -15455,7 +15454,6 @@ sponsorlu-paribu.live
 sponsorlu2394239413.click
 sponsorlu23942394135.click
 sponsorluhaber.com
-sponsorluhizmettler.duckdns.org
 sponsorlureklaml.click
 sponsrmention.com
 sportbuzz.vu
