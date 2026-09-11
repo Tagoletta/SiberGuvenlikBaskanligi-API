@@ -2122,7 +2122,6 @@ dijitalbilgi-giriskampanya.sbs
 dijitalbilgi-girisnetkampanya.sbs
 dijitalbilgi-sorgu.sbs
 dijitalbilgi-sorguislem.sbs
-dijitalbilgilendirme.sbs
 dijitalbilginet-giris.sbs
 dijitalbilginet-giriskampanya.sbs
 dijitalfast-hizal.duckdns.org
@@ -4906,7 +4905,6 @@ kredddfrstlrarrkmpnyaabsvrsu98563214.pro
 kredi-basvuru-merkezi.cfd
 kredi-basvuru-merkezi.click
 kredi-basvuru-merkezi.lat
-kredi-basvuru-merkezi.ooguy.com
 kredi-basvuru-merkezi.pics
 kredi-basvuru-merkezi.quest
 kredi-basvuru-online.cfd
@@ -5068,6 +5066,7 @@ lndirimtakpctst.com
 lndirimtakpctt.com
 lndirimtakptt.com
 lndirimttakpctst.com
+lndlrllmkaplndaa.com
 lndlrlmkaplndaa.com
 lnktab.net
 lnktanra.net
