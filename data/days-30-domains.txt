@@ -189,6 +189,7 @@
 a-10-1mlarketl.shop
 a-101-bugune-ozel-online-mobil-indirimler-tr.sepet-indirimleri.online
 a-101-extra-sadece-bugune-ozel-indirim-sepeti-mobil-tr.bilgi-tr.online
+a-101-mobil-sadece-bugune-ozel-tr.cepte-indirimler.online
 a-101-sadece-online-ozel-sepet-indirimleri-mobilde-tr.shop
 a-life-groundweb.myonlineportal.ch
 a-right-look-mr.myonlineportal.ch
@@ -429,7 +430,6 @@ arorayedekparcasi.com
 arracamuyane.web.app
 arsbeyzfstt.com
 artafana.click
-arti-web.my-homeip.de
 artneytyokhazbabasendegelburda.click
 artoaslfasfoela.biz
 artsketch.pl
@@ -541,7 +541,6 @@ bankfab-alert.cfd
 bankfab-secure.cfd
 bankpro-ziraatbank.com.ph
 basruvu-unnb.cfd
-basruvu-usk.cfd
 basuvurlardevamedc.sbs
 basvrrkmpnyaasonnnfrstlarrr.pro
 basvur-teb-cep.myonlineportal.de
@@ -714,7 +713,6 @@ brenden-maj-garantibbva.ph
 brieflio.info
 bright-links.com
 brivaxo7nqel2t9k.cfd
-brolta.shop
 brookroding.com
 brotherislem.22web.org
 broxent.com
@@ -873,7 +871,6 @@ cfe-hepsiburada.ph
 chacalang.com
 chamber-ua.org
 chaseme.club
-chat.evsahibibasvuru.com
 chathamhouse.eu
 cheatlib.xyz
 china.evsahibibasvuru.com
@@ -1222,6 +1219,7 @@ enable-right-click.click
 enbykrvdalbrda.lol
 endmods.com
 enerjisauretim.evre.ai
+enpabasvuru.cfd
 enpara-yilbasianketi.ph
 enparasubegiris.ph
 enpprrrprmss.xyz
@@ -1878,7 +1876,6 @@ hbnmhlrsarndlv.com
 hdflolink.cloud
 hdiodegs.cfd
 he-have-look.garden
-headlinecore.gifts
 healthiron.space
 heddalesedc.duckdns.org
 hedefon.hedefportfoyfon.com
@@ -2368,7 +2365,6 @@ kamusenindirim.vercel.app
 kamusorgum.org
 kamutakibi.org
 kamutalimat.org
-kandemirol.duckdns.org
 kantorons.duckdns.org
 kapinagelenfirsatidegerlendir.com
 kapkoltugunumasani.sbs
@@ -3082,7 +3078,6 @@ mhrsrandevuonlinehizmetlerbasvurunoktasi.duckdns.org
 mhrsrandevuornek.duckdns.org
 mhrsrandevuu.xyz
 mhrsrndsjlvsv.com
-mhrsrx2ndevuh3zmetleriniz45012.com
 mhrss-2026.duckdns.org
 mhrss-aps.online
 mhrssizden.duckdns.org
@@ -3250,7 +3245,6 @@ nealanterlerdsew.duckdns.org
 nebulachecker.icu
 nedensendegelemdincabukgel.click
 nelerdeshanewds.duckdns.org
-neo-g.my-homeip.de
 neoncloak.space
 ner-hepsiburada.ph
 neteller-garantibbva.ph
@@ -3742,7 +3736,6 @@ ptt-gov-tr.ru
 ptt-gov.eu.cc
 ptt-gov.life
 ptt-govz.life
-ptt-hgs-odeme.com
 ptt-hgs-odeme.xyz
 ptt-isbank.com.ph
 ptt-postgov.sbs
@@ -3796,7 +3789,6 @@ pwk6zmtq3rnvcl8x.sbs
 qantasrewardsa-homes.info
 qantasrewardsb-homes.info
 qavix7meron3zulaterok.cfd
-qavpazar.com
 qazwsxedcr.info
 qbknrsprmsynsr.xyz
 qbvn83748.click

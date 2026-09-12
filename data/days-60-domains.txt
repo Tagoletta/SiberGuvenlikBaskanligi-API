@@ -395,6 +395,7 @@ a-101-extra-sadece-bugune-ozel-sepette-tr.pay-tr.online
 a-101-extra-sadece-mobile-ozel-sepette-indirim-tr.sepette.online
 a-101-extra-sadece-online-bugune-ozel-indirimler-tr.store
 a-101-extra-sadece-online-mobilde-firsatlar.mobil-web.online
+a-101-mobil-sadece-bugune-ozel-tr.cepte-indirimler.online
 a-101-online-ozel-extra-mobil-tr.sepette-indirim.online
 a-101-sadece-bugune-ozel-extra-indirimleri-tr.ozel-shop.site
 a-101-sadece-bugune-ozel-mobil-indirim-tr.internet-mobil.online
@@ -414,7 +415,6 @@ a-vrage-c-b.myonlineportal.ch
 a-yonlendir.ink
 a1-82rvdnalbrdan.org
 a100111aa101110202.duckdns.org
-a101-com-tr-aldin-aldin-extra-online.elenamasaj.com
 a101-ekstra.s3.eu-north-1.amazonaws.com
 a101-firsatlariniz-artik-burada.duckdns.org
 a101-firsatlariniza-gelin.duckdns.org
@@ -1460,7 +1460,6 @@ brolta.shop
 bromist.best
 brookroding.com
 brotherislem.22web.org
-brovixan.com
 broxent.com
 brushcreators.com
 bsbvrrrsonfffrstlrkmpnyaa147859.info
@@ -2411,7 +2410,6 @@ elektronik-dolap.com
 elektronik-merkezi-ilanlarim.com
 elektronik-urunler-sepetimiz.com
 elektronikdtm.com
-elenamasaj.com
 elenen-edinim-gr.ink
 elestiri-online.ink
 elitgsm.com
@@ -2481,6 +2479,7 @@ enhanceblabber.cc
 eniyisiyim.sbs
 enlightgo.com
 enlimitonay.online
+enpabasvuru.cfd
 enpara-yilbasianketi.ph
 enparakampanyabasvuru.ph
 enparasubegiris.ph
@@ -3810,7 +3809,6 @@ hg.xxxxxxxxx111111.click
 hg73983943.click
 hgs-rho.vercel.app
 hgs-v575.vercel.app
-hgs15temmuz.ph
 hgsbaciyetkisi.art
 hgsbakiye-yuklemeciburda.firebaseapp.com
 hgsbakiyeukkleme.web.app
@@ -4864,7 +4862,6 @@ kokfiloarackiralama.com
 kolay-kredi-basvuru.cloud
 kolaydiploma.com
 kolaykrdburdasendekatl81.ink
-kolektif-ajans-yaz.biz
 kolektifweb.digital
 kolibofilna-lucere.lol
 kolirapolse-vadore.lol
@@ -5670,7 +5667,6 @@ mhrss-2026.duckdns.org
 mhrss-aps.online
 mhrss.mersinstar.com
 mhrssizden.duckdns.org
-mhrsvatandaslaricinonline.duckdns.org
 mhrsvatandasportalekranlarimiz.duckdns.org
 mhrsvatandasportalyonlendirme.duckdns.org
 mhrsxrandevuxhxzmetleriniz3940.com
@@ -6432,7 +6428,6 @@ otokocarabakirala.com.tr
 otokocarabakiralama.com.tr
 otokocarackirala.com.tr
 otokocarackirala.net.tr
-otokocarackirala.org
 otokocaviskiralama.net
 otokocavskiralama.com
 otokocelektroniksozlesme.com
@@ -6459,7 +6454,6 @@ otokoconline.com.tr
 otokoconline.net
 otokoconline.net.tr
 otokoconlinekirala.com.tr
-otokoconlinekirala.online
 otokocotokirala.com.tr
 otokocotomobil.com
 otokocrent.org
@@ -6470,7 +6464,6 @@ otokocrental.org
 otokocrentcar.org
 otokocrentcars.com
 otokocrentecar.com
-otokocrezervasyon.net
 otokoctturkiye.com
 otokocturkeyfilo.net
 otokocturkiyefilo.com
@@ -7005,7 +6998,6 @@ ptt-trendyol.com.ph
 ptt.avmsatislarim.com
 ptt.govsf.life
 ptt.mobilservis-43.sbs
-ptt.mobilservisler-67.sbs
 ptt.mobilservisler-87.sbs
 pttaevm.com
 pttavm-arac-bilgileriniz.web.app
@@ -7417,7 +7409,6 @@ sahibinden-get.eservisalimin1.online
 sahibinden-get.eservishizmetleriniz1.online
 sahibinden-get.eurunhizmetin.com
 sahibinden-get.guveli-hizmet.online
-sahibinden-get.guvenli-hizmet.online
 sahibinden-get.guvenliodemehizmet.online
 sahibinden-get.hizlikapimda.com
 sahibinden-get.hizlikargolama.com
@@ -8183,7 +8174,6 @@ sozlesme-police.com
 sozlesme.hizli-islemler-merkezi.com
 sozlesmeimza.com
 sozlesmeler.kurumsal-online-islem.com
-sozlesmeotokoc.com
 sozlesmepolice.net
 sozlesmepolice.tech
 spalirm.vu
@@ -9200,7 +9190,6 @@ vn.mma888.cc
 vocal-sfogliatella-400a98.netlify.app
 voicearch.online
 voltabayi.com
-voltamotorluaraclar.com
 voltamotorsonline.com
 voltaonline.co
 voltasatis.com
@@ -9239,7 +9228,6 @@ wa-meeting.com
 wagoosh.direct.quickconnect.to
 walter.filloco.icu
 wastingtime.co
-wbnsn-tapurandvusun.info
 wdyenisafakvm.com
 web-bas-vur.myonlineportal.de
 web-braun.com
