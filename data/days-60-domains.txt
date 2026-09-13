@@ -142,6 +142,7 @@
 182-onlines.fun
 182-onlines.help
 182-web.sbs
+182-webb.cfd
 182-webb.sbs
 182-webpsp.com
 182-webs.biz
@@ -438,7 +439,6 @@ a101marketler2026.duckdns.org
 a101online.help
 a101onlineaktuelmarket.com
 a101yuzyilinfirsatlari.duckdns.org
-a10l.org
 a1capitalmenkulonline.com
 a1kapitalmenkulonline.com
 a1newtemuzfirstlari.xyz
@@ -1109,6 +1109,7 @@ basruvu-unnb.cfd
 basruvu-usk.cfd
 basurvu-y.cfd
 basuvurlardevamedc.sbs
+basvrrkmpnyaasonnnfrstlarrr.info
 basvrrkmpnyaasonnnfrstlarrr.pro
 basvruncepte-garanti.dns.army
 basvruncepte-garanti.duckdns.org
@@ -1300,6 +1301,7 @@ bireysel-islemlerim-garanti.freemyip.com
 bireysel-islemleriniz-garanti.duckdns.org
 bireysel-magaza.com
 bireysel-satis.com
+bireysel-shops-mobil.online
 bireysel-ziraatli-kampanya.my-homeip.net
 bireyselsiparis.com
 bireyselsiparisin.online
@@ -1534,6 +1536,7 @@ bva-digital.shop
 bva-lite.shop
 bva-mobile.shop
 bva-request.shop
+bva-web.shop
 bvmdva.duckdns.org
 bvvdbdbdbsbmx.sbs
 bxfh.tzcdq.cn
@@ -2954,6 +2957,7 @@ garantibbvahesaphareketleri.ph
 garantibbvaiade.ph
 garantibbvakasikornbank.ph
 garantibbvakoreanair.com.ph
+garantibbvakredibasvuru.online
 garantibbvakredibasvurusu.info
 garantibbvamobil.netlify.app
 garantibbvanorusderma.ph
@@ -3020,6 +3024,7 @@ gelecekyakini.com
 gelecekyonelim.com
 gelengidenalsindiye.lol
 gelerdesewend.duckdns.org
+geliridaresibaskanligi.org
 gelisimalani.com
 gelisimbasligi.com
 gelisimhedefi.com
@@ -4522,7 +4527,6 @@ kapkoltugunumasani.sbs
 kapmasanisansandalyen.sbs
 kapmasanivesandalyeni.sbs
 kapotrtaotcar.duckdns.org
-kapsamsekil-acil.biz
 kapsandalyenimasani.sbs
 karaca-a5q5-git-main-redmi1.vercel.app
 karaca-home.shop
@@ -5341,6 +5345,7 @@ makarayizbizabitakmasen.duckdns.org
 makepasskey.com
 makerolleds.info
 malerdenlerdens.duckdns.org
+malimasak.net
 malitilanda-tudore.lol
 maliuyap.org
 malivezne.com
@@ -5599,7 +5604,6 @@ mhrsilerandevuekrani.duckdns.org
 mhrsislemlerin.com
 mhrsislemyapgiris.vercel.app
 mhrsrandevu346.duckdns.org
-mhrsrandevuekraaan.duckdns.org
 mhrsrandevuekranwork.duckdns.org
 mhrsrandevuhizmetlerinizonlinebasvuru.com
 mhrsrandevumerkezi.myshopify.com
@@ -5729,6 +5733,7 @@ mobilhimztlerimlerde.duckdns.org
 mobilhizmetlerim1.sbs
 mobilinbankasi-akbank.ph
 mobilite-pr-g.myonlineportal.ch
+mobils-cep.online
 mobils-tr.online
 mobilsepet-tr.online
 mobilsepetalim-10.online
@@ -7480,6 +7485,7 @@ sahibinden63.com
 sahibindenguvenli.click
 sahibindenguvenlikasko.com
 sahibindenguvenlimuhasebeodemeleri.duckdns.org
+sahibindenkaargom.com
 sahibindenkargo-islem.com
 sahibindenkargo.click
 sahibindenkaskodestek.com
@@ -8968,6 +8974,7 @@ uyapgovtr.nl
 uyapkurumportal.netlify.app
 uyaptalimat.org
 uyapvatandas-sorgu.com
+uyapvatandas.org
 uyari-detaylar-tr.ink
 uyariweb.guru
 uygoahsdhashdhashd9092asd.click
@@ -9637,7 +9644,6 @@ ziraatbank-turkey.com
 ziraatkapll.cfd
 ziraatmobilin.mobilsubeden.sbs
 ziraatsbank.cftcrecovry.com
-ziraatsbank.xyz
 ziraatssbank.xyz
 ziraattarimsa.cfd
 ziraatyatirimborsahesabi.pro
