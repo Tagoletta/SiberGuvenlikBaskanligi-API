@@ -5233,7 +5233,6 @@ halkdijital.help
 halkdijital.space
 halkdijital.wiki
 halkdyruonay.webhop.me
-halkfaizsizkredibasvuru.duckdns.org
 halkfirsat.cam
 halkfirsat.click
 halkfirsat.online
@@ -7413,6 +7412,7 @@ lmktan.net
 lmrsrandevu-3a5060ee327b.herokuapp.com
 lnatlanlatn.net
 lnbnsnanrdenttldm.shop
+lndirimayieylultt.com
 lndirimi-takipetsene.com
 lndirimikapinagetirdik.com
 lndiriminboylesi-sende.com
@@ -8072,12 +8072,14 @@ metakaitabmplreas.sbs
 metakaitaoffline.sbs
 metakaitareklamofflinebee.sbs
 metakamp.site
+metalaroralarburalar.sbs
 metaofflinereklam.sbs
 metaorasiburasioffline.sbs
 metareklam.shop
 metareklam9503.cfd
 metareklam9503.sbs
 metareklamoffline.sbs
+metareklamonline.sbs
 metax51c23x132.cfd
 metaxrkox23z.sbs
 meteorclients.com
@@ -9351,8 +9353,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokiralama.org
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
