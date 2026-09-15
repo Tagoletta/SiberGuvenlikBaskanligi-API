@@ -3347,7 +3347,6 @@ e-devletana.com.ph
 e-devletinvest-digital.pages.dev
 e-devletinvest.digital
 e-devletinvest.live
-e-devletmhrss.sbs
 e-devletresmituvturk.site
 e-devletteniadelerrgerigeldi.com.ph
 e-dosyalarim.com
@@ -9264,8 +9263,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokiralama.org
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
