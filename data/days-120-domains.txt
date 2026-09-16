@@ -3347,8 +3347,8 @@ cezadavasorgu.org
 cezadosya.org
 cezadosyasorgulama.com
 cezagovtr.org
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -12019,8 +12019,8 @@ otokocfilokiralama.com.tr
 otokocfilokiralama.org
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -13076,7 +13076,6 @@ pttavm-hizli-ve-guvenli.firebaseapp.com
 pttavm-hizli-ve-guvenli.web.app
 pttavm-hizliveguvenlidir.firebaseapp.com
 pttavm-hizliveguvenlidir.web.app
-pttavm-ilanlarim-sepette.com
 pttavm-kilo-metre-sorgulama.web.app
 pttavm-kilometrsorgu.web.app
 pttavm-km-hizliogren.firebaseapp.com
