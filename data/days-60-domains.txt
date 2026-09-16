@@ -1761,8 +1761,8 @@ cezadavasorgu.org
 cezadosya.org
 cezadosyasorgulama.com
 cezagovtr.org
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -6983,7 +6983,6 @@ pttavm.onayda-sepet-7180.com
 pttavm.online
 pttavm.online-siparisler-onaylama.com
 pttavm.satinal-siparis.com
-pttavm.siparis-guvenliodeme.com
 pttavm.tamamla-sipars.com
 pttavmdetaykontrol.firebaseapp.com
 pttavmdetaykontrol.web.app
@@ -7251,7 +7250,6 @@ rrrrrddddyyyy.duckdns.org
 rtf-yukleme.22web.org
 ru-yenisafak-com.translate.goog
 ruhsuzpanel.lol
-ruhsuzpanel.online
 ruhsuzpanel.site
 ruhsuzpanel.top
 ruhsuzpanel1.lol
@@ -7351,15 +7349,10 @@ sahibinden-get-paramguvende-ode.gt.tc
 sahibinden-get.alisverisepetin-12.sbs
 sahibinden-get.ejet-ticaretin1.online
 sahibinden-get.ejet-ticaretin6.online
-sahibinden-get.emobileservislerrn.online
 sahibinden-get.eservisalimin1.online
 sahibinden-get.eservishizmetleriniz1.online
-sahibinden-get.eurunhizmetin.com
-sahibinden-get.guveli-hizmet.online
-sahibinden-get.guvenliodemehizmet.online
 sahibinden-get.hizlikapimda.com
 sahibinden-get.hizlikargolama.com
-sahibinden-get.islem-alisveris-hizmet.com.tr
 sahibinden-get.islem-guvende.online
 sahibinden-get.jethizmetin2-ru.online
 sahibinden-get.mobilhizmetlerim1.sbs
@@ -7376,7 +7369,6 @@ sahibinden-get.mobilservisin-25.sbs
 sahibinden-get.mobilservisin-33.sbs
 sahibinden-get.mobilservisin-37.sbs
 sahibinden-get.mobilservisin-55.sbs
-sahibinden-get.mobilservisler-49.sbs
 sahibinden-get.mobilservisler-62.sbs
 sahibinden-get.mobilservisler-63.sbs
 sahibinden-get.mobilservisler-84.sbs
@@ -7384,7 +7376,6 @@ sahibinden-get.mobilservisler-89.sbs
 sahibinden-get.mobilservisleriniz-11.sbs
 sahibinden-get.mobilservisleriniz-14.sbs
 sahibinden-get.mobilservisleriniz-16.sbs
-sahibinden-get.mobilservisleriniz-2.sbs
 sahibinden-get.mobilservisleriniz-3.sbs
 sahibinden-get.mobilservisleriniz-5.sbs
 sahibinden-get.servisinguvenli-25.sbs
@@ -7393,7 +7384,6 @@ sahibinden-get.servisinguvenli-65.sbs
 sahibinden-get.siparisguvende.com
 sahibinden-get.siparisimhizli.com
 sahibinden-get.siparisislemleri.com
-sahibinden-get.vercel.app
 sahibinden-getilan.tr-alisveris-e-islemler.online
 sahibinden-getilan.tr-alisveris-e-islemlerim.online
 sahibinden-getilan.tr-alisveris-islemlerim.online
