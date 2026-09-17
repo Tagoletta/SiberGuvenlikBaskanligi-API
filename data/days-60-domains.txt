@@ -8426,8 +8426,6 @@ taphzmet.web.app
 taphzmett.shop
 taphzmrl.shop
 taphzmts.shop
-taptaptap.online
-taptaptappp.web.app
 tapu-randevum-e-devlet.vercel.app
 tapu-randevumsu-tkgm-e-devlet.vercel.app
 tapu.lat
