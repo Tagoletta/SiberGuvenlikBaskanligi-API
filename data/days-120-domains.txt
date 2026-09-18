@@ -6389,7 +6389,6 @@ gundemcizgisi.gifts
 gundemdunyasi.company
 gundemdunyasi.world
 gundemfeneri.online
-gundemhaberfirsat.com
 gundemhaberhizli.com
 gundemkaynak.org
 gundemnokta.world
