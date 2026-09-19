@@ -1304,7 +1304,6 @@ arracamuyane.web.app
 arracxacnmuyayne.com.tr
 arracxxacnmuyayne.online
 arrrzumstwt.com
-arrzuminndrim.com
 arrzzumnndrrs.com
 arsbeyzfstt.com
 arskrgmnsnz.giize.com
@@ -1976,6 +1975,7 @@ biremoli-folebazi.lol
 bireybasvur.click
 bireybasvurular.click
 bireysel-akmobil-cepte-com.duckdns.org
+bireysel-bireysel-ziraat.my-homeip.de
 bireysel-firsatlar.click
 bireysel-guvenli-siparis-onay-sistemi-guncel.online
 bireysel-iade-halkbank.ph
@@ -1987,6 +1987,7 @@ bireysel-mobil-shop.sbs
 bireysel-satis.com
 bireysel-shops-mobil.online
 bireysel-ziraatli-kampanya.my-homeip.net
+bireysel-zirai-tarim.my-homeip.de
 bireyselbasvurdenizbank.74-235-34-0.plesk.page
 bireyselsiparis.com
 bireyselsiparisin.online
@@ -2582,6 +2583,7 @@ ceptesokfirsatlarim.com
 ceptesokindirmleri.online
 ceptesoklarile.online
 cepteteb-c-o-m-tr.my-homeip.de
+cepteteb-com-tr-emekliye-ozell.my-homeip.de
 cepteteb-com-tr.my-homeip.de
 cepteteb-com.my-homeip.de
 cepteteb-digital-firsatlar.my-homeip.de
@@ -7171,7 +7173,6 @@ koveyttork.online
 koveyttorkiye.duckdns.org
 koveytturkile.duckdns.org
 koveytumm.duckdns.org
-koylu-bot.neocities.org
 koyunn.nicepage.io
 kozmoyenigirisadresi.com
 kp2-3ur6pe4r8i2hj5.com
@@ -9407,8 +9408,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokiralama.org
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -13197,7 +13198,6 @@ tuvturkmuayene.duckdns.org
 tuvturkmuayene.org
 tuvturkrandevun.com
 tuvturkse.digital
-tuvturksr.com
 tuvturkyt.com
 tuvvturks.digital
 tuwtukr.govt.hu
@@ -13814,7 +13814,10 @@ www-cepte-teb-com.my-homeip.de
 www-cepteteb-ayricalikli-firsatlar.my-homeip.de
 www-cepteteb-com-tr-basvuru.my-homeip.de
 www-cepteteb-digitalfirsatlar-com.my-homeip.de
+www-cepteteb-emekli-kampanyalari.my-homeip.de
+www-cepteteb-emekliye.my-homeip.de
 www-cepteteb-ozelkampanya.my-homeip.de
+www-ceptetebden-ayricalik.my-homeip.de
 www-dot-turkiye-dot-gov-dot-tr.jp.gmproxy.org
 www-internetbankacilik-qnbfinansbank.ph
 www-kgm-gov-tr.translate.goog

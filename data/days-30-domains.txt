@@ -704,10 +704,12 @@ biramodi-folepara.lol
 birasude-foledepo.lol
 bireboko-folasude.lol
 biremoli-folebazi.lol
+bireysel-bireysel-ziraat.my-homeip.de
 bireysel-guvenli-siparis-onay-sistemi-guncel.online
 bireysel-magaza.com
 bireysel-satis.com
 bireysel-shops-mobil.online
+bireysel-zirai-tarim.my-homeip.de
 bireyselsiparisin.online
 birimkamu.org
 birimmali.org
@@ -920,6 +922,7 @@ cepten-mobile-basvur.myonlineportal.de
 ceptesokindirmleri.online
 ceptesoklarile.online
 cepteteb-c-o-m-tr.my-homeip.de
+cepteteb-com-tr-emekliye-ozell.my-homeip.de
 cepteteb-com-tr.my-homeip.de
 cepteteb-com.my-homeip.de
 cepteteb-digital-firsatlar.my-homeip.de
@@ -944,8 +947,8 @@ cerencans.duckdns.org
 ceyhunturizm.com
 cezadosyasorgulama.com
 cezagovtr.org
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamaliyesorgu.com
 cezamaliyesorgu.org
@@ -3147,7 +3150,6 @@ palmiiyesultan.com
 panel.alwaysdata.net
 panelbalonxfs.xyz
 panelsorgu.buzz
-panelsorgu.space
 papara-hepsiburada.com.ph
 papara-online.com.ph
 paparaemenkuldegerler.com
@@ -4087,9 +4089,6 @@ translate-youdao.hl.cn
 trekmesh15.com
 trendex-tr.online
 trendy0l.homes
-trendyo5.lol
-trendyo5.sbs
-trendyo5.xyz
 trendyol-alibaba.ph
 trendyol.im
 trendyol.lol
@@ -4283,7 +4282,10 @@ www-braun.org
 www-cepte-teb-com.my-homeip.de
 www-cepteteb-ayricalikli-firsatlar.my-homeip.de
 www-cepteteb-digitalfirsatlar-com.my-homeip.de
+www-cepteteb-emekli-kampanyalari.my-homeip.de
+www-cepteteb-emekliye.my-homeip.de
 www-cepteteb-ozelkampanya.my-homeip.de
+www-ceptetebden-ayricalik.my-homeip.de
 www-dot-turkiye-dot-gov-dot-tr.jp.gmproxy.org
 www-kgm-gov-tr.translate.goog
 www-qnbfinansbank-internetsubesi-com-tr.ph

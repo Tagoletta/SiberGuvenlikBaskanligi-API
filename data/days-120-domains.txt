@@ -2580,6 +2580,7 @@ biremoli-folebazi.lol
 bireybasvur.click
 bireybasvurular.click
 bireysel-akmobil-cepte-com.duckdns.org
+bireysel-bireysel-ziraat.my-homeip.de
 bireysel-firsatlar.click
 bireysel-guvenli-siparis-onay-sistemi-guncel.online
 bireysel-iade-halkbank.ph
@@ -2593,6 +2594,7 @@ bireysel-satis.com
 bireysel-shop-tr.click
 bireysel-shops-mobil.online
 bireysel-ziraatli-kampanya.my-homeip.net
+bireysel-zirai-tarim.my-homeip.de
 bireyselbasvurdenizbank.74-235-34-0.plesk.page
 bireyselsiparis.com
 bireyselsiparisin.online
@@ -3372,6 +3374,7 @@ ceptesokfirsatlarim.com
 ceptesokindirmleri.online
 ceptesoklarile.online
 cepteteb-c-o-m-tr.my-homeip.de
+cepteteb-com-tr-emekliye-ozell.my-homeip.de
 cepteteb-com-tr.my-homeip.de
 cepteteb-com.my-homeip.de
 cepteteb-digital-firsatlar.my-homeip.de
@@ -4229,7 +4232,6 @@ diplomasatisi.online
 diramodi-ralamoli.lol
 dirapala-ralasude.lol
 direktsube-akbank.ph
-dis-ak-kampaing.myonlineportal.ch
 disciplinenahidwin.st
 disclaud-password-security.myonlineportal.ch
 discountonline.click
@@ -5591,7 +5593,6 @@ frrrstllrrrkmpppnnnyaaaabsvrrr.info
 frrrstllrrrkmpppnnnyaaaabsvrrr.pro
 frrstlrrkmnyaabsvrrr25479123.info
 frrstlrrkmnyaabsvrrr25479123.pro
-frsattsonnnbsvrrkmpnyyaaa.live
 frsattt-site.s3.eu-north-1.amazonaws.com
 frsltrkmpnyabsvr.info
 frsltrkmpnyabsvr.live
@@ -6575,7 +6576,6 @@ haberkapisi.site
 haberkesf24.com
 haberkivilcim.com
 haberkivilcim.top
-haberkrali.shop
 haberl2231123.sbs
 haberler.sizde.com.akbadonerd.click
 haberler.sizde.com.solanamolana.click
@@ -6684,7 +6684,6 @@ haberler48751.sbs
 haberler53454321.shop
 haberler54232.shop
 haberler543343.shop
-haberler554.shop
 haberler562346.sbs
 haberler5632494.sbs
 haberler56755712366.com
@@ -12148,8 +12147,8 @@ otokocfilokiralama.com.tr
 otokocfilokiralama.org
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -15892,7 +15891,6 @@ techrock.digital
 techsysscanner.com
 techsysscanner.lol
 techva.cyou
-techvera.digital
 techveras.online
 tecnorix.com
 tedbanibuni.duckdns.org
@@ -17709,7 +17707,10 @@ www-cepte-teb-com.my-homeip.de
 www-cepteteb-ayricalikli-firsatlar.my-homeip.de
 www-cepteteb-com-tr-basvuru.my-homeip.de
 www-cepteteb-digitalfirsatlar-com.my-homeip.de
+www-cepteteb-emekli-kampanyalari.my-homeip.de
+www-cepteteb-emekliye.my-homeip.de
 www-cepteteb-ozelkampanya.my-homeip.de
+www-ceptetebden-ayricalik.my-homeip.de
 www-dot-turkiye-dot-gov-dot-tr.jp.gmproxy.org
 www-enpara-qnbfinans-com-tr.ph
 www-fifa.com
