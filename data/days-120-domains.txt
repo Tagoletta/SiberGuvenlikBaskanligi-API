@@ -49,6 +49,7 @@
 101-extra-mobil-online-sadece-bugune-ozel-sepet-indirimi-tr.shop-plus.online
 101-extra-mobil-sadece-bugune-ozel-alisveris-indirimi.avantajvar-tr.online
 101-extra-mobil-sadece-bugune-ozel-mobil-sepet-indirimleri-cep.cepfirsat.online
+101-extra-mobil-sadece-bugune-ozel-online-firsatli-alisveris-tr.netsepet.online
 101-extra-mobil-sadece-online-ozel-sepette-indirim-tr.web-sepet.online
 101-extra-mobile-ozel-indirim-sadece-bugune-ozel-tr.prime-store-tr.online
 101-extra-mobile-ozel-sadece-online-alisveris-indirimi-tr.sepets.online
@@ -2163,6 +2164,7 @@ basvur-hemenbasvurgiris100yildeniz.ph
 basvur-isceponay.space
 basvur-teb-cep.myonlineportal.de
 basvur-tebcep.myonlineportal.de
+basvur.indirimlistanbulrehber.com
 basvur.myonlineportal.de
 basvurbizlkelerle.sbs
 basvurbrd.sbs
@@ -3178,7 +3180,6 @@ cambioefectivo.com
 camerondev1.github.io
 camlarfilmli.click
 camorreado.click
-campixo.media
 canavarndevusyfasi.duckdns.org
 caninelab.co
 canlaradlarsbaotldnapackasn.site
@@ -3725,7 +3726,6 @@ cpcalendars.7641713825499130.duckdns.org
 cpcalendars.7641713825499160.duckdns.org
 cpcalendars.7641713825499180.duckdns.org
 cpcalendars.862413415907186110.duckdns.org
-cpcalendars.kisa-links-mobil.duckdns.org
 cpcalendars.natoint.net
 cpcalendars.sokmarketekstrakampanya4.duckdns.org
 cpcalendars.sokmarketekstrakampanya5.duckdns.org
@@ -6271,7 +6271,6 @@ grademeta.tr
 gragelerdesasdas.duckdns.org
 granadaluxuribelek.com
 granadaluxuries.com
-granadaluxuryspa.com
 grande-luna.top
 granderevolucao.store
 grandtemizelotel.com
@@ -6313,6 +6312,7 @@ gratis.obliqueprism.com
 gratis.paperbacksins.com
 gratis.sendreward.com
 gratis.simplysweetcakesoc.com
+gratis.sinoyear.com
 gratis.sophiemaslowski.com
 gratis.terminuscs.com
 gratis.twinslist.com
@@ -6898,7 +6898,6 @@ hastanesizin.com
 hastaneyapakrandv.duckdns.org
 hastanrsdedede.uk
 hastatnatente.uk
-hastesserae.cfd
 hastnedkekse.com
 hastneisleriogrn.cfd
 hastnene.com
@@ -7399,6 +7398,7 @@ hizlicasatinalhemensendebirlikteyiz.xyz
 hizliciadevametmeliyiz.sbs
 hizliciatoplama.sbs
 hizlicicekler.duckdns.org
+hizlicicektr.online
 hizlidanismanlikllaar.com
 hizlidanismanlikllar.com
 hizlidanogren.xyz
@@ -7459,7 +7459,6 @@ hizlikmlerinizburda.web.app
 hizlikmvemuz.xyz
 hizlimarketalim.click
 hizlimenu-yazi.click
-hizlimobilbasvurular.sbs
 hizlimobilfirsatlarim.sbs
 hizlionaygerekenislerde.com
 hizlionaygerekenislerde.net
@@ -7749,7 +7748,6 @@ hukuksistem.net
 hukukyonetim.org
 hukulo-pidezesare.xyz
 hukulugude-redesee.lol
-hukumvesorusturma.org
 huldereteyesede.lol
 hulifpo-desedu.lol
 huligili-gulederase.lol
@@ -8501,7 +8499,6 @@ jerryshvac.com
 jerusalem.androiddebugbridge.su
 jerycrm.net
 jet-bireysel-hizmetler.online
-jet-eservis-hizmetlerin.online
 jet-guvenlihizmetleriniz.online
 jet-hizmetlerim.online
 jetbrains-apps-group.gitlab.io
@@ -9224,7 +9221,6 @@ kmpnylrrsnffrsttbsvrrr.live
 kmpnylrrsnffrsttbsvrrr.pro
 kmpnymrkzfrstbsvr.click
 kmpnymrkzfrstbsvr.live
-kmpnymrkzfrstbsvr.pro
 kmpnyprmssyncklssssss.live
 kmpnyprmssyncklssssss.pro
 kmpnysprmsynfrstbsvrrr.click
@@ -10596,9 +10592,7 @@ mhjr-s.com
 mhkasdmk34734awdzg.com
 mhkasdmk3474578f.com
 mhkastohemen.uk
-mhkrdsasdh.com
 mhkrsvzcv.sbs
-mhksdvscxv.com
 mhlasdkrnd.com
 mhldkrsd.com
 mhldsahlads.com
@@ -12249,8 +12243,8 @@ otokocfilokiralama.com.tr
 otokocfilokiralama.org
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -12807,6 +12801,7 @@ pazarama.anindaodeme.com
 pazarama.anlik-ilan-odemesi.com
 pazarama.bireysel-ilan.com
 pazarama.bireysel-magaza.com
+pazarama.bireyselonlineservisler.com
 pazarama.bireyselsiparis.com
 pazarama.duckdns.org
 pazarama.elektronik-urunler-sepetimiz.com
@@ -12918,7 +12913,6 @@ personalsafe.cyou
 pestquiltsurprise.com
 petalara.com
 petalbella.gifts
-petflow.gifts
 pfpro-dp1nr9t4cenw.edgeone.dev
 pfpro-dpmhin81x651.edgeone.dev
 pfpro-dpswdueht4s8.edgeone.dev
@@ -13426,6 +13420,7 @@ pttavmkmsorgum.com
 pttavmkmsorgumerkezi.web.app
 pttavmkmsormakweb.web.app
 pttavmturkiye.shop
+pttavn-hizli-gecisleriniz.web.app
 pttavn-islemler-hgs-sorgulama.firebaseapp.com
 pttavn-islemler-hgs-sorgulama.web.app
 pttavn-kilomtre-islem-sorgu.firebaseapp.com
@@ -15273,6 +15268,8 @@ sonfrlasaltikmpnyasirfvsavr.info
 sonfrsaattbsvrrrkmpnyaaa.art
 sonfrsaattbsvrrrkmpnyaaa.click
 sonfrsiattlarbsasvrkmnpyaaa.pro
+sonfrsltariikmpnyaabsvrr2138120.online
+sonfrsltariikmpnyaabsvrr2138120.pro
 sonfrslttrrrbsvrrrkmpnyyykrediiifrstlrr.info
 sonfrslttrrrbsvrrrkmpnyyykrediiifrstlrr.pro
 sonfrstlarkapindaburda1o1.shop
@@ -16521,7 +16518,6 @@ tr-web-alisveris.online
 tr-webislemler-get-alisveris.online
 tr-webislemler-tr-getalisverisler.online
 tr.karacasales.shop
-tr44-guncelsikaytler.sbs
 tr45-guncelsikayetler.sbs
 tr45-guncelsikaytler.sbs
 tr47-guncelsikaytler.sbs
@@ -16566,7 +16562,6 @@ trdosyamasak.com
 trdosyamasak.org
 tredsz.cfd
 trees4sale.net
-tregmkurum.org
 trekmesh15.com
 trekonomimobileonlineapp.xyz
 tremobillgrnlidijitalmenu.xyz
@@ -17236,7 +17231,6 @@ uzerlerguzelim.co
 uzlasmaaktifdosyasorgula.com
 uzlasmabirim.org
 uzlasmacezasorgu.org
-uzlasmadosya.com
 uzlasmadosyakontrol.org
 uzlasmadosyatr.com
 uzlasmaegm.org
@@ -17540,7 +17534,6 @@ vpnmyha.shop
 vpnmyxa.site
 vraxolim.media
 vrf.cldvrfd.click
-vrmynartkbktkblfdr.sbs
 vrpckcamsnkzbrdy.xyz
 vson-panel-718844.vercel.app
 vtururk.com
@@ -18285,8 +18278,6 @@ yilmaz-ticaret-ile-siparisinizi-tamamlayiniz.com
 yilmaz-ticaret-motor-ile-siparisi-tamamlayiniz.com
 yimxg25tiy.com
 yinveyang10.sbs
-yinveyang2.sbs
-yinveyang3.sbs
 yinveyang4.sbs
 yinveyang5.sbs
 yinveyang8.sbs
