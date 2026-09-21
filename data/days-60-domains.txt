@@ -497,6 +497,7 @@ a101.dijitalbayim.com
 a101.ilan-sepetlerimiz-burada.com
 a1011.frstlarbrdsmgs.store
 a101aktuelfiyatlari.com
+a101eylulfirsatlari.duckdns.org
 a101firsaturunu.duckdns.org
 a101haftaninbirgunindirimi.com
 a101hizlimarket.duckdns.org
@@ -718,6 +719,7 @@ aktivasyonlinkibasvurusu.duckdns.org
 aktuelcebindecom.com
 aktuelfirsat.com
 aktuelfirsatgunu.duckdns.org
+aktuelindirimgunleri.duckdns.org
 aktuelindrmcebd.duckdns.org
 aktuelseninle.com
 aktuelsinirlisayiak.sbs
@@ -891,6 +893,7 @@ apt-alna-aoriy.myonlineportal.ch
 aquamsis.com
 ar-as-m.myonlineportal.ch
 ar-safar.myonlineportal.ch
+ara-asa-atk.my-homeip.de
 araba--paribu.com
 araba--paribu.live
 araba-cekilisi-paribu.ezgateway.net
@@ -1040,6 +1043,7 @@ aslicicek.com
 aslihukuksorgu.com
 asmdkasmk43k712.duckdns.org
 asnasnahyaaslananala.49843544322684.sbs
+asncxbyaaasdanala.15334265341523.sbs
 asncxbyaaasdanala.48465498456.sbs
 asncxbyaaasdanala.4849846518494221.sbs
 asncxbyaaasdanala.4875648646541.sbs
@@ -1113,6 +1117,8 @@ avis.arackiralamaislem.com
 avis.hizmet-merkezi-online.com
 avis.sozlesme-islemleri-online.com
 avisarackiralaama.com
+avisfilorezervasyon.com
+avisfilorezervasyon.net
 aviskirala.net
 aviskurumsalotokoc.com
 avisotokocfilo.com
@@ -1826,8 +1832,8 @@ cezabirimi.net
 cezadavasorgu.org
 cezadosyasorgulama.com
 cezagovtr.org
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -2942,7 +2948,6 @@ flakecheck.online
 flashrivo.org
 fldwnld.online
 flerdensewxede.duckdns.org
-flintovaxir.pro
 flrsatagustos.com
 flrsatdiyari.com
 flrsathadigewldsen.shop
@@ -2970,7 +2975,6 @@ forum2.evsahibibasvuru.com
 forvar-d.my-homeip.de
 forvard.best
 forward-yonlendir.ink
-forwardhorizon.net
 forwardjourney.online
 foto3969.link
 fotocekinmeguzelim.vip
@@ -3147,7 +3151,6 @@ geldelerdensgeasw.duckdns.org
 geldesgeahhsder.duckdns.org
 geldesmmeasdwas.duckdns.org
 geleceginvizyonadresi.sbs
-gelecekgunlugu.com
 gelecekongorusu.misecure.com
 gelecekyakini.com
 gelengidenalsindiye.lol
@@ -3455,7 +3458,6 @@ guncelsikayetler-453.sbs
 gunceltrsikayetler-258.sbs
 guncelwep.forum
 gundelikhaberlerr.sbs
-gundemnokta.world
 gundemrotasi.info
 gunu-tr.online
 gununfirsatiburada.com
@@ -4450,6 +4452,7 @@ istnnop.com
 isttkarttlahmnal.com
 isube-kuveyttt.duckdns.org
 isube-mobilll.duckdns.org
+isubeturkishmenkulweb.com
 itechx.tel
 itgreatwilltheynow.top
 iualef.net
@@ -8164,7 +8167,6 @@ sntskenlaersa.online
 soelmarltlerer.com
 soft-feather-7807.0x.cloudflare-workers.workers.dev
 soft-moon.ink
-softex.cyou
 softwareguard.cfd
 sofuoglumoto.com
 sok-marketler-kampanyasi-stoklarla52052052.sbs
@@ -8196,7 +8198,6 @@ somkerler.com
 son.firsatlar.bitiyor.hizmelgk.click
 son2026indirimleri101.biz
 sondakika.cam
-sondakikanet.world
 sondaksonbasvursonhareket34.click
 sonfffrstlrbstsbvrrrkmpnyaaaa986532.info
 sonfffrstlrbstsbvrrrkmpnyaaaa986532.pro
@@ -8340,6 +8341,7 @@ sqfepjvmrd.xyz
 sqslink.net
 srabklmhrndval.com
 srdansanrabigbrda.shop
+srdgdnoktsnsa.duckdns.org
 srnykrndlasrabkle.com
 srsfxkqwr.sbs
 srt.kizlarburada.click
@@ -8948,7 +8950,6 @@ tuvtrkaracmuayene.ldtp.com
 tuvtrkk-aracmuayne.web.app
 tuvtruk.com
 tuvtukrmuayne.govt.hu
-tuvturk-kla.com
 tuvturk.rauzmiklimlendirme.com
 tuvturk.sbs
 tuvturk23randevu.duckdns.org
@@ -9321,6 +9322,8 @@ www-cepte-teb-com.my-homeip.de
 www-cepteteb-ayricalikli-firsatlar.my-homeip.de
 www-cepteteb-com-tr-basvuru.my-homeip.de
 www-cepteteb-com-tr-firsatlar.my-homeip.de
+www-cepteteb-com-tr-online-kampanya.myonlineportal.ch
+www-cepteteb-com-tr-online-kampanya.myonlineportal.de
 www-cepteteb-digitalfirsatlar-com.my-homeip.de
 www-cepteteb-emekli-kampanyalari.my-homeip.de
 www-cepteteb-emekliye.my-homeip.de
