@@ -2146,7 +2146,6 @@ bool-myhermes-garantibbva.ph
 bool-trendyol.com.ph
 borertors92.anondns.net
 borsaci.site
-borsagundemi.media
 borsalio.click
 borsava.capital
 boss.turkiyekalkinmabankasi.com
@@ -4186,7 +4185,6 @@ finansbankkredikarti.ph
 finansbankkrediparacepte.ph
 finansdenetim.org
 finansfactoring.com
-finansgundemi.media
 finansman-togg.com
 finansmaninfo.biz
 finansmanmenkul.pro
@@ -4312,6 +4310,7 @@ forever-daily.ink
 forex-inside.com
 formatf.ru
 formentor.klasna.solm.batrakossvkad.click
+formsayfasi.netlify.app
 fortivpn.com.tr
 fortunatoankara.xyz
 fortunstan.com
@@ -9456,8 +9455,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokiralama.org
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -11767,6 +11766,7 @@ sliyteye-aktrlar.com
 slkmalkretler.shop
 slkmalrkelr.shop
 slow-green-tarccrgc.edgeone.dev
+sls-onlinetuvhizli.site
 sltelye-ylnendirivmici.com
 slyfogx.shop
 smartbasketplace.shop
@@ -12390,6 +12390,7 @@ tckmaliyesorgulama.com
 tcksorgu.org
 tckuyap.org
 tcmalisorgu.net
+tcmaliyebilgi.org
 tcmasak.net
 tcommander.ru
 tcportal.org
@@ -12677,7 +12678,6 @@ toki-gov-tr-017.vercel.app
 toki-gov-tr-018.vercel.app
 toki-gov-tr-019.vercel.app
 toki-gov-tr-020.vercel.app
-toki-gov-tr-19.vercel.app
 toki-gov-tr-fatih.vercel.app
 toki-gov-tr-girisi.vercel.app
 toki-gov-tr-konut.vercel.app
@@ -12730,6 +12730,7 @@ toplukonut.gravitycl.app
 toplukonut152825121.vercel.app
 toplukonut2026-toki2026.vercel.app
 toplukonut2777059834.vercel.app
+toplukonut35912911.vercelcloud.com
 toplukonut3641008438.vercel.app
 toplukonut7456744746.vercel.app
 toplukonutbaby.vercel.app
@@ -13648,6 +13649,7 @@ webcodenest.co
 webdev.evsahibibasvuru.com
 webdijital-basvurular.sbs
 webdijital-kampanyalar.click
+webdijital-simdikampanya.sbs
 webdisk.1254598989899893.duckdns.org
 webdisk.1254598989899894.duckdns.org
 webdisk.6134728541296136547120.duckdns.org

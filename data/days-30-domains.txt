@@ -1001,8 +1001,8 @@ cerencans.duckdns.org
 ceyhunturizm.com
 cezadosyasorgulama.com
 cezagovtr.org
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamaliyesorgu.com
 cezamaliyesorgu.org
@@ -1552,6 +1552,7 @@ fomesnetlerkest.duckdns.org
 forarackiralama.com
 fordmotbvmorcompany.vu
 formentor.klasna.solm.batrakossvkad.click
+formsayfasi.netlify.app
 forum2.evsahibibasvuru.com
 forvard.best
 foto3969.link
@@ -3859,6 +3860,7 @@ skipraid.com
 skykiralama.com
 sliencewebsites.sbs
 sliyteye-aktrlar.com
+sls-onlinetuvhizli.site
 sltelye-ylnendirivmici.com
 slyfogx.shop
 smartbusinessclass.sbs
@@ -4091,6 +4093,7 @@ tckmaliyesorgula.com
 tckmaliyesorgulama.com
 tckuyap.org
 tcmalisorgu.net
+tcmaliyebilgi.org
 teams.ms365-live.com
 teb-cepte-emekliye.my-homeip.de
 teb-com-tr-emekli-firsatlari.my-homeip.de
@@ -4169,6 +4172,7 @@ tokyolokko.co
 tom00bnk01.duckdns.org
 tomcrm.net
 tomhadi.com
+toplukonut35912911.vercelcloud.com
 topxgax.click
 toravia.live
 tpaoyatirimprogrami.pro
@@ -4375,6 +4379,7 @@ web5-4v9a-online-garantibbva.vibtee.com
 webdev.evsahibibasvuru.com
 webdijital-basvurular.sbs
 webdijital-kampanyalar.click
+webdijital-simdikampanya.sbs
 webstt182.sbs
 websube-akbank.ph
 weentuncast.sbs
@@ -4523,7 +4528,6 @@ yusuflumerkezsubesin.duckdns.org
 yusuflusubesibb.duckdns.org
 yuzbirsiparis.sbs
 yuzyilinkonutprojesi.org
-yxcvds.xyz
 z87014.site
 zadese-deresederepi.lol
 zaf.11gokil.org
