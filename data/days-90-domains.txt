@@ -2699,8 +2699,8 @@ cezadavasorgu.org
 cezadosya.org
 cezadosyasorgulama.com
 cezagovtr.org
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -5329,7 +5329,6 @@ halkaplayground.life
 halkbanek.cfd
 halkbankasipromosyondeneme.duckdns.org
 halkbankkredi.vercel.app
-halkbanktalentforce.com
 halkbnk.com.tr
 halkbnkmobil.duckdns.org
 halkbnkmobilaktif.duckdns.org
@@ -9486,8 +9485,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokiralama.org
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net

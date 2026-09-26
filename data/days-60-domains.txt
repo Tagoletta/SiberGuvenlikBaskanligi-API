@@ -1927,8 +1927,8 @@ cezabirimi.net
 cezadavasorgu.org
 cezadosyasorgulama.com
 cezagovtr.org
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -3781,7 +3781,6 @@ halimdenanla.dnsup.net
 halk-kampanya-ozel.online
 halk-kampanya-ozel.site
 halkbankasipromosyondeneme.duckdns.org
-halkbanktalentforce.com
 halkbnk.com.tr
 halkburadapromosyon.xyz
 halkcimpatlamapls.ice.fo
