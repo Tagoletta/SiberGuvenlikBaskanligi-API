@@ -217,6 +217,7 @@
 412121145441555445592.duckdns.org
 412121145441555445593.duckdns.org
 412542212224555455589991.duckdns.org
+421412421412124.duckdns.org
 44444321.sbs
 45685153456431.duckdns.org
 468416515654451232.duckdns.org
@@ -1014,8 +1015,8 @@ ceyhunturizm.com
 cezabildirim.com
 cezadosyasorgulama.com
 cezagovtr.org
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -1220,6 +1221,7 @@ e-hgs.de
 e-imza-filo.com
 e-sagliklibiryasammucadele.digital
 e-sbm.org
+e-sepetalisveris.sbs
 e-sozlesme.online
 e-sube-teb-com-tr.my-homeip.de
 e-sube.hedefportfoyfon.com
@@ -1787,7 +1789,6 @@ haberler4857489.sbs
 haberler53454321.shop
 haberler543343.shop
 haberler56321.sbs
-haberler7452523.shop
 haberler7456423.sbs
 haberler78413289.sbs
 haberler787534.sbs
@@ -1958,7 +1959,6 @@ hofesnesmtkerk.duckdns.org
 hojesjelretekset.duckdns.org
 hojesnadfetrese.duckdns.org
 hojesterser.duckdns.org
-hojsdfewer.duckdns.org
 hokayakabiturkiye.com
 homadise-vurageno.lol
 homecub.cfd
@@ -3300,6 +3300,7 @@ ptt.govsf.life
 ptt.mobilservis-26.sbs
 pttavkilometresrgu.web.app
 pttavm-gecis-hizliykl.web.app
+pttavm-gecisbakiyenoktasi.web.app
 pttavm-hizli-gecisyklemsiyap.web.app
 pttavm-kilometredetaykolayca.web.app
 pttavm-kmsxrgulama.web.app
@@ -4426,7 +4427,6 @@ zedese-doliuyere.lol
 zedesedeliopolse.lol
 zefoluri-danipote.lol
 zekoma-rupilo.lol
-zelenapo-maledepo.lol
 zeluspanel.art
 zen3bet.shop
 zen8bet.shop

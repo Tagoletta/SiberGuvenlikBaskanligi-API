@@ -482,6 +482,7 @@
 41414155.duckdns.org
 41865485646468.sbs
 41m4at124bsbs.com
+421412421412124.duckdns.org
 432523dfssdfgsd32235.click
 43259083084573285.sbs
 43576884830900.net
@@ -770,7 +771,6 @@ a10l.org
 a1capitalmenkulonline.com
 a1kapitalmenkulonline.com
 a1newtemuzfirstlari.xyz
-a1o1.ile-e-islemlerim.com.tr
 a1o1kampalrmbrda.sbs
 a1o1marketafisleri.com
 a1o1onlinesadeconlin1d.blogdns.com
@@ -3482,6 +3482,7 @@ e-nvirandevu.org
 e-sagligahemenkavussss.digital
 e-sagliklibiryasammucadele.digital
 e-sbm.org
+e-sepetalisveris.sbs
 e-sozlesme.kurumsal-online-islem.com
 e-sozlesme.online
 e-sube-teb-com-tr.my-homeip.de
@@ -5308,7 +5309,6 @@ halimdenanla.dnsup.net
 halk-bireysel-basvur-com.duckdns.org
 halk-kampanya-ozel.online
 halk-kampanya-ozel.site
-halk-kredi.vercel.app
 halk-mobil-kredim-com.duckdns.org
 halk-mobil-kredimcepte-com.duckdns.org
 halk-mobil-online-islemler-com.duckdns.org
@@ -6314,7 +6314,6 @@ islemek-giris.casa
 isleminiz-hizli.com
 islemkhemennktasi.net
 islemler-kredi-garanti.duckdns.org
-islemlerhizmet.online
 islemlerim-bireysell-garanti.duckdns.org
 islemlerim-ceptee-garanti.duckdns.org
 islemlerim-garanti.bounceme.net
@@ -6987,16 +6986,12 @@ klv1kl3k1c31x231x123x12.xyz
 klyodme.22web.org
 km-bilgialmak-icin-burarya.web.app
 km-bilgilerinizeulsmak-icin.web.app
-km-sorgu-avmptt.firebaseapp.com
-km-sorgu-avmptt.web.app
 km-sorgulama-islemleriniz.store
 km-sorgulamak-icin-burdan.web.app
 kmarsanbrdana-182.org
 kmbilgisi-ogrenin.web.app
 kmchc78xjosmlas.cfd
 kmhn-82rvdalsn.org
-kmkmsorgulamazfer.firebaseapp.com
-kmkmsorgulamazfer.web.app
 kmlrenizsorgulanirhizlisindan.duckdns.org
 kmm-verilerinizi-ogrenin.web.app
 kmmmnnnppyyyybsvrrprmsynnfrstlllrr.info
@@ -9732,7 +9727,6 @@ paribuarabaavantaj.com
 paribuarabaavantaji.com
 paribuarabaayricalik.com
 paribuarabacekilis.com
-paribuarabacekilisi.co
 paribuarabacekilisikazan.com
 paribuarabadunyasi.com
 paribuarabaetkinligi.com
@@ -9768,7 +9762,6 @@ paribuarabapromosyon.com
 paribuarabapromosyonu.com
 paribuarabaruyasi.com
 paribuarabasahibi.com
-paribuarabasansi.com
 paribuarabasansim.com
 paribuarabasansin.com
 paribuarabasepeti.com
@@ -10255,10 +10248,6 @@ pskljbzkrodddd.duckdns.org
 ptt-avm-islemleriniz-km.firebaseapp.com
 ptt-avm-islemleriniz-km.web.app
 ptt-avm-km-sorgulama-islem.web.app
-ptt-avm-kmsorgu.firebaseapp.com
-ptt-avm-kmsorgu.web.app
-ptt-avm-sorgulama.firebaseapp.com
-ptt-avm-sorgulama.web.app
 ptt-avm.guvenli-hizmet.online
 ptt-avm.servisinguvenli-15.sbs.com
 ptt-avm.servsjethizmet.online
@@ -10275,8 +10264,6 @@ ptt-hizliaracsorgu-kmsorgula.web.app
 ptt-hizlikm-sorgulama-hizmeti.web.app
 ptt-isbank.com.ph
 ptt-kargo.guvenli-hizmet.online
-ptt-km-sorgula-ma.firebaseapp.com
-ptt-km-sorgula-ma.web.app
 ptt-kmsorgula-aracgecmisiogren.firebaseapp.com
 ptt-kmsorgula-aracgecmisiogren.web.app
 ptt-postgov.sbs
@@ -10306,6 +10293,7 @@ pttavm-aracgecmisogrenin-km.web.app
 pttavm-arackmsorgulayiniz.web.app
 pttavm-com.ph
 pttavm-gecis-hizliykl.web.app
+pttavm-gecisbakiyenoktasi.web.app
 pttavm-guvenli-bilgilendirici.firebaseapp.com
 pttavm-guvenli-bilgilendirici.web.app
 pttavm-hizli-gecisyklemsiyap.web.app

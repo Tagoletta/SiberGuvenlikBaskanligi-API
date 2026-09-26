@@ -358,6 +358,7 @@
 41414155.duckdns.org
 41865485646468.sbs
 41m4at124bsbs.com
+421412421412124.duckdns.org
 44444321.sbs
 4444444555.duckdns.org
 452145632563256255.duckdns.org
@@ -2440,6 +2441,7 @@ e-nvirandevu.org
 e-sagligahemenkavussss.digital
 e-sagliklibiryasammucadele.digital
 e-sbm.org
+e-sepetalisveris.sbs
 e-sozlesme.online
 e-sube-teb-com-tr.my-homeip.de
 e-sube.coin-tr.net
@@ -7301,6 +7303,7 @@ ptt.mobilservis-43.sbs
 pttavkilometresrgu.web.app
 pttavm-arackmsorgulayiniz.web.app
 pttavm-gecis-hizliykl.web.app
+pttavm-gecisbakiyenoktasi.web.app
 pttavm-hizli-gecisyklemsiyap.web.app
 pttavm-kilometredetaykolayca.web.app
 pttavm-kilometrsorgu.web.app
@@ -9935,7 +9938,6 @@ ziratligunler.sbs
 ziratpngj.cfd
 ziratxha300zir3x00.sbs
 zirtmobilonlineislemlerimtrx.duckdns.org
-ziyoklam.biz
 zkevopenanu.cfd
 zm8w2krx5qvph9tcn4ylb.click
 zokapu-relimon.lol
