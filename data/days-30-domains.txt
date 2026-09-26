@@ -94,6 +94,8 @@
 101-tr-sadece-online-ozel-sepet-indirimleri-tr.secure-tr.online
 1010010177200.bounceme.net
 101001310177200.bounceme.net
+10108283004588.bounceme.net
+1014545082504588.bounceme.net
 101flrsatlarlburada1o1.duckdns.org
 101kariyer.net
 101kariyer.org
@@ -391,7 +393,6 @@ adwfgw.s.gy
 aelararetailnexus.com
 aewaterdelivery.com
 affordableonline.online
-afinny8-quae47.site
 afinny9-et24.site
 agahwhsgahqhwg.org
 agr-avs-apt.myonlineportal.ch
@@ -745,7 +746,6 @@ bayloramuse.com
 bb-trendyol.com.ph
 bbva-ziraatbank.com.ph
 bc.etlva.cn
-bcr-trendyol.ph
 bdiugz.getcriso.info
 bedavapanel.cyou
 bedavasorgupanel.netlify.app
@@ -788,7 +788,6 @@ bireysel-zirai-tarim.my-homeip.de
 bireysel.ziraat.a-cn.com
 bireyselonlineservisler.com
 bireyselsiparisin.online
-birimkamu.org
 birimsorgu.org
 bistress.sbs
 bitdefender-hepsiburada.ph
@@ -836,7 +835,6 @@ bopaje7148.store
 borertors92.anondns.net
 borneobulletins.top
 bot-trendyol.com.ph
-boursoramagarantibbva.com.ph
 boyneronlinesale.shop
 boynertronline.shop
 boz0031.site
@@ -1016,8 +1014,8 @@ ceyhunturizm.com
 cezabildirim.com
 cezadosyasorgulama.com
 cezagovtr.org
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -1109,11 +1107,9 @@ cyhugrferedeseliko.lol
 cynthiasports.com
 cz.gpgmk.com
 czijbh.net
-danielkleinofficial.live
 davabildirim.com
 davabilisim.com
 davadosyam.org
-dbs-ptt-garantibbva.com.ph
 dcfdc-eight.vercel.app
 dddddddxxd.sbs
 ddosatamazsinizitlerimbenim.sbs
@@ -1124,7 +1120,6 @@ decisionreaction.xyz
 defi-claim.xyz
 definatelynoone.com
 defipulsetracker.pro
-delandeondale.duckdns.org
 delel.org
 demirkolturizm.com
 demlemerehberi.online
@@ -1163,6 +1158,7 @@ dijitalonline-kapinda.duckdns.org
 dijitalonline-sepetsiparis.sbs
 dijitalsiparis-kampanyasi.sbs
 dijitalsiparisler-kapinda.duckdns.org
+dijitalsube-onlinebasvur.sbs
 dijitalurun-aynigunkapinda.duckdns.org
 dijitalweb-basvurlarim.sbs
 dijitalweb-kategori.sbs
@@ -1218,6 +1214,7 @@ dynotatattaas.lol
 dynotatattaas.xyz
 e-alisveris.sbs
 e-alisveriskampanya.sbs
+e-alisverissepet.sbs
 e-devlet-turkiye-tr.vercel.app
 e-hgs.de
 e-imza-filo.com
@@ -1276,6 +1273,7 @@ edosyatalimat.com
 edosyauzlasma.com
 edvs-tapursvnnuszs.info
 edvs-tapursvnnuszs.org
+efescim.cc.cd
 efesgrtbq.ice.fo
 efesoskr.bot.cd
 efokesker.ccwu.cc
@@ -1425,7 +1423,6 @@ etebligkamu.com
 etebligsorgu.com
 etebliguyap.com
 etebliguzlasma.com
-etisalat-bankofamericac-isbank.com.ph
 euioxu.net
 euwingsvisaconsultancy.com
 euyapadalet.org
@@ -1507,6 +1504,7 @@ fegrs.adidasabc.com
 felkaritasle.live
 felkelselfel.sbs
 fellanfllansas.live
+femonester.duckdns.org
 fernasburs.site
 feww3534ft19vs324s127cd.cfd
 ff-de.shutgpt.ir
@@ -1600,17 +1598,14 @@ garanti-emekli.my-homeip.de
 garantibbva-admin.com.ph
 garantibbva-alahli.ph
 garantibbva-alibaba.ph
-garantibbva-alipay.ph
 garantibbva-api.ph
 garantibbva-au.com.ph
 garantibbva-bankofamerican.ph
 garantibbva-boll.com.ph
-garantibbva-bot.com.ph
 garantibbva-citi.ph
 garantibbva-claro.com.ph
 garantibbva-isbank.ph
 garantibbva-nus.com.ph
-garantibbva-olacabs.ph
 garantibbva-paramguvende.com
 garantibbva-titles.com.ph
 garantibbva-zars.com.ph
@@ -1666,7 +1661,6 @@ gidayenifirsatindirimler.com
 giperon.net
 gipulora-menaxosi.lol
 gir-vesile-ifade.casa
-giramodi-valamoli.lol
 giresunilozelidare.cyou
 girihub.info
 giris-turkiye-gov-tr-translate-goog.translate.goog
@@ -1691,7 +1685,6 @@ go.0010v.lol
 gogle-travelflights.com
 gogle-travelflights.info
 gojestlerkest.duckdns.org
-golesude-viredepo.lol
 gomestlerkst.duckdns.org
 googlecomfunkyehh.vercel.app
 gorsite.online
@@ -1794,7 +1787,6 @@ haberler4857489.sbs
 haberler53454321.shop
 haberler543343.shop
 haberler56321.sbs
-haberler6555343.shop
 haberler7452523.shop
 haberler7456423.sbs
 haberler78413289.sbs
@@ -1995,6 +1987,7 @@ hukukbilgi.org
 hukukegm.net
 hukukgib.org
 hukukicezasorgu.com
+hukukmali.org
 hulifpo-desedu.lol
 hulihpo-desedu.lol
 hynzbirts.giize.com
@@ -2395,7 +2388,6 @@ kocotorezervasyon.net
 koctas.live
 kofestlerkest.duckdns.org
 kofteciiyusuf.org
-kokfiloarackiralama.com
 kolaybirsekkilde.sbs
 kolaygecisrhberi.vercel.app
 kolaykrdburdasendekatl81.ink
@@ -2487,7 +2479,6 @@ lndiriminboylesi-sende.com
 lndirimintakipcisiyiz.com
 lndirimisende-kacirmadantikla.com
 lndirimler-enlylrerden.com
-lndirimlerikacirmadansendeal.com
 lndirimtakipcilerindentt.com
 lndirimtakipcileriyiz.com
 lndirimtakiptett.com
@@ -2528,6 +2519,7 @@ mail.uaiubifas.top
 mailchimp-passkey.com
 malaysiapulse.com
 malicezasorgu.com
+malidosya.org
 malimasak.net
 maliportaltc.org
 maliportaltr.org
@@ -2723,7 +2715,6 @@ mindmoster.com.cn
 minewave.info
 miporuk-tasewilo.lol
 miporukan-tasewilore.lol
-misyonmenkuldegerler.com
 misyonyatirimmenkuldegerler.com
 mivoxel.com
 mku-edu.com
@@ -3702,7 +3693,6 @@ siparis-ilan.online
 siparis-onayim.online
 siparis-tr.online
 siparisguvenli.online
-siparisim-onay-1922.com
 siparisislemleri.com
 siparisislemlerim.com
 siparislerimonline.com
@@ -3957,6 +3947,7 @@ tavsanciksorgupaneli.online
 taweruk-hisopalem.lol
 tbdqxq.net
 tbk.ist
+tbtokyo.cc.cd
 tcadliye.org
 tcbddk.com
 tcbtk.com
@@ -4193,19 +4184,19 @@ urunlerin-online-satisi.com
 user2.bsnotespublication.com
 uttspetrolofisi.com
 uyapadalet.org
+uyapbildirim.com
 uyapbilisim.com
 uyapvatandas.org
 uygungunlerdyzblzer.duckdns.org
 uzlasmaaktifdosyasorgula.com
 uzlasmabaro.com
+uzlasmabildirim.com
 uzlasmabilisim.com
 uzlasmacezasorgu.org
 uzlasmadosyatr.com
 v30105.site
 vaha-yatirim.com
 vakiflarasadasfas.com
-vakiflarkamasdswfs.com
-vakiflarkampwrefasdfas.com
 vakko.appmira.co
 validationsetupac.com
 vancarsfilo.com
@@ -4230,7 +4221,6 @@ volmira.site
 voltabayi.com
 voltafabrikamagaza.com
 voltamotorsatis.com
-voltaonline.co
 vomeka-jupiseraton.lol
 vorfy.org
 votile-safemur.lol

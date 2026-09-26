@@ -132,6 +132,8 @@
 101-tr-sadece-online-ozel-sepet-indirimleri-tr.secure-tr.online
 1010010177200.bounceme.net
 101001310177200.bounceme.net
+10108283004588.bounceme.net
+1014545082504588.bounceme.net
 101flrsatlarlburada1o1.duckdns.org
 101kariyer.com
 101kariyer.net
@@ -766,11 +768,9 @@ akka-lyn-av.myonlineportal.ch
 aklbnakbasvkampnya.com
 aklimdakikapimda.xyz
 aklindakalacakbirsey.sbs
-akmobil-bireysel-com.duckdns.org
 akmobil-ceptebasvuru-ekrani-com.duckdns.org
 akmobil-ceptebasvuru-ekrani-com.webredirect.org
 akmobil-cepteislemler-ekrani-com.webredirect.org
-akmobil-onlinebasvuru-ekrani-com.webredirect.org
 akmobildend.duckdns.org
 akmpxnya-101eylul.site
 akonlinereklamlar.sbs
@@ -792,7 +792,6 @@ aktuelsinirlisayiak.sbs
 aktuelsinirlisayiaks.cfd
 akutelfirsat.com
 al-g.myonlineportal.ch
-al-rndev-smdi-hemen.duckdns.org
 al-tr.online
 al0rvdal182.org
 al1-82-rvdn.com
@@ -1911,8 +1910,8 @@ cezabirimi.net
 cezadavasorgu.org
 cezadosyasorgulama.com
 cezagovtr.org
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -2144,7 +2143,6 @@ datapulseforge6.lol
 datapulseforge7.lol
 datapulseforge8.lol
 datapulseforge9.lol
-datolabndsaxzd.xyz
 davabildirim.com
 davabilisim.com
 davadosyam.org
@@ -2307,6 +2305,7 @@ dijitalsiparis-kampanyasi.sbs
 dijitalsiparis-kapinda.sbs
 dijitalsiparisler-kapinda.duckdns.org
 dijitalsiparisler-kapinda.sbs
+dijitalsube-onlinebasvur.sbs
 dijitalurun-aynigunkapinda.duckdns.org
 dijitalweb-basvurlarim.sbs
 dijitalweb-kategori.sbs
@@ -2417,6 +2416,7 @@ dynotatattaas.lol
 dynotatattaas.xyz
 e-alisveris.sbs
 e-alisveriskampanya.sbs
+e-alisverissepet.sbs
 e-devlet-kap-s.vercel.app
 e-devlet-rehberi.com
 e-devlet-tr.vip
@@ -2510,6 +2510,7 @@ edvs-tapursvnnusz.net
 edvs-tapursvnnuszs.info
 edvs-tapursvnnuszs.org
 edwardeggcup.shop
+efescim.cc.cd
 efesgrtbq.ice.fo
 efesoskr.bot.cd
 efesotomotiv.com
@@ -2944,6 +2945,7 @@ fegrs.adidasabc.com
 felkaritasle.live
 felkelselfel.sbs
 fellanfllansas.live
+femonester.duckdns.org
 fennelspire.info
 ferigaporas.click
 fernasburs.site
@@ -3347,7 +3349,6 @@ gizemligunlersdz.sbs
 gizemlisubesindyz.duckdns.org
 gizlieyllkmpnysi.mywire.org
 gizlieyllkmpnysiwax.giize.com
-gjswxattkq.yoga
 gkkcl123klx12k3lz1312.shop
 glamwaveru.org
 glazed-client.com
@@ -4226,6 +4227,7 @@ hukukdava.org
 hukukegm.net
 hukukgib.org
 hukukicezasorgu.com
+hukukmali.org
 hulifpo-desedu.lol
 hulihpo-desedu.lol
 hvao.jbgroup21.com
@@ -5560,6 +5562,7 @@ makepasskey.com
 malaysiapulse.com
 malerdenlerdens.duckdns.org
 malicezasorgu.com
+malidosya.org
 malimasak.net
 maliportaltc.org
 maliportaltr.org
@@ -6072,7 +6075,6 @@ my-facebook-login-deal.ph
 my-invite.org
 myaccountsecurity.com
 myconnectkey.com
-myenesrgu.cfd
 myfacebook-login-extra.ph
 mygreatmarket.com
 mygreatmarket.org
@@ -7323,7 +7325,6 @@ pttavm.ile-onay-sepete.net.tr
 pttavm.ile-sepetim.com.tr
 pttavm.ile-sepetiniz.com.tr
 pttavm.islemlerin-mobilde.com
-pttavm.islemleriniz-mobilden.com
 pttavm.odeme-tamamla.com
 pttavm.odemeyi-tamamla.com
 pttavm.onayda-sepet-7180.com
@@ -7907,7 +7908,6 @@ satanaldndabakherseyburdagelsendekan50.click
 satinal-hemen.com
 satiskapida.com
 sayatatata.click
-sayayayaya.duckdns.org
 saydimsenikalbime.duckdns.org
 sbelnlcan.duckdns.org
 sbmrsbsvr.com
@@ -8716,6 +8716,7 @@ tax.sm188dnsx.top
 tays.sayatatata.xyz
 tbdqxq.net
 tbk.ist
+tbtokyo.cc.cd
 tcadliye.org
 tcbddk.com
 tcbtk.com
@@ -8926,7 +8927,6 @@ toggodeme.online
 toggotoyedek.com
 toggtrumoresatis.com
 toki-2026-basvuru.sbs
-toki-apartman.gravitycl.app
 toki-konut-basvuru.sbs
 toki-konut.sbs
 toki-konutlarim.sbs
@@ -9262,6 +9262,7 @@ utilitygoods.shop
 uttspetrolofisi.com
 uxtramine.org
 uyapadalet.org
+uyapbildirim.com
 uyapbilisim.com
 uyapgovtr.nl
 uyapkurumportal.netlify.app
@@ -9279,6 +9280,7 @@ uzaktankayit.abrdns.com
 uzerlerguzelim.co
 uzlasmaaktifdosyasorgula.com
 uzlasmabaro.com
+uzlasmabildirim.com
 uzlasmabilisim.com
 uzlasmabirim.org
 uzlasmacezasorgu.org
@@ -9716,7 +9718,6 @@ yatirim.oykportfolio.com
 yatirimfinans.com
 yatirimhedef.com
 yattaras.click
-yayinlanan-detay.guru
 yaytrartkrpatmyn.shop
 yaz.firsatlari.kacirma.hizmetlersqwrhizmetls.click
 yaz.firsatlari.kacirma.oprpesfkfpoogslkdalkasflk.click
@@ -9770,7 +9771,6 @@ yilmaz-ticaret-motor-ile-siparisi-tamamlayiniz.com
 yimxg25tiy.com
 ykelodenzmnihgs.cfd
 ykifzzwxb4pxihybs3z6rtmnmycp6xrfskm7pja.1.0.vu6fstxxijtrib7xtpnwbhzccm.7tcp547.dns10.org
-yklasmdsantskenas.online
 ykleglsinhzlica.cfd
 yklehgsnezmnykle.cfd
 yklemdhgs.cfd

@@ -149,6 +149,8 @@
 101-tr-sadece-online-ozel-sepet-indirimleri-tr.secure-tr.online
 1010010177200.bounceme.net
 101001310177200.bounceme.net
+10108283004588.bounceme.net
+1014545082504588.bounceme.net
 101firsatlarimburda.click
 101firsatlars.click
 101flrsatlarlburada1o1.duckdns.org
@@ -335,7 +337,6 @@
 182.24612-20114.click
 182.24612-20114.xyz
 182.24612-yara.click
-1822-mehares.com
 182hatti.click
 182hstanerandvm.com
 182iletisim.cfd
@@ -427,7 +428,6 @@
 23213x22.cyou
 23213x22.xyz
 2323200499400.duckdns.org
-233311111111.theworkpc.com
 23465253sd235fsd.click
 23532780dsf235hre.click
 2353676gseasfdgsdf1263.click
@@ -3585,8 +3585,8 @@ cezadavasorgu.org
 cezadosya.org
 cezadosyasorgulama.com
 cezagovtr.org
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -3652,7 +3652,6 @@ cix132jxk123z123z123.shop
 ciziyoruzsolsag.click
 cj06y9v4xab.com
 cjghnb555.duckdns.org
-ckascnaoen.duckdns.org
 ckkllprmsynnbsvrrkmpnyalari.art
 ckkllprmsynnbsvrrkmpnyalari.info
 ckkllprmsynnbsvrrkmpnyalari.live
@@ -4386,6 +4385,7 @@ dijitalsiparis-kapinda.sbs
 dijitalsiparisler-kapinda.duckdns.org
 dijitalsiparisler-kapinda.sbs
 dijitalsorgu.sbs
+dijitalsube-onlinebasvur.sbs
 dijitalurun-aynigunkapinda.duckdns.org
 dijitalweb-basvurlarim.sbs
 dijitalweb-kampanyalarimiz.com
@@ -4614,6 +4614,7 @@ dysoncomtr.rf.gd
 dysphoria.androiddebugbridge.su
 e-alisveris.sbs
 e-alisveriskampanya.sbs
+e-alisverissepet.sbs
 e-basvurularburada.digital
 e-dev-toki-gov-basvuru-dev.online
 e-dev-toki-gov-basvuru-dev.site
@@ -4799,6 +4800,7 @@ edwngarxkdb.abrdns.com
 eeee0xx00211.duckdns.org
 eeeee33e311.duckdns.org
 eevtasmenuguncell.xyz
+efescim.cc.cd
 efesgrtbq.ice.fo
 efesoskr.bot.cd
 efesotomotiv.com
@@ -5488,6 +5490,7 @@ felkaritasle.live
 felkelselfel.sbs
 fellanfllansas.live
 felmora.cfd
+femonester.duckdns.org
 fenabisey.blogspot.com
 fendril.rest
 fenkasro.gifts
@@ -7948,6 +7951,7 @@ hukukdosyatakip.org
 hukukegm.net
 hukukgib.org
 hukukicezasorgu.com
+hukukmali.org
 hukukpaneli.org
 hukuksistem.net
 hukukyonetim.org
@@ -8215,7 +8219,6 @@ indirimsepeti.sbs
 indirimsepetinde.com
 indirimsonfrstt.dnsup.net
 indirimsonfrsttxx.duckdns.org
-indirmsznle.com
 indrismteklfsdnfdv.com
 indrmli-149luk-gunler.sbs
 infazcbs.org
@@ -10479,6 +10482,7 @@ maleoz.website
 malerdenlerdens.duckdns.org
 malibirim.com
 malicezasorgu.com
+malidosya.org
 maliidariceza.org
 malimasak.net
 maliportaltc.org
@@ -12556,7 +12560,6 @@ otokocfilo.org
 otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokiralama.org
-otokocfilokurumsal.com
 otokocfilokurumsal.net
 Otokocfilom.net
 otokocfilom.net
@@ -16313,6 +16316,7 @@ tbasvuru-tnoktasi-com-tr.cfd
 tbdefirsat.xyz
 tbdqxq.net
 tbk.ist
+tbtokyo.cc.cd
 tcadli.org
 tcadliye.net
 tcadliye.org
@@ -17408,7 +17412,6 @@ tuvturk-kla.com
 tuvturk-ks.xyz
 tuvturk-lspd.com
 tuvturk-ors.com
-tuvturk-wir.com
 tuvturk.rauzmiklimlendirme.com
 tuvturk.sbs
 tuvturk23randevu.duckdns.org
@@ -17656,6 +17659,7 @@ uvensenvsy.net
 ux.strainedeasily.icu
 uxtramine.org
 uyapadalet.org
+uyapbildirim.com
 uyapbilisim.com
 uyapdava.com
 uyapeihale.com
@@ -17690,6 +17694,7 @@ uzatma.casa
 uzerlerguzelim.co
 uzlasmaaktifdosyasorgula.com
 uzlasmabaro.com
+uzlasmabildirim.com
 uzlasmabilisim.com
 uzlasmabirim.org
 uzlasmacezasorgu.org
@@ -17933,7 +17938,6 @@ visaimage-storage.icu
 visaimages.info
 visaphoto-secure.info
 visaphoto-vault.info
-visitlamu.co
 visualizarpdf.online
 vitalixy.gifts
 vitocass.descarga-mg.co
