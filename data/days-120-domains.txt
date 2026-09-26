@@ -1570,6 +1570,7 @@ and-anp-andric.myonlineportal.ch
 and-web.myonlineportal.ch
 andansiparisa.sbs
 andxxxo.com
+aneviirnadvm.online
 animalview.xyz
 aninda-basvurularim-com-garanti.duckdns.org
 aninda-kredi-basvuru.cloud
@@ -6497,6 +6498,7 @@ gratis-tr.sophiemaslowski.com
 gratis.anointedacres.com
 gratis.ask4tree.com
 gratis.benmook.com
+gratis.blohm.com
 gratis.bunkershub.com
 gratis.craftyhour.com
 gratis.doordk.com
@@ -7446,7 +7448,6 @@ hgsbakiyeniziyukleyn.web.app
 hgsbakiyeukkleme.web.app
 hgsbakiyeukleyin.firebaseapp.com
 hgsbakiyeukleyin.web.app
-hgsbakiyeyukleme.duckdns.org
 hgsbakiyeyuklemeniz.firebaseapp.com
 hgsbakiyeyuklemetr.com.ph
 hgsbakiyeyuklmeanlik.web.app
@@ -8782,7 +8783,6 @@ jsnetlify.com
 jspara-col.cfd
 juberno.com
 juk2a.site
-jurnemov.media
 just-giris-web.casa
 justiceinturkey.info
 jvbomzwbhaedeihch.qsewjn.icu
@@ -12560,8 +12560,8 @@ otokocfilokiralama.com.tr
 otokocfilokiralama.org
 otokocfilokurumsal.com
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -17342,7 +17342,6 @@ turkiyepetrolleri-yatirim.com
 turkiyepetrolleri.pro
 turkiyepetrolleri.shop
 turkiyerotasi.com
-turkiyesesi.com
 turkiyesignal.com
 turkiyesigorta.com.ph
 turkiyevisioner.com
