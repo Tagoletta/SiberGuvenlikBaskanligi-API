@@ -1015,8 +1015,8 @@ ceyhunturizm.com
 cezabildirim.com
 cezadosyasorgulama.com
 cezagovtr.org
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -1730,6 +1730,7 @@ guardiancapitalway.com
 guardiangrowthfunding.com
 guncelsayfabilgisi.abrdns.com
 guncelsikayetler-453.sbs
+guncelsikayetler-553.sbs
 guncelwep.forum
 gundem-sikayet-var.sbs
 guretesede-resedese.lol
