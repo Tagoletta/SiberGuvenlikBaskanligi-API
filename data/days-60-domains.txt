@@ -184,8 +184,6 @@
 1288300023802.duckdns.org
 13222112211445799890.duckdns.org
 13222112211445799891.duckdns.org
-13222214544588989990898.duckdns.org
-13222214544588989990899.duckdns.org
 13395003852.duckdns.org
 13395003853321.duckdns.org
 1339500385355.duckdns.org
@@ -841,7 +839,6 @@ albarakaaiprojects.com
 albarakafinanceeg.com
 albarakamenkulkiymetler.com
 albarakamenkulyatirim.com
-albayquery.space
 albinofennel.com
 ald-logr-lt.myonlineportal.ch
 alderdasdewas.duckdns.org
@@ -998,7 +995,6 @@ ar-safar.myonlineportal.ch
 ara-asa-atk.my-homeip.de
 araba--paribu.com
 araba--paribu.live
-araba-cekilisi-paribu.ezgateway.net
 araba-cekilisi-paribu.mywire.org
 araba-cekilisi.live
 araba-cekilisi.online
@@ -1916,8 +1912,8 @@ cezabirimi.net
 cezadavasorgu.org
 cezadosyasorgulama.com
 cezagovtr.org
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -2980,6 +2976,7 @@ finny5-consequatur30.sbs
 finpath.world
 firebase.e-wl.com
 firmalar.firma.firmaslfasd.click
+firsat-cepde.my-homeip.de
 firsat-promos-gelicikk.shop
 firsat-tebde.my-homeip.de
 firsatavcisi.sbs
@@ -3351,7 +3348,6 @@ googleplaydown.com
 gopiraventuxelazim.sbs
 gorsite.online
 gorunum-ayarlar.ink
-gosats.us
 gota.unaux.com
 gov-ct.com
 gov-kbstar-garantibbva.ph
@@ -3453,6 +3449,7 @@ gratis-mr.ddnsgeek.com
 gratis-tr.ask4tree.com
 gratis-tr.doordk.com
 gratis-tr.obliqueprism.com
+gratis-tr.rataforo.com
 gratis-tr.sophiemaslowski.com
 gratis.ask4tree.com
 gratis.benmook.com
@@ -5919,7 +5916,6 @@ ms365-live.com
 msahibinden.com.tr
 msbenefit.com
 mserehele.duckdns.org
-mslearn.online
 mslivetest.duckdns.org
 mspasskey.com
 msrhonlbvr.com
@@ -6211,8 +6207,6 @@ novakurumsal.online
 novarixelto.world
 noxelavitumporazek.cfd
 npm-cache.com
-npmjs.store
-npmjs.us.org
 nq8h0vi.s.gy
 ns-wwwhaber61net.cobblex.sbs
 ns-wwwhaber61net.feints.cfd
@@ -7245,7 +7239,6 @@ pubgplay.ru
 public.nyxar.lol
 publicpost.garantibbvakredibasvuru.com
 pubmhsl.digital
-pueedusstaff.unaux.com
 pulse-g.my-homeip.de
 pulseriz.com
 pulturturizm.com
@@ -7449,7 +7442,6 @@ rndevcldm.cfd
 rndevualsmdi.cfd
 rndvalmazmni.cfd
 rndvalvode.cfd
-rndvlahzmetler.com
 rndvuburdaalingelin.duckdns.org
 rnndnddvvvlrrrr.lol
 roamcase.org
@@ -7878,7 +7870,6 @@ sepsslsdi.com
 serenthorneglen.com
 serhathosting.xyz
 serkancx.duckdns.org
-service-center-instagram.com
 service-infos.info
 service-nowinc.com
 service8date.com
@@ -8449,7 +8440,6 @@ stellarnodegrid7.lol
 stellarnodegrid8.lol
 stellarnodegrid9.lol
 stepbreeze.com
-stivaleno.pro
 stiye-yolnlendirme.com
 stiye-yonlendiirci.com
 sto.1001gacor.org
@@ -9098,7 +9088,6 @@ un98exb3k22azr3z7c.sbs
 unarsitilsmantar3zx.duckdns.org
 unifiedvo.com
 uninstalltooll.ru
-universus.stream
 unkapanbr.duckdns.org
 update.stuseamandesilt.org
 updatebeacon.duckdns.org
@@ -9531,7 +9520,6 @@ xyzsystem.xyz
 xzcvcbvmnsaddfgsdfgfsssa59.click
 xziraalglrlsonlineislem.duckdns.org
 xziralmobilonline.duckdns.org
-xzr300xbsvruzrt0life.click
 y0nl3ndiril0rsiniz.duckdns.org
 y44nlndird4st4maktifsen.duckdns.org
 y4nl4ndirkrdsimialblgyi.duckdns.org

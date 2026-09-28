@@ -470,7 +470,6 @@
 27478900120127.duckdns.org
 27478900120127.webredirect.org
 2747890012056.duckdns.org
-27478900203.duckdns.org
 27660175439.cloud
 278973fea636720-5xrydy.csb.app
 290299234.sbs
@@ -2525,11 +2524,9 @@ baykrtech.com
 baylkartech.com
 bayloramuse.com
 bayraktepebungalov.com
-bayram-promosyonu.duckdns.org
 bayramaktueller.blogspot.com
 bayramaozeelefsssanefirsatlargerigeldi.xyz
 bayramdacocuklarsevinir.lat
-bayramsekerinizs.lat
 baytkartech.com
 bayykartech.com
 baz777.site
@@ -3632,8 +3629,8 @@ cezadavasorgu.org
 cezadosya.org
 cezadosyasorgulama.com
 cezagovtr.org
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -4910,7 +4907,6 @@ egmbirim.org
 egmcezam.org
 egmcezaportal.net
 egmcezaportal.org
-egmdosya.net
 egmgov.biz.id
 egmgov.web.id
 egmgovern.shop
@@ -5672,6 +5668,7 @@ firebase.e-wl.com
 firesalevip.top
 firjacket.top
 firmalar.firma.firmaslfasd.click
+firsat-cepde.my-homeip.de
 firsat-promos-gelicikk.shop
 firsat-tebde.my-homeip.de
 firsat-urununuz-sondemler.sbs
@@ -5967,7 +5964,6 @@ garandibasvru.cfd
 garanitide-firsatlar.myonlineportal.de
 garantam.com
 garanthmn.art
-garanti-acc.myonlineportal.ch
 garanti-bank-bireysel.ph
 garanti-bankasionline.ph
 garanti-basvuru-bireysel-com.webredirect.org
@@ -6543,6 +6539,7 @@ gratis-tr.ask4tree.com
 gratis-tr.craftyhour.com
 gratis-tr.doordk.com
 gratis-tr.obliqueprism.com
+gratis-tr.rataforo.com
 gratis-tr.sophiemaslowski.com
 gratis.anointedacres.com
 gratis.ask4tree.com
@@ -9848,7 +9845,6 @@ kuveyt-sas.duckdns.org
 kuveyt-turk-seyehat.duckdns.org
 kuveyt-turk-umre.duckdns.org
 kuveytbankacilikarayuzu.duckdns.org
-kuveytbasvuru.rf.gd
 kuveythizmetiarayuzu.duckdns.org
 kuveytileturkumreseyehati.duckdns.org
 kuveytileumreseyehati.duckdns.org
@@ -15730,7 +15726,6 @@ sonmkarletlr.com
 sonnfrstlararkmpyabsvr103921.pro
 sonnfrstlarrkmpnyaabasvrrr103421.online
 sonnfrstlarrkmpnyaabasvrrr103421.pro
-sonnfrstlsrrrkmpnyaabsvrr.info
 sonnfrstlsrrrkmpnyaabsvrr.live
 sonnnfrsltarrkmpnyaaabsvrkredi.info
 sonnnfrsltarrkmpnyaaabsvrkredi.pro
@@ -16844,7 +16839,6 @@ tokitoplukonut.gravitycl.app
 tokraftokasfasax.xyz
 tokyolokko.co
 tol-liber-oreal.myonlineportal.ch
-tom-basvraidt.duckdns.org
 tom-hadhii.duckdns.org
 tom00bnk01.duckdns.org
 tombnkbsvr.duckdns.org
