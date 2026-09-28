@@ -9446,8 +9446,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokiralama.org
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -10273,6 +10273,7 @@ ptt.mobilservis-43.sbs
 ptt.mobilservisler-65.sbs
 ptt.mobilservisler-67.sbs
 ptt.mobilservisler-87.sbs
+ptt360avm.com
 pttaevm.com
 pttavkilometresrgu.web.app
 pttavm-arac-bilgileriniz.firebaseapp.com
@@ -13669,6 +13670,7 @@ www-cepteteb-com-tr-firsatlar-promosyon.myonlineportal.ch
 www-cepteteb-com-tr-firsatlar.my-homeip.de
 www-cepteteb-com-tr-online-kampanya.myonlineportal.ch
 www-cepteteb-com-tr-online-kampanya.myonlineportal.de
+www-cepteteb-com-tr-promosyon.my-homeip.de
 www-cepteteb-digitalfirsatlar-com.my-homeip.de
 www-cepteteb-emekli-kampanyalari.my-homeip.de
 www-cepteteb-emekliye.my-homeip.de

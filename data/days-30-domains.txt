@@ -831,7 +831,6 @@ bireysel-zirai-tarim.my-homeip.de
 bireysel.ziraat.a-cn.com
 bireyselonlineservisler.com
 bireyselsiparisin.online
-birimsorgu.org
 bistress.sbs
 bitdefender-hepsiburada.ph
 bitmart-mystery.com
@@ -2716,7 +2715,6 @@ mlktnaln.net
 mobil-cep.online
 mobil-indirimleri.online
 mobil.osmanlivportfoy.online
-mobile-digital.shop
 mobile-facebook.com.ph
 mobilhizmetlerim1.sbs
 mobilite-pr-g.myonlineportal.ch
@@ -3282,6 +3280,7 @@ ptt-tr.jinsong.shop
 ptt.avmilansepetim.com
 ptt.govsf.life
 ptt.mobilservis-26.sbs
+ptt360avm.com
 pttavkilometresrgu.web.app
 pttavm-gecis-hizliykl.web.app
 pttavm-gecisbakiyenoktasi.web.app
@@ -4287,6 +4286,7 @@ www-cepteteb-com-tr-firsatlar-promosyon.myonlineportal.ch
 www-cepteteb-com-tr-firsatlar.my-homeip.de
 www-cepteteb-com-tr-online-kampanya.myonlineportal.ch
 www-cepteteb-com-tr-online-kampanya.myonlineportal.de
+www-cepteteb-com-tr-promosyon.my-homeip.de
 www-cepteteb-digitalfirsatlar-com.my-homeip.de
 www-cepteteb-emekli-kampanyalari.my-homeip.de
 www-cepteteb-emekliye.my-homeip.de
