@@ -448,7 +448,6 @@
 3212221112445479897.duckdns.org
 3212221112445479898.duckdns.org
 3212221112445479899.duckdns.org
-321321321.vercel.app
 324803274832432.sbs
 325709sfsd32tgs235vfsd.cfd
 331241241241243123123123.duckdns.org
@@ -794,6 +793,7 @@ a101extrakatalog.site
 a101eylulfirsatlari.duckdns.org
 a101firsaturunu.duckdns.org
 a101haftaninbirgunindirimi.com
+a101heyecanli.xyz
 a101hizlimarket.duckdns.org
 a101kampanya.cyou
 a101kampanyanizburada.com
@@ -1232,6 +1232,7 @@ amobln-drek.myonlineportal.ch
 amplifyko.com
 amzndev.in
 amzndev.ru
+amznkmps.loseyourip.com
 amznprod.in
 ana-sayfa-web.biz
 anadexa.live
@@ -2683,6 +2684,7 @@ cepten-mobile-basvur.myonlineportal.de
 ceptenmobilkredi.my-homeip.de
 ceptep-basvurularonline.myonlineportal.de
 ceptes0k-indir1m.gt.tc
+ceptes0k.site.je
 ceptesokfirsatlarim.com
 ceptesokindirmleri.online
 ceptesoklarile.online
@@ -3703,6 +3705,7 @@ ekamuinfaz.com
 ekamukontrol.org
 ekamutakip.com
 ekamuuzlasma.com
+ekimlerhosgeldin.site
 ekle-tr.online
 ekmehiniasini.sbs
 ekonomigelecegi.cc
@@ -5416,6 +5419,7 @@ hastnname.digital
 hastnneneler.com
 hataylisubesndeyiz.duckdns.org
 hatchelnook.org
+havaistislem.ist
 havaisttis.online
 havaistxnbul.com
 havale-gonderici.com
@@ -6223,6 +6227,7 @@ infazuyap.org
 infazuzlasma.org
 infomenkuldegerler.com
 infomenkulyatirim.com
+infotelegram.org
 infoxsube.com
 infoyatirimmerkezi.net
 infyra.online
@@ -6318,6 +6323,7 @@ islemlerim-garanti.freemyip.com
 islemlerim-hemen-garanti.duckdns.org
 islemleriniz.duckdns.org
 islemlerinizeburdandevamedin.yyuyy.com
+islemlerle.com.tr
 islemnokta-nasita.net
 islemnoktasihemenne.net
 islemnoktasihemn.net
@@ -7893,6 +7899,7 @@ masakblokekaldirma.duckdns.org
 masakcezaportal.com
 masakdevlet.org
 masakedevlet.org
+masakegm.com
 masakiletisim.com
 masakonline.org
 masakpro.app
@@ -9416,8 +9423,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokiralama.org
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -9947,6 +9954,7 @@ pazarama.ile-e-sepetler.com.tr
 pazarama.ile-islemlerdeyim.com.tr
 pazarama.ile-onay-sepete.com
 pazarama.islemcepte.com
+pazarama.islemlerle.com.tr
 pazarama.jetsiparislerim.com
 pazarama.kalitelihizmetler.com
 pazarama.kargoguvende.com
@@ -10215,7 +10223,6 @@ ptt.mobilservisler-87.sbs
 ptt360avm.com
 pttaevm.com
 pttavkilometresrgu.web.app
-pttavm-arac-bilgileriniz.firebaseapp.com
 pttavm-arac-bilgileriniz.web.app
 pttavm-arac-gecmisi.firebaseapp.com
 pttavm-aracgecmisiogren.firebaseapp.com
@@ -10226,7 +10233,6 @@ pttavm-arackmsorgulayiniz.web.app
 pttavm-com.ph
 pttavm-gecis-hizliykl.web.app
 pttavm-gecisbakiyenoktasi.web.app
-pttavm-guvenli-bilgilendirici.web.app
 pttavm-hizli-gecisyklemsiyap.web.app
 pttavm-hizli-km-ogrenme.firebaseapp.com
 pttavm-hizli-km-ogrenme.web.app
@@ -12647,6 +12653,7 @@ tr-sube-isbank.ph
 tr-teb-com.my-homeip.de
 tr-tekoaos.cc
 tr-web-alisveris.online
+tr-webalisverisler-tr-getislemler.online
 tr-webislemler-alisveris-get.online
 tr-webislemler-get-alisveris.online
 tr-webislemler-tr-getalisverisler.online
@@ -13582,6 +13589,7 @@ www-cepte-tb-story.myonlineportal.ch
 www-cepte-teb-com.my-homeip.de
 www-cepte-teb-work.myonlineportal.ch
 www-cepte-time-tb.myonlineportal.ch
+www-cepte-tvb-right.myonlineportal.ch
 www-ceptedir-sync.myonlineportal.ch
 www-cepteteb-ayricalikli-firsatlar.my-homeip.de
 www-cepteteb-com-tr-basvuru.my-homeip.de
@@ -13836,6 +13844,7 @@ yardimlardandirizbiz.online
 yardimpaketim.com
 yardimpaketim.net
 yardimpaketim.org
+yardimyanimda.com
 yarencicekcilik.com
 yasamadresi.com
 yasamamnsebebib.sbs
@@ -14072,6 +14081,7 @@ zasedepilokihidere.lol
 zasedepilokihidfere.lol
 zauubslru-byyzaz-a1e01-rkatxe.lol
 zbaforumkf.cfd
+zcxcxzasad.duckdns.org
 zealpraxis.com
 zederesede-sederesede.lol
 zedese-doliuyere.lol
