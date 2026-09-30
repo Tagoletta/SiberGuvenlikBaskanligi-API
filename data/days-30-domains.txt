@@ -151,6 +151,7 @@
 13222112211445799890.duckdns.org
 13222112211445799891.duckdns.org
 133213345665578555989899091.duckdns.org
+133213345665578555989899092.duckdns.org
 13395003852.duckdns.org
 13395003853321.duckdns.org
 1339500385355.duckdns.org
@@ -242,6 +243,7 @@
 412121145441555445593.duckdns.org
 412542212224555455589991.duckdns.org
 421412421412124.duckdns.org
+4444400123.duckdns.org
 44444321.sbs
 468416515654451232.duckdns.org
 4742532456254625562.duckdns.org
@@ -830,6 +832,7 @@ bilgilislem.abrdns.com
 bilgilislemsayfasi.abrdns.com
 bilgimaliye.org
 bilgisorgu.org
+bilipta.top
 bin-airdrop.online
 bireysel-bireysel-ziraat.my-homeip.de
 bireysel-guvenli-siparis-onay-sistemi-guncel.online
@@ -1048,8 +1051,8 @@ ceyhunturizm.com
 cezabildirim.com
 cezadosyasorgulama.com
 cezagovtr.org
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -1673,11 +1676,13 @@ glbrdrvalsn.com
 globespeakapp.com
 glowpixelinnovations.com
 gnclhgsyklmelr.cfd
+goalfran.xyz
 gogle-travelflights.info
 gojestlerkest.duckdns.org
 gomesnetrelers.duckdns.org
 gomestlerkst.duckdns.org
 googlecomfunkyehh.vercel.app
+goprizva.com
 gorsite.online
 gota.unaux.com
 govegm.my.id
@@ -1715,6 +1720,7 @@ grenight.com
 gripsleep.xyz
 grnte.com
 grnttam.com
+gryacvm.click
 guardiancapitalway.com
 guardiangrowthfunding.com
 guncelsayfabilgisi.abrdns.com
@@ -3799,6 +3805,7 @@ static-ms.live
 statistic-ms.live
 steelseries-cn.com.cn
 stepbreeze.com
+stoklaribitiriyoruzsondusus.sbs
 storage-apis.vercelcloud.com
 storage.hubpage.cloud
 store-ceptr.online
@@ -3834,6 +3841,7 @@ svdlyrklerdenbyzsrgn.lol
 svdlyrklerdenbyzsrgn.shop
 svdlyrklerdenbyzsrgn.xyz
 svdlyrklerdenbyzsrtg.duckdns.org
+switzel.com
 sx3cjniwo1bmtqs0vlj-va2f.app
 sx8vuz4smtdol7pg.com
 syncmykey.com
@@ -3848,6 +3856,7 @@ t0kibsvuru.lol
 t0kibsvuru.sbs
 t0kibsvuru.xyz
 t9ffxu6zhf915fadjv1.app
+tabaeq.mom
 tacadi1159.site
 tahuguderepoli.lol
 tanivuso-gepolemi.lol
@@ -4029,6 +4038,7 @@ trzlraalislemmenu.duckdns.org
 tsbic.help
 ttagnlerndyzbizz.giize.com
 ttclid.lol
+ttdenkampanyalarbasladi.site
 ttdenkampanyalareylulayinda.site
 tttuvturkhizlirandvu.web.app
 tttuwtukr.govt.hu
@@ -4172,6 +4182,7 @@ webdijital-kampanyalar.click
 webdijital-simdikampanya.sbs
 weentuncast.sbs
 wefdasfdasf.duckdns.org
+wekinni.top
 wemati-hupolend.lol
 wesiradu-konaleti.lol
 wfmwsj.net
@@ -4208,13 +4219,17 @@ www-cepte-only.myonlineportal.ch
 www-cepte-portal-tb.myonlineportal.ch
 www-cepte-portaln-tb.myonlineportal.ch
 www-cepte-rar-tb.myonlineportal.ch
+www-cepte-rat-outb.myonlineportal.ch
 www-cepte-secrty-tb.myonlineportal.ch
 www-cepte-smdi.myonlineportal.ch
 www-cepte-stor-syn.myonlineportal.ch
 www-cepte-tb-story.myonlineportal.ch
+www-cepte-tbyour-web.myonlineportal.ch
 www-cepte-teb-work.myonlineportal.ch
 www-cepte-time-tb.myonlineportal.ch
 www-cepte-tvb-right.myonlineportal.ch
+www-cepte-tyb-web.myonlineportal.ch
+www-cepte-wb-tb.myonlineportal.ch
 www-ceptedir-sync.myonlineportal.ch
 www-cepteteb-ayricalikli-firsatlar.my-homeip.de
 www-cepteteb-com-tr-firsatlar-promosyon.myonlineportal.ch
@@ -4335,6 +4350,7 @@ yolarabakiralama.com
 yoluyok.duckdns.org
 yomestlerkest.duckdns.org
 yonelt.site
+yonelttir.live
 yonlen.best
 yonlendi.space
 yonlendiring.space

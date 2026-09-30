@@ -195,6 +195,7 @@
 13222112211445799890.duckdns.org
 13222112211445799891.duckdns.org
 133213345665578555989899091.duckdns.org
+133213345665578555989899092.duckdns.org
 13395003852.duckdns.org
 13395003853321.duckdns.org
 1339500385355.duckdns.org
@@ -369,6 +370,7 @@
 41865485646468.sbs
 41m4at124bsbs.com
 421412421412124.duckdns.org
+4444400123.duckdns.org
 44444321.sbs
 4444444555.duckdns.org
 452145632563256255.duckdns.org
@@ -400,7 +402,6 @@
 541221125565556559999.duckdns.org
 5426554265521.duckdns.org
 543543534534.sbs
-54375432423342645.org
 5638563454132.org
 5685632523532.org
 57586876r8544ee.duckdns.org
@@ -1510,6 +1511,7 @@ bilgis-tr.online
 bilgisorgu.org
 bilinclikullanim.abrdns.com
 bilinclituketim.abrdns.com
+bilipta.top
 billuno.top
 bin-airdrop.online
 binanc.loadportal.site
@@ -1930,8 +1932,8 @@ cezabildirim.com
 cezadavasorgu.org
 cezadosyasorgulama.com
 cezagovtr.org
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezamahkeme.com
 cezamahkeme.org
 cezamahkemelerin.org
@@ -3233,7 +3235,6 @@ geliridaresibaskanligi.org
 geliyorevet.click
 geliyorgelmekteolanhazirlanin.club
 gelsinkapina.co
-gelsinkapinaclub.click
 geltatleyeburdfahereyvar81.click
 gelvebasinial.duckdns.org
 genclksnnler.duckdns.org
@@ -3322,6 +3323,7 @@ gnceladresweb.web.app
 gnclhgsyklmelr.cfd
 go-para-odeme.online
 go.0010v.lol
+goalfran.xyz
 goalmate.ru
 gogainiq.click
 gogetter24.ru
@@ -3339,6 +3341,7 @@ googlecomfunkyehh.vercel.app
 googlenets.ru
 googleplaydown.com
 gopiraventuxelazim.sbs
+goprizva.com
 gorsite.online
 gorunum-ayarlar.ink
 gota.unaux.com
@@ -3484,6 +3487,7 @@ grnttam.com
 grove-12.com
 grove-satin.com
 grup-web.ink
+gryacvm.click
 gsdhsdfhswa.sbs
 gsladcskadlc1j23k1231z31.shop
 gta6-play.ru
@@ -3562,7 +3566,6 @@ gzmliadagnlerinz.sbs
 h47474cc.click
 h7778.site
 habagas.sbs
-haber-stanbul1453.sbs
 haber-turkey12721.shop
 haber145216562.sbs
 haber165498.sbs
@@ -8417,6 +8420,7 @@ stepbreeze.com
 stiye-yolnlendirme.com
 stiye-yonlendiirci.com
 sto.1001gacor.org
+stoklaribitiriyoruzsondusus.sbs
 storage-apis.vercelcloud.com
 storage.hubpage.cloud
 storagepioneer.com
@@ -8486,6 +8490,7 @@ svkvktrcaydan.lat
 svvkkosfrsati.lat
 sw.sayatatata.cyou
 switch.my-homeip.de
+switzel.com
 swqlink.net
 sx.nuihuw.com
 sx3cjniwo1bmtqs0vlj-va2f.app
@@ -8507,6 +8512,7 @@ t0kibsvuru.xyz
 t748383.click
 t9ffxu6zhf915fadjv1.app
 t9xuv2mqi7zora4kel8nav5.sbs
+tabaeq.mom
 tabble.site
 tabksendeartkkatlherkesburdagel25.click
 tabocer-t.co
@@ -8899,6 +8905,7 @@ tsrsasdsesrs.com
 ttagnlerndyzbizz.giize.com
 ttavskoc.com
 ttclid.lol
+ttdenkampanyalarbasladi.site
 ttdenkampanyalareylulayinda.site
 ttmsdsnyrsd-rysdsda.com
 tttuvturkhizlirandvu.web.app
@@ -9280,6 +9287,7 @@ weby-lybre.pro
 wechatstablecoin.com
 weentuncast.sbs
 wefdasfdasf.duckdns.org
+wekinni.top
 wemati-hupolend.lol
 wesiradu-konaleti.lol
 westpacone-homesc.info
@@ -9339,14 +9347,18 @@ www-cepte-only.myonlineportal.ch
 www-cepte-portal-tb.myonlineportal.ch
 www-cepte-portaln-tb.myonlineportal.ch
 www-cepte-rar-tb.myonlineportal.ch
+www-cepte-rat-outb.myonlineportal.ch
 www-cepte-secrty-tb.myonlineportal.ch
 www-cepte-smdi.myonlineportal.ch
 www-cepte-stor-syn.myonlineportal.ch
 www-cepte-tb-story.myonlineportal.ch
+www-cepte-tbyour-web.myonlineportal.ch
 www-cepte-teb-com.my-homeip.de
 www-cepte-teb-work.myonlineportal.ch
 www-cepte-time-tb.myonlineportal.ch
 www-cepte-tvb-right.myonlineportal.ch
+www-cepte-tyb-web.myonlineportal.ch
+www-cepte-wb-tb.myonlineportal.ch
 www-ceptedir-sync.myonlineportal.ch
 www-cepteteb-ayricalikli-firsatlar.my-homeip.de
 www-cepteteb-com-tr-basvuru.my-homeip.de
@@ -9615,6 +9627,7 @@ yolgecisbakiyuklme.web.app
 yoluyok.duckdns.org
 yomestlerkest.duckdns.org
 yonelt.site
+yonelttir.live
 yonhome-g.my-homeip.de
 yonlen-toplan-security.ink
 yonlen.best
