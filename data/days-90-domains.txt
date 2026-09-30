@@ -2741,8 +2741,8 @@ cezadavasorgu.org
 cezadosya.org
 cezadosyasorgulama.com
 cezagovtr.org
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -9401,8 +9401,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokiralama.org
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -11218,7 +11218,6 @@ sepet-odemeler-2215.com
 sepet-plus.online
 sepetbox-tr.online
 sepete-ozel-tr.site
-sepetimde-odeme-3955.com
 sepetimde-odeme-3957.com
 sepetimdeonline.click
 sepetimdeonline.online
