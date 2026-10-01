@@ -806,7 +806,6 @@ ahlatcimenkuldegerler.xyz
 ahlatciyatirim.co
 aidat-iades-web-grs-e-devlet-gov-tr.com.ph
 aidatcepdestekmobilkapisi-gov-tr.com.ph
-aidatiademerkezi.my-homeip.de
 aidatiadeonline.my-homeip.de
 aidatmerkezislem.my-homeip.de
 aidatsorgulama0081.org
@@ -1946,8 +1945,8 @@ cezabildirim.com
 cezadavasorgu.org
 cezadosyasorgulama.com
 cezagovtr.org
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamahkeme.com
 cezamahkeme.org
 cezamahkemelerin.org
@@ -3545,8 +3544,6 @@ guvendeilan.online
 guvenfiloavs.net
 guvenilir-checker.online
 guvenilir-site.info
-guvenilirsorgupaneli.fun
-guvenilirsorgupaneli.xyz
 guvenli-hizmet.online
 guvenli-odeme.com
 guvenli-tamamla.com
