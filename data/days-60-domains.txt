@@ -6712,7 +6712,6 @@ package-proxy.cf5oobworker.workers.dev
 package-proxy.cf6oobworker.workers.dev
 package-proxy.cf7oobworker.workers.dev
 package-proxy.cf8oobworker.workers.dev
-pafada-dertuyyu.lol
 paibu.cn
 painelwebradiodigital.awardspace.info
 paintdotnet.ru
@@ -9759,7 +9758,6 @@ zolikhide-sedapilogife.lol
 zolvena.shop
 zoom4usinvite.space
 zoominvite-us09web-user08b.pages.dev
-zortlata.ezpizi.click
 zqnjxkvlmprtdwhc.sbs
 zratatsatsa.cfd
 zrattttasa.nicepage.io
