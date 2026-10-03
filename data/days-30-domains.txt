@@ -577,7 +577,6 @@ aktuelfirsati.duckdns.org
 aktuelindirimgunleri.duckdns.org
 aktuelsinirlisayiak.sbs
 aktuelsinirlisayiaks.cfd
-al-g.myonlineportal.ch
 albarakafinanceeg.com
 albinofennel.com
 ald-logr-lt.myonlineportal.ch
@@ -731,6 +730,7 @@ autogoarackiralama.com
 automationportal.cc
 av-r-tg.myonlineportal.ch
 avantajsepet-tr.online
+avantajsepeti.sbs
 ave-art-alk.myonlineportal.ch
 avis-otokiralama.com
 avisfilorezervasyon.com
@@ -744,6 +744,7 @@ avs-kiralama.com
 avs-rentacars.com
 avsarabakiralago.com
 avsarackirala.com
+Avsbayisi.com
 avsfilo724.com
 avsfilom.com
 avsfilom.net
@@ -771,6 +772,7 @@ ayrica-ceptetebde.my-homeip.de
 ayricalik-cepte.myonlineportal.ch
 ayricalik-ceptetebde.my-homeip.de
 ayricalik-tepte.my-homeip.de
+ayricalikla-ceptetebde.my-homeip.de
 ayricaliklar-cepteteb-emekliye.my-homeip.de
 ayricaliklar-cepteteb.my-homeip.de
 azracicekcilik.com
@@ -947,6 +949,7 @@ bumuhugudeferesede.lol
 bunadegildeneyeverilecek.lol
 bunelosa-tegaviru.lol
 bunualmadanolmaz.sbs
+bunuarayanburada.sbs
 bunuencoksenisters.sbs
 bunuoylecegecme.sbs
 burada-nisan.biz.tr
@@ -1042,8 +1045,8 @@ cepte-shop-tr.online
 cepte-t-e-b-com-tr.my-homeip.de
 cepte-teb-com.my-homeip.de
 cepte-tep-den.my-homeip.de
-cepte-tepli-firsat.my-homeip.de
 cepteehizlisal.xyz
+cepten-ayricaliklar.my-homeip.de
 ceptes0k-indir1m.gt.tc
 ceptes0k.site.je
 cepteteb-ayrica.myonlineportal.ch
@@ -1170,7 +1173,6 @@ detaybakiye.lol
 dev-tools.cfd
 devvcepptesokkfirrsaatttlarii.live
 digitalcapitalboost.com
-diji-teb.my-homeip.de
 dijital-aldinaldin-kampanya.sbs
 dijital-aldinaldin-siparisver.sbs
 dijital-internetkampanya.duckdns.org
@@ -1375,7 +1377,6 @@ enbykrvdalbrda.lol
 eniyindirlmlerburda.com
 enpabasvuru.cfd
 enparagirissss.icu
-enuygunsigorta.my-homeip.de
 enviiraandnevu.com
 enviiranndevuu.com
 envilerdesin.online
@@ -1630,7 +1631,6 @@ gitarkursistan.duckdns.org
 gitprogram.com
 gizemliaysubesindeyzbz.duckdns.org
 gizemlisubesindyz.duckdns.org
-gizlieyllkmpnysiwax.giize.com
 glamwaveru.org
 gliderrompercycl.com
 globespeakapp.com
@@ -1716,6 +1716,7 @@ haberler1234813.sbs
 haberler123499.sbs
 haberler1235634122.sbs
 haberler1242123561.sbs
+haberler12531.sbs
 haberler125421.sbs
 haberler125423.sbs
 haberler12564.sbs
@@ -1820,6 +1821,7 @@ herkesinkendikampanyasi.sbs
 herkestarafindansahipolunsundiye.sbs
 herseyhizlicaveguzelce.com
 hesaplikasabim.site
+hesaplikasabim.world
 hesaplishop-tr.online
 hftanin101firsati.duckdns.org
 hgs-odeme-guncel-429014.vercel.app
@@ -3226,6 +3228,7 @@ rivex.lol
 rivex.space
 rivexsorgupaneli.top
 rivexsrogupaneli.top
+rklmflnykkrdsmmmmmmbrknnn.duckdns.org
 rkssatis.com
 rndevcldm.cfd
 rndevualsmdi.cfd
@@ -3717,6 +3720,7 @@ tarimmarketim.vercel.app
 tastan.av.tr
 tatil.son.bitti.eldengelenler.click
 tavsanciksorgupaneli.online
+tavsanciksorgupaneli.website
 taweruk-hisopalem.lol
 tbinyo.ccwu.cc
 tbpromo.ccwu.cc
@@ -4059,6 +4063,7 @@ www-cep-on-btb.myonlineportal.ch
 www-cep-on-tb.myonlineportal.ch
 www-cepdetep-com-tr.my-homeip.de
 www-cepdetep-com.myonlineportal.ch
+www-cepl-tvb-dolu.myonlineportal.ch
 www-cepte-acc-tvb.myonlineportal.ch
 www-cepte-ass-tb.my-homeip.de
 www-cepte-ayricalik-tvb.myonlineportal.ch
@@ -4249,7 +4254,6 @@ zen3bet.shop
 zen8bet.shop
 zilihojifieresede.club
 zion-pulse.com
-ziraa-t-login-int.my-homeip.de
 ziraat-yenilenensubemiz.com.ph
 ziraat.finance
 ziraatbank-turkey.com
