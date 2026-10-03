@@ -152,6 +152,7 @@
 1111999937384gr.duckdns.org
 1111x1111.sbs
 120200000000034445.duckdns.org
+120219292929388.webredirect.org
 120298573000294.webredirect.org
 1220294899922.bounceme.net
 122048882008288.bounceme.net
@@ -165,6 +166,7 @@
 12211455441554555889895.xyz
 12212111455447885588952225590.duckdns.org
 12212111455447885588952225591.duckdns.org
+1222222222994949388.webredirect.org
 1222233122455666512255991.xyz
 1222233122455666512255993.xyz
 122455512222455588899890.duckdns.org
@@ -1056,7 +1058,6 @@ cepteteb-c-o-m-tr.my-homeip.de
 cepteteb-com-tr-emekli-kampanya.myonlineportal.ch
 cepteteb-com-tr-emekliler.myonlineportal.ch
 cepteteb-com-tr-emekliye-ozell.my-homeip.de
-cepteteb-com-tr.my-homeip.de
 cepteteb-emekli-kampanyaniz.my-homeip.de
 cepteteb-emekli-sube.my-homeip.de
 cepteteb-emekli.myonlineportal.de
@@ -1065,6 +1066,7 @@ cepteteb-emekliyle.my-homeip.de
 ceptetebden-emekli.my-homeip.de
 ceptetebden-emeklin.my-homeip.de
 ceptetebden-firsati.my-homeip.de
+ceptetebdeniz.my-homeip.de
 ceptetebli-ayricalik.my-homeip.de
 ceptetebli-emekliye.my-homeip.de
 ceptetep-firsat.my-homeip.de
@@ -1492,6 +1494,7 @@ facebook-secure.shop
 facebookloginapparel.com.ph
 faelthornebrook.com
 fafwatch.xyz
+fakedooomm.duckdns.org
 falanfilanintermilan.sbs
 fallosalsajens.co
 fameglidexa.info
@@ -3104,6 +3107,8 @@ pipi.saghirmohamed19.workers.dev
 pivetoru-sakilemu.lol
 pixel-press.xyz
 pixeltokihub.site
+piyasabizim.com
+piyasabizim.org
 placespoon.xyz
 plllrrrdssaaasssss.monster
 plushseat.org
@@ -3247,6 +3252,7 @@ reklamcigeldi.sbs
 reklamcikaita.sbs
 reklamgeldi.sbs
 reklamgitti.sbs
+reklamkristel.sbs
 reklamlaronlineak.sbs
 reklammeklamyokkk.sbs
 reklammetaonline.cfd
@@ -4060,6 +4066,7 @@ warpcast.asia
 wasilewski-investments.pl
 wavel.apple03cloudstore.com
 web-braun.com
+web-online-alisveris.sbs
 web-online-kampanya.sbs
 web-online-siparis.sbs
 web-shop-tr.online
@@ -4102,6 +4109,7 @@ ws.site-signal.top
 ws.ztts88.cyou
 wtrzgecsbilgi.sbs
 wvziraatbankasi.click
+www-abc-tb-cpte.myonlineportal.ch
 www-ac-cepte-tb.myonlineportal.ch
 www-any-cepte-webtb.myonlineportal.ch
 www-art-cepte-tvb.myonlineportal.ch
@@ -4276,7 +4284,6 @@ yonver.cc
 youngel.biz
 your-house.myonlineportal.ch
 your-nextstep.online
-ytodaktirgarage34.duckdns.org
 ytrrrartkkkuzymynnbnn.duckdns.org
 yudumkampanya.online
 yudumkampanya.store

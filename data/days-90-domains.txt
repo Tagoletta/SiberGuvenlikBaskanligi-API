@@ -203,6 +203,7 @@
 1111x1111.sbs
 11b423xz122.duckdns.org
 120200000000034445.duckdns.org
+120219292929388.webredirect.org
 120298573000294.webredirect.org
 12154455541565565690.duckdns.org
 1220294899922.bounceme.net
@@ -217,6 +218,7 @@
 12211455441554555889895.xyz
 12212111455447885588952225590.duckdns.org
 12212111455447885588952225591.duckdns.org
+1222222222994949388.webredirect.org
 1222233122455666512255991.xyz
 1222233122455666512255993.xyz
 122455512222455588899890.duckdns.org
@@ -2776,6 +2778,7 @@ ceptetebden-emekli.my-homeip.de
 ceptetebden-emeklin.my-homeip.de
 ceptetebden-firsati.my-homeip.de
 ceptetebden.my-homeip.de
+ceptetebdeniz.my-homeip.de
 ceptetebeva.my-homeip.de
 ceptetebli-ayricalik.my-homeip.de
 ceptetebli-basvurum.my-homeip.de
@@ -2798,8 +2801,8 @@ cezadavasorgu.org
 cezadosya.org
 cezadosyasorgulama.com
 cezagovtr.org
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -4165,6 +4168,7 @@ faderdasdleer.duckdns.org
 faelthornebrook.com
 fafwatch.xyz
 fahrettindanizmansert.com
+fakedooomm.duckdns.org
 faktor-edilgen.guru
 falabella-trendyol.com.ph
 falanfilanintermilan.sbs
@@ -7009,7 +7013,6 @@ kmnpyaabsvrrfrsttsonnn36528.info
 kmnpyaabsvrrfrsttsonnn36528.pro
 kmogren-kmbilgilendirici.firebaseapp.com
 kmogreninsorgulayin.web.app
-kmp-gfirsttlrr.xyz
 kmpanyasa.dnsup.net
 kmphyaabprmsynnbsvrrsonfrlati.online
 kmpnnnyaabsvrrsnnnfrsltar.info
@@ -9980,6 +9983,8 @@ pixelnest.cam
 pixeloza.xyz
 pixeltokihub.site
 pixoranta.live
+piyasabizim.com
+piyasabizim.org
 piyasaodagi.site
 pkg.dl.wel1.ru
 place-goruntu.garden
@@ -10046,7 +10051,6 @@ positive-amber-bpwtfu3p.edgeone.dev
 postaneguvenlialisveris.online
 pouhugufe-redesede.lol
 poyuturyew-esederese.lol
-pp55550005555.duckdns.org
 pppprrdannnn.duckdns.org
 pppzirpppsf.nicepage.io
 pratik-portal.shop
@@ -10516,6 +10520,7 @@ reklamcigeldi.sbs
 reklamcikaita.sbs
 reklamgeldi.sbs
 reklamgitti.sbs
+reklamkristel.sbs
 reklamlaronlineak.sbs
 reklammeklamyokkk.sbs
 reklammetaonline.cfd
@@ -13304,6 +13309,7 @@ web-braun.com
 web-garanti-subesi-tr.ph
 web-lanse.ink
 web-meets.com
+web-online-alisveris.sbs
 web-online-kampanya.sbs
 web-online-siparis.sbs
 web-shop-tr.online
@@ -13430,6 +13436,7 @@ wtw252s-wrw5tww.xyz
 wututuututu.nicepage.io
 wvziraatbankasi.click
 wwvhalkbankcekilis.org.ph
+www-abc-tb-cpte.myonlineportal.ch
 www-ac-cepte-tb.myonlineportal.ch
 www-any-cepte-webtb.myonlineportal.ch
 www-art-cepte-tvb.myonlineportal.ch

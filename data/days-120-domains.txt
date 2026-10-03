@@ -223,6 +223,7 @@
 119930984165.duckdns.org
 11b423xz122.duckdns.org
 120200000000034445.duckdns.org
+120219292929388.webredirect.org
 120298573000294.webredirect.org
 1211122211112.duckdns.org
 12154455541565565690.duckdns.org
@@ -238,6 +239,7 @@
 12211455441554555889895.xyz
 12212111455447885588952225590.duckdns.org
 12212111455447885588952225591.duckdns.org
+1222222222994949388.webredirect.org
 1222233122455666512255991.xyz
 1222233122455666512255993.xyz
 122455512222455588899890.duckdns.org
@@ -1748,7 +1750,6 @@ anus-staylard.xyz
 anveriadigital.com
 anvtwkw5bx57.icu
 anzrewardse-homes.info
-aohmanber.duckdns.org
 aohtehfaeffgafetap.vercel.app
 aol-adns-ab.myonlineportal.ch
 aotuzbirharcaharcatmez.duckdns.org
@@ -3369,7 +3370,6 @@ bvmdva.duckdns.org
 bvvdbdbdbsbmx.sbs
 bxfh.tzcdq.cn
 bxivo.quest
-byrmocankan.duckdns.org
 byte-armor.com
 byte-buff.com
 bytepilotx.digital
@@ -3680,6 +3680,7 @@ ceptetebden-emekli.my-homeip.de
 ceptetebden-emeklin.my-homeip.de
 ceptetebden-firsati.my-homeip.de
 ceptetebden.my-homeip.de
+ceptetebdeniz.my-homeip.de
 ceptetebeva.my-homeip.de
 ceptetebli-ayricalik.my-homeip.de
 ceptetebli-basvurum.my-homeip.de
@@ -3706,8 +3707,8 @@ cezadavasorgu.org
 cezadosya.org
 cezadosyasorgulama.com
 cezagovtr.org
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -5528,6 +5529,7 @@ fafwatch.xyz
 fahrettindanizmansert.com
 fairyhole.cfd
 fairyspells.info
+fakedooomm.duckdns.org
 faktor-edilgen.guru
 falabella-trendyol.com.ph
 falanfilanintermilan.sbs
@@ -9628,7 +9630,6 @@ knowib.com
 knowledgetree.courses
 knv7qztr3mxc8lb.sbs
 kobi-sube.duckdns.org
-kobibilgi.click
 kocavs.online
 kocfiinance.com
 kocfilokurumsal.net
@@ -13105,7 +13106,6 @@ partner.evsahibibasvuru.com
 partners.evsahibibasvuru.com
 partners.gooqlebusiness.com
 partners.spolettini.com
-parzama.duckdns.org
 parzoama.duckdns.org
 pas-hizli-guvenli-girs.sbs
 pasamotor.com
@@ -13367,6 +13367,8 @@ pixeltokihub.site
 pixoluna.bond
 pixoranta.live
 piyasabizim.click
+piyasabizim.com
+piyasabizim.org
 piyasaodagi.site
 pkg.dl.wel1.ru
 place-goruntu.garden
@@ -14227,6 +14229,7 @@ reklamcigeldi.sbs
 reklamcikaita.sbs
 reklamgeldi.sbs
 reklamgitti.sbs
+reklamkristel.sbs
 reklamlaronlineak.sbs
 reklammeklamyokkk.sbs
 reklammetaonline.cfd
@@ -16305,7 +16308,6 @@ taphzmts.shop
 tapp-wweeb.com
 taprnbdbvdhgzimet.online
 taprnbdbvdhgzimet.store
-taprndbshuzmerb.online
 taprndvhsladnber.store
 taprnsdbhzusdmaq.online
 taprnsdbhzusdmav.online
@@ -17280,7 +17282,6 @@ tsadafgasasgxckbvxc.cyou
 tsbic.help
 tskdestekyardim.ph
 tsrsasdsesrs.com
-tssoxsadgsahdasad.cfd
 tsxasafasf-saf.cfd
 tsxasfasfas.sbs
 tt002332sd23.duckdns.org
@@ -18143,6 +18144,7 @@ web-braun.com
 web-garanti-subesi-tr.ph
 web-lanse.ink
 web-meets.com
+web-online-alisveris.sbs
 web-online-kampanya.sbs
 web-online-siparis.sbs
 web-shop-tr.online
@@ -18345,6 +18347,7 @@ wututuututu.nicepage.io
 wvziraatbankasi.click
 wwdx23b3.duckdns.org
 wwvhalkbankcekilis.org.ph
+www-abc-tb-cpte.myonlineportal.ch
 www-ac-cepte-tb.myonlineportal.ch
 www-any-cepte-webtb.myonlineportal.ch
 www-art-cepte-tvb.myonlineportal.ch
@@ -19027,7 +19030,6 @@ yusuflumerkezsubesin.duckdns.org
 yusuflusubesibb.duckdns.org
 yutnertbwervw.click
 yutoridesignpty.com
-yutorsacankacan.duckdns.org
 yuzbindolarbruto70binineto.cfd
 yuzbirsiparis.sbs
 yuzverdimyaralarimaabandi.sbs
