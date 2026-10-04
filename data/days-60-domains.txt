@@ -1986,8 +1986,8 @@ cezadavasorgu.org
 cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezamahkeme.com
 cezamahkeme.org
 cezamahkemelerin.org
@@ -3329,7 +3329,6 @@ girisyap-hizli.abrdns.com
 girisyap-hizlica.abrdns.com
 girisyap-hizlidan.abrdns.com
 girsizsabiti2026.com
-girsizsabits2026.com
 gitarkursistan.duckdns.org
 gitgidebildiginyerdeyiz.sbs
 gitnow.dev
@@ -6015,7 +6014,6 @@ myxavpn.tech
 mzdx.top
 mzgb.top
 mzghdnikguesdamuxjbm.supabase.co
-mzhrrndvlrnzgovptt.duckdns.org
 n-vc.com
 n11ssvip.qpon
 n7b8t85zsg.com

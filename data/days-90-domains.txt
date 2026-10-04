@@ -1462,7 +1462,6 @@ araba-cekilisim.info
 araba-cekilisim.online
 araba-cekilisin.online
 araba-kazanma-sansi.online
-araba-paribu.com
 arabacekilis.com
 arabacekilis.info
 arabacekilisi.click
@@ -2825,8 +2824,8 @@ cezadosya.org
 cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -6606,7 +6605,6 @@ jornavis.com
 jorventhread.com
 josterlerkest.duckdns.org
 jott.life
-journalcorex.com
 journotix.com
 journoxfly.net
 joyfulworkshop.org
