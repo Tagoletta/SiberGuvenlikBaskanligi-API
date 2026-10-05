@@ -911,6 +911,7 @@ aktuelfirsat.com
 aktuelfirsatgunu.duckdns.org
 aktuelfirsati.duckdns.org
 aktuelindirimgunleri.duckdns.org
+aktuelindrm-101.com
 aktuelindrmcebd.duckdns.org
 aktuelsinirlisayiak.sbs
 aktuelsinirlisayiaks.cfd
@@ -947,6 +948,7 @@ alilisverilisyal.shop
 alillisilveris-ypa.com
 alilsverlisi-glti.shop
 alipay-hepsiburada.ph
+alisveris-odemesepeti.com
 alisveris-sepetimiz.com
 alisveris.lol
 alisverisepetin-12.sbs
@@ -7167,7 +7169,10 @@ pttavmdetaykontrol.firebaseapp.com
 pttavmdetaykontrol.web.app
 pttavmhgs.click
 pttavmhgs.cloud
+pttavmhgsyukle.click
+pttavmhgsyukle.cloud
 pttavmhgsyukle.online
+pttavmhgsyukle.store
 pttavmkilomtre.web.app
 pttavmkm.org
 pttavmkm.web.app
@@ -7261,6 +7266,7 @@ quorzenfy.com
 qwertyuiopa.pro
 qwfqwfqfw124214.duckdns.org
 qwjre1487.com
+r-rndvakti.com
 r.byteengineering.net
 r2mazan-oze1-firs2tl2r-aabb11.cfd
 r4ft19d4fd3w6dv.cfd
@@ -8526,6 +8532,7 @@ tarakanvpn.online
 tarbil-gov.net
 taresototamirrci34.duckdns.org
 tarihsizvalibaba.duckdns.org
+tarim-kredi.com
 tarimbirlikmarket.com
 tarimkooparatif.vercel.app
 tarimkredikoop.vercel.app
