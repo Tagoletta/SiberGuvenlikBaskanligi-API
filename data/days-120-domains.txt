@@ -2467,7 +2467,6 @@ basvursendsc.sbs
 basvursendsmr.sbs
 basvursendsmz.sbs
 basvursendsn.sbs
-basvursendsr.sbs
 basvursenrnz.sbs
 basvursenszv.sbs
 basvursenxm.sbs
@@ -2619,7 +2618,6 @@ baykrtech.com
 baylkartech.com
 bayloramuse.com
 bayraktepebungalov.com
-bayramaozeelefsssanefirsatlargerigeldi.xyz
 baytkartech.com
 bayykartech.com
 baz777.site
@@ -3723,8 +3721,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -7407,7 +7405,6 @@ hemenhediye--burada.online
 hemenhediye-burada.online
 hemenhediye.online
 hemenhediyeburada.online
-hemenhizliislemn.net
 hemenhizlisnoclsm.net
 hemeniaslmenasn.net
 hemeniasnltamsan.net
@@ -8602,7 +8599,6 @@ istanbulhostuzh.xyz
 istanbulhovardasi.sbs
 istanbulhub.shop
 istanbulio.shop
-istanbulkacan.xyz
 istanbulkartbasvuru.lol
 istanbulkartbasvuru.pro
 istanbulkartbasvuru.xyz
@@ -12582,8 +12578,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokiralama.org
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -12731,7 +12727,6 @@ panelbalonxfs.xyz
 panelsorgu.buzz
 panelsorgu.online
 panelsorgu.space
-pantolonunnerdendiyor.click
 papapapxxxx.mirokamigo4.workers.dev
 papara-hepsiburada.com.ph
 papara-online.com.ph
@@ -15991,7 +15986,6 @@ srdansanrabigbrda.shop
 srddddasdasd12.duckdns.org
 srdgdnoktsnsa.duckdns.org
 srgumynerndvu.cfd
-srnacxcdanismanlik.blogspot.com
 srnafsrqsasdanismanlik.blogspot.com
 srnqwrsxtsdanismanlik.blogspot.com
 srnqwrxsxtsdanismanlik.blogspot.com
@@ -17104,7 +17098,6 @@ tranzed.org
 travels-network-contrast-slides.trycloudflare.com
 travionaconnect.com
 travionasystem.com
-travix.cyou
 travoleniq.capital
 travorazone.com
 trazomika.capital

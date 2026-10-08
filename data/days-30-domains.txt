@@ -598,7 +598,6 @@ aktuelindirimgunleri.duckdns.org
 aktuelindrm-101.com
 aktuelsinirlisayiak.sbs
 aktuelsinirlisayiaks.cfd
-albarakafinanceeg.com
 albinofennel.com
 ald-logr-lt.myonlineportal.ch
 aldin-yadaaldin.com
@@ -1097,8 +1096,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -3359,7 +3358,6 @@ sahibinden-get.mobilservisler-64.sbs
 sahibinden-get.servisepetin-10.sbs
 sahibinden-get.servisepetin-15.sbs
 sahibinden-get.servisepetin-20.sbs
-sahibinden-get.servisinguvenli-25.sbs
 sahibinden-get.servisinguvenli-60.sbs
 sahibinden-get.servisinguvenli-65.sbs
 sahibinden-get.servisinguvenli-67.sbs
@@ -4000,7 +3998,6 @@ tvtrkmafylari.duckdns.org
 tvtrkmynexx.duckdns.org
 tvtrkrndv.duckdns.org
 tvtrkrnvdmlrm.com
-tvutrkdsnrskc.com
 tvuturkaracmuane.web.app
 tw-koryu.org
 uaiubifas.top
