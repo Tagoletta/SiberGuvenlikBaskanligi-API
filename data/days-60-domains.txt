@@ -5897,7 +5897,6 @@ mobilinbankasi-akbank.ph
 mobilite-pr-g.myonlineportal.ch
 mobilpapara.app
 mobils-cep.online
-mobils-tr.online
 mobilsepet-tr.online
 mobilsepetalim-10.online
 mobilsepetalim-20.online
