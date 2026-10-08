@@ -3723,8 +3723,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -17110,7 +17110,6 @@ travorazone.com
 trazomika.capital
 trbinance-tr.duckdns.org
 trbirim.org
-trbnincebasvurularim.duckdns.org
 trcezasorgu.org
 tredsz.cfd
 trees4sale.net
