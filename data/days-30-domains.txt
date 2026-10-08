@@ -1097,8 +1097,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -3392,7 +3392,6 @@ sahibinden-param-guvende.ilan-islem.online
 sahibinden-param-guvende.ilan-satisi.online
 sahibinden-param-guvende.ilan-siparisim.online
 sahibinden-param-guvende.siparis-onayi.online
-sahibinden-param-guvende.siparis-onayim.online
 sahibinden-param-guvende.siparisguvenli.online
 sahibinden-param-guvende.siparisim-guvenli.online
 sahibinden-param-guvende.tr-urun-detayi.online
@@ -3434,7 +3433,6 @@ sahibindeniletisimkasko.com
 sahibindenin.com.tr
 sahibindenkaargom.com
 sahibindenkargoiletisim.com
-sahibindenkaskodestek.com
 sahibindenparamguvende.store
 sahibindenparamguvendeget.wordpress.com
 sahibindenparamguvendegetilan.wordpress.com
