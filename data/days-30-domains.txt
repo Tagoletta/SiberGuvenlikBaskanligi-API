@@ -592,7 +592,6 @@ akillisaatt.duckdns.org
 akka-avd-aor.myonlineportal.ch
 akka-lyn-av.myonlineportal.ch
 akkv-l-asr.myonlineportal.ch
-aklimdakikapimda.xyz
 akmpxnya-101eylul.site
 akra-frontdeskt.com
 akraantalyafrontdesk.com
@@ -1103,8 +1102,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -1172,7 +1171,6 @@ confirm-payments.com
 connect.fuelleg.info
 connection.upgradeonline.site
 consectetur-in-enim.top
-contoso.add-passkey.com
 corecloudfileshare.xyz
 corralos.beer
 covenya.shop
@@ -1516,7 +1514,6 @@ evrenium.xyz
 evrensorgupaneli.online
 ewrfdsfsd.com
 ewwewnewnen.com
-extrasepet.online
 extremeadventure.org
 eylkmpykcmz.duckdns.org
 eylul-burada.biz.tr
@@ -1622,6 +1619,7 @@ fuzulyatirimi.com
 garanti-ekim-kampanyasi.cloud
 garanti-kredi-basvurusu.cloud
 garanti-kredi-firsati-ekim-ayina-ozel.cloud
+garanti-kredi-firsati.cloud
 garanti-kredi-uzmani.cloud
 garanti-online-ekim-ayina-ozel.cloud
 garantibasvuru.cloud
@@ -1723,6 +1721,7 @@ gratis.bunkershub.com
 gratis.fandomhousepress.com
 gratis.gerenna.com
 gratis.gscmec.com
+gratis.iynsed.com
 gratis.millers-house.com
 gratis.mvolkov.com
 gratis.nexiapy.com
@@ -1895,12 +1894,16 @@ hhizli-gecis-bakiye-yukle22.web.app
 hhizli-gecis-bakiye-yukle23.web.app
 hhizli-gecis-bakiye-yukleme.web.app
 hhizli-gecis-bakiye-yukleme18.web.app
+hhizli-gecis-bakiye-yukleme26.web.app
+hhizli-gecis-bakiye-yukleme27.web.app
 hiizggecd.cyou
 hiizli-gecis-bakiye-yukle.web.app
 hiizli-gecis-bakiye-yukle22.web.app
 hiizli-gecis-bakiye-yukle23.web.app
 hiizli-gecis-bakiye-yukleme.web.app
 hiizli-gecis-bakiye-yukleme18.web.app
+hiizli-gecis-bakiye-yukleme26.web.app
+hiizli-gecis-bakiye-yukleme27.web.app
 hilallisubesndyzz.duckdns.org
 hiley.com.tr
 hillsidebeach.net
@@ -1913,6 +1916,8 @@ hizli-gcsetiketbaksieyklry.web.app
 hizli-gecis-baakiye-yukleme.netlify.app
 hizli-gecis-baakiye-yukleme.web.app
 hizli-gecis-baakiye-yukleme2.web.app
+hizli-gecis-baakiye-yukleme26.web.app
+hizli-gecis-baakiye-yukleme27.web.app
 hizli-gecis-baakiye-yukleme3.web.app
 hizli-gecis-baakiye-yuklemetr.web.app
 hizli-gecis-bakiye-yukle.web.app
@@ -1959,10 +1964,34 @@ hizli-gecis-bakiye-yukleme20.web.app
 hizli-gecis-bakiye-yukleme21.web.app
 hizli-gecis-bakiye-yukleme24.web.app
 hizli-gecis-bakiye-yukleme25.web.app
+hizli-gecis-bakiye-yukleme251.web.app
+hizli-gecis-bakiye-yukleme252.web.app
+hizli-gecis-bakiye-yukleme253.web.app
+hizli-gecis-bakiye-yukleme25tr.web.app
 hizli-gecis-bakiye-yukleme26.web.app
+hizli-gecis-bakiye-yukleme261.web.app
+hizli-gecis-bakiye-yukleme262.web.app
+hizli-gecis-bakiye-yukleme263.web.app
+hizli-gecis-bakiye-yukleme26can.web.app
+hizli-gecis-bakiye-yukleme26tr.web.app
 hizli-gecis-bakiye-yukleme27.web.app
+hizli-gecis-bakiye-yukleme271.web.app
+hizli-gecis-bakiye-yukleme272.web.app
+hizli-gecis-bakiye-yukleme2722.web.app
+hizli-gecis-bakiye-yukleme273.web.app
+hizli-gecis-bakiye-yukleme27can.web.app
+hizli-gecis-bakiye-yukleme27tr.web.app
 hizli-gecis-bakiye-yukleme28.web.app
 hizli-gecis-bakiye-yukleme3.web.app
+hizli-gecis-bakiye-yukleme30.web.app
+hizli-gecis-bakiye-yukleme31.web.app
+hizli-gecis-bakiye-yukleme32.web.app
+hizli-gecis-bakiye-yukleme33.web.app
+hizli-gecis-bakiye-yukleme34.web.app
+hizli-gecis-bakiye-yukleme35.web.app
+hizli-gecis-bakiye-yukleme36.web.app
+hizli-gecis-bakiye-yukleme37.web.app
+hizli-gecis-bakiye-yukleme38.web.app
 hizli-gecis-bakiye-yukleme4.web.app
 hizli-gecis-bakiye-yukleme5.web.app
 hizli-gecis-bakiye-yukleme6.web.app
@@ -2060,7 +2089,6 @@ idaricezatakip.org
 idaridosyamerkezi.org
 idaridosyasorgu.org
 idaridosyasorgulama.org
-idarikamu.org
 idarisorgulama.org
 idarisorgusistemi.org
 idata.lat
@@ -2135,8 +2163,6 @@ infvarlikdegerler.com
 instagram-clone-sigma-seven.vercel.app
 instagram-rosy-alpha.vercel.app
 instagramlogine.blogspot.com
-installpasskey.com
-integratedsso.com
 interact-stating-battle-seniors.trycloudflare.com
 internetsubbbeee.duckdns.org
 internetsubesi-pnbfinansbank-com.ph
@@ -2242,10 +2268,8 @@ just-cooperation-production-f159.up.railway.app
 k9wx2qv8.top
 kabsakaioniine.com
 kacirilmiyacakfrstlargunudyz.online
-kaita2elleme3434.sbs
 kaitageldimeta.sbs
 kaitailemetalardedeler.sbs
-kaitalarkarilarkizlar.sbs
 kaitametalar.sbs
 kaitametarek.sbs
 kaitamokoko.duckdns.org
@@ -2435,9 +2459,7 @@ kubafabrikamagaza.com
 kubafabrikaonline.com
 kubamodellerisatis.com
 kubamotorsatis.com
-kubamotorsonline.com
 kubamotoryedekparca.com
-kubaonlinetr.com
 kubaonlineturkiye.com
 kubatr.com
 kubayollarda.com
@@ -2450,6 +2472,9 @@ kuzeymenkultr.com
 kuzeyportfoymenkuldegerler.com
 kvyt-1414123.click
 kvyt890909244.duckdns.org
+kykdosyasorgulama.com
+kykdosyasorgulama.net
+kykdosyasorgulama.org
 kynlinhome.com
 laktanasma.net
 lalelisubsndyzbizler.duckdns.org
@@ -2473,7 +2498,6 @@ lndirimieyluldehemen.com
 lndirimler-enlylrerden.com
 lndirimtakipcilerindentt.com
 lndirimtakpctst.com
-lndirimtakpctt.com
 lndirimttakpctst.com
 lndlrllmkaplndaa.com
 lndlrlmkaplndaa.com
@@ -2510,7 +2534,6 @@ magazada-shop.online
 mahkemedava.org
 mail.plan-mail.com
 mail.uaiubifas.top
-mailchimp-passkey.com
 malaysiapulse.com
 malicezasorgu.com
 malidosya.org
@@ -2606,7 +2629,6 @@ metareklamoffline.sbs
 metareklamonline.sbs
 metricwave.org
 mfa-gocbil.org
-mfa-registry.com
 mfa-united.com
 mhburdagln.shop
 mhcbsdfgs.art
@@ -2629,7 +2651,6 @@ mhrsmsxlm.com
 mhrsrandevu993.duckdns.org
 mhrsrandevualhastane.com
 mhrsrandevualhastane.online
-mhrss-aps.online
 mhrsxzcvzxc.com
 mhsdgsd.art
 mhsdhsfdh.art
@@ -2702,7 +2723,6 @@ mozilla.ws
 mozvento.com
 mrhlrsmsmcm.com
 mrhmrsmxmlm.com
-mrhsmsxlmcl.net
 mrhsmsxlmx.com
 mrhsrhsmxl.com
 mrkzimde.com
@@ -3052,8 +3072,6 @@ opusaccel.top
 orhanlisubesindelerr.duckdns.org
 ortkyklmenktlari.vercel.app
 oscertdegree.com
-oskeyregister.com
-oskeysetup.com
 osmanli.portfoymenkul.com
 osmanlisorgupaneli.space
 osmanlisubesndyzbiz.online
@@ -3091,7 +3109,6 @@ pakssarzameen.org
 palmiiyesultan.com
 panelsorgu.online
 papapapxxxx.mirokamigo4.workers.dev
-param-guvende.cfd
 parayladiploma.com
 paribu-arababurada.info
 paribu-destek.org
@@ -3108,8 +3125,6 @@ paribusponsorluhediyekampanyalari.online
 parramguvendee.site
 parsrentcar.org
 partaonline.click
-passkey-mfa.com
-passkeymailchimp.com
 pastacanavari.duckdns.org
 pastayiyiyin.sbs
 pawsockenjoyer.site
@@ -3279,15 +3294,11 @@ radaukraine.top
 rafaelcnm.ccwu.cc
 rafaelinko.online
 rafaelinyo.cc.cd
-rafaelkizlareler.sbs
-rafaelokralinyoo34.sbs
 rafaeloskr.cc.cd
 rafaelreklam.sbs
 rafaeltb.us.ci
 rafaelx.ccwu.cc
 rafaelx.online
-rafaelxleokralinyo34.sbs
-rafelllox313c.sbs
 rafoskr.ccwu.cc
 rafoteb.space
 randevucunuz.com
@@ -3303,9 +3314,6 @@ rd1800vire.shop
 referansportal.online
 refund-advertisers.com
 reg.pcsdkflyer.ca
-register-passkey.com
-register-passkeys.com
-registermymfa.com
 regularisation-free.info
 rehewtsqe.sbs
 reklam--sponsorlu.online
@@ -3344,12 +3352,12 @@ rndvalmazmni.cfd
 rndvalvode.cfd
 rnfs432ad52323fdsa2.icu
 rngdnnnnnn.xyz
+rnhrs-hastnrandvklylastiac.web.app
 ro-actualizare.com
 roamcase.org
 roamload.com
 rodddcycyrgttskym.live
 rodiwasherecandan.com
-roketsan-miras.com
 roleplayyasak.duckdns.org
 rollcyrentacars.online
 rollenmetimur.duckdns.org
@@ -3533,7 +3541,6 @@ semrushback.onrender.com
 senburdaheprahatta.com
 sendegelburdanalarkdas75.click
 sendekolaycahallet1.lol
-sendgridpasskey.com
 sepet-odemeler-2211.com
 sepet-odemeler-2212.com
 sepet-odemeler-2214.com
@@ -3558,7 +3565,6 @@ servisinguvenli-45.sbs
 servisinguvenli-67.sbs
 servislerinislemler.sbs
 servislerinmobil-12.sbs
-setupmypasskey.com
 sevdlyrklrdeebtyz.duckdns.org
 sgelink.cloud
 sharehub.space
@@ -3572,7 +3578,6 @@ shopping-tr.online
 shopta-tr.online
 sibonex.com
 signin-1psswoord.com
-signinoptions.com
 silkhavenkaiellc.com
 simdibenianliyormusun.sbs
 simpstti.net
@@ -3811,7 +3816,6 @@ syncgoogleadsback-production-cde6.up.railway.app
 syncgoogleadsback-production.up.railway.app
 syncgoogleadsback.onrender.com
 synchvault.co
-syncmykey.com
 szhpnzleotkbrda.lol
 t-e-b-ayricaliklar.my-homeip.de
 t0kibsvuru.lol
@@ -4081,7 +4085,6 @@ v30105.site
 v707070.site
 vaha-yatirim.com
 vakko.appmira.co
-validationsetupac.com
 vancarsfilo.com
 varaka.click
 vatandas-uyap-gov-tr-evrak-dogrulama-uyap.vercel.app
