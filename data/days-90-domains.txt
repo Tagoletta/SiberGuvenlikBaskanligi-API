@@ -432,7 +432,6 @@
 212114551221455122452245592.xyz
 2121454457788785522590.duckdns.org
 2121454457788785522591.duckdns.org
-2124552556555695.duckdns.org
 2124552556555697.duckdns.org
 2124552556555698.duckdns.org
 2124552556555699.duckdns.org
@@ -907,6 +906,7 @@ a101-firsatlariniza-gelin.duckdns.org
 a101-girisfacebook.click
 a101-sadeceonline.my-homeip.net
 a101.dijitalbayim.com
+a101.dpdns.org
 a101.ilan-sepetlerimiz-burada.com
 a1011.frstlarbrdsmgs.store
 a101aktuelfiyatlari.com
@@ -2128,7 +2128,6 @@ betgaranti-hizli-tr-giris.icu
 betokaitakck123xk12k3lx132.cfd
 betorafaj1c21lx32l1kz312.cfd
 bexorunilakemvytosa.sbs
-beyan-life-optimum.myonlineportal.eu
 beyazfilokiralama.com
 beygirogluumm.dnsup.net
 beylikduzualbaveteriner.pro
@@ -2821,8 +2820,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -4348,7 +4347,6 @@ firsatlar-herzaman-burada.blogspot.com
 firsatlar.myonlineportal.ch
 firsatlar.obilet-tr.uk
 firsatlar.s.gy
-firsatlarbizden.myonlineportal.ch
 firsatlarcepte.xyz
 firsatlardanfaydalanmalar.duckdns.org
 firsatlarfiro.duckdns.org
@@ -4454,7 +4452,6 @@ freshkinu.com
 freshlume.today
 freshvista.website
 freshy-disk-a786.neerojdaya-finefurniture.workers.dev
-frm1ktr.top
 frntrs-analytics-863060591218.europe-west1.run.app
 frntrs-analytics.dedyn.io
 frontsignal.top
@@ -9247,7 +9244,6 @@ obilet-mobil.tr
 obilet-mobil.uk
 obilet-tr.uk
 obilet.uk
-ocaktada-sizle.name.tr
 ocam-pc.com.cn
 ocr.opusaccel.top
 ode.maliyeveznetalepformu.com
@@ -12771,6 +12767,7 @@ trible-shot.myonlineportal.ch
 trickflag.info
 tridari.org
 tridaribirim.org
+tridariceza.org
 tridarikurum.org
 trident-sip-filter.ngrok-free.dev
 trimnt.com

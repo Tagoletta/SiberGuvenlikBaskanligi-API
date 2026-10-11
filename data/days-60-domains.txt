@@ -686,6 +686,7 @@ a-s-b-c.myonlineportal.ch
 a-vrage-c-b.myonlineportal.ch
 a-yonlendir.ink
 a101.dijitalbayim.com
+a101.dpdns.org
 a101.ilan-sepetlerimiz-burada.com
 a1011.frstlarbrdsmgs.store
 a101aktuelfiyatlari.com
@@ -1956,8 +1957,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -5515,7 +5516,6 @@ m0halrnd2a.fun
 m1b10ir4zle.sbs
 m3333.site
 m99090s.site
-m9xt2qzrw7kv5phn8jcyb.click
 ma44777.site
 maaspro.my-homeip.de
 macperformancetools.com
@@ -5644,7 +5644,6 @@ medioran.com
 meetonline.cam
 megamacnz.com
 megthegullo.com
-meherse.com
 mehersel.com
 meherselerle.com
 mehersem.com
@@ -8729,6 +8728,7 @@ trible-shot.myonlineportal.ch
 trickflag.info
 tridari.org
 tridaribirim.org
+tridariceza.org
 tridarikurum.org
 trident-sip-filter.ngrok-free.dev
 trinstroisbank.com
@@ -9544,7 +9544,6 @@ zion-pulse.com
 zira-at-basvuru-sureci.my-homeip.de
 zira-trade.icu
 ziraa-t-login-int.my-homeip.de
-ziraat-inislemin.cfd
 ziraat-mobil.net
 ziraat-mobil.online
 ziraat-yenilenensubemiz.com.ph
