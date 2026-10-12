@@ -1111,8 +1111,8 @@ cezabildirim.com
 cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -3921,7 +3921,6 @@ tekbasvuru.abrdns.com
 tekgercektazmanya.duckdns.org
 teknosa.live
 tekrixly.com
-tempurl.host
 tepten-ayricaliklari.my-homeip.de
 tesla-careerapplication.com
 teslimaynigunhizli.sbs
