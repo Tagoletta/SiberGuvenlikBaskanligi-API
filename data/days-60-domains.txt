@@ -700,7 +700,6 @@ a101.dijitalbayim.com
 a101.dpdns.org
 a101.ilan-sepetlerimiz-burada.com
 a1011.frstlarbrdsmgs.store
-a101aktuelfiyatlari.com
 a101dehayatvar.duckdns.org
 a101destanleyindirimiaktif.duckdns.org
 a101extra.sbs
@@ -1328,8 +1327,6 @@ avsfilorezervasyon.net
 avshepyaninda.com
 avskiralama.org
 avskiralama724.com
-avskiralamafilo.com
-avskiralamafilo.online
 avskiralikaraba.com
 avskockiralama.com
 avskocrental.net
@@ -3130,7 +3127,6 @@ garantibbva-creditsuisse.ph
 garantibbva-erstebank.ph
 garantibbva-gov.ph
 garantibbva-hepsiburada.com.ph
-garantibbva-isbank.com.ph
 garantibbva-isbank.ph
 garantibbva-kraken.ph
 garantibbva-kredi.abrdns.com
@@ -4363,6 +4359,7 @@ hzlnsdanismanlk.info
 hzlnsdanismanlk.net
 hzlnsdanismanlk.online
 hzlsnnets.web.app
+hzlsstmlndaaarserrn.com
 hzlszsndnsmlk.com
 hzlszsndnsmlk.net
 hzlszsndnsmlk.online
@@ -5374,6 +5371,7 @@ lojinhadoluiz.online
 lokkotokyo.co
 lolmetareklamfalan.shop
 lonekasmeter.duckdns.org
+lonshjaertmenst.duckdns.org
 loseorwin.co
 losr066.site
 lovememore.click
@@ -6802,8 +6800,6 @@ paribu-arabahediyen.link
 paribu-arabayakala.link
 paribu-cark.com
 paribu-cekilisi.online
-paribu-cekilisim.live
-paribu-cekilisim.online
 paribu-destek.org
 paribu-pepe-cekilis.info
 paribu-pepe-cekilis.link
@@ -7753,7 +7749,6 @@ selectumluxuries.com
 selectumresorts.net
 selectumresortshotels.com
 selesy-mlg-tr.myonlineportal.ch
-selgebeachs.com
 selgeresortbeachside.com
 selgeside.com
 selgesidebeachhotel.com
@@ -8580,6 +8575,7 @@ tecnorix.com
 tedbanibuni.duckdns.org
 tefasplatfrom.com
 tekbasvuru.abrdns.com
+tekcihazaktivasyonlinki.duckdns.org
 tekdoknstaevneglecek.com
 tekdokunusaevegelecek.com
 tekdokunusqevegelecek.com
