@@ -6707,7 +6707,6 @@ pttavmkm.web.app
 pttavmkmbilgi.com
 pttavmkmdogrulama.com
 pttavmkmraporu.web.app
-pttavmkmsorgum.com
 pttavmkmsormakweb.firebaseapp.com
 pttavmkmsormakweb.web.app
 pttavn-hizl-kolay-ykle.web.app
@@ -8362,7 +8361,6 @@ urunhizmetleri.online
 urunlerin-online-satisi.com
 uselessticket.co
 user2.bsnotespublication.com
-ustumuzeyokbualemdeeee.digital
 uttspetrolofisi.com
 uyapadalet.org
 uyapbdk.com
@@ -8962,7 +8960,6 @@ zfu4n4kxgmx32hsqg.cc
 zh-diskgenius.com.cn
 zilihojifieresede.club
 zion-pulse.com
-zira-trade.icu
 ziraa-t-login-int.my-homeip.de
 ziraat-mobil.net
 ziraat-mobil.online
