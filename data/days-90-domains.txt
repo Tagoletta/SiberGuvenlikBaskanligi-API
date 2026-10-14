@@ -10508,7 +10508,6 @@ qmonest.duckdns.org
 qnb-enpara-cekilis.ph
 qnbbank.site
 qnbfinansbank-internetsube-com-tr.ph
-qnbsigorta-com.drp-dev.com
 qnbstart.com
 qorbazli.com
 qori-space.ink

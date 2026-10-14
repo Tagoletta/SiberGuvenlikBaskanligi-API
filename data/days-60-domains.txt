@@ -3556,7 +3556,6 @@ halkinadamirafael.site
 halkinfirsati.cam
 halklimit.click
 halklimit.help
-halklimit.homes
 halklimit.lol
 halklimit.shop
 halklimitim.help
@@ -6746,7 +6745,6 @@ qfasdwqfa.sadqwdas.casasd.hizmetlssdak.click
 qidaru-wesolimatup.lol
 qmonest.duckdns.org
 qnbfinansbank-internetsube-com-tr.ph
-qnbsigorta-com.drp-dev.com
 qnbstart.com
 qori-space.ink
 qrnesign.com

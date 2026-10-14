@@ -13924,7 +13924,6 @@ qnbbank.site
 qnbfinansbank-internetsube-com-tr.ph
 qnbfinansbank-intsube.ph
 qnbfinansbank-kredi.ph
-qnbsigorta-com.drp-dev.com
 qnbstart.com
 qonllinekonomigarantimobileapptr.xyz
 qoravemix.capital
