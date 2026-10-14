@@ -3217,6 +3217,7 @@ bu-garanti-yaz-ayi-naz-ayi.xyz
 bu-sonfirsatlarhaziran.online
 buapp1-99579a8a4cfa.herokuapp.com
 buf2.com
+bufirstbirkeregelir.giize.com
 bufiyatakcmz.duckdns.org
 bufiyatkcmzkmpny.duckdns.org
 bufy-web-lyt.myonlineportal.ch
@@ -3281,6 +3282,7 @@ bunuarayanburada.sbs
 bunuencoksenisters.sbs
 bunuhemeniste.sbs
 bunuoylecegecme.sbs
+bunusendegormelisin.sbs
 burada-nisan.biz.tr
 buradahemensagliklanve.digital
 buradasokaklarfazladacadaar.digital
@@ -4990,7 +4992,6 @@ elaexallance.com
 elaexxalence.com
 elaexxellanceresorts.net
 elativexona.sbs
-elconews.blog
 eldaventhoris.blog
 eldengelenler.click
 eldoria.blog
@@ -6858,6 +6859,7 @@ haberler1436542.sbs
 haberler14534925.shop
 haberler145365349.sbs
 haberler145425462.shop
+haberler15123424.sbs
 haberler1542334.shop
 haberler154313.sbs
 haberler1564568.sbs
@@ -7429,6 +7431,7 @@ hesseyyarkablo.click
 heymens.duckdns.org
 hf7x.com
 hftanin101firsati.duckdns.org
+hftnyldzlbrada.click
 hftyldzlrdikmpn.click
 hg.xxxxxxxxx111111.click
 hg73983943.click
@@ -7438,7 +7441,6 @@ hgmyrtmy.sbs
 hgs-islemleriniz-sorgulama-hemen.com
 hgs-ode-smdii.cfd
 hgs-ode-yukle-simdi.cfd
-hgs-ode-zamani.cfd
 hgs-odeme-guncel-429014.vercel.app
 hgs-odeme-guncel.vercel.app
 hgs-pttavm.ph
@@ -8340,6 +8342,7 @@ ilangetsiparis.online
 ilanguvende.online
 ilanguvenli.online
 ilanim-fast.com
+ilanlarin-hemen-burada.com
 ilanlarin-satislari-online.com
 ilanonay.online
 ilanonayi.online
@@ -10859,6 +10862,7 @@ mfa-united.com
 mfkfjsdkfm347.duckdns.org
 mgrosshzlrannn.online
 mh-r-al-randv-simdi-hemence.duckdns.org
+mh-rdvzmni.cfd
 mh-rs.182iletisim.click
 mh1rsf0rm123.com
 mh3994khmesc.com
@@ -11814,6 +11818,7 @@ nmtlanmla.net
 nmtlnmtlntmntlmltn.net
 nmwcspraseves.sbs
 nn5474555.site
+nnnvvsdsdrttyreeertty.com
 nnp0.allthe.site
 nnvirandevubilgilendirme.blogspot.com
 nnvirandevubilgilendirme10.blogspot.com
@@ -14316,7 +14321,6 @@ s0kmarkeletler.shop
 s0kmarkeltler.shop
 s0kmarklemler.com
 s0kmarklet.shop
-s0kmarkletler.shop
 s0kmarkletlm.com
 s0kmarkletlt.com
 s0kmarkletmer.shop
@@ -14705,7 +14709,6 @@ sahibindensatisonay.com
 sahibindensatiss.click
 sahibindensigorta.click
 sahibindensigorta.com
-sahibindensigortaodeme.com
 sahibindensigortaodemesi.com
 sahibirdenguvnde.com
 sahibiyiz.sbs
@@ -14781,6 +14784,7 @@ sanslisponsorluk-burada.online
 sanslisponsorlukburada.online
 santaskagsaen.online
 sanvo.cyou
+sapancaevleri.xyz
 sapdfsaodfsadl.online
 sappada.maisonboutique.it
 sarah199012344.workers.dev
@@ -16599,12 +16603,15 @@ togg-nato-ozel-cekilis.xyz
 togg-onsiparis.com
 togg-satisi.cfd
 togg-trumore.com
+togg.bar
 togg.best
 togg.cc
 togg.live
 togg.lol
 togg.pro
+togg.top
 togg.website
+togg.wiki
 togg.zuzzuu.com
 togg2026.xyz
 togg5000haziran.sbs
@@ -16710,7 +16717,6 @@ toplu-konut-idaresi-basvurusu.vercel.app
 toplu-konut-projesi-toki-gov-tr.ph
 toplu-konut.gravitycl.app
 toplubloklar.vercelserver.com
-toplukonu5391282121.vercel.app
 toplukonut-toki.gravitycl.app
 toplukonut.gravitycl.app
 toplukonut0701455346.vercel.app
@@ -18211,7 +18217,6 @@ www-qnb-finansbank-service.ph
 www-qnb-finansbank-transfer.ph
 www-qnbfinansbank-access.ph
 www-qnbfinansbank-banking.ph
-www-qnbfinansbank-cepsubesi-com.ph
 www-qnbfinansbank-contact.ph
 www-qnbfinansbank-help.ph
 www-qnbfinansbank-internetsubesi-com-tr.ph
@@ -18999,6 +19004,7 @@ zorstore.com
 zortlata.ezpizi.click
 zosssdal.click
 zqnjxkvlmprtdwhc.sbs
+zraatbank.netlify.app
 zrat-ggeris.cfd
 zratatsatsa.cfd
 zrattttasa.nicepage.io
