@@ -1404,6 +1404,7 @@ egnngov.biz.id
 egnngov.my.id
 egnngovern.biz.id
 egnngovern.my.id
+ehazine.org
 ehazineceza.com
 ehazinedava.com
 ehazinedosya.com
@@ -1827,6 +1828,7 @@ haberler10978.sbs
 haberler114561.sbs
 haberler123438.sbs
 haberler1236324.sbs
+haberler124114.sbs
 haberler1242123561.sbs
 haberler124221.sbs
 haberler12531.sbs
@@ -1897,7 +1899,6 @@ havxaistbilet.site
 hayatkadiniseviyorum.duckdns.org
 haydisizdegelinverandevunuzualin.duckdns.org
 hayzine.com
-hazallisubesindeyiza.duckdns.org
 hazinedosya.com
 hazinedosya.org
 hazinerandevuformu.com
@@ -2247,7 +2248,6 @@ hizmetler.sizler.icin.meviyelerimizde.click
 hizmetlerim.click
 hizmetnoktasindeyizonlne.online
 hizmetsektorundyzbiz.sbs
-hk.kalyanavaram.com
 hlakolanmalko.cfd
 hlldrymbrdansnz.duckdns.org
 hmbakanlikvezne.com
@@ -2615,6 +2615,7 @@ kmpnyadasnfrslatttbasvrprsmtnn789654.pro
 kmpnydunyasi.duckdns.org
 kmpnydunyasikacmaz.duckdns.org
 kmpnyfirstkcmaz.duckdns.org
+kmpsndehmn.click
 kmpttsrg.cfd
 kmpyaabasvrrrsonnfrsltarrr96587.online
 kmsolhemenyap.shop
@@ -2772,7 +2773,6 @@ malirandevu.com
 malisorgulama.org
 malivezne.net
 malivezneformu.org
-maliyecezasorgulama.com
 maliyedosyabilgi.com
 maliyeegm.net
 maliyeodemeislemleri.com
@@ -3291,7 +3291,6 @@ otokokurumsal.com
 otopluskampanya.com
 otoyol-gecis-hizli.lol
 outlook-serv-coral.vercel.app
-outlook.bsnotespublication.com
 outlook3650.com
 outsourcingwise.net
 overislem.22web.org
@@ -3816,12 +3815,10 @@ snrszkmp.loseyourip.com
 soarbox.net
 sofuoglumotosiklet.com
 sokaklarinhepsiadi.duckdns.org
-sokfirsatderken.duckdns.org
 sokmarketekstrakampanya2.duckdns.org
 soksoksok.com.tr
 solixup.com
 soljmarlktlr.calilncenmaknlr.sbs
-sonfirsltarrribkmpnyabsavr.info
 sonfrsltariikmpnyaabsvrr2138120.online
 sonfrsltariikmpnyaabsvrr2138120.pro
 sonfrsltarrbasvrrkmpnyaa6569741.info

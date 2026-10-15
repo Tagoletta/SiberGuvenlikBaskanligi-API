@@ -157,7 +157,6 @@
 101-extra-sadece-online-ozel-sepet-indirimleri-mobilde-tr.cepteburda.online
 101-firsatlari.duckdns.org
 101-mobil-bugune-ozel-extra-indiriml.shopping-tr.online
-101-mobil-bugune-ozel-indirim-sadece-online-alisveris-tr.extramarket.online
 101-mobil-extra-online-siparis-ozel-sepet-indiirmli-tr.web-shop-tr.online
 101-mobil-extra-sadece-bugune-ozel-alisveris-indirimi-cepte-tr.marketx-tr.online
 101-mobil-extra-sadece-bugune-ozel-alisveris-indirimleri-tr.extrada-tr.online
@@ -2000,8 +1999,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -2218,7 +2217,6 @@ dendenden11.duckdns.org
 dendenwsaw.duckdns.org
 denemealtyapi.com
 denizdegerlimenkuller.com
-depos-happy.ink
 derdaloeasdwa.duckdns.org
 dermatologia.cfd
 dertler-derya.sbs
@@ -2544,6 +2542,7 @@ egnngov.biz.id
 egnngov.my.id
 egnngovern.biz.id
 egnngovern.my.id
+ehazine.org
 ehazineceza.com
 ehazinedava.com
 ehazinedosya.com
@@ -3455,6 +3454,7 @@ haberler123499.sbs
 haberler123531234.shop
 haberler1235634122.sbs
 haberler1236324.sbs
+haberler124114.sbs
 haberler1242123561.sbs
 haberler124221.sbs
 haberler1245321.shop
@@ -3790,7 +3790,6 @@ hgsodeyklenktsi.cfd
 hgsodndismdi.cfd
 hgsodykle.com
 hgsx-web.vercel.app
-hgsyklebkyeonlne.cfd
 hgsyklemelerde.duckdns.org
 hgsyklezmnipraykle.cfd
 hgsyklodesmdi.cfd
@@ -4987,6 +4986,7 @@ kmpnyyssbsvrrrsnfrstlarrr.pro
 kmpnyyyfrstlarrrbsvrsss.click
 kmpnyyyfrstlarrrbsvrsss.live
 kmppyybsvuuurrrprmsynn.live
+kmpsndehmn.click
 kmpttsrg.cfd
 kmpyaabasvrrrsonnfrsltarrr96587.online
 kmsolhemenyap.shop
