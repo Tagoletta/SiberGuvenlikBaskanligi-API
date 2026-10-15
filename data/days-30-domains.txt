@@ -222,6 +222,7 @@
 1222233122455666512255997.xyz
 1222233122455666512255999.xyz
 122224457999989999089091.xyz
+122224457999989999089092.xyz
 122241224551222455590.duckdns.org
 12229828189122.duckdns.org
 12239928837727.servecounterstrike.com
@@ -545,7 +546,6 @@ access-gate-knssk.b-cdn.net
 account-sync-data.com
 accounts-google-signin.duckdns.org
 accounts.natrlyi.com
-acik-deniz-online.my-homeip.de
 adaletgib.org
 adanlskyrzz.duckdns.org
 adaybasvuruislemleri.info
@@ -621,7 +621,6 @@ aktuelindirimgunleri.duckdns.org
 aktuelindrm-101.com
 akyatirim.info
 albinofennel.com
-aldin-yadaaldin.com
 aldinaldinredmicilergeliyorburdan.cfd
 alejandroyu.org
 algolab-trading.pages.dev
@@ -808,6 +807,7 @@ askfaskgasogasg.blogspot.com
 asnc-tebde-ayricalikli.myonlineportal.ch
 asncxbyaaasdanala.15334265341523.sbs
 asncxbyaaasdanala.46584546584.sbs
+asncxbyaaasdanala.86456816843568.sbs
 aspentrekgoods.org
 asri-as-alt-a.myonlineportal.ch
 asteronllc.com
@@ -888,7 +888,6 @@ basvrrkmpnyaprmsynn.pro
 basvrrrkmpnyaasda13105439.online
 basvrszzlerlesmmz.cfd
 basvrulistem.cfd
-basvrurrrpmrsmynnnkmphyaaa.pro
 basvrurrrprsmynnkmpnyaaaa9183219.info
 basvrurrrprsmynnkmpnyaaaa9183219.pro
 basvur-toki.com.tr
@@ -898,8 +897,6 @@ basvurrrprsmynnkmpnyaa94823482.online
 basvursondkkkkmpnyaa98754frstlar.info
 basvuru-aktifledeniz-garanti-kredi-basvuru.vercel.app
 basvurualanim.com
-basvurulariyapinkacirmayin2026.cfd
-basvurulariyapinkacirmayinekim.cfd
 basvurunuzyapiliyor.sbs
 basvurusu-kiraliktoki.com
 basvuruyeri.biz
@@ -1632,7 +1629,6 @@ finesticketsa.cfd
 finetaffice.top
 finme1-vero58.sbs
 firsat-cepde.my-homeip.de
-firsat-tebde.my-homeip.de
 firsatdunyasionline.duckdns.org
 firsatgunlerikcmz.duckdns.org
 firsatgunlerikmpny.duckdns.org
@@ -1717,6 +1713,7 @@ garantikredirehberi.cloud
 garantis.s.gy
 garantiwebkredibaassvurum.fun
 garenta.com-onlinearackirala.info
+garnatibbva.ro
 gbwfwg.com
 gceartkbrrhtbrkytrr.duckdns.org
 gcmmenkuldegerler.com
@@ -1728,6 +1725,7 @@ geladerenlarden.duckdns.org
 geldivegidiceksadecezaman.sbs
 gelengecenalsindiye.sbs
 gelvebasinial.duckdns.org
+gemgovrmn.web.id
 gemimi-ads.com
 gemini-ads-ai.com
 gemini-ads-invite.com
@@ -1851,7 +1849,6 @@ haberler125423.sbs
 haberler12564.sbs
 haberler15123424.sbs
 haberler154313.sbs
-haberler1564568.sbs
 haberler16572.sbs
 haberler17427.sbs
 haberler17723.sbs
@@ -3680,6 +3677,7 @@ sahibinden-param.guvende.s-ode.com
 sahibinden-paramguvende.ilan-getonay.online
 sahibinden-paramguvende.ilan-siparisim.online
 sahibinden-paramguvende.siparisim-guvenli.online
+sahibinden-paramguvende.tr-urun-detayi.online
 sahibinden-sepet.onlinesepetimde.shop
 sahibinden-sepet.onlinesepetimde.store
 sahibinden-sepet.sepetteonline.shop
@@ -3951,7 +3949,6 @@ stpatlakbrdacalsm.duckdns.org
 streamyard.appstore.com.mx
 streepinoks.world
 sub29929292.duckdns.org
-sube-garenti.my-homeip.de
 subekmpnygunu.duckdns.org
 suggestutterly.com
 suottr.sbs
@@ -3989,7 +3986,6 @@ synchvault.co
 sysbasvurular.com
 systeminfo.dynns.com
 sysupdate.serveftp.com
-t-e-b-ayricaliklar.my-homeip.de
 t0kibsvuru.lol
 t0kibsvuru.sbs
 t0kibsvuru.xyz
@@ -4047,8 +4043,6 @@ teb-online-mobil-emekli.my-homeip.net
 tebarrak.cfd
 tebcim.space
 tebde-basvuru-cep.myonlineportal.ch
-tebde-emekliye.my-homeip.de
-tebde-firsat.my-homeip.de
 tebdecep-emekli.myonlineportal.ch
 tebefes.site
 tebefeso.bounceme.net
@@ -4143,6 +4137,7 @@ tr-islemlerim-web-alisveris.online
 tr-islemlerin-web-alisveris.online
 tr-odemeilan.online
 tr-sepettex.online
+tr-urun-detayi.online
 tr-web-alisveris-get-islemler.online
 tr-web-islemler-get-alisveris.online
 tr-webalisveris-tr-getislemler.online
@@ -4207,7 +4202,6 @@ turkiye-gov.sbs
 turkiyebanian.com
 turkiyebankasi.live
 turkiyecumhuriyetisiberguvenlikvesavunma.org
-turkiyefinans.my-homeip.de
 turkiyeisbankasiyatirimprogrami-biz-3398i.pages.dev
 turkpatentkurumsal.com
 turvearacbakim.site

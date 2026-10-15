@@ -309,6 +309,7 @@
 1222233122455666512255997.xyz
 1222233122455666512255999.xyz
 122224457999989999089091.xyz
+122224457999989999089092.xyz
 122241224551222455590.duckdns.org
 12229828189122.duckdns.org
 12239928837727.servecounterstrike.com
@@ -2152,6 +2153,7 @@ asncxbyaaasdanala.784191565489651.sbs
 asncxbyaaasdanala.84651894561645111.sbs
 asncxbyaaasdanala.849561564486510.sbs
 asncxbyaaasdanala.84965148651.sbs
+asncxbyaaasdanala.86456816843568.sbs
 asncxbyaaasdanala.874184655641556.sbs
 asncxbyaaasdanala.8746519864165.sbs
 asncxbyaaasdanala.8796451654165333.sbs
@@ -3604,7 +3606,6 @@ cepte-islemleriminz-garanti.duckdns.org
 cepte-islemleriniz-garanti.duckdns.org
 cepte-shop-tr.online
 cepte-shop.online
-cepte-sokindirim.rf.gd
 cepte-t-e-b-com-tr.my-homeip.de
 cepte-teb-com-tr.my-homeip.de
 cepte-teb-com.my-homeip.de
@@ -3624,7 +3625,6 @@ ceptenmobilkredi.my-homeip.de
 ceptep-basvurularonline.myonlineportal.de
 ceptes0k-indir1m.gt.tc
 ceptes0k.site.je
-ceptesok.hizligiriss.com
 ceptesokfirsatlarim.com
 ceptesokindirmleri.online
 ceptesoklarile.online
@@ -3678,8 +3678,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -6107,6 +6107,7 @@ garentarentcar.org
 garfielddom.xyz
 garikalisna-solere.lol
 garislennmenleritemmuzfrsatalr.site
+garnatibbva.ro
 garrkasdcjk123x1csdakx123.cfd
 gartnix21j3x12jk1x2.sbs
 garvioxd.ice.mom
@@ -6180,6 +6181,7 @@ gelsinkapina.co
 gelsinkapinaclub.click
 geltatleyeburdfahereyvar81.click
 gelvebasinial.duckdns.org
+gemgovrmn.web.id
 gemimi-ads.com
 gemini-ads-ai.com
 gemini-ads-invite.com
@@ -9940,7 +9942,6 @@ kzlaralvlankr.com
 l.evsahibibasvuru.com
 l1v8k2q5r9w6.sbs
 l2dsacswcxxxe.lol
-l55polisi.online
 laderdsklerda.duckdns.org
 laismxj98skd342fcx.cfd
 lakalakalklakak.shop
@@ -14593,6 +14594,7 @@ sahibinden-paramguvende.ilan-siparisim.online
 sahibinden-paramguvende.islemonaylatr.online
 sahibinden-paramguvende.siparis-onayim.online
 sahibinden-paramguvende.siparisim-guvenli.online
+sahibinden-paramguvende.tr-urun-detayi.online
 sahibinden-paramguvendesartlar.duckdns.org
 sahibinden-police.ozel-hizmet-islemleri.com
 sahibinden-s-paramguvende-getilan.gt.tc
@@ -16856,6 +16858,7 @@ tr-siparisonay.online
 tr-sube-isbank.ph
 tr-teb-com.my-homeip.de
 tr-tekoaos.cc
+tr-urun-detayi.online
 tr-web-alisveris-get-islemler.online
 tr-web-alisveris.online
 tr-web-islemler-get-alisveris.online
