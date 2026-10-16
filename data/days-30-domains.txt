@@ -93,7 +93,6 @@
 101-extra-sadece-bugune-ozel-indirimli-sepet-shop-tr.onlinecep-tr.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-indirimleri-shops.shops-trendtr.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-indirimleri-tr.extra-cepte-blog.online
-101-extra-sadece-bugune-ozel-mobil-alisveris-indirimleri-tr.marketsepeti.online
 101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-tr.eticaret-mobil.online
 101-extra-sadece-bugune-ozel-mobil-indirim-vakti-tr.bilgisel-cepte.online
 101-extra-sadece-bugune-ozel-mobil-online-indirimleri-sepet-tr.cepsepet-tr.online
@@ -947,6 +946,7 @@ bilgi-sepeti.online
 bilgikamu.org
 bilgilendirme-sepeti.online
 bilgilendirmerehberi.web.app
+bilgilendirmesler.date
 bilgilendirmezamani.abrdns.com
 bilgimaliye.org
 bilgisel-cepte.online
@@ -1109,6 +1109,7 @@ cepte-eylul.name.tr
 cepte-eylul.net.tr
 cepte-shop-tr.online
 cepteehizlisal.xyz
+cepteindirim.org
 cepten-ayricaliklar.my-homeip.de
 ceptes0k-indir1m.gt.tc
 ceptes0k.site.je
@@ -1863,6 +1864,7 @@ haberler298451.sbs
 haberler411235.sbs
 haberler41289.sbs
 haberler42213.sbs
+haberler453108794.sbs
 haberler456289.sbs
 haberler463221.sbs
 haberler56311.sbs
@@ -1955,6 +1957,7 @@ hesaplishop-tr.online
 hesapta-tr.online
 hftanin101firsati.duckdns.org
 hftnyldzlbrada.click
+hftyldzhmnl.shop
 hftyldzlrdikmpn.click
 hglerbrdgelsorgla.web.app
 hgs-odeme-guncel-429014.vercel.app
@@ -2362,6 +2365,7 @@ imei-kayitbasvuru.com
 imgcdn1.com
 imthenightmareyounamed.sbs
 in-fomenkuldegerler.com
+inatboxapk.tools
 indirim-101-mobil-sadece-online-ozel-indirimler-tr.online
 indirimde-biz-tr.online
 indirimindirdim.gt.tc
@@ -2858,6 +2862,7 @@ mflowsthai.homes
 mh-rdvzmni.cfd
 mhburdagln.shop
 mhdsgfsdgh.art
+mhhhrrrrs.duckdns.org
 mhkdfkdfka.duckdns.org
 mhkhkdfhkdfla.duckdns.org
 mhlerkherk234.duckdns.org
@@ -2875,6 +2880,7 @@ mhrsrandevualhastane.com
 mhrsrandevualhastane.online
 mhrsrandevumtr.club
 mhrsrandevumtr.com
+mhrsrandevumtr.net
 mhrsrandevutr.com
 mhrsrandevutr.net
 mhrsrandevutronline.com
@@ -3321,6 +3327,7 @@ ozlemcicekciliik.com
 ozons.shop
 painel.installscenter.com
 pakssarzameen.org
+palmiyesulltan.site
 palmiyesultn.com
 panelsorgu.online
 papapapxxxx.mirokamigo4.workers.dev
@@ -4096,6 +4103,7 @@ togg-arac-finansmani.com
 togg-arac-finansmanlari.com
 togg-faizsizlimitlerim.com
 togg.bar
+togg.casa
 togg.pro
 togg.top
 togg.wiki
@@ -4494,7 +4502,6 @@ www-teb-com-tr-emekli-kampanya-firsatlari.myonlineportal.eu
 www-teb-com-tr-firsatlar-emeklilik.myonlineportal.ch
 www-teb-com-tr-internet-mobil-sube.my-homeip.de
 www-teb-com-tr-mobil-site.myonlineportal.ch
-www-teb-com-tr-musteri-girisi.my-homeip.de
 www-teb-com-tr.internet-subesi.site
 www-web-cept-tb.myonlineportal.ch
 www-ziraat-bank-com-tr-internet-islemleri.my-homeip.de
