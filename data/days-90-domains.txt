@@ -100,6 +100,7 @@
 101-extra-sadece-bugune-ozel-alisveris-indirim-tr.extra-trend.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.bilgi-al.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
+101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.hemenalio.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte.extraplus-tr.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-mobilde-tr.cepte-sepeti.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-sepette-cep.sepets-tr.online
@@ -2537,7 +2538,6 @@ bsygy.help
 btcturkcekilisi.co
 btcturkcekilisi.online
 btf-adalet-bakanligi.pages.dev
-btksikayet-btk-sikayet.up.railway.app
 btkurumsal.ph
 buapp1-99579a8a4cfa.herokuapp.com
 buf2.com
@@ -2815,6 +2815,7 @@ cepfirsat.online
 cepgarantisube.ph
 cepgarantisubeci.ph
 ceppptesokklarli.online
+cepsatis-tr.online
 cepsel-viptr.online
 cepsube-finansbank.ph
 cepsube.netlify.app
@@ -4720,7 +4721,6 @@ garantilihall.shop
 garantillifk.cfd
 garantillik.cfd
 garantis.s.gy
-garantisizlerlerkredii.lol
 garantisube-gir-passwordentrypersonal.myonlineportal.at
 garantitr.com
 garantivbbvaefmkasa.duckdns.org
@@ -6245,7 +6245,6 @@ hodefmenst.duckdns.org
 hodekemenstler.duckdns.org
 hodenstler.duckdns.org
 hodeslerkest.duckdns.org
-hodesterker.duckdns.org
 hodskerlteyer.duckdns.org
 hofelkmenst.duckdns.org
 hofesmensetjer.duckdns.org
@@ -7405,7 +7404,6 @@ kmpnylrrbsvrrsnfrstlrrr.art
 kmpnylrrbsvrrsnfrstlrrr.pro
 kmpnylrrsnffrsttbsvrrr.click
 kmpnyprmssyncklssssss.live
-kmpnyprmssyncklssssss.pro
 kmpnysprmsynfrstbsvrrr.click
 kmpnyyprmsynnbsvrrr214859.info
 kmpnyyprmsynnbsvrrr214859.pro
@@ -8294,6 +8292,7 @@ meber.tempur.host
 mebx78e02.com
 medbooksource.com
 mediamarkt.guvenli-hizmet.online
+mediamarkt.mobil-jet-hizmet.online
 medioran.com
 meetfin.top
 meetonline.cam
@@ -10129,6 +10128,7 @@ payment-confirmations.com
 payment-sync.com
 payments-sync.com
 paysolutions.ink
+pazarama-bireysel-siparisim.com
 pazarama-hemen-siparis.com
 pazarama-online-siparis.com
 pazarama.alisverishizi.com
@@ -10416,6 +10416,7 @@ pttaevm.com
 pttavkilometresrgu.web.app
 pttavm-arac-bilgileriniz.web.app
 pttavm-arackmsorgulayiniz.web.app
+pttavm-bireysel-siparis.com
 pttavm-com.ph
 pttavm-gecis-hizliykl.web.app
 pttavm-gecisbakiyenoktasi.web.app
@@ -10603,6 +10604,7 @@ qwertyuiopa.pro
 qwfqwfqfw124214.duckdns.org
 qwjre1487.com
 qwwqwqwqqw.duckdns.org
+qx7rv2m9.cfd
 r-rndvakti.com
 r.byteengineering.net
 r2mazan-oze1-firs2tl2r-aabb11.cfd
@@ -11427,7 +11429,6 @@ sepetimdeonline.store
 sepetimodeme.shop
 sepetimonay.click
 sepetimonaycom.shop
-sepetin-cepte.net.tr
 sepetinizde.com.tr
 sepettefirsat.sbs
 sepettefrstkacmaz.duckdns.org
@@ -13016,7 +13017,6 @@ turkiyebilgi.cc
 turkiyecumhuriyetisiberguvenlikvesavunma.org
 turkiyedevletgiris.com.ph
 turkiyeegitim.vu
-turkiyefinans-katilim-com.duckdns.org
 turkiyefinans-katilimyap-com.duckdns.org
 turkiyefinans.my-homeip.de
 turkiyegovtr.lovestoblog.com
@@ -13913,7 +13913,6 @@ xxxxxxxxx111111.sbs
 xyzsource.xyz
 xyzsystem.xyz
 xzcvcbvmnsaddfgsdfgfsssa59.click
-xzeez.cfd
 xziraalglrlsonlineislem.duckdns.org
 xziralmobilonline.duckdns.org
 xzr300xbsvruzrt0.click
