@@ -131,6 +131,7 @@
 101-extra-sadece-online-ozel-alisveris-indirimleri-sepette-tr.trendextra.online
 101-extra-sadece-online-ozel-alisveris-sepet-indirimleri-mobil.bireysel-shops-mobil.online
 101-extra-sadece-online-ozel-alisveris-sepeti-tr.bilgi-sepeti.online
+101-extra-sadece-online-ozel-indirim-alisveris-sepette.cepindeki-indirim.online
 101-extra-sadece-online-ozel-indirimli-alisveris-sepette-mobil.sepetss-tr.online
 101-extra-sadece-online-ozel-indirimli-alisveris-sepette-tr.mobilcitr.online
 101-extra-sadece-online-ozel-mobil-indirim-sepeti-tr.services-cep.online
@@ -185,6 +186,7 @@
 10108283004588.bounceme.net
 1014545082504588.bounceme.net
 101aldinaldinextra.sbs
+101aldinextrakapidan.sbs
 101extraaldinaldinkapinda.sbs
 101extrakampanyalari.online
 101flrsatlarlburada1o1.duckdns.org
@@ -762,6 +764,7 @@ arracrndvual.govt.hu
 arracrndvuicn.lozan.com
 arrow-berry-gem.pages.dev
 ars-aek-arn.myonlineportal.ch
+artikyalanyokye.sbs
 artisoft.duckdns.org
 artkkrodyykoovrrrr.duckdns.org
 arzumindrimszznlex.com
@@ -968,7 +971,6 @@ bitget-passive-income.com
 bitmekbitmezsenben.sbs
 bizherzamanaktifizkral.com
 bizlerdeburalardayizherzaman.sbs
-bkclenmynrtstrrsr.duckdns.org
 blackcat880.shop
 blackravenpartners.click
 blkantasn.net
@@ -1019,6 +1021,7 @@ bufirstbirkeregelir.giize.com
 bufiyatakcmz.duckdns.org
 bufiyatkcmzkmpny.duckdns.org
 bugecemisafirinim.duckdns.org
+buhugugu-fefererede.lol
 bumuhuguferede-desedede.lol
 bunuarayanburada.sbs
 bunuencoksenisters.sbs
@@ -1227,6 +1230,7 @@ debian-update-system.servehttp.com
 decserve.top
 definatelynoone.com
 degasxdwwa.duckdns.org
+degilmii.sbs
 deltaclient.xyz
 delvexan.com
 demlemerehberi.online
@@ -1267,7 +1271,6 @@ dijitalonline-kapinda.duckdns.org
 dijitalsepet-online.sbs
 dijitalsiparis-kampanyasi.sbs
 dijitalsiparis-online.sbs
-dijitalsiparisler-kapinda.duckdns.org
 dijitalsube-onlinebasvur.sbs
 dildochecker.site
 dinamikmenkuldeger.net
@@ -1427,6 +1430,7 @@ elvarion.blog
 emails-tr.com
 emakbapaklugimanasehat.my.id
 emaliasliye.com
+emalidosya.com
 emalidosyasorgu.com
 emaliuyap.com
 emaliyekontrol.com
@@ -1851,6 +1855,7 @@ hathathathahta.sbs
 havaistislem.ist
 havaisttis.online
 havaistxnbul.com
+havaxistis.online
 havxaistbilet.site
 hayatkadiniseviyorum.duckdns.org
 haydisizdegelinverandevunuzualin.duckdns.org
@@ -1915,7 +1920,6 @@ hgsdeodemedeyeridir.vercel.app
 hgsdolumbayniz.art
 hgsodeme.vercel.app
 hgsx-web.vercel.app
-hgykledme.cfd
 hhhasstne.duckdns.org
 hhizli-gecis-baakiye-yukleme.web.app
 hhizli-gecis-bakiye-yukle.web.app
@@ -1939,7 +1943,6 @@ hhizli-gecis-bakiye-yukleme27342.web.app
 hhizli-gecis-bakiye-yukleme273tr.web.app
 hhizli-gecis-bakiye-yukleme281.web.app
 hhizli-gecis-bakiye-yukleme282.web.app
-hiizggecd.cyou
 hiizli-gecis-bakiye-yukle.web.app
 hiizli-gecis-bakiye-yukle22.web.app
 hiizli-gecis-bakiye-yukle23.web.app
@@ -2189,6 +2192,7 @@ hizli-gecis-bayi.lol
 hizli-gecisetkitkyatirm.web.app
 hizli-gecsektityklemek.web.app
 hizli-yapgecisin-yk.web.app
+hizlianlikserilkampanyalarimburada.xyz
 hizlica-gecislerinburada.lol
 hizlicahalledek.web.app
 hizlicahalledelimhmn.com
@@ -2472,6 +2476,7 @@ karcaekimgnleri.com
 kargokapinda.com
 karpanel.space
 kartalbasvurux12.duckdns.org
+kartulisuperi.duckdns.org
 kasdertmonst.duckdns.org
 katarageliriz.duckdns.org
 katarfalan.duckdns.org
@@ -2912,6 +2917,7 @@ msfile.online
 msws-updates.ddns.me
 mucilaginoeeus.info
 muhuguferedeliseli.lol
+muhugufu-reteyeuy.lol
 muhugulipiferemceve.club
 mulquick.top
 munsitees.net
@@ -3356,7 +3362,6 @@ plushseat.org
 pnmrud.cc
 pohugufe-deresede.lol
 pol.star-boostmedia.com
-polihipoluhuguferese.club
 polnet.lol
 poosta.vercel.app
 porttalimhemen.lol
@@ -3383,6 +3388,7 @@ ptt-govv.cc
 ptt.avmilansepetim.com
 ptt.mobilservis-26.sbs
 ptt.mobilservisler-34.sbs
+ptt.mobilservisler-75.sbs
 ptt360avm.com
 pttavkilometresrgu.web.app
 pttavm-bireysel-siparis.com

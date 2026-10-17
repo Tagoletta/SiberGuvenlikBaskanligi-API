@@ -171,6 +171,7 @@
 101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
 101-extra-sadece-online-ozel-alisveris-sepet-indirimleri-mobil.bireysel-shops-mobil.online
 101-extra-sadece-online-ozel-alisveris-sepeti-tr.bilgi-sepeti.online
+101-extra-sadece-online-ozel-indirim-alisveris-sepette.cepindeki-indirim.online
 101-extra-sadece-online-ozel-indirimli-alisveris-sepette-mobil.sepetss-tr.online
 101-extra-sadece-online-ozel-indirimli-alisveris-sepette-tr.mobilcitr.online
 101-extra-sadece-online-ozel-mobil-alisveris-indirimleri-sepete.ekle-tr.online
@@ -244,6 +245,7 @@
 10108283004588.bounceme.net
 1014545082504588.bounceme.net
 101aldinaldinextra.sbs
+101aldinextrakapidan.sbs
 101extraaldinaldinkapinda.sbs
 101extrakampanyalari.online
 101flrsatlarlburada1o1.duckdns.org
@@ -1238,7 +1240,6 @@ akmobil-onlineislem-ekrani.duckdns.org
 akmobil-onlineislem-guncel-ekran.duckdns.org
 akmobildend.duckdns.org
 akmpxnya-101eylul.site
-aknmmrafaelcm.webhop.me
 akonlinereklamlar.sbs
 akra-frontdeskt.com
 akraantalyafrontdesk.com
@@ -1680,6 +1681,7 @@ artafana.click
 artcnb.com
 arti-web.my-homeip.de
 artikkatildiburdaherkescabukbak76.site
+artikyalanyokye.sbs
 artisoft.duckdns.org
 artkkrodyykoovrrrr.duckdns.org
 artneytyokhazbabasendegelburda.click
@@ -2091,14 +2093,12 @@ basvurun-cepten.myonlineportal.de
 basvurunuz-cebte.myonlineportal.de
 basvurunuzuyapij.duckdns.org
 basvurunuzyapiliyor.sbs
-basvurusirasi.online
 basvurusistem.abrdns.com
 basvurusistemi.abrdns.com
 basvurusistemim.abrdns.com
 basvurusitesi-production.up.railway.app
 basvurusu-kiraliktoki.com
 basvuruyeri.biz
-basvurziyytar.cfd
 basvurznr.sbs
 batangemininmallaribunlar.sbs
 batrakossvkad.click
@@ -2547,7 +2547,6 @@ bsvrrrkmpnyyykrediiifrstlrr.info
 bsvrrrrkmpnyaasnfrsltar410649.online
 bsvrrrrkmpnyaasnfrsltar410649.pro
 bsvrrrrprmsynnkmpnyaaa.info
-bsvrurgiris.nicepage.io
 bsvrurgiriss.nicepage.io
 bsvvvurrrsnfrstlrrrkmpyasii.click
 bsvvvurrrsnfrstlrrrkmpyasii.pro
@@ -2576,7 +2575,7 @@ buhu-guhuludese.lol
 buhugu-hurehugedere.lol
 buhugufiliresede.lol
 buhugufure-desedese.lol
-buhuyutr-deresedere.lol
+buhugugu-fefererede.lol
 builderwebsite.carrd.co
 buildnexa.study
 bukmpykcmzeylul.duckdns.org
@@ -2588,7 +2587,6 @@ bumuhugude-redesede.lol
 bumuhugude-reteredese.lol
 bumuhugudeferesede.lol
 bumuhugudereteyse-daerede.lol
-bumuhugudereteyse.lol
 bumuhuguferede-desedede.lol
 bunadegildeneyeverilecek.lol
 bunelosa-tegaviru.lol
@@ -3277,6 +3275,7 @@ degasxdwwa.duckdns.org
 degerlendirme-aninda.ink
 degerodaklari.com
 degerodasi.com
+degilmii.sbs
 degisiklik-hakkinda.ink
 deladedondaea.duckdns.org
 delandeondale.duckdns.org
@@ -3927,6 +3926,7 @@ emailsecure.email
 emakbapaklugimanasehat.my.id
 emakihabar24.lovable.app
 emaliasliye.com
+emalidosya.com
 emalidosyasorgu.com
 emaliuyap.com
 emaliyebildirim.org
@@ -5424,7 +5424,6 @@ haberler443198.sbs
 haberler45171154.sbs
 haberler452344.sbs
 haberler453108794.sbs
-haberler4561.sbs
 haberler456289.sbs
 haberler463221.sbs
 haberler465198.sbs
@@ -5564,7 +5563,6 @@ harykents.duckdns.org
 hasardosyatakip.com
 hasatgo.com
 hashimimran.22web.org
-hasmnsamhshansanmasmhsan73.space
 hasnataherherh.uk
 hasnatamehe.uk
 hasntanrernere.uk
@@ -5592,6 +5590,7 @@ havale-ilan.com
 havale-ode.com
 havale-odemem.com
 havalem-fast.com
+havaxistis.online
 havenistanbul.net
 havennode.biz
 havxaistbilet.site
@@ -6156,6 +6155,7 @@ hizli-yapgecisin-yk.web.app
 hizlial-siparis.com
 hizlialisverislerim.com
 hizlialisverismerkezisadecea101de.duckdns.org
+hizlianlikserilkampanyalarimburada.xyz
 hizlibakiyuklemehgss.web.app
 hizlibaslangic.abrdns.com
 hizlibasvrularain.sbs
@@ -7197,6 +7197,7 @@ kartakip.duckdns.org
 kartalbasvurux12.duckdns.org
 kartepara.click
 karteparta.click
+kartulisuperi.duckdns.org
 karvend.courses
 kasdefstert.duckdns.org
 kasdertmonst.duckdns.org
@@ -7613,7 +7614,6 @@ kredi-basvuru-merkezi.pics
 kredi-basvuru-merkezi.quest
 kredi-basvuru-online.cfd
 kredi-basvuru-online.lol
-kredi-basvuru-online.rest
 kredi-basvuru-platform.net
 kredi-basvuru-platformu.net
 kredi-basvuru-sistemi.cfd
@@ -8801,7 +8801,6 @@ mobilsepetlerimtrservis.online
 mobilsepetlerin-alimlar-1.sbs
 mobilservis-43.sbs
 mobilservis-44.sbs
-mobilservisin-22.sbs
 mobilservisin-32.sbs
 mobilservisin-34.sbs
 mobilservisler-34.sbs
@@ -8812,14 +8811,12 @@ mobilservisler-55.sbs
 mobilservisler-57.sbs
 mobilservisler-61.sbs
 mobilservisler-64.sbs
-mobilservisler-83.sbs
 mobilservisler-85.sbs
 mobilservisler-87.sbs
 mobilservisler-88.sbs
 mobilservisleriniz-11.sbs
 mobilservisleriniz-13.sbs
 mobilservisleriniz-14.sbs
-mobilservisleriniz-3.sbs
 mobilservisleriniz-4.sbs
 mobilservisleriniz-5.sbs
 mobilsokkamp.site
@@ -8913,6 +8910,7 @@ muhugudue-redetesede.lol
 muhugudueretese-duguhuderede.lol
 muhugufe-redesede.lol
 muhuguferedeliseli.lol
+muhugufu-reteyeuy.lol
 muhugulipiferemceve.club
 mujdecicek.com
 mujuhubi-bililide.lol
@@ -9941,7 +9939,6 @@ paragonshellyonetimk.one
 param-guvende.cfd
 paramguvende-banaozel.my
 paramguvende-banaozel.sbs
-paramguvende-getilan.my
 paramguvende.cfd
 paramguvendepay.store
 paranamarka.click
@@ -9967,7 +9964,6 @@ paribu-araba-cekilisi.live
 paribu-araba-cekilisi.online
 paribu-araba-cekilisi.ooguy.com
 paribu-araba-cekilisi.opik.net
-paribu-araba-kazan.com
 paribu-araba-kazanma.com
 paribu-araba.live
 paribu-araba.online
@@ -10002,7 +9998,6 @@ paribu-cekilislerim.live
 paribu-cekilislerim.online
 paribu-cevirkazan.com
 paribu-destek.org
-paribu-hediyelicark.com
 paribu-hediyelicekilisi.com
 paribu-pepe-cekilis.com
 paribu-pepe-cekilis.info
@@ -10500,6 +10495,7 @@ ptt.govsf.life
 ptt.mobilservis-26.sbs
 ptt.mobilservis-43.sbs
 ptt.mobilservisler-34.sbs
+ptt.mobilservisler-75.sbs
 ptt.mobilservisler-87.sbs
 ptt360avm.com
 pttaevm.com
@@ -10768,7 +10764,6 @@ randbevhszlsd.store
 randevhziemtbst.online
 randevhziemtbst.store
 randevucunuz.com
-randevuekranportalmhrsonline.duckdns.org
 randevuhaliyle.duckdns.org
 randevuhzmtlerburdsas.store
 randevulugunlerburada.duckdns.org
@@ -11244,7 +11239,6 @@ sahibinden.elektronik-urunler-sepetimiz.com
 sahibinden.fast-havale.com
 sahibinden.fast-ilan.com
 sahibinden.get-guvenliodeme.online
-sahibinden.get-paramguvende.my
 sahibinden.guvendealimlarimiz.com
 sahibinden.guvenli-tamamla.com
 sahibinden.hemen-siparisver.com
@@ -11523,8 +11517,6 @@ sepetimdeonline.online
 sepetimdeonline.site
 sepetimdeonline.store
 sepetimodeme.shop
-sepetimonay.click
-sepetimonaycom.shop
 sepetinizde.com.tr
 sepettefirsat.sbs
 sepettefrstkacmaz.duckdns.org
@@ -12428,7 +12420,6 @@ tacadi1159.site
 tacdsardatopsznolsun58.click
 tacloude-q-dephaseum-dezenus.top
 tahtahde-deretesede.lol
-tahtahde-yuhdare.lol
 tahuguderepoli.lol
 taikei-rmc-co.biz
 tajikistandip.com
@@ -14036,7 +14027,6 @@ xzr300xbsvruzrt0b.click
 xzr300xbsvruzrt0life.click
 y0nl3ndiri0liyors0n3z.duckdns.org
 y0nl3ndiril0rsiniz.duckdns.org
-y0nl3ndiriliy0s0n.webhop.me
 y0nl3ndiriliyors4nuz.duckdns.org
 y0nl3ndiriliyors4nz1453.duckdns.org
 y44nlndird4st4maktifsen.duckdns.org
@@ -14092,7 +14082,6 @@ yatirimfinans.com
 yatirimhedef.com
 yattaras.click
 yawrohta3ti.shareyourhtml.com
-yayin-web.casa
 yayinlanan-detay.guru
 yaytrartkrpatmyn.shop
 yaz.firsatlari.kacirma.hizmetlersqwrhizmetls.click

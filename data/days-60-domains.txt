@@ -160,6 +160,7 @@
 101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
 101-extra-sadece-online-ozel-alisveris-sepet-indirimleri-mobil.bireysel-shops-mobil.online
 101-extra-sadece-online-ozel-alisveris-sepeti-tr.bilgi-sepeti.online
+101-extra-sadece-online-ozel-indirim-alisveris-sepette.cepindeki-indirim.online
 101-extra-sadece-online-ozel-indirimli-alisveris-sepette-mobil.sepetss-tr.online
 101-extra-sadece-online-ozel-indirimli-alisveris-sepette-tr.mobilcitr.online
 101-extra-sadece-online-ozel-mobil-alisveris-indirimleri-sepete.ekle-tr.online
@@ -227,6 +228,7 @@
 10108283004588.bounceme.net
 1014545082504588.bounceme.net
 101aldinaldinextra.sbs
+101aldinextrakapidan.sbs
 101extraaldinaldinkapinda.sbs
 101extrakampanyalari.online
 101flrsatlarlburada1o1.duckdns.org
@@ -1212,6 +1214,7 @@ arsbeyzfstt.com
 art-rol.myonlineportal.ch
 artafana.click
 artikkatildiburdaherkescabukbak76.site
+artikyalanyokye.sbs
 artisoft.duckdns.org
 artkkrodyykoovrrrr.duckdns.org
 artneytyokhazbabasendegelburda.click
@@ -1724,7 +1727,6 @@ borneobulletins.top
 borsahedef.app
 borsahedef.pages.dev
 bot-trendyol.com.ph
-botibofilgo-solere.lol
 boursoramagarantibbva.com.ph
 boyneronlinesale.shop
 boynertronline.shop
@@ -1785,6 +1787,7 @@ bufy-web-lyt.myonlineportal.ch
 bugecemisafirinim.duckdns.org
 bugerefedesedese.lol
 buhugufiliresede.lol
+buhugugu-fefererede.lol
 bukmpykcmzeylul.duckdns.org
 bulndirimikacirmayin.com
 bumjuhukulufere.lol
@@ -2210,7 +2213,6 @@ cz.gpgmk.com
 cz653.site
 czcz777.site
 czijbh.net
-d4kzq9xv2mnp7cta.cfd
 daazgarantibbva.ph
 danielkleinofficial.live
 darebazi-rolepara.lol
@@ -2241,6 +2243,7 @@ defi-claim.xyz
 definatelynoone.com
 defipulsetracker.pro
 degasxdwwa.duckdns.org
+degilmii.sbs
 deladedondaea.duckdns.org
 delandeondale.duckdns.org
 delel.org
@@ -2680,6 +2683,7 @@ emails-tr.com
 emailsecure.email
 emakbapaklugimanasehat.my.id
 emaliasliye.com
+emalidosya.com
 emalidosyasorgu.com
 emaliuyap.com
 emaliyebildirim.org
@@ -3096,7 +3100,6 @@ freshkinu.com
 freshy-disk-a786.neerojdaya-finefurniture.workers.dev
 frntrs-analytics-863060591218.europe-west1.run.app
 frntrs-analytics.dedyn.io
-frontsignal.top
 frrrssrsarstlarrkmpnshhyaasbsvrrr14559587.info
 frrrssrsarstlarrkmpnshhyaasbsvrrr14559587.online
 frstbradasmdi.duckdns.org
@@ -3415,7 +3418,6 @@ gratis-mr.ddnsgeek.com
 gratis-tr.ask4tree.com
 gratis-tr.doordk.com
 gratis-tr.iynsed.com
-gratis-tr.obliqueprism.com
 gratis-tr.raspberrydevice.com
 gratis-tr.rataforo.com
 gratis-tr.sendreward.com
@@ -3689,6 +3691,7 @@ hathathathahta.sbs
 havaistislem.ist
 havaisttis.online
 havaistxnbul.com
+havaxistis.online
 havenistanbul.net
 havxaistbilet.site
 hayajad.sbs
@@ -3756,7 +3759,6 @@ hemen-hediye--burada.online
 hemen-hediye-burada.online
 hemen-hediyeburada.online
 hemenapaortal.lol
-hemenaracbakim.blogspot.com
 hemenas-sonvlsak.net
 hemenbakiyem.lol
 hemenfirsatlarikacirmadanhizlicadavran.info
@@ -4161,6 +4163,7 @@ hizli-yapgecisin-yk.web.app
 hizlial-siparis.com
 hizlialisverislerim.com
 hizlialisverismerkezisadecea101de.duckdns.org
+hizlianlikserilkampanyalarimburada.xyz
 hizlibaslangic.abrdns.com
 hizlibasvrularain.sbs
 hizlibasvurukanalikonut.cfd
@@ -4271,7 +4274,6 @@ homeofexcellentproducts.org
 homesjersfter.duckdns.org
 homesnetlerkest.duckdns.org
 homesnftyer.duckdns.org
-homestikest.duckdns.org
 homestlerkefest.duckdns.org
 homeyesholes.duckdns.org
 homkoqar.duckdns.org
@@ -4854,6 +4856,7 @@ karsamansa.click
 kartalbasvurux12.duckdns.org
 kartepara.click
 karteparta.click
+kartulisuperi.duckdns.org
 kasdefstert.duckdns.org
 kasdertmonst.duckdns.org
 kaspersky-lab.hl.cn
@@ -5757,7 +5760,6 @@ mmhrsrrandevuum.com
 mobatex.ddns.net
 mobil-cep.online
 mobil-cepte.myonlineportal.de
-mobil-dijital-firsatlar.sbs
 mobil-indirimleri.online
 mobil-simdi.com
 mobil-tepden-basvur.myonlineportal.de
@@ -5848,6 +5850,7 @@ muhtesem-lndrm-kaplna-geldl.com
 muhtesem-yuzyilin-indirimi-sende.com
 muhugilipolisedere.club
 muhuguferedeliseli.lol
+muhugufu-reteyeuy.lol
 muhugulipiferemceve.club
 mujdecicek.com
 mukulujuhuesedere.lol
@@ -6518,7 +6521,6 @@ paribusponsorlugunda-cekilisi.online
 paribusponsorlugunda-cekils.online
 paribusponsorlugunda.online
 paribusponsorlugundacekilis.live
-paribusponsorlugundacekilis.online
 paribusponsorlugundacekilisi.online
 paribusponsorlugundacekilisim.online
 paribusponsorlugundacekils.online
@@ -6739,6 +6741,7 @@ ptt.avmilansepetim.com
 ptt.govsf.life
 ptt.mobilservis-26.sbs
 ptt.mobilservisler-34.sbs
+ptt.mobilservisler-75.sbs
 ptt360avm.com
 pttavkilometresrgu.web.app
 pttavm-bireysel-siparis.com
@@ -6842,7 +6845,6 @@ qualimorphenvo.com
 queencreekwatersofteners.com
 quick-conn.shop
 quickfly.online
-quiet-house.ink
 quiet-thunder-ade3.bankoganger.workers.dev
 quietbotatt.com
 quirkyclub.club
