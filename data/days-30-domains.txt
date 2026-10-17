@@ -1028,7 +1028,6 @@ bunuencoksenisters.sbs
 bunuhemeniste.sbs
 bunuoylecegecme.sbs
 bunusendegormelisin.sbs
-burada-nisan.biz.tr
 buralardanbilginialabilirsin.com
 burasixyzilkler.xyz
 bursakozkasap.online
@@ -1108,7 +1107,6 @@ cepte-bilgisel.online
 cepte-eylul.com.tr
 cepte-eylul.info.tr
 cepte-eylul.name.tr
-cepte-eylul.net.tr
 cepte-shop-tr.online
 cepteehizlisal.xyz
 cepteindirim.org
@@ -1125,6 +1123,7 @@ ceptetebden-emeklin.my-homeip.de
 ceptetebdeniz.my-homeip.de
 ceptetebli-ayricalik.my-homeip.de
 ceptex.online
+cereretede-serederete.lol
 cevgerepilokigufere.club
 cezabildirim.com
 cezadosyabilgisi.com
@@ -1444,7 +1443,6 @@ emreakkaya.av.tr
 en-uygun-is-merkezi.vercel.app
 enaltin-enpara.ph
 english.read-books.org
-eniyindirlmlerburda.com
 enpara-fatura.ph
 enpara-onlinefiratlari-tr.ph
 enparagirissss.icu
@@ -1807,6 +1805,7 @@ haberler16572.sbs
 haberler17427.sbs
 haberler17723.sbs
 haberler18932.sbs
+haberler23142135.sbs
 haberler242312.sbs
 haberler242312313.sbs
 haberler242325654.sbs
@@ -2264,7 +2263,6 @@ hzlsstmlndaaarserrn.com
 hzlszsndnsmlk.com
 hzlszsndnsmlk.net
 hzlszsndnsmlk.online
-hzxtnoktasia.duckdns.org
 i-nfodegerler.com
 icansamyope.com
 id74824.cfd
@@ -2829,7 +2827,6 @@ mhrsmlimlsmsm.duckdns.org
 mhrsonlinerandevu.net
 mhrsonlinerandevu.org
 mhrsrandevualhastane.com
-mhrsrandevualhastane.online
 mhrsrandevumtr.club
 mhrsrandevumtr.com
 mhrsrandevumtr.net
@@ -2843,6 +2840,7 @@ mhsraca.sbs
 mhsraca.site
 mhsrakog.cyou
 mhsrakog.lol
+mhsrakog.sbs
 mhsrakoga.biz
 mhsrakoga.buzz
 mhsrakoga.lol
@@ -3469,6 +3467,7 @@ rafoskr.ccwu.cc
 rafoteb.space
 randevucunuz.com
 randevumtuvturkorg.duckdns.org
+randevuntuvturkorg.duckdns.org
 randevunuzayaginizageldi.sbs
 randevunuzayaginizageldi2.sbs
 randevunuzayaginizageldi3.sbs
@@ -4175,6 +4174,7 @@ tuvturk.adblickgranos.com
 tuvturk.sbs
 tuvturk.sendreward.com
 tuvturkrandevumuayene.com
+tuvturkx.com
 tuwwtukr.govt.hu
 tvtap-hd.app
 tvtap-liveapp.com
@@ -4520,6 +4520,7 @@ yenidom1.shop
 yenidommkadir.shop
 yfyatirimgiris.online
 yieldup.ch
+yilandaginakaryagmisbabus.com
 yildirimgroup.online
 yildora.live
 yildzurunlerkampanysi.duckdns.org
