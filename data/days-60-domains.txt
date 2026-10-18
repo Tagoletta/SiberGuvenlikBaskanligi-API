@@ -2034,8 +2034,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -3850,7 +3850,6 @@ hglerbrdgelsorgla.web.app
 hgs-e-bayi.lol
 hgs-odeme-guncel-429014.vercel.app
 hgs-pttavmhgsyuklemenoktasi.netlify.app
-hgs-v575.vercel.app
 hgsbakiyebayim.art
 hgsbakiyeukkleme.web.app
 hgsbakiyeyuklem.art
@@ -5246,6 +5245,7 @@ letok82650.online
 letok82650.site
 letok82650.space
 letok82650.store
+levoitsturkiye.com
 leyladanismanlik.sbs
 lezkkfra.duckdns.org
 licensing-mp-microsoft.serveexchange.com
@@ -6484,17 +6484,9 @@ paribu-arababurada.info
 paribu-cark.com
 paribu-destek.org
 paribu-sponsorlu-cekils.online
-paribu-sponsorlu.online
-paribu-sponsorlucekilisleri.online
 paribu-sponsorlucekils.online
 paribu-sponsorlugunda-cekilis.online
-paribu-sponsorlugunda-cekilisi.online
-paribu-sponsorlugunda-cekils.online
-paribu-sponsorlugunda.online
 paribu-sponsorlugundacekilis.online
-paribu-sponsorlugundacekilisi.online
-paribu-sponsorlugundacekilisleri.online
-paribu-sponsorlugundacekils.online
 paribuaraba-burada.info
 paribuaraba-yakala.link
 paribudancekilisler.online
@@ -6513,19 +6505,11 @@ paribununodulluyarismalari.online
 paribununsponsorlucekilisleri.online
 paribusansliaraba.com
 paribusponsorlu-cekils.online
-paribusponsorlu.online
-paribusponsorlucekilisim.online
-paribusponsorlucekilisleri.online
-paribusponsorlucekils.online
 paribusponsorlugudacekilis.online
 paribusponsorlugunda-cekilis.online
-paribusponsorlugunda-cekilisi.online
-paribusponsorlugunda-cekils.online
 paribusponsorlugunda.online
 paribusponsorlugundacekilis.live
-paribusponsorlugundacekilisi.online
 paribusponsorlugundacekilisim.online
-paribusponsorlugundacekils.online
 paribusponsorluhediyekampanyalari.online
 paribusponsorluhediyeler.online
 paribusponsporlucekilisi.live
@@ -7263,7 +7247,6 @@ sahibinden.sepetteonline.shop
 sahibinden.servisepetin-30.sbs
 sahibinden.servisinguvenli-58.sbs
 sahibinden.servislermobil-12.sbs
-sahibinden.siparishizliver.com
 sahibinden.tr-alisveris-e-islemler.online
 sahibinden.tr-alisveris-islemler.online
 sahibinden.tr-getilan-alisveris.online
@@ -7421,7 +7404,6 @@ sepetimodeme.shop
 sepetinizde.com.tr
 sepettefirsat.sbs
 sepettefrstkacmaz.duckdns.org
-sepetteonline.click
 sepetteonline.online
 sepetteonline.store
 sepetx.online
@@ -7510,7 +7492,6 @@ siparis-tr.online
 siparisguvende.com
 siparisguvenli.com
 siparisguvenli.online
-siparishizliver.com
 siparisim-guvenli.online
 siparisim-onay-1921.com
 siparisim-onay-1922.com
@@ -7616,7 +7597,6 @@ sokfirsatderken.duckdns.org
 sokflrsatlar.com
 sokflrsatlarbrda.com
 sokflrsatlarburada.com
-sokflrsatlarharikala.shop
 sokkaracaileindir.shop
 sokmarket.lat
 sokmarketekstrakampanya2.duckdns.org
@@ -8117,7 +8097,6 @@ timberwavecommerce.cfd
 timesync.to
 timesysnc.net
 tintingsd.com
-tiny-cloud.ink
 tinymarvels.org
 tirreklerebalon.duckdns.org
 tispirtesse.com
