@@ -896,7 +896,6 @@ bilgisel-cepte.online
 bilgisorgu.org
 bilgivermeservisi.bid
 bilipta.top
-bim-turkiye.pages.dev
 bin-airdrop.online
 binance-account-login.vercel.app
 binancehediyefirsati.duckdns.org

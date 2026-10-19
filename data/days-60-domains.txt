@@ -1610,7 +1610,6 @@ bilgivermeservisi.bid
 bilinclikullanim.abrdns.com
 bilinclituketim.abrdns.com
 bilipta.top
-bim-turkiye.pages.dev
 bin-airdrop.online
 binanc.loadportal.site
 binance-account-login.vercel.app
