@@ -526,7 +526,6 @@
 2026kasim2026.click
 2026kasim2026onayli.duckdns.org
 2026onayli2026.duckdns.org
-20bintanekonutaciksatisda.vercel.app
 2121124555555441554445990.xyz
 2121124555555441554445991.xyz
 212114551221455122452245590.xyz
@@ -3680,8 +3679,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -3995,8 +3994,6 @@ cs.access.ly
 csb-govtr.site
 csdf.rauzmiklimlendirme.com
 csgb-gov-ct.com
-csgb-gov-tr.app
-csgb-gov-tr.com
 csgbgovtr.me
 csgodownload.ru
 csmonestler.duckdns.org
@@ -9339,7 +9336,6 @@ kgkkgkgskk.nicepage.io
 kgkkgkgskkfgfgf.nicepage.io
 kgm-25.vercel.app
 kgm-gopv.com
-kgm-gov-tt.me
 kgm-gov.biz
 kgm-gov.mobi
 kgm-gov.onl
@@ -9370,7 +9366,6 @@ kgmborcsorgulamaodeme.ddnsgeek.com
 kgmgom.cfd
 kgmgov.cfd
 kgmgov.info
-kgmgov.sbs
 kgmgovhelp.cc
 kgmgovm.cfd
 kgmgovs.cfd
@@ -9437,7 +9432,6 @@ kingbss.com
 kinghoruswe.info
 kinovialun.duckdns.org
 kiptownim.info
-kira-yardim-edevlet-tr-gov.ph
 kiralikaraclarimislemler.com
 kiralikkonutbasvurularim.cfd
 kirameso-hulavite.lol
@@ -12599,8 +12593,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokiralama.org
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -14451,7 +14445,6 @@ safsaqwrcs.sbs
 saglam-seyahatim.pages.dev
 sagligakavusmakicinbiradim.digital
 saglik-182.com
-saglik-gov.sbs
 sagliklibilgi.duckdns.org
 saglikligunlerhuzurdolu.loseyourip.com
 sagliklihizmetleregunleresizlere.webredirect.org
@@ -16732,7 +16725,6 @@ toplam-talip-eden.myonlineportal.ch
 toplu-konut-idaresi-basvurunh.vercel.app
 toplu-konut-idaresi-basvurunuzu.vercel.app
 toplu-konut-idaresi-basvurusu.vercel.app
-toplu-konut-projesi-toki-gov-tr.ph
 toplu-konut.com
 toplu-konut.gravitycl.app
 toplubloklar.vercelserver.com
@@ -18198,7 +18190,6 @@ www-karcher.com
 www-kariyertb-cepte-web.myonlineportal.ch
 www-kgm-gov-tr.translate.goog
 www-mfa-gov-tm.dynns.com
-www-osym-gov-tr.nproxy.org
 www-pirantech.com
 www-pirantech.net
 www-qnb-finansbank-access.ph
