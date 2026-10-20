@@ -2012,6 +2012,7 @@ cepteteb-emekli.myonlineportal.de
 cepteteb-emekliye.my-homeip.de
 cepteteb-emekliyle.my-homeip.de
 cepteteb-esube.my-homeip.de
+cepteteb-internet.my-homeip.de
 ceptetebde-com.my-homeip.de
 ceptetebde-emekli.my-homeip.de
 ceptetebden-emekli.my-homeip.de
@@ -2019,7 +2020,6 @@ ceptetebden-emeklin.my-homeip.de
 ceptetebden-firsati.my-homeip.de
 ceptetebden.my-homeip.de
 ceptetebdeniz.my-homeip.de
-ceptetebeva.my-homeip.de
 ceptetebli-ayricalik.my-homeip.de
 ceptetebli-emekliye.my-homeip.de
 ceptetebli-kampanya.my-homeip.de
@@ -5189,7 +5189,6 @@ kurumhukuk.org
 kurumkamu.org
 kurumportal.org
 kurumtakip.org
-kurumtr.org
 kuveytturk.sbs
 kuveyturkk.site
 kuvttb.com
@@ -6611,6 +6610,7 @@ picknow.top
 pilokihigugugu-reteyete.lol
 piloko-hulukuerede.lol
 pilouyguredesa.lol
+pinekoskim.giize.com
 pinkfels.shop
 pinkpawgo.org
 pinnacle-labs.lat
@@ -7321,6 +7321,7 @@ sartlarimiz-1.sbs
 sartlarimiz.sbs
 sasirilmayacakgibidegil.sbs
 satinal-hemen.com
+sazan.city
 sbelnlcan.duckdns.org
 sbogovtr.xn--tt-8ja.net
 sbseatw.sbs
@@ -8396,6 +8397,7 @@ ugrlusbesndyzbiz.online
 ugrsbebirincisi.duckdns.org
 ugurlusbsndeyz.duckdns.org
 uhggsdgdsggdgshdsgdsusd.site
+uhugudere-redeteye.lol
 uhukalami.duckdns.org
 ui-wire.com
 uiccvbk.click
