@@ -3110,7 +3110,6 @@ bopaje7148.store
 borertors92.anondns.net
 borneobulletins.top
 borsaci.site
-borsahedef.app
 borsahedef.pages.dev
 borsalio.click
 borsava.capital
@@ -12760,8 +12759,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokiralama.org
 otokocfilokurumsal.net
-otokocfilom.net
 Otokocfilom.net
+otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
