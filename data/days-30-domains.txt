@@ -167,7 +167,9 @@
 11111128830029.bounceme.net
 11112222244444.webredirect.org
 11112222244494.webredirect.org
+111hizligiris.duckdns.org
 1124111123.com
+112hizligiris.duckdns.org
 120200000000034445.duckdns.org
 120219292929388.webredirect.org
 120298573000294.webredirect.org
@@ -1217,7 +1219,6 @@ domuzkurtboz.duckdns.org
 doneplay.site
 doooomm.duckdns.org
 dopinghafiza-ftlmep21a-doping.vercel.app
-dosyagibsorgula.com
 dosyahazine.com
 dosyaincele.com
 dosyaincele.net
@@ -1269,7 +1270,6 @@ e-store-tr.online
 e-sube.hedefborsa.com
 eadli.org
 easyllms.xyz
-ebilisiminfaz.com
 ebilisimteblig.com
 eceptra-tr.online
 ecezahazine.com
@@ -2399,6 +2399,7 @@ infostreamzo.com
 infotelegram.org
 infoyatirim.51.79.38.120.sslip.io
 infvarlikdegerler.com
+insights.herbital.online
 instagram-clone-sigma-seven.vercel.app
 instagram-e-mail-confirm-info-desk.ph
 instagram-rosy-alpha.vercel.app
@@ -3277,7 +3278,6 @@ pazarama.odeme-onay-1287.com
 pazarama.odeme-onay-1288.com
 pazarama.odeme-onay-1289.com
 pazarama.odeme-onay-1290.com
-pazarama.sepet-odemeler-2213.com
 pazarama.sepet-odemeler-2214.com
 pazarama.sepet-odemeler-2216.com
 pazarama.sepetinizde.com.tr
@@ -3343,7 +3343,6 @@ pttavm-bireysel-siparis.com
 pttavm-gecisbakiyenoktasi.web.app
 pttavm-hemen-siparis.com
 pttavm-kilometredetaykolayca.web.app
-pttavm-kmsxrgulama.web.app
 pttavm-siparis.ile-guvenlice-web-tr.com
 pttavm-siparisim.ile-guvenlice-web-tr.com
 pttavm.gvnliodeme.com
@@ -3508,6 +3507,7 @@ ruhsuzpanel7.world
 ruhsuzpanelhizmetlerim.click
 ruhsuzpanelkeyfi.click
 ruhsuzpanelq.wendicraft.site
+ruhsuzpanelvsusom.click
 ruhsuzsistem1.click
 ruhzy.top
 russ12222.site
@@ -3683,7 +3683,6 @@ sftlr.com
 sgdfgsdfsdf.webredirect.org
 sharehub.space
 sharkninija.com
-sharkturkiye.com
 shift-api-control.com
 shinjirou.info
 shopmax-tr.online
@@ -3768,6 +3767,7 @@ sorgualgec.world
 sorgubirimi.org
 sorgupanel.fit
 sorgupanel33.click
+sorgupanelcileri.click
 sorgupanelciniz.world
 sorgupaneli.boats
 sorgupaneli.rest
@@ -3980,7 +3980,6 @@ thy2023gununde.duckdns.org
 thynovia.blog
 ticaret-tr.online
 tirreklerebalon.duckdns.org
-tkg-tpuransevdnuz.com
 tkg-tpuransevdnuz.online
 tkgm.ink
 tkkoop.vercel.app
