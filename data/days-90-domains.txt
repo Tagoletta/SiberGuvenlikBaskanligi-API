@@ -2957,8 +2957,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -5598,7 +5598,6 @@ haberler7452523.shop
 haberler7456423.sbs
 haberler78413289.sbs
 haberler787534.sbs
-haberler78912.sbs
 haberler78945.sbs
 haberler834756.shop
 haberler8676.shop
@@ -5843,6 +5842,7 @@ hemenislmokntai.net
 hemenkampanyaburaya.online
 hemenkap.online
 hemenkapinda.duckdns.org
+hemenkontrolsagla.abrdns.com
 hemenmagaza-tr.online
 hemenmarket.online
 hemennotknaslnta.net
