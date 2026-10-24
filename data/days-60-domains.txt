@@ -589,6 +589,7 @@
 6.ddns.me
 6017266923.cloud
 616121.xyz
+6164252151zsf.duckdns.org
 620617625.cloud
 625671717116.duckdns.org
 62616608764.cloud
@@ -787,6 +788,7 @@ a10001firstlari.giize.com
 a101-aktuel.netlify.app
 a101.dijitalbayim.com
 a101.dpdns.org
+a101.hizlifirsatim.com
 a101.hizligiriss.com
 a101.ilan-sepetlerimiz-burada.com
 a1011.frstlarbrdsmgs.store
@@ -1102,6 +1104,7 @@ amznkmps.loseyourip.com
 anadexa.live
 anadolugroup.online
 anadolumenkulyatirimdegerler.com
+analwithablond.xyz
 ananadageliriz.duckdns.org
 and-akv-ask.myonlineportal.ch
 and-anp-andric.myonlineportal.ch
@@ -1638,7 +1641,6 @@ beta-perplexity.com
 betgaranti-hizli-tr-giris.icu
 betgit1351.com
 bexorunilakemvytosa.sbs
-beygirogluumm.dnsup.net
 beylikduzualbaveteriner.pro
 beylikduzusubekmpn.duckdns.org
 bfhsdfsbdfbsf.shop
@@ -1945,6 +1947,7 @@ caysponsorlari.online
 cayyemekleri.evyemekleritarifleri.lol
 cbsceza.com
 cbsdava.com
+cbsdosya.com
 cbsinfaz.com
 cbstalimat.com
 cbsuyap.com
@@ -2503,6 +2506,7 @@ e-alisverissepet.sbs
 e-bayi-hgs.lol
 e-devlet-trust.xyz
 e-devlet-turkiye-tr.vercel.app
+e-devlet.de
 e-devletblog.blogspot.com
 e-devletplatformu.xyz
 e-devlettc.netlify.app
@@ -2961,6 +2965,8 @@ facebook-login-berlin-us.ph
 facebook-login-berlin20.com.ph
 facebook-login-check-meta.ph
 facebook-login-checker.ph
+facebook-login-help-de.com.ph
+facebook-login-help-yemen.com.ph
 facebook-login-in-athens.com.ph
 facebook-login-in-eg.com.ph
 facebook-login-in-ru.com.ph
@@ -2974,9 +2980,12 @@ facebook-login-instant-sa.net.ph
 facebook-login-instant-th.com.ph
 facebook-login-instant-vn.com.ph
 facebook-login-ireland-cork.com.ph
+facebook-login-lisbon.com.ph
 facebook-login-login-nz-asia.com.ph
 facebook-login-login.blogspot.com
+facebook-login-metrobankl.com.ph
 facebook-login-myanmar-intl.com.ph
+facebook-login-new-york.com.ph
 facebook-login-no-logino-com.ph
 facebook-login-osaka10014.com.ph
 facebook-login-page-secure.ph
@@ -3036,6 +3045,7 @@ facebookloginfloristonline.com.ph
 facebookloginfriends-anime.com.ph
 facebookloginhelp-denmark.com.ph
 facebookloginlabz1.com.ph
+facebookloginlakezx.net.ph
 facebookloginlamp.net.ph
 facebookloginlawfirms.com.ph
 facebookloginnuzen.ph
@@ -3159,7 +3169,6 @@ firsatlar.s.gy
 firsatlarddsfsd.duckdns.org
 firsatlarrrsnnnkmpnyabasvrr17147781.online
 firsatlarrrsonnkmpnyaakrdii85479.pro
-firsatlarryny2026.ct.ws
 firsatlopernxsd.duckdns.org
 firstgunlrikcmz.duckdns.org
 firstkmpyeyl.duckdns.org
@@ -3650,6 +3659,7 @@ gzmliadagnlerinz.sbs
 h-hzlirnv.cfd
 h-rndal.cfd
 haber15132.sbs
+haber151462.sbs
 haber165498.sbs
 haber2026.doordk.com
 haberler019315.sbs
@@ -3690,7 +3700,6 @@ haberler132423.sbs
 haberler1346428.sbs
 haberler1358636.shop
 haberler14223.shop
-haberler142536231.shop
 haberler15123424.sbs
 haberler154313.sbs
 haberler1564568.sbs
@@ -4309,6 +4318,7 @@ hmnypdx.art
 hmnypsan.art
 hmnypsanb.art
 hmpsiburada.ph
+hndgfxbas.duckdns.org
 hobenesterkest.duckdns.org
 hobeslerteskert.duckdns.org
 hobevsjaseter.duckdns.org
@@ -4384,6 +4394,7 @@ hulihpo-desedu.lol
 huncvkov9.icu
 hynzbirts.giize.com
 hzbdjx.com
+hzlalrndeuv.cfd
 hzli-bakye.art
 hzligcshgs.cfd
 hzligcslerinolsn.cfd
@@ -4887,7 +4898,6 @@ kasdertmonst.duckdns.org
 kaspersky-lab.hl.cn
 katafeester.company
 kataloghaftasn.giize.com
-katamoli-toromide.lol
 katarageliriz.duckdns.org
 katarfalan.duckdns.org
 katescraftybakes.com
@@ -5142,7 +5152,6 @@ kooperatifonline.vercel.app
 kooponline.vercel.app
 kopmenst.duckdns.org
 kopukluj.hali-yiklamasi.lol
-korebazi-talasude.lol
 kosemenseter.duckdns.org
 kp2-3ur6pe4r8i2hj5.com
 kqmodehizm.store
@@ -5262,6 +5271,7 @@ leoartksnbrrhrsdsnbttn.com
 leocangurcu.duckdns.org
 lerosiku-manutafe.lol
 lesgeltes.duckdns.org
+letgo-cuzdanimguvende.online
 letgo-sigorta.co
 letgo.ile-odemeyi-tamamlayin.com
 letgo.ile-siparis-olustur.com
@@ -5758,7 +5768,6 @@ mhsssrassd.live
 mhsysndvuesa.site
 mhtsrsagdsg.site
 mhtsrscgdsg.site
-mhysyhisawag.icu
 mibusare-yedolapi.lol
 microsft.run
 microsft.studio
@@ -6330,7 +6339,6 @@ onayli-alisveris-1501903.com
 onayli-alisveris-1501905.com
 onboarding.evsahibibasvuru.com
 onecloudfilesync.com
-onedayjustwillbe.top
 onesdto.shop
 onikimlir.duckdns.org
 online-7d4x-garantibbva.ro-actualizare.com
@@ -6716,7 +6724,6 @@ ptt-gov.eu.cc
 ptt-gov.life
 ptt-govv.cc
 ptt-govz.life
-ptt-isbank.com.ph
 ptt-postgov.sbs
 ptt-tc.cc
 ptt-tr.jinsong.shop
@@ -6746,6 +6753,7 @@ pttavm.bireysel-ilan.com
 pttavm.gvnliodeme.com
 pttavm.hizli-guvenli-alim.com
 pttavm.ilan-alisverisi-sepeti.com
+pttavm.ilan-sepetlerimiz-buradan.com
 pttavm.ilanlar.duckdns.org
 pttavm.ile-guvenli-ilan-web.com
 pttavm.ile-guvenli-web-tr.com
@@ -7069,6 +7077,7 @@ s-guvenlimuhasebeodemeleriniz.duckdns.org
 s-guvenlimuhasebeodemenoktaniz.duckdns.org
 s-guvenliodemebiriminiz.duckdns.org
 s-guvenlisatisonay.com
+s-paramguvende.bilgi-urundetayi.online
 s-paramguvende.urunhizmetleri.online
 s-sozlesmen.e-islem-hizmet.com
 s0kmlarket.shop
@@ -7498,7 +7507,6 @@ sinemcicekcilik.com
 sinirlisayidayagsatisi.sbs
 siparis-guvende.online
 siparis-guvenli.online
-siparis-hizliislemler.com
 siparis-ilan.online
 siparis-ilanda-tr.online
 siparis-ilanda.online
@@ -7522,6 +7530,7 @@ siparisislemlerim.com
 siparislerimonline.com
 siparislerkapida.com
 siparisonayla.online
+siparisteslimati.com
 sipsapsop.click
 siritmax.click
 sirius.surpasstools.com
@@ -7633,6 +7642,7 @@ sondakika.cam
 sonfirsaattkmpnyaabsvrr.art
 sonfirsaattkmpnyaabsvrr.click
 sonfirsaattkmpnyaabsvrr.online
+sonfirsatlarihemenyakala.xyz
 sonfirsltarrribkmpnyabsavr.info
 sonfrlasaltikmpnyasirfvsavr.info
 sonfrsiattlarbsasvrkmnpyaaa.pro
@@ -7928,6 +7938,7 @@ tahuguderepoli.lol
 takip-merkezi.vercel.app
 takipidari.org
 takipkamu.org
+takipmali.org
 takipsorgu.org
 taklaciguvercinsevenlerdernegi.myshopify.com
 taksitlievbasvuru.com
@@ -8381,6 +8392,7 @@ tvtr-randevu.web.app
 tvtrarcmynb.sbs
 tvtrkmafylari.duckdns.org
 tvtrkmynexx.duckdns.org
+tvtrkogren.org
 tvtrkrndv.duckdns.org
 tvtrkrnvdmlrm.com
 tvtrkrvdal.org
@@ -8440,7 +8452,6 @@ urunbitmedengerekeniyapanlar.sbs
 urundetay-sepet-15.sbs
 urundetayi.com
 urunguvende.online
-urunhizmetleri.online
 urunlerin-online-satisi.com
 usa.on1xvpn.com
 user2.bsnotespublication.com
@@ -8472,6 +8483,7 @@ v30105.site
 v707070.site
 v99999.site
 vaha-yatirim.com
+vakif-erken-onay.duckdns.org
 vakif.pzbsin.com
 vakifbank.cm.tr
 vakifbank2019web.com.ph
@@ -8714,7 +8726,6 @@ www-ayricalikcepte-tb.myonlineportal.ch
 www-ayricaliklarla-dolutb.myonlineportal.ch
 www-ayricalikli-t-on.myonlineportal.ch
 www-ayricaliktb-cepte.myonlineportal.ch
-www-braun.net
 www-braun.org
 www-brovtb-cepte-ayrica.myonlineportal.ch
 www-browsertb-ayrica.myonlineportal.ch
@@ -8823,6 +8834,7 @@ www-mfa-gov-tm.dynns.com
 www-parttb-cepte-ayrica.myonlineportal.ch
 www-pmtb-cepte-door.myonlineportal.ch
 www-sync-ceptedir.myonlineportal.ch
+www-tamtb-cepte-screen.myonlineportal.ch
 www-tb-cepte-coms.myonlineportal.ch
 www-tb-customer-web.myonlineportal.ch
 www-tb-lgn-ayrica.myonlineportal.ch
@@ -9137,7 +9149,6 @@ zoomcares.zoom.us.ikd3.mjid.web.id
 zoominvite-us09web-user08b.pages.dev
 zoraptly.com
 zraatbank.netlify.app
-zrt.quest
 zt171.eu.cc
 zu7pl.pro
 zuerede-redeteyere.lol
