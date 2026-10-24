@@ -5478,6 +5478,7 @@ face-book-login-extra.ph
 face-kampnyalari.xyz
 facebook--login-inactive.ph
 facebook--login-report.ph
+facebook--login-safe.ph
 facebook--login-security.ph
 facebook--login-session.ph
 facebook--signupzzzzzzzzzzzzzhu.ph
@@ -5493,6 +5494,7 @@ facebook-login-guide.com.ph
 facebook-login-help-de.com.ph
 facebook-login-help-yemen.com.ph
 facebook-login-in-athens.com.ph
+facebook-login-in-dubai.net.ph
 facebook-login-in-eg.com.ph
 facebook-login-in-ru.com.ph
 facebook-login-in-se.com.ph
@@ -6107,6 +6109,7 @@ garanti-kredi-firsati.cloud
 garanti-kredi-uzmani.cloud
 garanti-kredili-bonus-com.mayddns.com
 garanti-nakit-destek.cloud
+garanti-nakit-hizmeti.click
 garanti-nakit-hizmeti.cloud
 garanti-nakit-merkezi.cloud
 garanti-nakit-noktasi.cloud
@@ -7407,6 +7410,7 @@ heemenisn-sonuc.net
 hefeelfeguystr.duckdns.org
 hefelfeguystr.duckdns.org
 hegeseodemesi.vercel.app
+hegwgsaagl.giize.com
 heilongyk.top
 heismebktaltara.net
 helboystr.duckdns.org
@@ -12636,8 +12640,8 @@ otokocfilokirala.com.tr
 otokocfilokiralama.com.tr
 otokocfilokiralama.org
 otokocfilokurumsal.net
-Otokocfilom.net
 otokocfilom.net
+Otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
@@ -12765,6 +12769,7 @@ palagire-saladiro.lol
 palasude-salabazi.lol
 palmiiyesultan.com
 palmiyesulltan.site
+palmiyesultam.site
 palmiyesultn.com
 pamconj.com
 panel.alwaysdata.net

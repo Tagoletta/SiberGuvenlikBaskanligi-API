@@ -1435,6 +1435,7 @@ ezikchecker.xyz
 f3dlvbk5edo5s57.icu
 facebook--login-inactive.ph
 facebook--login-report.ph
+facebook--login-safe.ph
 facebook--login-session.ph
 facebook--signupzzzzzzzzzzzzzhu.ph
 facebook--update-available.ph
@@ -1446,6 +1447,7 @@ facebook-login-checker.ph
 facebook-login-help-de.com.ph
 facebook-login-help-yemen.com.ph
 facebook-login-in-athens.com.ph
+facebook-login-in-dubai.net.ph
 facebook-login-in-eg.com.ph
 facebook-login-in-ru.com.ph
 facebook-login-in-se.com.ph
@@ -1670,6 +1672,7 @@ garanti-kredi-firsati-ekim-ayina-ozel.cloud
 garanti-kredi-firsati.cloud
 garanti-kredi-uzmani.cloud
 garanti-nakit-destek.cloud
+garanti-nakit-hizmeti.click
 garanti-nakit-hizmeti.cloud
 garanti-nakit-merkezi.cloud
 garanti-nakit-noktasi.cloud
@@ -1943,6 +1946,7 @@ hdiglbrdanbnakzndr.lol
 hdiglvrbnrvdde.lol
 hedefon.hedefborsa.com
 hegeseodemesi.vercel.app
+hegwgsaagl.giize.com
 heilongyk.top
 helinbinergiler.duckdns.org
 helinemioki.duckdns.org
@@ -3234,6 +3238,7 @@ ozelsiplerinizkapinizakadar.sbs
 ozlemcicekciliik.com
 painel.installscenter.com
 palmiyesulltan.site
+palmiyesultam.site
 palmiyesultn.com
 panelsorgu.online
 panelsorgu1.world
