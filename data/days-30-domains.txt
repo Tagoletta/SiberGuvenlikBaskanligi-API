@@ -232,6 +232,7 @@
 122991888277.servehttp.com
 1231231255.xyz
 12333222244422.webredirect.org
+1235616345234.sbs
 12381239.xyz
 1241251.xyz
 124215151512.duckdns.org
@@ -695,9 +696,7 @@ archat.us
 archivosdigitalescol.myonlineportal.ch
 argea-ai.org
 aroraarabasatis.com
-arrachizlirndvual.web.app
 arracrndvual.govt.hu
-arracrndvuicn.lozan.com
 arrow-berry-gem.pages.dev
 artikyalanyokye.sbs
 artisoft.duckdns.org
@@ -1428,6 +1427,7 @@ facebook-login-in-athens.com.ph
 facebook-login-in-dubai.net.ph
 facebook-login-in-eg.com.ph
 facebook-login-in-ru.com.ph
+facebook-login-in-sa.com.ph
 facebook-login-in-se.com.ph
 facebook-login-in-tokyo.com.ph
 facebook-login-in-tokyo.net.ph
@@ -1525,6 +1525,8 @@ facebookloginstreamline.com.ph
 facebookloginstrends.net.ph
 facebookloginuser-updateinfo.ph
 facebookloginyt.com.ph
+facebookloginzk.com.ph
+facebookloginzm.com.ph
 facebookloginzonebe.com.ph
 facebookloginzonebr.com.ph
 facebookloginzonebu.com.ph
@@ -1795,6 +1797,7 @@ gratis.ploteando.com
 gratis.raspberrydevice.com
 gratis.rataforo.com
 grfine.cfd
+grlrandevu.com
 grntibsvrhmn.art
 grntm.com
 groy.cc
@@ -2322,7 +2325,6 @@ idata.lat
 igniteatt.com
 ikinciel-siparisler.com
 ikincielsatis.com
-ikincietap.vercelserver.com
 ikslamlt.myshopify.com
 ikspanceem.xyz
 ilah.city
@@ -2506,7 +2508,6 @@ karacafirsat.shop
 karcaekimgnleri.com
 karcher-tr.com
 kargokapinda.com
-karpanel.space
 kartalbasvurux12.duckdns.org
 kartulisuperi.duckdns.org
 kasdertmonst.duckdns.org
@@ -3446,7 +3447,6 @@ saderete-teredesede.lol
 safety-mcc.com
 saglam-seyahatim.pages.dev
 saglikliolunuz.com
-saglikliyizlanbizzatengot.duckdns.org
 saglikrhbr.cfd
 saglkrnd.cfd
 sahabet.press
@@ -4248,7 +4248,6 @@ www-cepte-off-tvb.myonlineportal.ch
 www-cepte-off-tvby.myonlineportal.ch
 www-cepte-on-tb.my-homeip.de
 www-cepte-on-tb.myonlineportal.ch
-www-cepte-only.myonlineportal.ch
 www-cepte-portal-tb.myonlineportal.ch
 www-cepte-portaln-tb.myonlineportal.ch
 www-cepte-rar-tb.myonlineportal.ch
@@ -4321,6 +4320,7 @@ www-tbstatus-cpte.myonlineportal.ch
 www-tbstatus-cpteyiz.myonlineportal.ch
 www-teb-com-tr-emekli-kampanya-firsatlari.myonlineportal.eu
 www-teb-com-tr.internet-subesi.site
+www-tooltb-accuary-cepte.myonlineportal.ch
 www-tracepte-tb-ayrica.myonlineportal.ch
 www-tracetb-cepte-ayrica.myonlineportal.ch
 www-web-cept-tb.myonlineportal.ch

@@ -406,6 +406,7 @@
 1231516frrrssrstlarrkmpnyaasbsvrr.online
 12333222244422.webredirect.org
 1234654psnylsyndns.com
+1235616345234.sbs
 12381239.xyz
 123jkjcsadklj12j3z1h2j3.sbs
 124124121.sbs
@@ -655,7 +656,6 @@
 2312545545554899690.duckdns.org
 23213x22.cyou
 23213x22.xyz
-2323200499400.duckdns.org
 23465253sd235fsd.click
 235124125235.duckdns.org
 23532780dsf235hre.click
@@ -958,7 +958,6 @@
 75454764345323754.org
 7568567232354236.org
 757524525125225255.duckdns.org
-75853489.xyz
 7658576324143645.org
 77757547.sbs
 7777775456.sbs
@@ -1557,7 +1556,6 @@ akillisaatt.duckdns.org
 akillisechim.today
 akka-avd-aor.myonlineportal.ch
 akka-lyn-av.myonlineportal.ch
-akkampanyalar.shop
 akkv-l-asr.myonlineportal.ch
 aklbnakbasvkampnya.com
 aklimdakikapimda.xyz
@@ -3456,7 +3454,6 @@ careers-interview.com
 careers-openai.com
 careffoursa.vercel.app
 carefoursa.vercel.app
-carelinno.gifts
 cariwebsiteku.com
 cark-cekilisi.com
 cark-cekilisi.info
@@ -5504,6 +5501,7 @@ facebook-login-in-athens.com.ph
 facebook-login-in-dubai.net.ph
 facebook-login-in-eg.com.ph
 facebook-login-in-ru.com.ph
+facebook-login-in-sa.com.ph
 facebook-login-in-se.com.ph
 facebook-login-in-tokyo.com.ph
 facebook-login-in-tokyo.net.ph
@@ -5624,6 +5622,8 @@ facebookloginstrends.net.ph
 facebookloginuser-updateinfo.ph
 facebookloginuser.com.ph
 facebookloginyt.com.ph
+facebookloginzk.com.ph
+facebookloginzm.com.ph
 facebookloginzonebe.com.ph
 facebookloginzonebr.com.ph
 facebookloginzonebu.com.ph
@@ -6223,7 +6223,6 @@ garantiden.click
 garantidestek.cloud
 garantifirsatpuanlar.ph
 garantiform.vercel.app
-garantiimenkuldegerler.com
 garantikampanyan.click
 garantikrediara.cloud
 garantikredibasvuruyap.vercel.app
@@ -6768,6 +6767,7 @@ grid-push.com
 gripsleep.xyz
 grislersit.cfd
 grisstlera.nicepage.io
+grlrandevu.com
 grnte.com
 grntibba.duckdns.org
 grntibsvrhmn.art
@@ -7069,7 +7069,6 @@ haberler2373432.shop
 haberler242312.sbs
 haberler242312313.sbs
 haberler242325654.sbs
-haberler2523432.sbs
 haberler264589.sbs
 haberler26734554.sbs
 haberler274556.sbs
@@ -17874,7 +17873,6 @@ windowsupdate-microsoft-com.servehttp.com
 windwsecurity.run
 winhardwarehub.gifts
 winnerzo.com
-winride.gifts
 winsync.cloud
 winter-smoke-a612.icy-star-f45c.workers.dev
 winter-waterfall-0606.rihaniomar21.workers.dev
@@ -18152,6 +18150,7 @@ www-teb-com-tr-sayfalar-emekli-promosyon.my-homeip.de
 www-teb-com-tr.internet-subesi.site
 www-tebfirsatlar-com.my-homeip.de
 www-tkgm-gov-tr.translate.goog
+www-tooltb-accuary-cepte.myonlineportal.ch
 www-tr-binance.com
 www-tracepte-tb-ayrica.myonlineportal.ch
 www-tracetb-cepte-ayrica.myonlineportal.ch
@@ -18822,7 +18821,6 @@ zitrkfs.cfd
 ziyoklam.biz
 ziytratgx.cfd
 zkevopenanu.cfd
-zkrikayt.cfd
 zkrsifg.cfd
 zlm0106661.duckdns.org
 zlraatbankaslal.icu
