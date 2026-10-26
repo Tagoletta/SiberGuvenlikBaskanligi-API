@@ -1288,6 +1288,7 @@ egmgovn.my.id
 egmgovn.web.id
 egmgovre.biz.id
 egmgovre.my.id
+egmgovren.my.id
 egmmali.org
 egngovnrmn.web.id
 egngovrn.my.id
@@ -3880,6 +3881,7 @@ tebooaoakkgoolo.shop
 tebooaoloka.cfd
 tebpromo.site
 tebrafa.site
+tebresmiiii.duckdns.org
 tebsolansod.co
 teenfinger.online
 tekbasvuru.abrdns.com
@@ -4274,7 +4276,6 @@ www-cepte-stor-syn.myonlineportal.ch
 www-cepte-tb-result.myonlineportal.ch
 www-cepte-tb-story.myonlineportal.ch
 www-cepte-tbyour-web.myonlineportal.ch
-www-cepte-teb-work.myonlineportal.ch
 www-cepte-time-tb.myonlineportal.ch
 www-cepte-tool-tb.myonlineportal.ch
 www-cepte-tvb-notes.my-homeip.de
@@ -4420,7 +4421,6 @@ yomeneskters.duckdns.org
 yonelt.site
 yonelttir.live
 yonlen-buradan-sorgu.cyou
-yonlendi.space
 yons.ink
 yonv.ink
 yonver.cc

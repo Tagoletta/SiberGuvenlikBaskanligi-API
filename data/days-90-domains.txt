@@ -1316,7 +1316,6 @@ akmobil-ceptebasvuru-ekrani-com.duckdns.org
 akmobil-ceptebasvuru-ekrani-com.webredirect.org
 akmobil-cepteislemler-ekrani-com.webredirect.org
 akmobil-onlinebasvuru-ekrani-com.webredirect.org
-akmobil-onlineislem-guncel-ekran.duckdns.org
 akmobildend.duckdns.org
 akmpxnya-101eylul.site
 akonlinereklamlar.sbs
@@ -3860,6 +3859,7 @@ egmgovn.my.id
 egmgovn.web.id
 egmgovre.biz.id
 egmgovre.my.id
+egmgovren.my.id
 egmmali.org
 egmtrasliceza.org
 egngov.biz.id
@@ -10542,7 +10542,6 @@ portaluyap.com
 portfoymenkul.com
 porttalimhemen.lol
 porty-lyb.myonlineportal.ch
-poseflow.icu
 positive-amber-bpwtfu3p.edgeone.dev
 postaneguvenlialisveris.online
 pouhugufe-redesede.lol
@@ -10847,7 +10846,6 @@ rafa14caksdcaskckj1k31k23x123x123x12.cfd
 rafa14dcsjkadjkskjx123x12312.cfd
 rafa15acdsjkjcakxk12k3x123123c12.cfd
 rafa1cadcjksakx13x12x3123x.cfd
-rafa2casdkkj13x123.cfd
 rafa2lcdsajcjksakjx123x12.cfd
 rafa3cajkcdaskx1x3213x.cfd
 rafa4aksdjjkx123x12.cfd
@@ -12753,6 +12751,7 @@ tebooaoloka.cfd
 tebpageinternet.my-homeip.com
 tebpromo.site
 tebrafa.site
+tebresmiiii.duckdns.org
 tebsolansod.co
 technicais.sytes.net
 techsysscanner.com

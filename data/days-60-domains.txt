@@ -2615,6 +2615,7 @@ egmgovn.my.id
 egmgovn.web.id
 egmgovre.biz.id
 egmgovre.my.id
+egmgovren.my.id
 egmmali.org
 egmtrasliceza.org
 egngov.biz.id
@@ -7965,6 +7966,7 @@ tebooaoakkgoolo.shop
 tebooaoloka.cfd
 tebpromo.site
 tebrafa.site
+tebresmiiii.duckdns.org
 tebsolansod.co
 technicais.sytes.net
 teenfinger.online
