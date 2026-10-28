@@ -2951,8 +2951,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -5130,6 +5130,7 @@ gnbfinansbank-mobilfirsatlari.ph
 gnceladresweb.web.app
 gnclhgsyklmelr.cfd
 gndr.ink
+gnvbfhnbs.shop
 gnvbfjdns.shop
 gnvhfjncd.shop
 gnvkmslms.shop
@@ -5619,7 +5620,6 @@ halhalican.co
 halimdenanla.dnsup.net
 halk-kampanya-ozel.online
 halk-kampanya-ozel.site
-halkbankasipromosyondeneme.duckdns.org
 halkbnk.com.tr
 halkburadapromosyon.xyz
 halkcimpatlamapls.ice.fo
