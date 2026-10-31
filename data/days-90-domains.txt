@@ -1274,7 +1274,6 @@ aiarmor.website
 aiask0912.com
 aidat-iades-web-grs-e-devlet-gov-tr.com.ph
 aidatcepdestekmobilkapisi-gov-tr.com.ph
-aidatiademerkezi.my-homeip.de
 aidatiadeonline.my-homeip.de
 aidatmerkezislem.my-homeip.de
 aidatsorgulama0081.org
@@ -2995,8 +2994,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamahkeme.com
 cezamahkeme.org
 cezamahkemelerin.org
@@ -5485,8 +5484,6 @@ guvendeilan.online
 guvenfiloavs.net
 guvenilir-checker.online
 guvenilir-site.info
-guvenilirsorgupaneli.fun
-guvenilirsorgupaneli.xyz
 guvenli-alisveris-tr.online
 guvenli-basvuru.online
 guvenli-hizmet.online
@@ -7982,7 +7979,6 @@ layout-v.ink
 lazada-bankmandiri-garantibbva.com.ph
 lcscenter.co
 lcscenter.com
-lcwaikiki-ks.com
 lcwaikikifestr.com
 lderdelnerdenews.duckdns.org
 ldscsadcasldlkx123x123.shop

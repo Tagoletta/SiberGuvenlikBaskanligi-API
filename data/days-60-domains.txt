@@ -2099,8 +2099,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -5265,7 +5265,6 @@ lattafasturkiye.com
 lavinyacicek.com.tr
 lcscenter.co
 lcscenter.com
-lcwaikiki-ks.com
 lcwaikikifestr.com
 leaks-entry.com
 leaksentry-security.com
