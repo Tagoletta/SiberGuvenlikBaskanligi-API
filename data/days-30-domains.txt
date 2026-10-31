@@ -84,7 +84,6 @@
 101-extra-sadece-bugune-ozel-indirim-sepete-ekle-tr.mobils-bilgide.online
 101-extra-sadece-bugune-ozel-indirim-sepeti-tr-shop.tr-sepettex.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-indirimleri-shops.shops-trendtr.online
-101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-tr.eticaret-mobil.online
 101-extra-sadece-bugune-ozel-mobil-indirim-sepeti.sepetteindirim.online
 101-extra-sadece-bugune-ozel-mobil-indirim-vakti-tr.bilgisel-cepte.online
 101-extra-sadece-bugune-ozel-mobil-shop-urunleri-sepette-tr.buys-shop.site
@@ -249,7 +248,6 @@
 22245112245542224554254598.xyz
 22245112245542224554254599.xyz
 2300000000020349.webredirect.org
-235124125235.duckdns.org
 239929292920101993.webredirect.org
 23eyluldesiparislerinhizlanir.cloud
 24243535635.xyz
@@ -364,11 +362,9 @@ a101hizmetayinda.duckdns.org
 a101jethiziyla.ct.ws
 a101market.netlify.app
 a101marketing.duckdns.org
-a101reklam.com
 a101stanleyfirsatlaraktifekimayinda.duckdns.org
 a1o1alsvrs.duckdns.org
 a1o1devamet.click
-a1o1haftanlnfrstlari.duckdns.org
 a1o1halftaninflrsatlari.duckdns.org
 a1o1indirim.com.tr
 aaaaaaaaa1.sbs
@@ -934,7 +930,6 @@ cafeoffdubai.duckdns.org
 caixaentradas1inboxshop.site
 callmylove.cyou
 canli2odme.22web.org
-canpackcom.com
 capsysnet.vg
 capulcu.net
 cardanocrypto.ch
@@ -1332,6 +1327,7 @@ ehukukuzlasma.com
 eikimfirstlari.hizlifirsatim.com
 ekamu.org
 ekamubdk.com
+ekim-cumhuriyet-bayrami59.67g7g.top
 ekimayifinssmanlar.biz.tr
 ekimayifinssmanlar.com.tr
 ekimayifinssmanlar.info
@@ -2456,6 +2452,7 @@ ile-odemeyi-tamamlayin.com
 ile-siparis-olustur.com
 ile-siparisiniz.com.tr
 ile-siparislerinizde.com.tr
+ile-siparisver.com.tr
 ileservishizmetleri.com
 ileservishzmetleri.sbs
 iletisimdestek.online
@@ -2692,19 +2689,12 @@ kgmgovs.cfd
 khoury-cgi.lvborses.net
 khsssras.sbs
 kibriscicekmarket.com
-kiilometresorguhesap.web.app
 kilometre-kontrol-pttavm.web.app
 kilometreogrendetay.web.app
 kilometresorgubayinz.web.app
 kilometresorgucu.web.app
 kilometresorgucubayinz.web.app
 kilometresorgudetay.web.app
-kilometresorguhesaap.web.app
-kilometresorguhesap1.web.app
-kilometresorguhesap2.web.app
-kilometresorguhesap3.web.app
-kilometresorguhesapcan.web.app
-kilometresorguhesaptr.web.app
 kilometresorgumrkezi.web.app
 kimbunasasirmazkisizinicin.sbs
 kinoranx.com
@@ -2718,7 +2708,6 @@ kittyscrafts.com
 kiwebif2403.sbs
 kkdldsnfds.shop
 kkeyyou.cc
-kkilometresorguhesap.web.app
 kkmmpnyaabasvruprmsynn965841.info
 kkmnsks.shop
 kknbabeex.shop
@@ -2737,7 +2726,6 @@ kmpnyaabasvruprmsynn19756.pro
 kmpnyabasvurrrprmsyn1786985.info
 kmpnyabasvurrrprmsyn1786985.pro
 kmpsndehmn.click
-kmsorgulamaiislemleri1.web.app
 kmsroglamahizmttimiz.web.app
 kocholding.world
 kocotomonlineodeme.com
@@ -3503,6 +3491,7 @@ pttavm.ilan-sepetlerimiz-buradan.com
 pttavm.ilanlar.duckdns.org
 pttavm.ile-sepete-islemler.net.tr
 pttavm.ile-sepetinizde.com.tr
+pttavm.ile-siparisver.com.tr
 pttavm.islem-siparisver.com
 pttavm.odeme-onay-1282.com
 pttavm.online-satislari-burada.com
@@ -4530,13 +4519,11 @@ www-ayricaliktb-cepte.myonlineportal.ch
 www-brovtb-cepte-ayrica.myonlineportal.ch
 www-browsertb-ayrica.myonlineportal.ch
 www-cebte-taraf-tb.myonlineportal.ch
-www-cep-on-btb.myonlineportal.ch
 www-cep-on-tb.myonlineportal.ch
 www-cepl-tvb-dolu.myonlineportal.ch
 www-cept-b-on.myonlineportal.ch
 www-cept-tb-on.myonlineportal.ch
 www-ceptb-ayricalik-on.myonlineportal.ch
-www-cepte-acc-tvb.myonlineportal.ch
 www-cepte-ass-tb.my-homeip.de
 www-cepte-ayricalik-tvb.myonlineportal.ch
 www-cepte-entry-tvb.myonlineportal.ch
