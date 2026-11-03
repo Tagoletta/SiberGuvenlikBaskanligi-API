@@ -536,7 +536,6 @@
 315455564447889889989992.duckdns.org
 315455564447889889989993.duckdns.org
 315ygdsagad.duckdns.org
-3212221112445479895.duckdns.org
 3212221112445479897.duckdns.org
 3212221112445479898.duckdns.org
 3212221112445479899.duckdns.org
@@ -819,7 +818,6 @@ a101heyecanli.xyz
 a101hizmetayinda.duckdns.org
 a101jethiziyla.ct.ws
 a101kampanya.cyou
-a101market.duckdns.org
 a101market.netlify.app
 a101marketaliverisaktif.duckdns.org
 a101marketing.duckdns.org
@@ -1859,7 +1857,6 @@ buyukcekilis.online
 bva-customer.sbs
 bva-online.click
 bva-promotion.sbs
-bva-request.shop
 bva-tanitim.sbs
 bva-web.shop
 bvc3456.site
@@ -1920,7 +1917,6 @@ catalog-update-microsoft.serveftp.com
 catalog-update-microsoft.servehttp.com
 catalog-update-unix-systems.servehttp.com
 catalog-update-update-microsoft.serveftp.com
-catalystboostfunding.com
 catalystflood.com
 catatoster.com
 catchingthewindoutdoors.org
@@ -2016,7 +2012,6 @@ cepte-t-e-b-com-tr.my-homeip.de
 cepte-teb-com.my-homeip.de
 cepte-teb-mobile.my-homeip.de
 cepte-teb-mobilim.my-homeip.de
-cepte-tep-den.my-homeip.de
 cepte.teb.com.se
 cepteehizlisal.xyz
 cepteindirim.org
@@ -2321,7 +2316,6 @@ dhlno.cfd
 dhsssrasc.shop
 dhsssrasc.site
 dhsssrasc.xyz
-digitalcapitalboost.com
 digitalgov.autos
 digitalgov.boats
 digitalgov.bond
@@ -3445,7 +3439,6 @@ gidayenifirsatindirimler.com
 giperon.net
 gipulora-menaxosi.lol
 gir-vesile-ifade.casa
-giresunilozelidare.cyou
 giris-islemler.teb.com.se
 giris-sekermenkul.pro
 giris-turkiye-gov-tr-translate-goog.translate.goog
@@ -3569,8 +3562,6 @@ gryacvm.click
 gsrarackiralama.com
 gta6ciktigibi.duckdns.org
 guach.net
-guardiancapitalway.com
-guardiangrowthfunding.com
 gulusunbilebaskadir.xyz
 guncelicerigimiz.abrdns.com
 guncellemezamani.abrdns.com
@@ -3605,7 +3596,6 @@ guvenlialisveris-odeme.online
 guvenlibasvuru.online
 guvenlibbva.ph
 guvenlidogrulama.online
-guvenlihavuzum2026.com
 guvenlihavuzun2026.com
 guvenlikontrol.online
 guvenliportal.online
@@ -4410,7 +4400,6 @@ ilan-get-siparis.online
 ilan-getonay.online
 ilan-getsiparis.online
 ilan-hizmetim.online
-ilan-hizmetin.online
 ilan-islem.online
 ilan-islemi.online
 ilan-odemen-tr.online
@@ -4810,7 +4799,6 @@ karacadesign.shop
 karacafirsat.shop
 karacakitchen.homes
 karacaonlinetrs.shop
-karacasale.shop
 karacasaleonline.shop
 karacasepet.shop
 karacasummer.shop
@@ -5448,7 +5436,6 @@ mediamarkt.mobil-jet-hizmet.online
 medioran.com
 meetfin.top
 meetonline.cam
-megthegullo.com
 meksatr.com
 meksayatirimtr.com
 melekcicekcilik.com
@@ -5524,7 +5511,6 @@ mhcbsdfgs.art
 mhdsgfsdgh.art
 mhhhrrrrs.duckdns.org
 mhhsrrekaliye.lol
-mhhsrssbhsa.site
 mhhssaaakaliya.site
 mhhssaaakaliyc.site
 mhhssrraakaliya.lol
@@ -5669,7 +5655,6 @@ mhsssrassa.live
 mhsssrassb.live
 mhsssrassc.live
 mhsssrassd.live
-mhsysndvuesa.site
 mibusare-yedolapi.lol
 microsft.run
 microsft.studio
@@ -5686,7 +5671,6 @@ microsoftforms.securemailencryptit.com
 midas.com.ng
 migros-tr.com
 migrosanal.github.io
-mimecast-microsoft-teams-meeting.com
 mimi.saghirmohamed19.workers.dev
 minewave.info
 minilomiafile.giize.com
@@ -6472,8 +6456,6 @@ pazarama.sepet-odemeler-2216.com
 pazarama.sepetinizde.com.tr
 pazarama.siparis-kapinda.com
 pazarama.siparishizi.com
-pazarama.siparisimhizli.com
-pazarama.urundetayi.com
 pcsdkflyer.ca
 pdfviewer2024.b-cdn.net
 pekincicek.com
@@ -7081,7 +7063,6 @@ sahibinden-paramguvende.getilan.online
 sahibinden-paramguvende.ilan-detayi-tr.online
 sahibinden-paramguvende.ilan-getonay.online
 sahibinden-paramguvende.ilan-hizmetim.online
-sahibinden-paramguvende.ilan-hizmetin.online
 sahibinden-paramguvende.ilan-siparisim.online
 sahibinden-paramguvende.siparis-onayim.online
 sahibinden-paramguvende.siparisim-guvenli.online
@@ -7320,7 +7301,6 @@ silvacheck.com
 silverbullet.icu
 simdibenianliyormusun.sbs
 simgecicekcilik.com
-simplehomeskills.com
 simpstti.net
 sinegolimisayu.giize.com
 sinemcicekcilik.com
@@ -8248,7 +8228,6 @@ ugurlusbsndeyz.duckdns.org
 uhggsdgdsggdgshdsgdsusd.site
 uhugudere-redeteye.lol
 uhukalami.duckdns.org
-ui-wire.com
 uiccvbk.click
 ukrainerada.top
 ukrinform-share.net
@@ -8284,7 +8263,6 @@ urunbitmedengerekeniyapanlar.sbs
 urundetay-sepet-10.sbs
 urundetay-sepet-15.sbs
 urundetay-sepet-25.sbs
-urundetayi.com
 urunguvende.online
 urunlerin-online-satisi.com
 usa.on1xvpn.com
@@ -8507,7 +8485,6 @@ wordpress-19c09.wasmer.app
 wordpress-214832-0.cloudclusters.net
 workerstats.net
 working-out.myonlineportal.ch
-worldbulletin.blog
 worldplex.live
 wovendaily.org
 wpllink.cloud
