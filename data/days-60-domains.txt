@@ -2060,8 +2060,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -2546,7 +2546,6 @@ editor.evsahibibasvuru.com
 edocusign.cepoffices.com
 edosyabdk.com
 edosyaceza.com
-edosyadava.com
 edosyainfaz.org
 edosyasorgulama.com
 edosyasorguyap.com
@@ -6770,7 +6769,6 @@ reklamimgeldi.sbs
 reklamkristel.sbs
 reklamlaronlineak.sbs
 reklammeklamyokkk.sbs
-reklammetaonline.cfd
 reklamsitesi.click
 reklomonline.cfd
 rekokekosserrt.sbs
@@ -8118,7 +8116,6 @@ trx-exchange.com
 trxid048637.haoekang.com
 tryhappycards.ru
 trzlraalislemmenu.duckdns.org
-ttclid.lol
 ttdenkampanyalarbasladi.site
 ttdenkampanyalareylulayinda.site
 ttes.szfeisi.com

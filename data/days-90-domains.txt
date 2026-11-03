@@ -545,7 +545,6 @@
 21312312.xyz
 213786745345.sbs
 2142115251.xyz
-21455452222255899892.duckdns.org
 21455452222255899893.duckdns.org
 21455452222255899894.duckdns.org
 21455452222255899896.duckdns.org
@@ -2979,11 +2978,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
-cezamahkeme.com
-cezamahkeme.org
-cezamahkemelerin.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -5017,7 +5013,6 @@ gece-izeltass.dnsup.net
 gecis-bayi.cfd
 gecis-hizli.lol
 gecisbakiyesistemi.web.app
-gecisbakyeyukleme.web.app
 gecisetiketbakiyesi.web.app
 gecisetiketyukleme.web.app
 gecisetketdolumu.web.app
@@ -6353,7 +6348,6 @@ hizlidanismanlikllaar.com
 hizlidanismanlikllar.com
 hizlidoldurmagcs.web.app
 hizlifilom.com
-hizlifinansyeriniz.xyz
 hizlifirsatim.com
 hizligecis-hgsbkysleyklemes.netlify.app
 hizligecis-hgsbkysleyklemescan.netlify.app
@@ -7002,7 +6996,6 @@ istanbulbellgiimkartt.xyz
 istanbulbellgiimmm.xyz
 istanbulbelllggimm.com
 istanbulbelrlgim.xyz
-istanbulbizim.uk
 istanbulbzmbelgim.xyz
 istanbulcacabelgin.xyz
 istanbulcanbelggim.xyz
@@ -8382,12 +8375,7 @@ magazada-shop.online
 magazafislerionline.com
 magazaindirimi.com
 magento.ink
-mahkemeceza.com
-mahkemeceza.org
 mahkemedava.org
-mahkemesicil.org
-mahkemesorgu.com
-mahkemesorgu.org
 mail-alsongroup-comupodatemailfbhjvssdnregklreighlknvlire1.pages.dev
 mail-english.read-books.org
 mail-mofept-gov-pk-proposaluodatetokoria546hvghkdfgjhbhjdv.pages.dev
@@ -9917,7 +9905,6 @@ onlinebilgilendirme.online
 onlinecaysatisplatform.click
 onlinecep-tr.online
 onlinedenemeleriil.duckdns.org
-onlinedinamik.com
 onlinee-182.sbs
 onlineetkinlik.online
 onlinefba.com
@@ -11044,7 +11031,6 @@ rocketatt.com
 rocketlabusa.ink
 rockstar-gta-6.com
 rodddcycyrgttskym.live
-roddddybdrydlnnn.shop
 rodgttenskm.cfd
 rodininbabasiyim.duckdns.org
 rodiwasherecandan.com
@@ -12377,7 +12363,6 @@ srdgdnoktsnsa.duckdns.org
 srfgelnbndenglrsna.lol
 srnykrndlasrabkle.com
 srrddasdasdasdsa.duckdns.org
-srt.kizlarburada.click
 srtrserertyrezartrer.duckdns.org
 srv.corehost.ddns.net
 srwinservice.com
