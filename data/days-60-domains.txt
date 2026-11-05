@@ -1021,6 +1021,7 @@ aktuelindrm-101.com
 aktuelkmp-101.com
 aktuelsinirlisayiak.sbs
 aktuelsinirlisayiaks.cfd
+akyatirim-tr.cfd
 akyatirim.info
 akyquiz.site
 alashsec.hopto.me
@@ -1156,7 +1157,6 @@ apcoatfine.cfd
 apcoaufine.cfd
 apexaccs.org
 apexfdn.xyz
-api-garantibbva.ph
 api.baykar-investmentopportunity-com.topmarketingoffer.com
 api.baykardevletprogrami-com.topmarketingoffer.com
 api.codefilearc.net
@@ -1310,6 +1310,7 @@ arvisto.digital
 aryadisticaret.com
 arzssrtwt.com
 arzumcaymaknnne.com
+arzumhdson.com
 arzumindrimszznlex.com
 arzzumstw.duckdns.org
 arzzuymmav.blogspot.com
@@ -2118,8 +2119,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -3404,7 +3405,6 @@ garantibankbbv.vercel.app
 garantibasvuru.cloud
 garantibbva-aidat.vercel.app
 garantibbva-aidat.web.app
-garantibbva-api.ph
 garantibbva-bireysel.netlify.app
 garantibbva-boll.com.ph
 garantibbva-destek.netlify.app
@@ -6956,7 +6956,6 @@ rhumbixproposal.ncclouds.co
 rhythova.com
 ridgewellapparel.com
 ritpefsir.net
-rivex.lol
 rivex.space
 rivexsorgupaneli.top
 rivexsrogupaneli.top
@@ -7957,6 +7956,7 @@ tastan.av.tr
 tatfx.buzz
 tauchtechnik.com
 tauzakyollarda.click
+tavoluyorumsana.duckdns.org
 tavsanciksorgupaneli.online
 tavsanciksorgupaneli.website
 tavuk-dunyasi.qpon
@@ -9159,7 +9159,6 @@ ziraat-bankas.live
 ziraat-bankas.pro
 ziraat-yenilenensubemiz.com.ph
 ziraat.finance
-ziraatbank-turkey.com
 ziraatbankasi-biz-9xtmn.pages.dev
 ziraatbankasi.digital
 ziraatbankasiprojesi-click.pages.dev
