@@ -2118,8 +2118,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -2885,6 +2885,7 @@ esorguhazine.com
 esorguhazine.org
 esorgulagib.com
 esorgulama.com
+esube-qnbfinansbank.ph
 esube.fibvportfoy.com
 esube.misyongroup.com
 esube.osmnlportfoy.com
@@ -3070,6 +3071,7 @@ facebook-update-verify-now.ph
 facebook-verification-system-alert.com.ph
 facebook-verification-system-confirm-verify.ph
 facebook-verification-system-verify.com.ph
+facebooklogin--assistant.com.ph
 facebooklogin-apparel-org.ph
 facebooklogin-bank-xyz.ph
 facebooklogin-distribution.com.ph
@@ -4345,7 +4347,6 @@ hmbdosya.org
 hmbmasak.org
 hmbmsk.org
 hmbportal.com
-hmbsorgu.net
 hmbuyap.com
 hmbveznedar.com
 hmbveznedar.org
@@ -4664,6 +4665,7 @@ ironpeaksupply.cc
 isatlmacsn.myshopify.com
 isbak.sbs
 isbaknagtia.com
+isbank.lovable.app
 isbnqamfirsatlarisonkampanyasinda.com
 iscep.bugunsizeozel.cfd
 iscep.ekimozel.cfd
@@ -7491,6 +7493,7 @@ siskologda.xyz
 siskopiyasadaaa.xyz
 sistemer.sbs
 sistemlerdenol.duckdns.org
+sitekullanimi.abrdns.com
 sitin.ai
 sitmarks.xyz
 sitmarx.site
@@ -9039,7 +9042,6 @@ yixue.linqingkeji.com
 yk-donusum-public.vercel.app
 ykleglsinhzlica.cfd
 yklehgsnezmnykle.cfd
-yklemdnshgs.cfd
 yklemelrhzlihgs.cfd
 yklemenkthgs.com
 yklemlrhzlicaypin.cfd
