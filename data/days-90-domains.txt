@@ -2405,23 +2405,17 @@ bilipta.top
 billuno.top
 bin-airdrop.online
 binanc.loadportal.site
-binance--cekilisi.com
-binance--cekilisleri.com
 binance-account-login.vercel.app
-binance-cekilisi.com
-binance-cekilisleri.com
 binance-destek.com
 binance-exchanges.cloud
 binance-sign-in.vercel.app
 binance-team.com
-binance-tr-cekilis.com
 binance-turkiye.com
 binancebi.com
 binancecekilisi.com
 binancedigitalltd.com
 binancehediyefirsati.duckdns.org
 binancelogin-tr.com
-binancetrcekilis.com
 binancetrlogin.duckdns.org
 binfrstlariekm.duckdns.org
 bir-sigortam-nas-check-20261018.birsigortam-net-tr.workers.dev
@@ -3038,8 +3032,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -3603,6 +3597,7 @@ dispertia.com
 displayresearchinc.org
 divekickspolic.org
 divpre.top
+djgmll323scd.shop
 djitalfast-simdikampanya.duckdns.org
 dk3ch3ncjskru8.cfd
 dkak-olience-bsvr.myonlineportal.ch
@@ -4838,7 +4833,6 @@ forvar-d.my-homeip.de
 forvard.best
 forvard.site
 forvarding.space
-forward-yonlendir.ink
 forwardjourney.online
 forweb.ink
 fosetya.shop
@@ -4847,6 +4841,7 @@ fotocekinmeguzelim.vip
 fountaincatering.sbs
 foxitpdf.ru
 fppstart.com
+frawlix.com
 frdgdwqdw.duckdns.org
 free-internet-turkey.blogspot.com
 freedata-giveaway.com
@@ -4970,6 +4965,7 @@ garanti-sermaye-hizmeti.cloud
 garanti-sermaye-merkezi.cloud
 garanti-sermaye-portali.cloud
 garanti-servis-noktasi.cloud
+garanti-varlik-merkezi.cloud
 garanti-yatirim-destek.cloud
 garanti.abrdns.com
 garanti.giris.yansitek.cam
@@ -5744,6 +5740,7 @@ haberler612448.shop
 haberler64348.shop
 haberler6555343.shop
 haberler73452.sbs
+haberler73534.com
 haberler7452523.shop
 haberler7456423.sbs
 haberler78413289.sbs
@@ -6090,6 +6087,7 @@ hftyldzhmnl.shop
 hftyldzlrdikmpn.click
 hg.xxxxxxxxx111111.click
 hg73983943.click
+hgbvvbnbn454.shop
 hgclbdrgelsorglama.firebaseapp.com
 hgjmkb3434.shop
 hglerbrdgelsorgla.web.app
@@ -7069,7 +7067,6 @@ islemlerinmobil-14.sbs
 islemlerinmobil-15.sbs
 islemlerinmobil-17.sbs
 islemlerle.com.tr
-islemonayla-tr.online
 islemonayla.online
 islemonaylatr.online
 islemynmd.net
@@ -7246,6 +7243,7 @@ iztaoawqw.blogspot.com
 iztqopos.blogspot.com
 iztsdwws.blogspot.com
 j-newstr2.vip
+j-newstr4.vip
 j3slshb7ef.ipv64.net
 j565656.click
 j8l8.my
@@ -7278,7 +7276,9 @@ jfbsdbkjfsdf.shop
 jfkgygr.duckdns.org
 jfsdfsdflsdfsd.shop
 jfuendchxakwdrsavqfy.sbs
+jgnvmmfk3432.click
 jgsbdrd.cc
+jgvmfkcml34ws.shop
 jhflt6l0dwminsl494836rb.org
 jiaozhu.etlva.cn
 jiekou.baojingtextile.cn
@@ -7306,6 +7306,7 @@ joyfulworkshop.org
 jp-login.bsnotespublication.com
 jpbankgarantibbva.ph
 jpslidefin.com
+jrzcz.xyz
 js-static.com
 jsadetersaeter.help
 jsfeterst.duckdns.org
@@ -7623,6 +7624,7 @@ khoury-cgi.lvborses.net
 khsssras.sbs
 kibariyelafimiolur.duckdns.org
 kibriscicekmarket.com
+kidlando.com
 kiilometresorguhesap.web.app
 kikmmdkdlrmaz.sbs
 kilabeyt-org.my-homeip.de
@@ -7868,6 +7870,7 @@ kooperatifjet.app
 kooperatifmarket.online
 kooperatifmarket.org.tr
 kooperatifmarket.vercel.app
+kooperatifmarketd.blogdns.com
 kooperatifmarketde.blogdns.com
 kooperatifmarketi.vercel.app
 kooperatifmarketson.blogspot.com
@@ -8870,6 +8873,7 @@ mhmhmmrsms.click
 mhmrmermrems.duckdns.org
 mhmsl.com
 mhpubrsle.digital
+mhr-sonlinex.sbs
 mhrdnve.cfd
 mhremhmsdfksdfkasfa.duckdns.org
 mhrfivems.lol
@@ -11232,7 +11236,6 @@ s0k-cepte-kasimfirsatlari.duckdns.org
 s0kfirsatlarim.duckdns.org
 s0kkap1n4gel5infir5s4tl4ri.cyou
 s0kkap1n4gel5infir5s4tl4ri.duckdns.org
-s0kmarkletlm.com
 s0kmlarket.shop
 s0lmalktlret.com
 s1.evsahibibasvuru.com
@@ -12624,6 +12627,7 @@ swsadhashdhwww99ww9.click
 sx.nuihuw.com
 sx3cjniwo1bmtqs0vlj-va2f.app
 sx8vuz4smtdol7pg.com
+sylvexo.com
 synatra-nexus.com
 sync-account-invite.com
 sync-account.com
@@ -12984,6 +12988,7 @@ tirreklerebalon.duckdns.org
 tispirtesse.com
 titanixo.com
 titlevoy.com
+tivryle.com
 tk-tapursevrandvun.info
 tk-tapursevrandvun.net
 tk-tapursevrandvun.org
@@ -13927,6 +13932,7 @@ wollink.cloud
 woltexi.com
 womblix.gifts
 wonderings.info
+wordelix.com
 wordlinktranslator.com
 wordmoss.com
 wordpress-18e00011.wasmer.app
