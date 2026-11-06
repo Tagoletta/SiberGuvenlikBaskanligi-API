@@ -1567,6 +1567,7 @@ facebook-login-jakarta-sa.net.ph
 facebook-login-largo.com.ph
 facebook-login-lisbon.com.ph
 facebook-login-login-nz-asia.com.ph
+facebook-login-madrid-uk.ph
 facebook-login-metrobankl.com.ph
 facebook-login-myanmar-intl.com.ph
 facebook-login-new-york.com.ph
@@ -1636,8 +1637,10 @@ facebookloginfriends-art.com.ph
 facebookloginhelp-denmark.com.ph
 facebookloginlabz1.com.ph
 facebookloginlakezx.net.ph
+facebookloginlambda.net.ph
 facebookloginlamp.net.ph
 facebookloginlawfirms.com.ph
+facebookloginleads.com.ph
 facebookloginmysteryk.com.ph
 facebookloginnuzen.ph
 facebookloginonlinezvr.com.ph
@@ -3057,6 +3060,7 @@ m-rhbrsaglk.cfd
 m-rndbnd.cfd
 m-rndsglkrhber.cfd
 m-sglikrhber.cfd
+m-sglkrndrhber.cfd
 m.catcoinglobal.top
 maasrehberi.cyou
 macaosjack.duckdns.org
@@ -4644,6 +4648,7 @@ waiwai.icu
 walletsecurity.dev
 walletsecuritypro.cam
 wealthlift.click
+wear-clouds-understand-breeding.trycloudflare.com
 web-alisveriskapinda.sbs
 web-alisverissiparis.sbs
 web-bulut-habercilik.cfd
@@ -4792,7 +4797,6 @@ xinxi.yszhichuang.com
 xll8sdhqewwhse.eth64.de
 xn--asfo322km-xpb.shop
 xn--bsvrurmalyeonlineekap-sgdm.site
-xn--dhsssrascrod-d5b.shop
 xn--nadrgold-e2a.com
 xn--qnbfinnsbnk-p7a6b.ph
 xn--qnbfinnsbrk-d7ad.ph

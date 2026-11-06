@@ -649,7 +649,6 @@
 315455564447889889989992.duckdns.org
 315455564447889889989993.duckdns.org
 315ygdsagad.duckdns.org
-31852858529696963.baby
 3212221112445479890.duckdns.org
 3212221112445479892.duckdns.org
 3212221112445479895.duckdns.org
@@ -1023,7 +1022,6 @@ a01.ai-poolion.cc
 a1-82rvdnalbrdan.org
 a10001firstlari.giize.com
 a101-aktuel.netlify.app
-a101-firsatlariniza-gelin.duckdns.org
 a101-girisfacebook.click
 a101.dijitalbayim.com
 a101.dpdns.org
@@ -1856,7 +1854,6 @@ aselcicekcilik.com
 aselsan-ai.sbs
 aselsan-platform.shop
 aselsan-soft-com.pages.dev
-aselsan-system.com
 aselsan-trade.co
 aselsan.top
 aselsantrade.com
@@ -2202,7 +2199,6 @@ basvurunuzyapiliyor.sbs
 basvurusistem.abrdns.com
 basvurusistemi.abrdns.com
 basvurusistemim.abrdns.com
-basvurusitesi-production.up.railway.app
 basvurusu-kiraliktoki.com
 basvurutokievler.com
 basvuruyeri.biz
@@ -4489,6 +4485,7 @@ facebook-login-largo.com.ph
 facebook-login-lisbon.com.ph
 facebook-login-login-nz-asia.com.ph
 facebook-login-login.blogspot.com
+facebook-login-madrid-uk.ph
 facebook-login-metrobankl.com.ph
 facebook-login-myanmar-intl.com.ph
 facebook-login-new-york.com.ph
@@ -4571,11 +4568,13 @@ facebookloginlakezx.net.ph
 facebookloginlal.com.ph
 facebookloginlal.net.ph
 facebookloginlam.com.ph
+facebookloginlambda.net.ph
 facebookloginlamp.net.ph
 facebookloginlan.com.ph
 facebookloginlan.net.ph
 facebookloginlawfirms.com.ph
 facebookloginlawyer.com.ph
+facebookloginleads.com.ph
 facebookloginmysteryk.com.ph
 facebookloginnuzen.ph
 facebookloginonlinelegal.com.ph
@@ -7645,7 +7644,6 @@ kilometresorgumrkezi.web.app
 kilometresorgus.web.app
 kilometresorgusubayin.web.app
 kilomtresorgulabilgi.web.app
-kilomtresorgulma.web.app
 kimbunasasirmazkisizinicin.sbs
 kingbss.com
 kinoranx.com
@@ -8477,6 +8475,7 @@ m-rndvual.com
 m-sahibinden.lovestoblog.com
 m-sahihinden.com.tr
 m-sglikrhber.cfd
+m-sglkrndrhber.cfd
 m.catcoinglobal.top
 m.evsahibibasvuru.com
 m.garfielddom.click
@@ -10662,7 +10661,6 @@ profitlyatt.com
 profitnow.io
 programupdate-assis.top
 projectcontrolgroup.co
-projectjuventus.xyz
 projectnightcrawler.dev
 projectpartapple.com
 promosyon-cepteteb-com-tr.my-homeip.de
@@ -13809,6 +13807,7 @@ wasilewski-investments.pl
 wastingtime.co
 wavel.apple03cloudstore.com
 wealthlift.click
+wear-clouds-understand-breeding.trycloudflare.com
 web-alisveriskapinda.sbs
 web-alisverissiparis.sbs
 web-braun.com

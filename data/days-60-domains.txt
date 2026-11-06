@@ -3073,6 +3073,7 @@ facebook-login-largo.com.ph
 facebook-login-lisbon.com.ph
 facebook-login-login-nz-asia.com.ph
 facebook-login-login.blogspot.com
+facebook-login-madrid-uk.ph
 facebook-login-metrobankl.com.ph
 facebook-login-myanmar-intl.com.ph
 facebook-login-new-york.com.ph
@@ -3123,7 +3124,6 @@ facebookloginaccess-tr.com.ph
 facebookloginalpha.com.ph
 facebookloginambulance.com.ph
 facebookloginanimal.com.ph
-facebookloginapparel.com.ph
 facebookloginapponline.com.ph
 facebookloginbase.org.ph
 facebookloginconfirm-au.com.ph
@@ -3145,8 +3145,10 @@ facebookloginfriends-art.com.ph
 facebookloginhelp-denmark.com.ph
 facebookloginlabz1.com.ph
 facebookloginlakezx.net.ph
+facebookloginlambda.net.ph
 facebookloginlamp.net.ph
 facebookloginlawfirms.com.ph
+facebookloginleads.com.ph
 facebookloginmysteryk.com.ph
 facebookloginnuzen.ph
 facebookloginonlinezvr.com.ph
@@ -3193,7 +3195,6 @@ faxtronics.com
 fb-form.pages.dev
 fb36660.site
 fbfnsdhcn.click
-fblogin.click
 fbvbv565656.click
 fd2sde33d3.com
 fdjskfsdjkfs.com
@@ -3439,7 +3440,6 @@ garantibasvuru.cloud
 garantibbva-aidat.vercel.app
 garantibbva-aidat.web.app
 garantibbva-bireysel.netlify.app
-garantibbva-boll.com.ph
 garantibbva-destek.netlify.app
 garantibbva-destek.vercel.app
 garantibbva-destek.web.app
@@ -3994,7 +3994,6 @@ hep48gel84lssh.mywire.org
 hepistanbulmarket.com
 hepsi-buradakep.com
 hepsiberada.live
-hepsiburada-sberbank.ph
 hepsiburada.ile-sepetinizde.com.tr
 hepsiburadalj.com
 hepsiburadalll.com
@@ -4794,7 +4793,6 @@ istanbulkarttrca.xyz
 istanbulkrtlahmnodemeya.com
 istanbullbelgimkartt.xyz
 istanbullbelgimmkart.xyz
-istanbullbelgimmkartt.xyz
 istanbullbellggimmm.xyz
 istanbullbellgiimkartt.xyz
 istanbulombelgim.xyz
@@ -5399,7 +5397,6 @@ lkntansr.net
 llllllllllll111111.com
 llllllllllllllllllllllllllllllllllllllllllllllllll.info
 llllllllllllllllllllllllllllllllllllllllllllllllll.site
-lloydsbankgarantibbva.com.ph
 lls6vre6e6desls3ee28shs9ehhhh.tcp64.de
 lndirimayieylultt.com
 lndirimieyluldehemen.com
@@ -5487,6 +5484,7 @@ m-rndvual.com
 m-sahibinden.lovestoblog.com
 m-sahihinden.com.tr
 m-sglikrhber.cfd
+m-sglkrndrhber.cfd
 m.catcoinglobal.top
 m99090s.site
 ma44777.site
@@ -6116,7 +6114,6 @@ nihaisenlim.giize.com
 nihilvoluptate.com
 nikear.onrender.com
 nikehr-jobs.com
-nimc-onlinesbi-garantibbva.com.ph
 ninettygifvbckpe.net
 ninettygifve.net
 nissxndaki-kampnxylarm.com
@@ -8718,6 +8715,7 @@ warpcast.asia
 wasilewski-investments.pl
 wavel.apple03cloudstore.com
 wealthlift.click
+wear-clouds-understand-breeding.trycloudflare.com
 web-alisveriskapinda.sbs
 web-alisverissiparis.sbs
 web-bulut-habercilik.cfd
@@ -9145,7 +9143,6 @@ yklemelrhzlihgs.cfd
 yklemenkthgs.com
 yklemlrhzlicaypin.cfd
 ykleozmnhgsde.cfd
-yklesrglhgs.cfd
 yklmednsnrhgs.cfd
 yklmehgsnktalari.cfd
 yklmehgsnktsi.cfd
