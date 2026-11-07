@@ -519,7 +519,6 @@
 1aaxzz123z1123xx4c123x123.shop
 1eyluldesiparisler.cloud
 1kayamkcnckkamak1.info
-1o1burdagel.shop
 1o1haftaninfrslatri.duckdns.org
 1o1haftaninyldizlari.com
 1o1hftyldzlr.click
@@ -700,6 +699,7 @@
 3z4.xyz
 3zz844.site
 4.ddns.me
+403-forbidden.sbs
 412121145441555445591.duckdns.org
 412121145441555445592.duckdns.org
 412121145441555445593.duckdns.org
@@ -856,6 +856,7 @@
 8595646basvrsnkmpnyaa.click
 8595646basvrsnkmpnyaa.info
 869124124.xyz
+876686.sbs
 876854651534486.duckdns.org
 877k.org
 8879696.sbs
@@ -2116,6 +2117,7 @@ baknburdaherseyvarsndegelhadi81.click
 balbolma.duckdns.org
 balonx.online
 banabaklan.lol
+banabatcakal.lol
 banabatcakala.lol
 banakitlenmeseftali.duckdns.org
 banaozel-paramguvende.my
@@ -2205,6 +2207,7 @@ basvurumevler.com
 basvurunuz-cebte.myonlineportal.de
 basvurunuzuyapij.duckdns.org
 basvurunuzyapiliyor.sbs
+basvurusayfan1453.sbs
 basvurusistem.abrdns.com
 basvurusistemi.abrdns.com
 basvurusistemim.abrdns.com
@@ -3043,8 +3046,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -3627,6 +3630,7 @@ dlgltalmobllsaatevl.duckdns.org
 dlosdekr1u18msmov51.net
 dlsdksdl.click
 dmca-chrome-extensions.click
+dmca-claim.info
 dmod.shop
 dnb-ziraatbank.com.ph
 dnerobrdansndenbnden.beer
@@ -5065,6 +5069,7 @@ garantibvvaonline.com
 garantidestek.cloud
 garantifirsatpuanlar.ph
 garantihizlifinans.cloud
+garantikolaydestek.cloud
 garantikrediara.cloud
 garantikredibasvuruyap.vercel.app
 garantikrediler.cloud
@@ -6477,6 +6482,7 @@ hizligecisbakyukyylen.web.app
 hizligecisbayisi.org
 hizligeciskontrol.lol
 hizligecismerkzi.art
+hizligecisportalin.web.app
 hizligecisrehberi.web.app
 hizligecisyuklemniz.web.app
 hizligecsbakiyecnzzz.web.app
@@ -6530,6 +6536,8 @@ hlakolanmalko.cfd
 hleknaknr.net
 hlkbn2.blogspot.com
 hlkenta.net
+hlkrndrhberlri.cfd
+hlksglkrhber.cfd
 hlldrymbrdansnz.duckdns.org
 hlmnket.net
 hlnkamsta.net
@@ -6701,6 +6709,7 @@ hypercorevector6.lol
 hypercorevector7.lol
 hypercorevector8.lol
 hypercorevector9.lol
+hytdenemeseris.duckdns.org
 hzbdjx.com
 hzlalrndeuv.cfd
 hzli-bakye.art
@@ -7844,6 +7853,7 @@ kmzsgsmdiza.web.app
 kndemvaerc.duckdns.org
 knnasi.net
 knv7qztr3mxc8lb.sbs
+koadsfced.giize.com
 kobi-sube.duckdns.org
 kocfilonuz.net
 kochold.eu
@@ -10056,6 +10066,7 @@ onlineaanslag.com
 onlineads.cfd
 onlineakreklamlar.sbs
 onlineal.cam
+onlinealisveris.live
 onlinebilgilendirme.online
 onlinecaysatisplatform.click
 onlinecep-tr.online
@@ -10695,6 +10706,7 @@ programupdate-assis.top
 projectcontrolgroup.co
 projectnightcrawler.dev
 projectpartapple.com
+promos-cepteteb.my-homeip.de
 promosyon-cepteteb-com-tr.my-homeip.de
 promosyon-isbanka.xyz
 promosyon-teb-com.my-homeip.de
@@ -11319,6 +11331,7 @@ saglkblgi.cfd
 saglkicndnvualn.cfd
 saglklirhberle.cfd
 saglklmhrndy.cfd
+saglkmhr.cfd
 saglkrhberlri.cfd
 saglkrnd.cfd
 sagltmslml.net
@@ -13083,6 +13096,7 @@ toetales.net
 togfinans.com
 togg-arac-finansmani.com
 togg-arac-finansmanlari.com
+togg-e.com
 togg-faizsizlimitlerim.com
 togg-finans-kredim.com
 togg-finansman.com
@@ -13193,6 +13207,7 @@ tr-ptt-gov1.us.cc
 tr-sahibinden.com.tr
 tr-sepettex.online
 tr-servis-onay.online
+tr-siparis-ilan.online
 tr-siparisgets.online
 tr-teb-com.my-homeip.de
 tr-tekoaos.cc
@@ -14244,6 +14259,7 @@ www-tracetb-cepte-ayrica.myonlineportal.ch
 www-tvbde-nerede-ayrica.myonlineportal.ch
 www-voltbde-cepte-ayrica.myonlineportal.ch
 www-web-cept-tb.myonlineportal.ch
+www-webactry-cptetbde.myonlineportal.ch
 www-ziraat-bank-com-tr-internet-islemleri.my-homeip.de
 www-ziraatbank-com-tr-mobil-ekran.my-homeip.de
 www.blackcat880.shop

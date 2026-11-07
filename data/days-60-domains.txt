@@ -579,6 +579,7 @@
 3z4.xyz
 3zz844.site
 4.ddns.me
+403-forbidden.sbs
 412121145441555445591.duckdns.org
 412121145441555445592.duckdns.org
 412121145441555445593.duckdns.org
@@ -676,6 +677,7 @@
 8595646basvrsnkmpnyaa.click
 8595646basvrsnkmpnyaa.info
 869124124.xyz
+876686.sbs
 876854651534486.duckdns.org
 877k.org
 8879696.sbs
@@ -899,7 +901,6 @@ adanlskyrzz.duckdns.org
 adastraerrans.com
 adaybasvuruislemleri.info
 adaybasvurunz.com
-adayislermleri.info
 add-ny-ent.myonlineportal.ch
 additionalver.com
 addlabelorg.com
@@ -1523,6 +1524,7 @@ bakiyelerdetayli.lol
 bakkaldennoo.linkpc.net
 balbolma.duckdns.org
 banabaklan.lol
+banabatcakal.lol
 banabatcakala.lol
 banakitlenmeseftali.duckdns.org
 bandanaman.465154865486516.sbs
@@ -1581,6 +1583,7 @@ basvurulariyapinkacirmayinekim.cfd
 basvurumerkezim2026.cfd
 basvurumevler.com
 basvurunuzyapiliyor.sbs
+basvurusayfan1453.sbs
 basvurusistem.abrdns.com
 basvurusistemi.abrdns.com
 basvurusistemim.abrdns.com
@@ -2124,8 +2127,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -2456,6 +2459,7 @@ dksjfjkdsjfksdjkf.com
 dktrgeldi.duckdns.org
 dlgltalmobllsaatevl.duckdns.org
 dlsdksdl.click
+dmca-claim.info
 dmod.shop
 dnerobrdansndenbnden.beer
 dnfbdnskdxm.sbs
@@ -3314,7 +3318,6 @@ forvard.site
 forvarding.space
 forweb.ink
 fosetya.shop
-foto3969.link
 fountaincatering.sbs
 frawlix.com
 frdgdwqdw.duckdns.org
@@ -3446,6 +3449,7 @@ garantibvvaonline.com
 garantidestek.cloud
 garantifirsatpuanlar.ph
 garantihizlifinans.cloud
+garantikolaydestek.cloud
 garantikrediara.cloud
 garantikredibasvuruyap.vercel.app
 garantikrediler.cloud
@@ -4330,6 +4334,7 @@ hizligecisbakiyeyukyn.web.app
 hizligecisbakyukyylen.web.app
 hizligeciskontrol.lol
 hizligecismerkzi.art
+hizligecisportalin.web.app
 hizligecisrehberi.web.app
 hizligecisyuklemniz.web.app
 hizligecsbakiyecnzzz.web.app
@@ -4363,6 +4368,8 @@ hkwsluh9ewshyefelhe.srv64.de
 hl53s54h462lee3s.ipv64.de
 hlakolanmalko.cfd
 hleknaknr.net
+hlkrndrhberlri.cfd
+hlksglkrhber.cfd
 hlldrymbrdansnz.duckdns.org
 hlnkamsta.net
 hlnktans.net
@@ -4459,6 +4466,7 @@ hurriyet.finance
 huyuhp-2f.myshopify.com
 hvacpik.com
 hy13adega.duckdns.org
+hytdenemeseris.duckdns.org
 hzlalrndeuv.cfd
 hzli-bakye.art
 hzligcshgs.cfd
@@ -5152,6 +5160,7 @@ kmsrglmazmn.cfd
 kmsroglamahizmttimiz.web.app
 kmsrogulamahizmetinizz.web.app
 kmzsgsmdiza.web.app
+koadsfced.giize.com
 kocholding.group
 kocholding.world
 kocholdng-turkishairlines.info
@@ -6380,6 +6389,7 @@ online-trend.online
 online.esubedunyam.com
 online.teb.com.se
 onlineaanslag.com
+onlinealisveris.live
 onlinebilgilendirme.online
 onlinecaysatisplatform.click
 onlinecep-tr.online
@@ -6707,6 +6717,7 @@ profitlyatt.com
 programupdate-assis.top
 projectcontrolgroup.co
 projectnightcrawler.dev
+promos-cepteteb.my-homeip.de
 promosyon-cepteteb-com-tr.my-homeip.de
 promosyon-isbanka.xyz
 promosyon-teb-com.my-homeip.de
@@ -7104,6 +7115,7 @@ saglkblgi.cfd
 saglkicndnvualn.cfd
 saglklirhberle.cfd
 saglklmhrndy.cfd
+saglkmhr.cfd
 saglkrhberlri.cfd
 saglkrnd.cfd
 sagltmslml.net
@@ -7290,7 +7302,6 @@ saldalibizker.sbs
 salflfas-aslfaspfwq-salfqwpfsalfasl.cfd
 saliozel.cfd
 samsosi.net
-sanalkontor.shop
 sanaozlindirimsadc101.com
 sancak2.cfd
 sandbox.diyanetisleribakanligi.vercel.app
@@ -8142,6 +8153,7 @@ toegleon.com
 toetales.net
 togg-arac-finansmani.com
 togg-arac-finansmanlari.com
+togg-e.com
 togg-faizsizlimitlerim.com
 togg-finansman.com
 togg-turk.com
@@ -8219,6 +8231,7 @@ tr-odemeilan.online
 tr-sahibinden.com.tr
 tr-sepettex.online
 tr-servis-onay.online
+tr-siparis-ilan.online
 tr-siparisgets.online
 tr-urun-detayi.online
 tr-web-alisveris-get-islemler.online
@@ -8925,6 +8938,7 @@ www-tracetb-cepte-ayrica.myonlineportal.ch
 www-tvbde-nerede-ayrica.myonlineportal.ch
 www-voltbde-cepte-ayrica.myonlineportal.ch
 www-web-cept-tb.myonlineportal.ch
+www-webactry-cptetbde.myonlineportal.ch
 www-ziraat-bank-com-tr-internet-islemleri.my-homeip.de
 www.blackcat880.shop
 www.cheng770.cyou
