@@ -149,7 +149,6 @@
 101-extra-sadece-bugune-ozel-indirim-sepeti-tr.shops-bilgi.online
 101-extra-sadece-bugune-ozel-indirim-shop-sepet-indirimi-tr.buy-tr.online
 101-extra-sadece-bugune-ozel-indirimli-sepet-shop-tr.onlinecep-tr.online
-101-extra-sadece-bugune-ozel-mobil-alisveris-cep-tr.cepteal-tr.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-indirimleri-shops.shops-trendtr.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-indirimleri-tr.extra-cepte-blog.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-indirimleri-tr.marketsepeti.online
@@ -8371,7 +8370,6 @@ turnclass.xyz
 turvearacbakim.site
 tutyrncjcn.shop
 tuuwttukr.govt.hu
-tuv-arac-muayene-randevu.blogspot.com
 tuvaslaturtuv.com
 tuvastuvastuv.com
 tuvlabrdnhepgr.com

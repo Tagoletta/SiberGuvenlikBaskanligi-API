@@ -2524,7 +2524,6 @@ insights.herbital.online
 instagram-e-mail-confirm-info-desk.ph
 instagram-facebook-update-login.ph
 instagram-login-lock-confirm-retry-confirm.com.ph
-instagram-rosy-alpha.vercel.app
 instagram.tms.valentinrnld.com
 instagramcopyrightverificationteammailteam.ph
 instagramloginhelpteaminfoteam.ph
@@ -2562,7 +2561,6 @@ isbnkitur.com
 iscep.bugunsizeozel.cfd
 iscep.ekimozel.cfd
 iscep.salicep.cfd
-iseekaigogo.com
 isht.ink
 iskurdestek.cfd
 iskurdestek.sbs
