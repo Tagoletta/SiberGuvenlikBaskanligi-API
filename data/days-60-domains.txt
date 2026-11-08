@@ -2122,8 +2122,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -8363,7 +8363,6 @@ turkiyeisbankasiyatirimprogrami-biz-3398i.pages.dev
 turkiyepetrolleri-pro.pages.dev
 turkiyepetrolleri-shop.pages.dev
 turkiyeyatirim.xyz
-turkpatent-gov-tr.com
 turkpatentkurumsal.com
 turkticaret-servis-idcheck8820137.diars.it
 turnclass.xyz

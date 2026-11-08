@@ -158,7 +158,6 @@
 123512351235.duckdns.org
 1235616345234.sbs
 1256121.xyz
-127199292020199.servehttp.com
 127985698545789555899855990.xyz
 127985698545789555899855992.xyz
 127985698545789555899855993.xyz
@@ -2187,9 +2186,6 @@ hizli-gecis-baakiye-yukleme282.web.app
 hizli-gecis-bakiye-yukle212.web.app
 hizli-gecis-bakiye-yukle213.web.app
 hizli-gecis-bakiye-yukle21tr.web.app
-hizli-gecis-bakiye-yukle221.web.app
-hizli-gecis-bakiye-yukle222.web.app
-hizli-gecis-bakiye-yukle223.web.app
 hizli-gecis-bakiye-yukle22can.web.app
 hizli-gecis-bakiye-yukle22tr.web.app
 hizli-gecis-bakiye-yukle231.web.app
@@ -2498,7 +2494,6 @@ indirimkuponu.online
 indirimpesidne1o1.duckdns.org
 indirimsel-tr.online
 indirimyuzbirzs.duckdns.org
-indrmlrmbnlrkapida-kpaid-9sn3dk.sbs
 industryspotlightreport.com
 inetcities.net
 infect.online
