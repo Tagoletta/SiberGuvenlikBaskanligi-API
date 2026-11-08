@@ -1472,6 +1472,7 @@ facebook--update-available.ph
 facebook-bakim.ph
 facebook-confirm-message.com.ph
 facebook-facebook-status.ph
+facebook-help-reset.ph
 facebook-like-login.ph
 facebook-login-barcelona101.com.ph
 facebook-login-berlin-us.ph
@@ -1583,6 +1584,7 @@ facebookloginfinanceforum.com.ph
 facebookloginfinancehelp.com.ph
 facebookloginfitnesspage.com.ph
 facebookloginfloristonline.com.ph
+facebookloginfranchise.com.ph
 facebookloginfriends-anime.com.ph
 facebookloginfriends-art.com.ph
 facebookloginhelp-denmark.com.ph
@@ -2127,7 +2129,6 @@ hgsdeodemedeyeridir.vercel.app
 hgsdolumbayniz.art
 hgsgecisbakyniz.web.app
 hgsodeme.vercel.app
-hhizli-gecis-baakiye-yukleme.web.app
 hhizli-gecis-bakiye-yukle22.web.app
 hhizli-gecis-bakiye-yukle23.web.app
 hhizli-gecis-bakiye-yukleme18.web.app
@@ -2179,7 +2180,6 @@ hizlgecisiniziyukleyn.art
 hizlgecisistembakiyesi.web.app
 hizli-garanti-kredi.cloud
 hizli-gecis-baakiye-yukleme.netlify.app
-hizli-gecis-baakiye-yukleme2.web.app
 hizli-gecis-baakiye-yukleme26.web.app
 hizli-gecis-baakiye-yukleme269.web.app
 hizli-gecis-baakiye-yukleme2691.web.app
@@ -2198,8 +2198,6 @@ hizli-gecis-baakiye-yukleme27342.web.app
 hizli-gecis-baakiye-yukleme273tr.web.app
 hizli-gecis-baakiye-yukleme281.web.app
 hizli-gecis-baakiye-yukleme282.web.app
-hizli-gecis-baakiye-yukleme3.web.app
-hizli-gecis-baakiye-yuklemetr.web.app
 hizli-gecis-bakiye-yukle21.web.app
 hizli-gecis-bakiye-yukle212.web.app
 hizli-gecis-bakiye-yukle213.web.app
@@ -2705,7 +2703,6 @@ kampanyaligunlerim.xyz
 kampanyamarketonline.duckdns.org
 kampanyaszamanikauveytile.cfd
 kapamyanalar1o1.duckdns.org
-kapida-bk3m-8sn3k.sbs
 kaplmb-stnal.myshopify.com
 kaplmslcksorgl.web.app
 kaplumbaga-satinal.myshopify.com
@@ -3492,6 +3489,7 @@ pepe-cekilis.info
 pera-stili.shop
 pergalomon.giize.com
 petlunax.com
+phalisverisptt-avm.com.ph
 pilokihigugugu-reteyete.lol
 pilschip.com
 pinekoskim.giize.com

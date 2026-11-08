@@ -2127,8 +2127,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -3017,6 +3017,7 @@ facebook--update-available.ph
 facebook-bakim.ph
 facebook-confirm-message.com.ph
 facebook-facebook-status.ph
+facebook-help-reset.ph
 facebook-like-login.ph
 facebook-login-barcelona101.com.ph
 facebook-login-berlin-us.ph
@@ -3132,6 +3133,7 @@ facebookloginfinanceforum.com.ph
 facebookloginfinancehelp.com.ph
 facebookloginfitnesspage.com.ph
 facebookloginfloristonline.com.ph
+facebookloginfranchise.com.ph
 facebookloginfriends-anime.com.ph
 facebookloginfriends-art.com.ph
 facebookloginhelp-denmark.com.ph
@@ -6639,6 +6641,7 @@ perplexity-beta-ads.com
 perplexity-beta.com
 personclouds.com
 petlunax.com
+phalisverisptt-avm.com.ph
 phillipcapitaldanismanlik.com
 pilokihigugugu-reteyete.lol
 pilouyguredesa.lol

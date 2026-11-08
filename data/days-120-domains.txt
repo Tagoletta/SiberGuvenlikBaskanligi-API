@@ -1881,7 +1881,6 @@ ankaraadliye.org
 ankaraindirimx.com
 ankaramaliye.org
 ankaramamakads.duckdns.org
-ankaranest.life
 ankaranimetva.com
 ankaravezne.com
 anket.mku-edu.com
@@ -3821,8 +3820,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -5520,7 +5519,6 @@ everydayvaluebay.shop
 evetogunlergerigeliyor.sbs
 evetsizdegelinn.sbs
 evidaa.com
-evidencescout.com
 evim-basvurular.com
 evim-birtanem.life
 evimdeyimavm.com
@@ -5613,6 +5611,7 @@ facebook-bakim.ph
 facebook-confirm-login.com.ph
 facebook-confirm-message.com.ph
 facebook-facebook-status.ph
+facebook-help-reset.ph
 facebook-like-login.ph
 facebook-login-barcelona101.com.ph
 facebook-login-berlin-us.ph
@@ -5736,6 +5735,7 @@ facebookloginfinanceforum.com.ph
 facebookloginfinancehelp.com.ph
 facebookloginfitnesspage.com.ph
 facebookloginfloristonline.com.ph
+facebookloginfranchise.com.ph
 facebookloginfriends-anime.com.ph
 facebookloginfriends-art.com.ph
 facebookloginhelp-denmark.com.ph
@@ -8793,7 +8793,6 @@ initody.cyou
 inkact.xyz
 inkflowra.com
 inpersonevents.lvborses.com
-insightbasehq.com
 insightjs.com
 insightjs.org
 insights.herbital.online
@@ -13083,7 +13082,6 @@ paribuarabakazanclari.com
 paribuarabaruyasi.com
 paribuarabasansim.com
 paribuarabasansin.com
-paribuarabatalihlisi.com
 paribucark-alhediye.com
 paribucark-alhediye.info
 paribucark-burada.com
@@ -13372,6 +13370,7 @@ perplexity-beta-ads.com
 perplexity-beta.com
 personclouds.com
 petlunax.com
+phalisverisptt-avm.com.ph
 phillipcapitaldanismanlik.com
 phone.evsahibibasvuru.com
 photo.evsahibibasvuru.com
@@ -13498,7 +13497,6 @@ premium-oduller.online
 premiumarac.net
 prependinganalysis.site
 preprod.diyanetisleribakanligi.vercel.app
-presence-chris-modern-ata.trycloudflare.com
 presscraftly.net
 presslifyra.com
 pressureulcerlawyer.com
@@ -17019,7 +17017,6 @@ turkishekonomi.click
 turkishflow.live
 turkishly.sbs
 turkishpazar.click
-turkishplus.click
 turkiue.sbs
 turkiye-bankas.sbs
 turkiye-bankasi.net
