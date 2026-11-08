@@ -2123,8 +2123,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -4887,7 +4887,6 @@ kahvedunyasigift.com
 kaiotosereals.sbs
 kaita1reklamhizmetleri.sbs
 kaita2elleme3434.sbs
-kaitaelleme3434.sbs
 kaitaellemeentermenter.sbs
 kaitageldimeta.sbs
 kaitailemetalardedeler.sbs

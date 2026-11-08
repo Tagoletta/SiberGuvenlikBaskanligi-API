@@ -3035,8 +3035,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -5759,7 +5759,6 @@ hadhsynsynr.uk
 hadi-gels-in.com
 hadibasvurus.duckdns.org
 hadidmsimd.cfd
-haftalikmarketafisi.com
 haftalikyildiz1o1.duckdns.org
 haftanin1o1flrsatlari.com
 haftaninfirsatliurunleri.sbs
