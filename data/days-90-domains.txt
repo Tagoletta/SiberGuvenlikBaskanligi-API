@@ -3507,7 +3507,6 @@ diji-fiyat.sbs
 diji-login.shop
 diji-mobile.shop
 diji-teb.my-homeip.de
-dijionline-kampanya.sbs
 dijionline-siparis.sbs
 dijionline-siparisim.sbs
 dijionline-sipariskampanya.sbs
@@ -4334,7 +4333,6 @@ euzlasmatakip.com
 euzlasmatalimat.com
 euzlasmatr.org
 ev-basvuru-toplu.com
-evatandasbilgi.org
 evatandasceza.com
 evatandasceza.org
 evatandasdava.com
@@ -10629,7 +10627,6 @@ prmsynnnkmpnyrrsonffrstlar.info
 pro.taustas.com
 prod-artfkt.com
 profitlyatt.com
-profitnow.io
 programupdate-assis.top
 projectcontrolgroup.co
 projectnightcrawler.dev
