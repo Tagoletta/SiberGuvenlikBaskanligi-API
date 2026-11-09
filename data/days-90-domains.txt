@@ -707,6 +707,7 @@
 3z4.xyz
 3zz844.site
 4.ddns.me
+403-forbidden.icu
 403-forbidden.sbs
 412121145441555445591.duckdns.org
 412121145441555445592.duckdns.org
@@ -3002,8 +3003,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -7246,6 +7247,7 @@ kalbimdesaklibirisin.xyz
 kalemmonst.duckdns.org
 kalskemnsner.duckdns.org
 kalyanavaram.com
+kameran5554.duckdns.org
 kamertanser32.duckdns.org
 kampanya-burada.online
 kampanya-hemenburada.online
@@ -12745,6 +12747,7 @@ togg-arac-finansmanlari.com
 togg-e.com
 togg-faizsizlimitlerim.com
 togg-finansman.com
+togg-tr.com
 togg-turk.com
 togg-turkiye.com
 togg.bar

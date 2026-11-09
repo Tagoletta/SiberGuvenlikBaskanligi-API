@@ -583,6 +583,7 @@
 3z4.xyz
 3zz844.site
 4.ddns.me
+403-forbidden.icu
 403-forbidden.sbs
 412121145441555445591.duckdns.org
 412121145441555445592.duckdns.org
@@ -2111,8 +2112,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -4866,6 +4867,7 @@ kalbimdesaklibirisin.xyz
 kalemmonst.duckdns.org
 kalskemnsner.duckdns.org
 kalyanavaram.com
+kameran5554.duckdns.org
 kampanya-pro-cepteteb.my-homeip.de
 kampanya101.click
 kampanyafirstlair.sbs
@@ -7502,7 +7504,6 @@ sndyaralnyesil.click
 snipex-iota.vercel.app
 snnfrstlarrkmpnyaa189765.info
 snowgirl.zki.lol
-snrayklmelerhgs.cfd
 snrszkmp.loseyourip.com
 so-kekimayiozel-sepet.com
 soarbox.net
@@ -8071,6 +8072,7 @@ togg-arac-finansmanlari.com
 togg-e.com
 togg-faizsizlimitlerim.com
 togg-finansman.com
+togg-tr.com
 togg-turk.com
 togg-turkiye.com
 togg.bar

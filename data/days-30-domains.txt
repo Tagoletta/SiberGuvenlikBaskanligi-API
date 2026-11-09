@@ -259,6 +259,7 @@
 3z4.xyz
 3zz844.site
 4.ddns.me
+403-forbidden.icu
 403-forbidden.sbs
 429472ae25.nxcli.io
 453546545434.sbs
@@ -2581,6 +2582,7 @@ kalakaldimdyorbirbasisma.sbs
 kalbimdesaklibirisin.xyz
 kalemmonst.duckdns.org
 kalskemnsner.duckdns.org
+kameran5554.duckdns.org
 kampanya-pro-cepteteb.my-homeip.de
 kampanya101.click
 kampanyafirstlair.sbs
@@ -4114,6 +4116,7 @@ tms.szbboys.com
 tnvnchfc.click
 togg-e.com
 togg-finansman.com
+togg-tr.com
 togg-turk.com
 togg-turkiye.com
 togg.bar
