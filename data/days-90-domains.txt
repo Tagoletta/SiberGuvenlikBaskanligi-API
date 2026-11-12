@@ -2012,8 +2012,6 @@ avsfilorezervasyon.net
 avshepyaninda.com
 avskiralama.org
 avskiralama724.com
-avskiralamafilo.com
-avskiralamafilo.online
 avskiralamamerkezi.com
 avskiralamayeri.com
 avskiralikaraba.com
@@ -3017,8 +3015,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -4928,7 +4926,6 @@ garantibbva-giris.web.app
 garantibbva-gov.ph
 garantibbva-hepsiburada.com.ph
 garantibbva-iade.netlify.app
-garantibbva-isbank.com.ph
 garantibbva-isbank.ph
 garantibbva-kraken.ph
 garantibbva-kredi.abrdns.com
