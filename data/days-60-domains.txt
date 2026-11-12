@@ -2137,8 +2137,8 @@ cezadosyabilgi.com
 cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -2274,8 +2274,6 @@ contraislem.22web.org
 cooingeyebrow.com
 cookiecraftr.com
 coolcams.duckdns.org
-cop31.center
-cop31greenzoneaccreditation.com
 cop31saglik.com
 cop31saglikbakanligi.com
 copytrade.lat
@@ -2936,7 +2934,6 @@ etebliguzlasma.com
 etia.ca
 etkileyiciflrsatlar.com
 etkinlik-paneli.online
-etkinlik.cop31greenzoneaccreditation.com
 etkinlikbul.online
 etkinlikmerkezi.online
 etkinlikplatformu.online
@@ -6641,7 +6638,6 @@ polimericana.company
 polnet.lol
 pom-qp.ftwestseattle.com
 poosta.vercel.app
-portal.cop31.center
 portalhemen.lol
 portalmaliye.net
 portalmasak.org
@@ -6655,7 +6651,6 @@ pr-arabacekilisi.online
 prairiepomes.com
 prarabacekilisi.online
 prdndabnsendennestdm.lol
-pre-entry-declaration-cop31.ono.zone
 premium-firsatlar.online
 premium-oduller.online
 prependinganalysis.site
