@@ -1049,7 +1049,6 @@ akra-frontdeskt.com
 akraantalyafrontdesk.com
 akrafrontdesk.com
 akrahoteltr.sbs
-akronestermalhotel.com
 akszvm-gaedphsd-hredsggdsp.sbs
 aktaring.online
 aktaring.space
@@ -2289,9 +2288,9 @@ collartitle.info
 com-access-sharepoint.com
 com-kampanyarezervasyon.space
 com-onlinekampanya.net
-com-rezervasyon.com
 comestac.bid
 comesubem--qnbfinansbank.ph
+comfacebookloginfansonlineprizes.com.ph
 comforthavenyyds.com
 commarksandspencernederland.net.ph
 commonwealth-post.com
@@ -3926,7 +3925,6 @@ haleplioglu.live
 halimdenanla.dnsup.net
 halkacikmagazam.duckdns.org
 halkbankonlinedestek.com
-halkbnk.com.tr
 halkdijital.shop
 halkefeso.bot.cd
 halkfirsat.tech
@@ -4884,7 +4882,6 @@ itencrypted.com
 itendpoint365.onmicrosoft.com
 ithelpplus42.onmicrosoft.com
 itrgarant.win
-ivdgirismobil.com
 ivdijital.com
 ivgmobil.com
 ivgportal.com
@@ -5683,7 +5680,6 @@ mdshgsdg.art
 mdslkfmsdklfmlsdmfs.shop
 mea-firindan-ayni-gun-teslim.cfd
 mea-firindan.cfd
-meber.tempur.host
 medbooksource.com
 mediamarkt.mobil-jet-hizmet.online
 medioran.com
@@ -5731,8 +5727,6 @@ metahgshesa.duckdns.org
 metakaitaamin.duckdns.org
 metamanus.im
 metaoflinereklam34.sbs
-metareklamlari.cfd
-metareklamlari.cyou
 metareklamlari.sbs
 mexico-cashpay-test.s3.dualstack.mx-central-1.amazonaws.com
 meydancicekci.com
@@ -6595,7 +6589,6 @@ pastayiyiyin.sbs
 patioline.waitesguide.co
 patrokorkaas.duckdns.org
 patronhavale.cfd
-pawsockenjoyer.site
 pawsprint.cc
 payislemmerkezleri.com
 payment-confirm.com
@@ -7407,7 +7400,6 @@ sekeryatirimportfoy.com
 sel6bu6eft06.primevoria.com
 selamherkese.duckdns.org
 selectumresortshotels.net
-selgeresortbeachside.com
 selgesidebeachhotel.com
 selgesideotel.com
 selnora.cyou
@@ -7926,6 +7918,7 @@ t-e-b-ayricaliklar.my-homeip.de
 t0kibsvuru.lol
 t0kibsvuru.sbs
 t0kibsvuru.xyz
+t0kievleriibbasvuru.sbs
 t2265newdne.com
 t7q4x1n8v3.lol
 tabaeq.mom
