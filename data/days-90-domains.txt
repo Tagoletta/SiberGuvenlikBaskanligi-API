@@ -188,7 +188,6 @@
 101-extra-sadece-bugune-ozel-mobil-alisveris-indirimleri-tr.sepetra-tr.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-sepet-tr.max-shop-tr.online
 101-extra-sadece-bugune-ozel-mobil-firsat-indirimleri-tr.trendceps.online
-101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-shop-tr.avantajshop.online
 101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-tr.eticaret-mobil.online
 101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-trend.websepet-tr.online
 101-extra-sadece-bugune-ozel-mobil-indirim-sepeti.sepetteindirim.online
@@ -1254,7 +1253,6 @@ agrar-ara-bv.myonlineportal.ch
 agrar-ara-vb.myonlineportal.ch
 ags-vzal.myonlineportal.ch
 agstosbasindae.duckdns.org
-agstosfrsatttwa.com
 agstosindiirmbnm.duckdns.org
 agstossongunlerinds.duckdns.org
 agstsgnlerindeyiz.duckdns.org
@@ -1619,7 +1617,6 @@ apt-alna-aoriy.myonlineportal.ch
 ar-as-m.myonlineportal.ch
 ar-safar.myonlineportal.ch
 ara-asa-atk.my-homeip.de
-araba--paribu.live
 araba-cekilisim.link
 araba-cekilisim.online
 araba-cekilisin.online
@@ -2876,7 +2873,6 @@ ceceriya.s.gy
 ceeompatible.info
 cehte-som.lol
 cekememezlikvar.sbs
-cekilis--araba.live
 cekilis--sans.online
 cekilis-burada.online
 cekilis-hemenburada.online
@@ -3026,8 +3022,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -8479,7 +8475,6 @@ mhrs-sistem.vercel.app
 mhrs-yenidenoo.sbs
 mhrs.cicekcihizli.homes
 mhrs.mersinstar.xyz
-mhrsc347niz234wfh.com
 mhrscinizhakan49786.duckdns.org
 mhrsgfrgr.com
 mhrsgiris-edvltlogin2026.com
@@ -8529,7 +8524,6 @@ mhrsrendavuals.space
 mhrsrhizmetler.com
 mhrsrndsjlvsv.com
 mhrsrtrandevu.com
-mhrss-2026.duckdns.org
 mhrss-aps.online
 mhrssizden.duckdns.org
 mhrsxrandevuxhxzmetleriniz3940.com
@@ -9695,7 +9689,6 @@ paribu-sponsorlugundacekilisleri.online
 paribu-sponsorlugundacekils.online
 paribuaraba-burada.info
 paribuaraba-yakala.link
-paribucark-geldi.com
 paribudancekilisler.online
 paribudankazan.online
 paribudankazanlar.online
@@ -11283,11 +11276,9 @@ sizlericinbsu.duckdns.org
 sizlericinburadayiz.abrdns.com
 sizlericinolanseyler.sbs
 sizlericinsizlerle.net
-sizlerininicburadayiz.click
 sizleristedilerbizlerdeyapmisbulunduk.sbs
 sizleristerbizleryapmakmecburiyeti.sbs
 sizleristersinizdebizleryapmazmiiyiz.sbs
-sizlerleyizz.sbs
 sizlerleyizzz.sbs
 sizvarsakbizvarizbizsetisaglariz.sbs
 sjdhshshahshahdhh3131sbdbsb.sbs
@@ -13596,7 +13587,6 @@ yonelttir.live
 yonlen-buradan-sorgu.cyou
 yonlen.best
 yonlendi.space
-yonlendir-secur-gr.my-homeip.de
 yonlendiring.space
 yons.ink
 yonv.ink
