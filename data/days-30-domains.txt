@@ -130,7 +130,6 @@
 11rl.link
 1204010259.click
 122224457999989999089090.xyz
-122224457999989999089091.xyz
 122224457999989999089092.xyz
 122224457999989999089093.xyz
 122224457999989999089094.xyz
@@ -369,7 +368,6 @@ abdulkerimozbek.xyz
 abn3l8febkskxmce0tat6ide.store
 accounts-bvets-au.cncsinks.com
 accounts-cgi.lvborses.net
-accounts.natrlyi.com
 acdsafwevsd.giize.com
 acelepay.cfd
 acfpdorg.securemailencryptit.com
@@ -945,7 +943,6 @@ cashbus.org
 caspernotebook3347.duckdns.org
 catalog-update-microsoft.serveftp.com
 catalog-update-microsoft.servehttp.com
-catalog-update-unix-systems.servehttp.com
 catalog-update-update-microsoft.serveftp.com
 catatoster.com
 caude.ai
@@ -959,7 +956,6 @@ cbsuyap.com
 ccfdc.com
 cdfavwead.giize.com
 cdn-redhatcom.serveftp.com
-cdn-redhatupdate.serveftp.com
 cdn.gotoiphone.com
 cdn007-digitaldownloads.com
 cebinizde-sepet.online
@@ -1045,7 +1041,6 @@ claremcfaulltc.szfeisi.com
 clarozenvix.com
 claudewebinnar.com
 claudie.ai
-clclclclllclllllcllcll.com
 clickfusion.lol
 clickksy.icu
 cliosnurpl.live
@@ -1866,9 +1861,6 @@ goldienove.com
 gonlinedigitalmislemenutr.work.gd
 google-cdn-page.com
 google-css-cdn.pages.dev
-google.centerhoti.com
-google.morelessty.com
-google.natrlyi.com
 googlepixel.abrdns.com
 gordugunherseyihemenal.xyz
 goriltebcan.cfd
@@ -2430,7 +2422,6 @@ jijipress.securemailencryptit.net
 jinminghe.com
 jiwifobul.world
 jkjmnyyu677.click
-jmlh.morelessty.com
 jnakfsdsadsada.shop
 jnkdsnfkdsfjks.com
 jobmarcher.com
@@ -2670,7 +2661,6 @@ letgo.cuzdanimguvende.net
 letgo.ilandetaylari.com
 letgo.ilanlarim-sepetin.pro
 letgo.ile-odemeyi-tamamlayin.com
-letgo.ile-siparis-olustur.com
 letgo.mobilservisler-76.sbs
 letgo.siparis-guvenliodeme.com
 letgomuhasebe.co
@@ -2920,11 +2910,9 @@ miboykr.xyz
 microscoft.vip
 microsfot.vip
 microsoft-secure-login.servehttp.com
-microsoft-service-manager.serveftp.com
 microsoft-update-catalog.servehttp.com
 microsoft-updates-check-windows.serveftp.com
 microsoft-updates-windows.servehttp.com
-microsoft-ws-updates.serveftp.com
 microsoft365sub.digital
 microsoftforms.securemailencryptit.com
 microsoftonline.whitecarrot.app
@@ -3418,7 +3406,6 @@ rhumbixproposal.ncclouds.co
 rhythova.com
 ritpefsir.net
 rkddfmk34980.click
-rn-dvkti.cfd
 rndaldn.cfd
 rndblgi.cfd
 rndsglk.cfd
@@ -3658,7 +3645,6 @@ serenvo.cyou
 serv.oss-cn-hongkong.aliyuncs.com
 server.activeworkshops.com
 server.vietnam852.com
-serviceupdate.dynns.com
 servis-hizmet.online
 servisepetin-10.sbs
 servisepetin-20.sbs
@@ -3900,8 +3886,6 @@ sylvexo.com
 synatra-nexus.com
 sys-update-check.top
 system-strategy.org
-systeminfo.dynns.com
-sysupdate.serveftp.com
 szfeisi.com
 szwhtl.com
 t0kibasvurulariniz.com
@@ -4354,8 +4338,6 @@ wincorpupdates.com
 windows-config-update.myddns.me
 windows-rms.servehttp.com
 windows-update-catalog.serveftp.com
-windows-update-server-microsoft.servehttp.com
-windows-update-ws.servehttp.com
 windows-update.damnserver.com
 windows-updates-check.ddns.net
 windowsupdate-microsoft-com.servehttp.com
@@ -4385,7 +4367,6 @@ wrenspire.org
 wrqrasgfqqwr.sbs
 wrtuzhgfzd.sharedmsform.com
 wslogzimbra.linkpc.net
-wulingturkiye.com
 wumingcccv.com
 wuoppin.xyz
 ww-fibabanka.ph
@@ -4634,7 +4615,6 @@ ziraat-bankas.com
 ziraat-bankas.info
 ziraat-bankas.live
 ziraat-bankas.pro
-ziraatbankasi-biz-9xtmn.pages.dev
 ziraatbankasiai-de.live
 ziraatbankcomtr.tuttd.com
 ziraatbankk.sbs
