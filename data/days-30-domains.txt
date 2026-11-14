@@ -974,7 +974,6 @@ cepte-teb-mobile.my-homeip.de
 cepte-teb-mobilim.my-homeip.de
 cepte-teb-pro.my-homeip.de
 cepte.teb.com.se
-cepteindirim.org
 cepteindirims-tr.online
 ceptemobil.my-homeip.de
 ceptemobile.my-homeip.de
@@ -1265,6 +1264,7 @@ ebertsoft.com
 eblgirndv.cfd
 ebydz.buzz
 ebypevojabizo.online
+ecezabilgi.com
 ecezagovtr.com
 ecezakurum.com
 edavadosyam.org
@@ -1964,7 +1964,6 @@ haberler323534.com
 haberler4151231.sbs
 haberler42328.sbs
 haberler44542.sbs
-haberler453108794.sbs
 haberler4782231.sbs
 haberler4787419.sbs
 haberler4922248.sbs
@@ -2335,6 +2334,7 @@ islemlerin-sepet-25.sbs
 islemlerinmobil-14.sbs
 islemlerinmobil-15.sbs
 islemlerinmobil-17.sbs
+islemsepetleri-45.sbs
 islemynmd.net
 islmhizliaa.net
 islmkntaln.net
@@ -2345,6 +2345,7 @@ istanbuladliye.org
 istanbuladliyesi.org
 istanbulakvaryumu.com
 istanbularaconarimbakim.store
+istanbulasliye.org
 istanbulbasvurutr.lol
 istanbulkartbasvurutr.lol
 istanbulkarthemenodeme.com
@@ -2436,6 +2437,7 @@ kampanyaszamanikauveytile.cfd
 kamuborcbilgisi.org
 kamve.cyou
 kapamyanalar1o1.duckdns.org
+kapindakifirsatin101.xyz
 kaplmb-stnal.myshopify.com
 kaplmslcksorgl.web.app
 kaplumbaga-satinal.myshopify.com
@@ -3653,6 +3655,7 @@ sizdenbize.abrdns.com
 sizehas.abrdns.com
 sizin-sepetleriniz.com.tr
 sizin-siparisleriniz.com
+sizinicinburdayiz.duckdns.org
 sizler.icin.hizmetler.mavibeyazskorlar.click
 sizler.icin.hizmetler.organizeislers.click
 sizler.icin.hizmetler.sahizmtofls.click
@@ -3671,6 +3674,7 @@ sizlerden.gelen.hizmetlerden.vavazkksadlksado.click
 sizlericinburadayiz.abrdns.com
 sizleristedilerbizlerdeyapmisbulunduk.sbs
 sizleristerbizleryapmakmecburiyeti.sbs
+sizlerleburadayiz.duckdns.org
 sjdhshshahshahdhh3131sbdbsb.sbs
 sl649s9s9h7l3l32.ipv64.net
 slkmalrktin.lol
@@ -3833,6 +3837,7 @@ szfeisi.com
 szwhtl.com
 t0kibasvurulariniz.com
 t0kievleriibbasvuru.sbs
+t0kiieevleriiibasvuru.sbs
 t7q4x1n8v3.lol
 tablacysexplorer.com
 tabupta.duckdns.org
@@ -3981,7 +3986,6 @@ togg-tr.com
 togg-turk.com
 togg-turkiye.com
 togg.cam
-togg.casa
 togg.lat
 togg.life
 toggkampanya.com
