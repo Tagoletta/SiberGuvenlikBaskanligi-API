@@ -3548,7 +3548,6 @@ get-sys-info.top
 get-upd-sys.top
 getbusy.sbs
 getcartablets.shop
-getilan-onay.online
 getmacouscloud.com
 getmobill.com
 getshop-tr.online
