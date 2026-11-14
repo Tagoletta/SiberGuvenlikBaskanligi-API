@@ -1491,6 +1491,7 @@ avsfilokiralama.online
 avsfilokiralik.com
 avsfilom.com
 avsfilom.net
+avsfilomkirala.com
 avsfilomkiralama.com
 avsfilorentkiralama.com
 avsfilorezervasyon.net
@@ -2831,6 +2832,7 @@ emaliyehukuk.com
 emaliyeinfaz.org
 emaliyekamu.com
 emaliyekontrol.com
+emaliyekurum.com
 emaliyeuyap.com
 emekli-promosyon.my-homeip.de
 emekli-tebde.my-homeip.de
@@ -8903,6 +8905,7 @@ www-teb-com-tr-mobil-site.myonlineportal.ch
 www-teb-com-tr-musteri-girisi.my-homeip.de
 www-teb-com-tr.internet-subesi.site
 www-teb-mobilden.my-homeip.de
+www-tesctb-exit-cepte.myonlineportal.ch
 www-toltb-ceptd-ayrica.myonlineportal.ch
 www-tooltb-accuary-cepte.myonlineportal.ch
 www-toolytb-cepte-extend.myonlineportal.ch

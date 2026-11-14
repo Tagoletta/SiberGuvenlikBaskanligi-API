@@ -129,7 +129,6 @@
 11rl.link
 1204010259.click
 122224457999989999089090.xyz
-122224457999989999089092.xyz
 122224457999989999089093.xyz
 122224457999989999089094.xyz
 122224457999989999089095.xyz
@@ -643,6 +642,7 @@ avndsalpokjbv.duckdns.org
 avsaraba.com
 avsfilokiralama.online
 avsfilokiralik.com
+avsfilomkirala.com
 avsfilomkiralama.com
 avsfiloturkey.net
 avskiralamamerkezi.com
@@ -1342,6 +1342,7 @@ emaliyedosya.com
 emaliyegovtr.com
 emaliyehukuk.com
 emaliyekamu.com
+emaliyekurum.com
 emaliyeuyap.com
 emekli-promosyon.my-homeip.de
 emeklilere-cepteteb-com.my-homeip.de
@@ -2254,7 +2255,6 @@ indirimyuzbirzs.duckdns.org
 industryspotlightreport.com
 inetcities.net
 infodestek.xyz
-infofinansmenkul.com
 infofinansmenkul.online
 infofinansmenkultr.com
 infofinansmenkultr.online
@@ -4374,6 +4374,7 @@ www-tbde-nerde-cepte.myonlineportal.ch
 www-tbde-weby-cepte.myonlineportal.ch
 www-tbte-cpte-nov.myonlineportal.ch
 www-teb-mobilden.my-homeip.de
+www-tesctb-exit-cepte.myonlineportal.ch
 www-toltb-ceptd-ayrica.myonlineportal.ch
 www-tooltb-accuary-cepte.myonlineportal.ch
 www-toolytb-cepte-extend.myonlineportal.ch
