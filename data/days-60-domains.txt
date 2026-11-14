@@ -214,6 +214,7 @@
 101-extra-sadece-online-bugune-ozel-mobil-indirim-sepeti-tr.online-plus.online
 101-extra-sadece-online-bugune-ozel-online-sepet-alisveris-tr.shopta-tr.online
 101-extra-sadece-online-bugune-ozel-sepet-indirimleri-tr.magazada-shop.online
+101-extra-sadece-online-ozel-alisveris-indirim-bilgi-tr.cebindeki.online
 101-extra-sadece-online-ozel-alisveris-indirim-sepeti-tr.4111z.site
 101-extra-sadece-online-ozel-alisveris-indirimleri-sepette-tr.sepetteyiz.online
 101-extra-sadece-online-ozel-alisveris-indirimleri-sepette-tr.trendextra.online
@@ -1416,7 +1417,6 @@ asnc-tebde-ayricalikli.myonlineportal.ch
 asncxbyaaasdanala.15334265341523.sbs
 asncxbyaaasdanala.46584546584.sbs
 asncxbyaaasdanala.86456816843568.sbs
-asncxbyaaasdanala.894734547864156.sbs
 asnjfjnwddq.duckdns.org
 aspentrekgoods.org
 asri-as-alt-a.myonlineportal.ch
@@ -2461,7 +2461,6 @@ displayresearchinc.org
 divekickspolic.org
 divpre.top
 djgmll323scd.shop
-dk3ch3ncjskru8.cfd
 dkak-olience-bsvr.myonlineportal.ch
 dkdjshdjdnwndjakhdh38s.sbs
 dkkkdkdkdkdk.duckdns.org
@@ -3795,7 +3794,6 @@ haberler1269315.sbs
 haberler1327234.sbs
 haberler1327634.sbs
 haberler1345621.sbs
-haberler1346428.sbs
 haberler15123424.sbs
 haberler15132.sbs
 haberler15341231.sbs
@@ -5271,7 +5269,6 @@ kucoiins.cam
 kugogogosahdahs99sad.lol
 kugosahdhashd9sdas9sw.click
 kukluhguhuderesede.lol
-kulkiwears.sbs
 kullanimkosulu.abrdns.com
 kuluhrrre-rederete.lol
 kunumalima.duckdns.org
@@ -5657,7 +5654,6 @@ mertiyungl.duckdns.org
 meruno.cyou
 met2ndsiu8k.icu
 meta-support.online
-metahgshesa.duckdns.org
 metakaitaamin.duckdns.org
 metamanus.im
 metaoflinereklam34.sbs
@@ -6324,7 +6320,6 @@ okuladonuskmp-101.com
 oli.koeln-gastro.com
 olihigiferesevubugu.club
 olikhuredesader.lol
-oltakneriz.duckdns.org
 omegasicurezzas.com
 omurluksorgupaneli.click
 onassets.online
@@ -7949,7 +7944,6 @@ tebbise.duckdns.org
 tebbreee.duckdns.org
 tebcim.space
 tebde-basvuru-cep.myonlineportal.ch
-tebde-emekliye.my-homeip.de
 tebde-firsat.my-homeip.de
 tebdecep-emekli.myonlineportal.ch
 tebden-basvuru.mobil-bankacilik.site
@@ -8012,7 +8006,6 @@ teyfikoglu.com
 tfb75yh777mc9yg8q53xk9.org
 tfnhcmdh.click
 tgfautomotive.kecifang.net
-tghehelinesgs.duckdns.org
 thalwicklifestyle.com
 thebeltonegroup.opticaberl.com
 thecovnresation.com
@@ -8891,6 +8884,7 @@ www-teb-com-tr-musteri-girisi.my-homeip.de
 www-teb-com-tr.internet-subesi.site
 www-teb-mobilden.my-homeip.de
 www-tesctb-exit-cepte.myonlineportal.ch
+www-tesptb-cepte-wond.myonlineportal.ch
 www-toltb-ceptd-ayrica.myonlineportal.ch
 www-tooltb-accuary-cepte.myonlineportal.ch
 www-toolytb-cepte-extend.myonlineportal.ch
@@ -9134,6 +9128,7 @@ zasedereteyere-sedereteye.lol
 zavora.blog
 zazza.22web.org
 zbankasiyatirimfirsati-pro.pages.dev
+zcv741.site
 zcxcxzasad.duckdns.org
 zeloriaquadsok.com
 zeluspanel.online

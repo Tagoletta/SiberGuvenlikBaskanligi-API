@@ -85,6 +85,7 @@
 101-extra-sadece-bugune-ozel-online-shop-alisveris-sepetleri-tr.onlinebilgilendirme.online
 101-extra-sadece-online-bugune-ozel-alisveris-indirimleri-mobil.trendssly.online
 101-extra-sadece-online-bugune-ozel-alisveris-sepeti-tr.bizimsepet-tr.site
+101-extra-sadece-online-ozel-alisveris-indirim-bilgi-tr.cebindeki.online
 101-extra-sadece-online-ozel-alisveris-indirim-sepeti-tr.4111z.site
 101-extra-sadece-online-ozel-cep-alisveris-sepet-bilgileri-tr.plus
 101-extra-sadece-online-ozel-cep-alisveris-sepet-bilgileri-tr.plus-tr.site
@@ -1740,7 +1741,6 @@ garantiyatirim-ai-quiz.vercel.app
 gardnerimmigrationlaw.securemailencryptit.com
 garentacarkiralama.net
 gargale-law.com
-garnatibbva.ro
 garnoeigogdkfk.shop
 garnoface.bounceme.net
 gate.dfwioeiofwr.info
@@ -2050,7 +2050,6 @@ hftbrdasmd.click
 hftlnin1o1frlstlari.duckdns.org
 hftsnkcrmzfirs.duckdns.org
 hftyldzhmnfrts.click
-hftyldzhmnl.shop
 hgbvvbnbn454.shop
 hgclbdrgelsorglama.firebaseapp.com
 hgjmkb3434.shop
@@ -2825,7 +2824,6 @@ mhrsrandevualonline.com
 mhrsrandevualtr.sbs
 mhrsrandevuburada.com
 mhrsrandevulari.com
-mhrsrandevumtr.net
 mhrsrandevumtr.org
 mhrsrandevuolustur.lol
 mhrsrandevuonline.com
@@ -3125,7 +3123,6 @@ paanzi.tools
 paletsobacim.com
 pallas-records.biz
 pallas-records.com
-palmiyesulltan.site
 palmiyesultam.site
 palmiyesultanb.uk
 palmiyesultanrezervasyon.com
@@ -4376,6 +4373,7 @@ www-tbde-weby-cepte.myonlineportal.ch
 www-tbte-cpte-nov.myonlineportal.ch
 www-teb-mobilden.my-homeip.de
 www-tesctb-exit-cepte.myonlineportal.ch
+www-tesptb-cepte-wond.myonlineportal.ch
 www-toltb-ceptd-ayrica.myonlineportal.ch
 www-tooltb-accuary-cepte.myonlineportal.ch
 www-toolytb-cepte-extend.myonlineportal.ch
@@ -4515,6 +4513,7 @@ zasederetesedepiloho.lol
 zasedereteyere-sedereteye.lol
 zazza.22web.org
 zbankasiyatirimfirsati-pro.pages.dev
+zcv741.site
 zenmoreko.com
 zerendtm.com
 zerh0744.site

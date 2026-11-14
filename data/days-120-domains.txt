@@ -250,6 +250,7 @@
 101-extra-sadece-online-bugune-ozel-mobil-indirim-sepeti-tr.online-plus.online
 101-extra-sadece-online-bugune-ozel-online-sepet-alisveris-tr.shopta-tr.online
 101-extra-sadece-online-bugune-ozel-sepet-indirimleri-tr.magazada-shop.online
+101-extra-sadece-online-ozel-alisveris-indirim-bilgi-tr.cebindeki.online
 101-extra-sadece-online-ozel-alisveris-indirim-sepeti-tr.4111z.site
 101-extra-sadece-online-ozel-alisveris-indirimleri-sepette-tr.sepetteyiz.online
 101-extra-sadece-online-ozel-alisveris-indirimleri-sepette-tr.trendextra.online
@@ -12526,7 +12527,6 @@ ofsfdfsdfdsffvvs.shop
 ogodkekflkks.click
 ogrenipalabileceginizhakkiniz.sbs
 ogrenmeaile.com
-ogrenmesorgulamaislerinz.sbs
 ogrenmevizyonu.biz
 ogunlerdyzindrmda.giize.com
 oi-ai.liveoakfarmsllc.net
@@ -16198,7 +16198,6 @@ talvona.cyou
 tam-mutabakat.garden
 tamambankara.net
 tamamistanbulo.co
-tamamla-sipars.com
 tamamlanan-beklenim.ink
 tamamlayan-dahafazla.ink
 tambiroe34232.duckdns.org
@@ -18203,6 +18202,7 @@ www-teb-com-tr.internet-subesi.site
 www-teb-mobilden.my-homeip.de
 www-tebfirsatlar-com.my-homeip.de
 www-tesctb-exit-cepte.myonlineportal.ch
+www-tesptb-cepte-wond.myonlineportal.ch
 www-tkgm-gov-tr.translate.goog
 www-toltb-ceptd-ayrica.myonlineportal.ch
 www-tooltb-accuary-cepte.myonlineportal.ch
@@ -18729,6 +18729,7 @@ zasedereteyere-sedereteye.lol
 zavora.blog
 zazza.22web.org
 zbankasiyatirimfirsati-pro.pages.dev
+zcv741.site
 zcxcxzasad.duckdns.org
 zederesede-sederesede.lol
 zedese-doliuyere.lol
