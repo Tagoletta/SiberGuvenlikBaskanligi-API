@@ -2240,10 +2240,6 @@ bbva-mobile.site
 bbva-ziraatbank.com.ph
 bbva0faiz.com
 bbvafaizsizler.com
-bbvagarantimobiladres.ph
-bbvagarantiwebiadeleri.ph
-bbvagarantiyenikard.ph
-bbvagarantiyeniyilkredisi.ph
 bbvaislemler.duckdns.org
 bbvaonline.duckdns.org
 bc.etlva.cn
@@ -3032,8 +3028,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -6677,6 +6673,7 @@ ile-siparisiniz.com.tr
 ile-siparislerinizde.com.tr
 ile-siparisver.com.tr
 ile-siparisver.net.tr
+ileguvende.site
 ileribakismerkezi.com
 ilerigelisimrotasi.com
 ileservishizmetleri.com
@@ -10096,6 +10093,7 @@ pttavm.ile-sepetiniz.com.tr
 pttavm.ile-sepetinizde.com.tr
 pttavm.ile-siparisver.com.tr
 pttavm.ile-siparisver.org.tr
+pttavm.ileguvende.site
 pttavm.islem-siparisver.com
 pttavm.mobil-odemesepeti777.com
 pttavm.odeme-onay-1282.com
@@ -10202,7 +10200,6 @@ qnbfinansbank-internetsube-com-tr.ph
 qnbfinansbank-subeweb.vg
 qnbfinansbankonline.com
 qnbstart.com
-qori-space.ink
 qoslink.cloud
 qpmvt.bus2Z
 qqnbilekatkat.duckdns.org
@@ -11225,7 +11222,6 @@ siparislerim-onayli-127438.com
 siparislerim-onayli-127447.com
 siparislerimonline.com
 siparislerkapida.com
-siparisonayim.online
 siparisonayin.online
 siparisonayla.online
 siparisteslimati.com
@@ -12074,6 +12070,7 @@ tekdokunusundalndirimgeldi.com
 tekgercektazmanya.duckdns.org
 teklifonunde.abrdns.com
 teklifzamani.abrdns.com
+teknikhangar.com.tr
 teknomarket35.com
 teknos-sa.tr
 teknosa.live
@@ -12739,6 +12736,7 @@ uyaphazine.com
 uyapvatandas.org
 uyguncep.online
 uygungunlerdyzblzer.duckdns.org
+uygunode.com
 uyptmvfvfk34m32m.shop
 uyuzcangg.dpdns.org
 uz-whatsapp.com
@@ -12848,7 +12846,6 @@ vestel-ai.net
 vestelbayileri.com
 vestelkurumsal.com
 veterete-sedertete.lol
-vexo-daily.ink
 veyramarketcollective.com
 veznedarodemeislemleri.com
 veznedarvergiformu.com

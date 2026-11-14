@@ -660,7 +660,6 @@
 625671717116.duckdns.org
 62616608764.cloud
 626262mn.duckdns.org
-6444s.site
 6454845.xyz
 65168551658600.duckdns.org
 651c4138-94f4e-90784-9167-81s7528d91b4-67lc6hj.com
@@ -1516,7 +1515,6 @@ avskiralikaraclar.com
 avskocrental.net
 avskurumsalkirala.com
 avsrentkurumsal.com
-awdwsiskooadasd.xyz
 awovvlink.cloud
 awxu1nls82f9daf0id51.com
 axmonest.duckdns.org
@@ -1643,8 +1641,6 @@ baykardevletprogrami.online
 baykarhisseleri.digital
 baykarinvestmentprogram.live
 baykarplatformsystem.digital
-baykaryatirimprogrami.digital
-baykaryatirimprogrami.xyz
 bayloramuse.com
 bbnnsnsdsdrtyqaasertse.com
 bbsteknoloji.com
@@ -2154,8 +2150,8 @@ cezabildirim.com
 cezadosyabilgi.com
 cezadosyabilgisi.com
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -4645,6 +4641,7 @@ ile-siparisiniz.com.tr
 ile-siparislerinizde.com.tr
 ile-siparisver.com.tr
 ile-siparisver.net.tr
+ileguvende.site
 ileribakismerkezi.com
 ilerigelisimrotasi.com
 ileservishizmetleri.com
@@ -4841,7 +4838,6 @@ ist343434.xyz
 istanbbulkaarty.xyz
 istanbelbelgimkart.xyz
 istanblbelgimkart.xyz
-istanbul-kiralikkonut.vercel.app
 istanbuladliye.org
 istanbuladliyesi.org
 istanbulakvaryumu.com
@@ -5720,7 +5716,6 @@ megafiloarackiralama.com
 mehasrn.duckdns.org
 mehmetatws.blogspot.com
 meksatr.com
-meksayatirimtr.com
 melekcicekcilik.com
 mengchongbaotoys.com
 menkulcuzdanim.online
@@ -6822,6 +6817,7 @@ pttavm.ile-sepete-islemler.org.tr
 pttavm.ile-sepetinizde.com.tr
 pttavm.ile-siparisver.com.tr
 pttavm.ile-siparisver.org.tr
+pttavm.ileguvende.site
 pttavm.islem-siparisver.com
 pttavm.mobil-odemesepeti777.com
 pttavm.odeme-onay-1282.com
@@ -8106,6 +8102,7 @@ tekcihazaktivasyonlinki.duckdns.org
 tekcihazlaraktivasyonlinki.duckdns.org
 tekgercektazmanya.duckdns.org
 teklifzamani.abrdns.com
+teknikhangar.com.tr
 teknomarket35.com
 teknosa.live
 teknsoa.shop
@@ -8552,6 +8549,7 @@ uyapgov.app
 uyapgovtr.com
 uyaphazine.com
 uyguncep.online
+uygunode.com
 uyptmvfvfk34m32m.shop
 uyuzcangg.dpdns.org
 uz-whatsapp.com
@@ -9284,8 +9282,6 @@ ziraat.finance
 ziraatbankasi-biz-9xtmn.pages.dev
 ziraatbankasi.digital
 ziraatbankasiai-de.live
-ziraatbankasiprojesi-click.pages.dev
-ziraatbankasiprojesi.click
 ziraatbankcomtr.tuttd.com
 ziraatbankk.sbs
 ziraatbankkasi.sbs
