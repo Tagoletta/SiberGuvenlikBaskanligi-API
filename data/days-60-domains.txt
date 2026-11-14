@@ -225,7 +225,6 @@
 101-extra-sadece-online-ozel-indirim-alisveris-sepette.cepindeki-indirim.online
 101-extra-sadece-online-ozel-indirimli-alisveris-sepette-mobil.sepetss-tr.online
 101-extra-sadece-online-ozel-indirimli-alisveris-sepette-tr.mobilcitr.online
-101-extra-sadece-online-ozel-mobil-alisveris-indirimleri-sepete.ekle-tr.online
 101-extra-sadece-online-ozel-mobil-indirim-sepeti-tr.services-cep.online
 101-extra-sadece-online-ozel-mobilde-indirim-sepette-tr.elektro-tr.online
 101-extra-sadece-online-ozel-sepet-indirimleri-mobilde-tr.cepteburda.online
@@ -1857,6 +1856,7 @@ bonusbasvurulari15234.sbs
 bonusbasvurulari32634.sbs
 bonusbasvurusayfasi12r345325.sbs
 bonusbasvurusayfasi3254325.sbs
+bonusbasvurusayfasi326525.sbs
 bookpan.net
 bopaje7148.site
 bopaje7148.space
@@ -1906,7 +1906,6 @@ bsvrrkmpnyaparmooo198123.pro
 bsvrrrrkmpnyaasnfrsltar410649.online
 bsvrrrrkmpnyaasnfrsltar410649.pro
 bsvrrrrprmsynnkmpnyaaa.info
-bsygy.help
 btcturkcekilisi.co
 btcturkts.cc
 btrf36.cc
@@ -2812,7 +2811,6 @@ ekimfirsatlari.click
 ekimflrsatlariburada.com
 ekimlerhosgeldin.site
 ekimlerhosgeldin.store
-ekle-tr.online
 eklmayiburadaozel.com
 eko-cepteteb.my-homeip.de
 ekolabrecycling.ddns.net
@@ -4433,6 +4431,7 @@ hl53s54h462lee3s.ipv64.de
 hlakolanmalko.cfd
 hleknaknr.net
 hlhlrkknanasn.net
+hlkblgin.cfd
 hlkrndrhberlri.cfd
 hlksaglkrhber.cfd
 hlksglik.cfd
@@ -4834,7 +4833,6 @@ islmnktansmta.net
 islmtlaknsan.net
 isparkborcode.govt.hu
 isslemmerkezleriniz.com
-ist343434.xyz
 istanbbulkaarty.xyz
 istanbelbelgimkart.xyz
 istanblbelgimkart.xyz
@@ -4855,7 +4853,6 @@ istanbulbelgimbasvur.lol
 istanbulbelgimbasvur.xyz
 istanbulbelgimkartr.xyz
 istanbulbelgimkartrr.xyz
-istanbulbelgimkartt.xyz
 istanbulbelgimonline.xyz
 istanbulbelimkart.xyz
 istanbulhovardasi.sbs
@@ -4869,6 +4866,7 @@ istanbulkartbelgimtr.lol
 istanbulkartbelgimtr.xyz
 istanbulkartislem.lol
 istanbulkartislem.xyz
+istanbulkartlahemenla.com
 istanbulkartonline.online
 istanbulkartonline.xyz
 istanbulkartr.xyz
@@ -4879,7 +4877,6 @@ istanbulkrtlahmnodemeya.com
 istanbullbelgimkartt.xyz
 istanbulmaliye.org
 istanbulonlinetr.lol
-istankartttcan.xyz
 istatlmenus.com
 istbelgimkart.xyz
 istbelgimkart34.xyz
@@ -5112,12 +5109,10 @@ kfqkfwq91241.duckdns.org
 kgm-gom.cfd
 kgm-gov.biz
 kgm-gov.onl
-kgm.bsygy.help
 kgm.gkfpe.cc
 kgm.piyka.help
 kgm.ueqgr.xyz
 kgm.ukyaj.cc
-kgm.xkvip.xyz
 kgm460.top
 kgmbildirmeks.click
 kgmborcsorgulamaodeme.ddnsgeek.com
@@ -6386,7 +6381,6 @@ nvirandevuekrakodeme.online
 nvirandevuhizmetleriniz.online
 nvirandevular.com
 nvirandevular.xyz
-nvirandevulariniz.space
 nvirandevumvar.online
 nvirandevuncep.com
 nvirandevuonline.xyz
@@ -7682,6 +7676,7 @@ sonfsrtlarkmpny381.pro
 songunlerdeyiz.cfd
 sonicweaversinc.com
 sonicweaversinc.net
+sonkonutislemleri.com
 sonlkmalrkelr.com
 sonnfrlstarrbasvrrkredi85479.info
 sonnfrlstarrbasvrrkredi85479.pro
@@ -9048,7 +9043,6 @@ xcdr12wq1w.com
 xd.unfair.cc.cd
 xdxdxdxdd.duckdns.org
 xinxi.yszhichuang.com
-xkvip.xyz
 xll8sdhqewwhse.eth64.de
 xn--190-4m0a.211.124.xn--187-7m0a
 xn--91-f1ta.99.195.xn--164-7m0a
