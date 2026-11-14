@@ -2473,6 +2473,7 @@ avantajrotasi.cyou
 avantajsepet-tr.online
 avantajsepeti.sbs
 avaraj.my-homeip.de
+avaregtb-thang-ceptetb.myonlineportal.ch
 avazazkirkanka.linkpc.net
 ave-art-alk.myonlineportal.ch
 avesotofilo.com
@@ -3894,8 +3895,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
