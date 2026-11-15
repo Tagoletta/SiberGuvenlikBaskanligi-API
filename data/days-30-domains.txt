@@ -523,7 +523,6 @@ applicensingstudio.com
 approvalbineysel.com
 arabulucuadliye.org
 arabulucuegm.org
-arabuluculukmaliye.org
 arabulucutc.net
 arac-klmtrsglrm360-m.web.app
 arac-plaka-sorgula-kmogren.web.app
@@ -2695,7 +2694,6 @@ marksansspencer.com.ph
 marsalek.cy
 martinguston.duckdns.org
 martiniguston.giize.com
-masak-gov.com
 masakbilgi.net
 masakinceleme.com
 masaktakip.com
@@ -3378,6 +3376,7 @@ sahibinden-get.islemsepetler-15.sbs
 sahibinden-get.islemsepetler-20.sbs
 sahibinden-get.islemsepetler-25.sbs
 sahibinden-get.islemsepetler-40.sbs
+sahibinden-get.kargoilesiparis.com
 sahibinden-get.mobilservis-26.sbs
 sahibinden-get.mobilservisler-76.sbs
 sahibinden-get.mobilservisler-77.sbs
