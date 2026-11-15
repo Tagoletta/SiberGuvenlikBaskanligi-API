@@ -68,7 +68,6 @@
 101-extra-sadece-bugune-ozel-alisveris-sepeti-tr.cepteindirims-tr.online
 101-extra-sadece-bugune-ozel-alisveris-shop-bilgileri-cepte.magazada.site
 101-extra-sadece-bugune-ozel-alisveris-tr-mobil.hemenal.site
-101-extra-sadece-bugune-ozel-cepte-siparis-indirimi-tr.cepio-tr.online
 101-extra-sadece-bugune-ozel-indirim-sepeti-cepte-tr.b70004.site
 101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-trend.websepet-tr.online
 101-extra-sadece-bugune-ozel-mobil-indirim-sepeti.sepetteindirim.online
@@ -1784,7 +1783,6 @@ gelbrdanjal3694.duckdns.org
 gelecekhedefleri.com
 gelendengidenden.duckdns.org
 gelisimrehberligi.com
-gemgovrmn.my.id
 gemgovrnm.biz.id
 gemgovrnm.my.id
 genelisbasvurulari.com
@@ -2092,7 +2090,6 @@ hizligecisbakyrhber.web.app
 hizligecisbakyukyylen.web.app
 hizligecisdolumunuz.web.app
 hizligeciskontrol.lol
-hizligecismerkzi.art
 hizligecisportalin.web.app
 hizligecisrehberi.web.app
 hizligecisyuklemniz.web.app
@@ -3637,6 +3634,7 @@ silverbullet.icu
 simgecicekcilik.com
 sinegolimisayu.giize.com
 sinirlisayidayagsatisi.sbs
+sioparisethemenkapnda5844.duckdns.org
 siparis-get-ilan.online
 siparis-get-servis.online
 siparisimtakip.com
@@ -3672,11 +3670,13 @@ sizlerden.gelen.hizmetlerden.aaahsdasgafasa.click
 sizlerden.gelen.hizmetlerden.asdasdqwdsad.click
 sizlerden.gelen.hizmetlerden.dd21sd212d1asfas.click
 sizlerden.gelen.hizmetlerden.fgasdasd212d1asfas.click
+sizlerden.gelen.hizmetlerden.hsdasgafasa.click
 sizlerden.gelen.hizmetlerden.kksadlksado.click
 sizlerden.gelen.hizmetlerden.sdasdqwdsad2121.click
 sizlerden.gelen.hizmetlerden.skdowkdaksdkasd.click
 sizlerden.gelen.hizmetlerden.ssshsdasgafasa.click
 sizlerden.gelen.hizmetlerden.vavazkksadlksado.click
+sizlerden.gelen.hizmetlerden.zusafjasdkasd.click
 sizlericinburadayiz.abrdns.com
 sizleristedilerbizlerdeyapmisbulunduk.sbs
 sizleristerbizleryapmakmecburiyeti.sbs
@@ -3933,7 +3933,6 @@ teboagoo.sbs
 tebomebolaloko.shop
 tebomebolo.cfd
 tebonline-basvuru.duckdns.org
-tebooaoakkgoolo.shop
 tebooaoloka.cfd
 tebresmiiii.duckdns.org
 techrelay.top
@@ -3994,7 +3993,6 @@ togg-tr.com
 togg-turk.com
 togg-turkiye.com
 togg.cam
-togg.lat
 togg.life
 toggkampanya.com
 toggmobilite.autos
