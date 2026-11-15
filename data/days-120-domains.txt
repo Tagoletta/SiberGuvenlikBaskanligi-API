@@ -1140,7 +1140,6 @@ a-10-1mlarketl.shop
 a-101-bireysel-extra-indirimler.online-tr-shop.site
 a-101-bireysel-sadece-bugune-ozel-tr.sponsor-extra-mobil-tr.click
 a-101-bireysel-sepete-ekle-tr.mobilde-siparis-tr.blog
-a-101-bugune-ozel-cepte-mobil-extra.indirim-mobil.site
 a-101-bugune-ozel-firsatlar.mobile-ozel-tr.lat
 a-101-bugune-ozel-indirim-sepeti-mobil-cep.pay-tr.online
 a-101-bugune-ozel-indirim-tr-sepette-mobil.online-ozel-siparis.online
@@ -3903,8 +3902,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -4472,6 +4471,7 @@ dev.diyanetisleribakanligi.vercel.app
 dev.soft-png-cdn.com
 dev.turkcellpasajsanalmagaza.com
 dev2.evsahibibasvuru.com
+devafilo.com
 devamediyoruzbasvurla.sbs
 devamet1o1.click
 developer.evsahibibasvuru.com
@@ -9419,7 +9419,6 @@ kaitaelleme3434.sbs
 kaitaellemeentermenter.sbs
 kaitageldimeta.sbs
 kaitailemetalardedeler.sbs
-kaitakcl12lk3xk1l3212.cfd
 kaitalarkarilarkizlar.sbs
 kaitameloxx.cfd
 kaitametalar.sbs
@@ -11887,6 +11886,7 @@ naijapulse.org
 nailscanai.com
 nakil-web.ink
 nakil-web.my-homeip.de
+nakilotokiralama.com
 nakletmek-web.garden
 nakliyathizmetlerieniyisiburada.sbs
 nalikalisgo-modere.lol

@@ -861,7 +861,6 @@ a101.dijitalbayim.com
 a101.dpdns.org
 a101.hizlifirsatim.com
 a101.hizligiriss.com
-a101.ilan-sepetlerimiz-burada.com
 a101cepp.duckdns.org
 a101dehayatvar.duckdns.org
 a101destanleyindirimiaktif.duckdns.org
@@ -1365,7 +1364,6 @@ asasfasfasfjafkajfk.duckdns.org
 asc-yukleme.22web.org
 asc40yukleme.22web.org
 ascsadv.duckdns.org
-asdar-aln.site
 asdasdasd.dpdns.org
 asdasdasdasasg.online
 asdasddas.dns.army
@@ -1492,7 +1490,6 @@ avsfilo724.com
 avsfilokiiralama.com
 avsfilokiralama.online
 avsfilokiralik.com
-avsfilom.com
 avsfilom.net
 avsfilomkirala.com
 avsfilomkiralama.com
@@ -2394,6 +2391,7 @@ detaybakiye.lol
 deuedu.ccwu.cc
 dev.diyanetisleribakanligi.vercel.app
 dev.soft-png-cdn.com
+devafilo.com
 devamet1o1.click
 development.diyanetisleribakanligi.vercel.app
 devvcepptesokkfirrsaatttlarii.live
@@ -3342,7 +3340,6 @@ frstlarrsonnnkmpnyaaa968574123.online
 frstlarrsonnnkmpnyaaa968574123.pro
 frstlrnsmdjs.shop
 frstmlkklcsd.shop
-fruitta.com
 frullam-nemo.com
 fsdfdsfdsfds.duckdns.org
 fsputnik.com
@@ -3546,7 +3543,6 @@ get-sys-info.top
 get-upd-sys.top
 getbusy.sbs
 getcartablets.shop
-getmacouscloud.com
 getmobill.com
 getshop-tr.online
 getsysmonitor.top
@@ -4488,7 +4484,6 @@ hzlmyndsvzen.net
 hzlmyndsvzen.site
 hzlnsdanismanlk.com.tr
 hzlnsdanismanlk.net
-hzlnsdanismanlk.online
 hzlsaglkrhbr.cfd
 hzlsstmlndaaarserrn.com
 hzlszsndnsmlk.com
@@ -5407,7 +5402,6 @@ loading.hopto.me
 loayrexdru.sbs
 loayrexdru.top
 lofmsfonest.duckdns.org
-logatmayinitler.sbs
 logbox.hopto.org
 logicnestaisolutions.org
 login-diplomaticportal.global-mfa.org
@@ -5937,6 +5931,7 @@ nadafilo.com
 nadirgold.co
 nagbadbadg.duckdns.org
 naijapulse.org
+nakilotokiralama.com
 namedivo.com
 namiflo.com
 nanejaojmnas.duckdns.org
@@ -6354,7 +6349,6 @@ online-sozlesme.servisinguvenli-45.sbs
 online-trend.online
 online.esubedunyam.com
 online.teb.com.se
-onlineaanslag.com
 onlinealisveris.live
 onlinebilgilendirme.online
 onlinecaysatisplatform.click
@@ -6415,7 +6409,6 @@ osmankinaliye.giize.com
 osmanlisorgupaneli.space
 osmanlivportfoy.online
 osmanliyatirimmenkul.com
-osmanliyatirimwebreferanstrader.com
 osmantalcein.giize.com
 otarimkoop.com
 otaupdate.szbboys.com
@@ -7190,7 +7183,6 @@ sahibinden.id46088.com
 sahibinden.id64827.cfd
 sahibinden.id72662.cfd
 sahibinden.ile-isleminiz.com.tr
-sahibinden.ile-islemleriniz.com.tr
 sahibinden.ile-odemeyi-tamamla.com
 sahibinden.ileservishizmetleri.com
 sahibinden.ileservishzmetleri.sbs
@@ -7227,7 +7219,6 @@ sahibindenekstra.com
 sahibindengets.ileservishizmetleri.com
 sahibindeniletisimdestek.com
 sahibindeniletisimkargo.com
-sahibindeniletisimkasko.com
 sahibindenin.com.tr
 sahibindenkargoiletisim.com
 sahibindenparam-guvende.bilgi-urundetayi.online
@@ -8317,7 +8308,6 @@ turna-tr.com
 turvearacbakim.site
 tutyrncjcn.shop
 tuuwttukr.govt.hu
-tuvaslaturtuv.com
 tuvastuvastuv.com
 tuvlabrdnhepgr.com
 tuvrand.dnsup.net
@@ -9041,7 +9031,6 @@ yerkalenec.lol
 yeteneksizaze.duckdns.org
 yetim-vakfi-cop31.pages.devu-cop31.org
 yetkisiz-qnbfinansbank.ph
-yfportfoy.org
 yfyatirimgiris.online
 yglasan.world
 yhnbgh.click

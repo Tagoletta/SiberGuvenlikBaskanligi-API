@@ -3035,8 +3035,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -3429,6 +3429,7 @@ dev-tools.cfd
 dev.diyanetisleribakanligi.vercel.app
 dev.soft-png-cdn.com
 dev2.evsahibibasvuru.com
+devafilo.com
 devamet1o1.click
 developer.evsahibibasvuru.com
 development.diyanetisleribakanligi.vercel.app
@@ -8898,6 +8899,7 @@ nagbadbadg.duckdns.org
 nagios.evsahibibasvuru.com
 naijapulse.org
 nailscanai.com
+nakilotokiralama.com
 nakletmek-web.garden
 nakliyathizmetlerieniyisiburada.sbs
 nalikalisgo-modere.lol
@@ -11382,7 +11384,6 @@ sokflrsatlar.com
 sokflrsatlarbrda.com
 sokflrsatlarburada.com
 sokflrsatlarharikala.shop
-sokisokkapidafirsattilari.duckdns.org
 sokkaracaileindir.shop
 sokmarket.lat
 sokmarketekstrakampanya2.duckdns.org
