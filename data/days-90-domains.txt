@@ -352,7 +352,6 @@
 101hizlialisverishizmeti.duckdns.org
 101hizlikapinda.com
 101kapndasmdi.duckdns.org
-101kariyer.com
 101kariyer.net
 101kariyer.org
 101kariyerim.com
@@ -1418,6 +1417,8 @@ alilisverilisyal.shop
 alillisilveris-ypa.com
 alilsverlisi-glti.shop
 alipay-hepsiburada.ph
+alisveris-guvende-20.sbs
+alisveris-guvende-25.sbs
 alisveris-islemsepetiniz.sbs
 alisveris-odemesepeti.com
 alisveris-sepeti.online
@@ -4338,7 +4339,6 @@ eylulsonundayizbizler.duckdns.org
 ezgateway.net
 ezikchecker.xyz
 ezikmisinolmsiz.xyz
-f12c38259e.nxcli.io
 f2nzk8qv4xmc9pta.cfd
 f3dlvbk5edo5s57.icu
 faaliyetonunde.abrdns.com
@@ -5399,7 +5399,6 @@ guvenli-alisveris-hizmet.online
 guvenli-alisveris-tr.online
 guvenli-basvuru.online
 guvenli-odeme.com
-guvenli-tamamla.com
 guvenlial.online
 guvenlialisveris-odeme.info
 guvenlialisveris-odeme.online
@@ -10657,7 +10656,6 @@ sahibinden-get.mobilsepetalim-25.online
 sahibinden-get.mobilsepetalim-35.sbs
 sahibinden-get.mobilsepetalim-40.sbs
 sahibinden-get.mobilsepetlerim1.com
-sahibinden-get.mobilsepetlerimservis.online
 sahibinden-get.mobilsepetlerimtrservisin.online
 sahibinden-get.mobilsepetllerservisim.online
 sahibinden-get.mobilservis-25.sbs
@@ -10717,7 +10715,6 @@ sahibinden-getilan.tr-webislemlerim-getalisveris.online
 sahibinden-getilan.tr-webislemlerin-getalisveris.online
 sahibinden-getilan.tr-webislemlerin-tr-get-alisveris.online
 sahibinden-getilan.web-tr-islemlerim-getalisveris.online
-sahibinden-guvenli.siparisonayim.online
 sahibinden-guvenliodeme-sifir-alisveris.lovable.app
 sahibinden-order.com
 sahibinden-param-guvende.bilgi-ilan-tr.online
@@ -10749,7 +10746,6 @@ sahibinden-param-guvende.siparis-onayim.online
 sahibinden-param-guvende.siparis-onayla.online
 sahibinden-param-guvende.siparisguvenli.online
 sahibinden-param-guvende.siparisim-guvenli.online
-sahibinden-param-guvende.siparisonayi.online
 sahibinden-param-guvende.siparisonayin.online
 sahibinden-param-guvende.tr-servis-onay.online
 sahibinden-param-guvende.tr-siparisget.online
@@ -10789,7 +10785,6 @@ sahibinden.bireyselsiparisin.online
 sahibinden.elektronik-merkezi-ilanlarim.com
 sahibinden.elektronik-urunler-sepetimiz.com
 sahibinden.get-guvenliodeme.online
-sahibinden.guvenli-tamamla.com
 sahibinden.guvenliodeme-get.online
 sahibinden.hizlial-siparis.com
 sahibinden.id10482.cfd
@@ -12391,7 +12386,6 @@ trendyol.mobilservisler-61.sbs
 trendyol.mobilservisler-77.sbs
 trendyol.my
 trendyol.one
-trendyol0b5.pcfridkc33.com
 trendyol668.shop
 trendyoleda.com
 trendyolexpress.lnnnnl.club

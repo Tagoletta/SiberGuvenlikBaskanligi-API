@@ -1079,6 +1079,8 @@ algolab-trading.pages.dev
 alhoceima-rentcar.com
 align-jade-inexpensive-textiles.trycloudflare.com
 aligncollective.co.za
+alisveris-guvende-20.sbs
+alisveris-guvende-25.sbs
 alisveris-islemsepetiniz.sbs
 alisveris-odemesepeti.com
 alisveris-sepeti.online
@@ -1564,7 +1566,6 @@ banka-akbank.ph
 bannedfromserv.icu
 bannedfromserv.sbs
 barclaysmenkul.com.tr
-barouzlasma.com
 basakcicekcilik.com.tr
 bassslyyyrz.duckdns.org
 bassvrnzbzldv.cfd
@@ -2130,8 +2131,6 @@ cezadosyabilgi.com
 cezadosyabilgisi.com
 cezahazine.com
 cezamali.org
-cezamaliyesorgu.com
-cezamaliyesorgu.org
 cezasesorgu.net
 cezasorguyap.com
 cgi-amit.ftwestseattle.com
@@ -2711,7 +2710,6 @@ egmgovrenm.biz.id
 egmgovrenm.web.id
 egmmali.org
 egngov.biz.id
-egngov.my.id
 egngovnrmn.web.id
 egngovrn.my.id
 egngovrn.web.id
@@ -5501,7 +5499,6 @@ main.servecounterstrike.com
 maintenance-freelance-lunch-minister.trycloudflare.com
 malaysiapulse.com
 malibirimi.org
-malicezasorgu.com
 malidosya.org
 malirandevu.com
 malisorgula.org
