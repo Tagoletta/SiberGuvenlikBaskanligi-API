@@ -939,7 +939,6 @@ adenpanel.world
 adenpanel.xyz
 adfsfdsfa.duckdns.org
 adilemlakgayrimenkul.org
-adipsyagrufe.shop
 adk-akl-awc.myonlineportal.ch
 adlibirimi.org
 adliyearabulucu.org
@@ -1495,6 +1494,7 @@ avsfilom.com
 avsfilom.net
 avsfilomkirala.com
 avsfilomkiralama.com
+avsfilonukirala.com
 avsfilorentkiralama.com
 avsfilorezervasyon.net
 avsfiloturkey.net
@@ -1762,6 +1762,7 @@ bireyselonlineservisler.com
 bireyselsube-akbankasi.ph
 bireyselsube-enpara.ph
 bireyselsudeniz.com
+bireyselyapikredibasvuru.vercel.app
 bireyselyapikredimobilkampanya.vercel.app
 birimmahkeme.org
 birimportal.org
@@ -1995,6 +1996,7 @@ careersggl.icu
 careffoursa.vercel.app
 carefourgirismobil.cfd
 carefoursa.vercel.app
+carenta360.com
 cark-cekilisi.info
 carloxmextos.org
 carrefoursafirsatlariniz991.duckdns.org
@@ -2477,7 +2479,6 @@ dnmfkral.duckdns.org
 dnskdscc1o1.cfd
 dnzmnkulonline.com
 dnzzzzzzzz.duckdns.org
-doadis.com
 doaodeme.com
 dobeqnesmot.cc
 dochead.top
@@ -2653,6 +2654,7 @@ edosyasorgulama.com
 edosyasorguyap.com
 edosyatalimat.com
 edv-mhrndval.com
+eetyuursdrthnb.giize.com
 efemdybungalov.com
 efendbungalow.com
 efendibungalow.com
@@ -2910,7 +2912,6 @@ esube.osmnlportfoy.com
 esubedunya.com
 esubedunyamportfoy.com
 esubem.kuzeymenkultr.com
-etahkimceza.com
 etahkimgib.com
 etahkimuyap.com
 etalimatbildirim.org
@@ -3214,6 +3215,7 @@ fibabanka-pro-lp.netlify.app
 fibvportfoy.com
 fiftystates.news
 fiieherzamansizlerle.duckdns.org
+fiillledenindro.giize.com
 file.archat.us
 file.dgjm.online
 filemarketi.com.tr
@@ -4636,7 +4638,6 @@ indirimkapinda.online
 indirimkuponu.online
 indirimler1o1.com
 indirimpesidne1o1.duckdns.org
-indirimrehberi.sbs
 indirimsaati.online
 indirimsel-tr.online
 indirimsepeticep.online
@@ -5251,7 +5252,6 @@ kredddbsvrrprmsynn984587kmpny.pro
 kredddbsvrrprmsynnkmpnya745896.online
 kredddbsvrrprmsynnkmpnya745896.pro
 kredifirsatstatusu.com
-krediiziraaatkmpnyabasvr.pro
 kredim-togg.com
 kredimvodafone.ph
 krekdsfsdcvncmndjf.shop
@@ -5483,7 +5483,6 @@ macperformancetools.com
 magaza.22web.org
 magentafloor.com
 magento.ink
-mahkemedava.org
 mail-alsongroup-comupodatemailfbhjvssdnregklreighlknvlire1.pages.dev
 mail-english.read-books.org
 mail-mofept-gov-pk-proposaluodatetokoria546hvghkdfgjhbhjdv.pages.dev
@@ -5509,7 +5508,6 @@ malisorgula.org
 malisorgulama.com
 malisorgulama.net
 malisorgulama.org
-malivezne.net
 malivezneformu.org
 maliye-apple.ph
 maliye-deutschebank.ph
@@ -5522,7 +5520,6 @@ maliyedosyabilgi.com
 maliyeegm.net
 maliyehazine.com
 maliyehazinesorgu.com
-maliyeodemeislemleri.com
 maliyetrsorgu.org
 maliyevezne.org
 maliyeveznedar.online
@@ -6063,7 +6060,6 @@ nltkamtnas.net
 nltkanasnart.net
 nltkkamats.net
 nltkmamt.net
-nltknma.net
 nltlnalnakar.net
 nltnakkm.net
 nltnakmam.net
@@ -6108,6 +6104,7 @@ nostrashop.xyz
 notebookklm.com
 noticiasfy.com
 novafilom.com
+novafilorental.com
 novakurumsal.online
 novakutu.cyou
 novges.com
@@ -6892,6 +6889,7 @@ repo-centos-webtatic.serveftp.com
 repo-ubuntu-webstatic-world.securitytactics.com
 repo-webtatic-server.servehttp.com
 rerrasnahfd.blogspot.com
+rescarkurumsalkiralama.com
 reserved-urgent-predictions-pipe.trycloudflare.com
 resight-cheats.net
 resinteallcicekci.sbs
