@@ -2173,6 +2173,7 @@ hzlinrdn.cfd
 hzlirand.cfd
 hzlirhblr.cfd
 hzlirnad.cfd
+hzlirnd.cfd
 hzlirndal.cfd
 hzlirndal.com
 hzlirndvlr.cfd
@@ -2309,7 +2310,6 @@ internet-sube.my-homeip.de
 internet-subesi-cepteteb.my-homeip.de
 intranet.diyanetisleribakanligi.vercel.app
 intumedias.com
-inveodanismanlik.com
 inveoportfoydanismanlik.com
 investpapara.com
 ios.vdvd2026.com
@@ -2604,7 +2604,6 @@ kuveyt-promoslalylari.duckdns.org
 kuvyt-promosyonlarfirsati.sbs
 kuwadsadhgasdgg929sad.click
 kuzeyfinansyatirim.com
-kuzeymenkulgroup.com
 kuzeyportfoytr.com
 kvytfirsatpromosyonlari.ooguy.com
 kyywl.com

@@ -4036,7 +4036,6 @@ hgjmkb3434.shop
 hglerbrdgelsorgla.web.app
 hgs-bakye-yuklme.art
 hgs-e-bayi.lol
-hgs-odeme-guncel-429014.vercel.app
 hgs-pttavmhgsyuklemenoktasi.netlify.app
 hgsbakiyebayim.art
 hgsbakiyeyuklem.art
@@ -4047,7 +4046,6 @@ hgsdolumbayniz.art
 hgsgecisbakyniz.web.app
 hgsodeme.vercel.app
 hgsx-web.vercel.app
-hgsyklezmnipraykle.cfd
 hgykledme.cfd
 hhhasstne.duckdns.org
 hhizli-gecis-baakiye-yukleme.web.app
@@ -4486,6 +4484,7 @@ hzlinrdn.cfd
 hzlirand.cfd
 hzlirhblr.cfd
 hzlirnad.cfd
+hzlirnd.cfd
 hzlirndal.cfd
 hzlirndal.com
 hzlirndvlr.cfd
@@ -5050,8 +5049,6 @@ kgm.piyka.help
 kgm.ueqgr.xyz
 kgm.ukyaj.cc
 kgm460.top
-kgmbildirmeks.click
-kgmborcsorgulamaodeme.ddnsgeek.com
 kgmgom.cfd
 kgmgov.cfd
 kgmgovi.cfd
@@ -5490,7 +5487,6 @@ maasrehberi.cyou
 macaosjack.duckdns.org
 macperformancetools.com
 magaza.22web.org
-magazada-shop.online
 magentafloor.com
 magento.ink
 mahkemedava.org
