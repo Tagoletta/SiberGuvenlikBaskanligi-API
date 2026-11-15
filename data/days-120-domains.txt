@@ -3902,8 +3902,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -8400,7 +8400,6 @@ hofesmensetjer.duckdns.org
 hofesnesmtkerk.duckdns.org
 hofestlerkes.duckdns.org
 hohestetres.duckdns.org
-hohomster.duckdns.org
 hojdefterkester.click
 hojeasdert.duckdns.org
 hojesfejterdafs.duckdns.org
@@ -13736,7 +13735,6 @@ pttavm.online-siparisler-burda.com
 pttavm.online-siparisler-onaylama.com
 pttavm.satinal-siparis.com
 pttavm.sepete-ekle.com
-pttavm.siparis-guvenliodeme.com
 pttavm.siparis-olustur.com
 pttavm.siparis-onay-7269.com
 pttavm.siparis-onay-7712.com
@@ -14253,7 +14251,6 @@ ruhsuzpanel.cyou
 ruhsuzpanel.ink
 ruhsuzpanel.life
 ruhsuzpanel.lol
-ruhsuzpanel.online
 ruhsuzpanel.sbs
 ruhsuzpanel.site
 ruhsuzpanel.top
@@ -14469,18 +14466,13 @@ sahibinden-get.alisverislersepet-30.sbs
 sahibinden-get.e-servisler10.sbs
 sahibinden-get.ejet-ticaretin1.online
 sahibinden-get.ejet-ticaretin6.online
-sahibinden-get.emobileservislerrn.online
 sahibinden-get.eservisalimin1.online
 sahibinden-get.eservishizmetleriniz1.online
-sahibinden-get.eurunhizmetin.com
-sahibinden-get.guveli-hizmet.online
 sahibinden-get.guvenliodeme-62.sbs
-sahibinden-get.guvenliodemehizmet.online
 sahibinden-get.hementeslimatlar.com
 sahibinden-get.hizlikapimda.com
 sahibinden-get.hizlikargolama.com
 sahibinden-get.ileservishzmetleri.sbs
-sahibinden-get.islem-alisveris-hizmet.com.tr
 sahibinden-get.islem-guvende.online
 sahibinden-get.islemlerin-sepet-10.sbs
 sahibinden-get.islemlerin-sepet-15.sbs
@@ -14512,7 +14504,6 @@ sahibinden-get.mobilservisin-33.sbs
 sahibinden-get.mobilservisin-37.sbs
 sahibinden-get.mobilservisin-55.sbs
 sahibinden-get.mobilservisler-35.sbs
-sahibinden-get.mobilservisler-49.sbs
 sahibinden-get.mobilservisler-62.sbs
 sahibinden-get.mobilservisler-63.sbs
 sahibinden-get.mobilservisler-64.sbs
@@ -14525,7 +14516,6 @@ sahibinden-get.mobilservisler-89.sbs
 sahibinden-get.mobilservisleriniz-11.sbs
 sahibinden-get.mobilservisleriniz-14.sbs
 sahibinden-get.mobilservisleriniz-16.sbs
-sahibinden-get.mobilservisleriniz-2.sbs
 sahibinden-get.mobilservisleriniz-3.sbs
 sahibinden-get.mobilservisleriniz-5.sbs
 sahibinden-get.servisepetin-10.sbs
@@ -14549,7 +14539,6 @@ sahibinden-get.urundetay-sepet-20.sbs
 sahibinden-get.urundetay-sepet-25.sbs
 sahibinden-get.urundetay-sepet-30.sbs
 sahibinden-get.urundetay-sepet-35.sbs
-sahibinden-get.vercel.app
 sahibinden-get.x-mobil-islem-guvenceli.com
 sahibinden-getilan.islemler-web-tr-getalisveris.online
 sahibinden-getilan.islemler-webtr-getalisveris.online
