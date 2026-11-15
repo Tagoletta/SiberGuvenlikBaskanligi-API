@@ -498,7 +498,6 @@
 125122151251.duckdns.org
 125125121.click
 125125121.xyz
-1254598989899894.duckdns.org
 1254598989899898.duckdns.org
 1256121.xyz
 1267125.xyz
@@ -2260,6 +2259,7 @@ arzumsstwtw.com
 arzumstwtwc.com
 arzumtblenn.com
 arzumtwtw63.com
+arzutwsdssntw.com
 arzzumstw.duckdns.org
 arzzuymmav.blogspot.com
 as-alon-av.myonlineportal.ch
@@ -2456,7 +2456,6 @@ auth-unmu.myonlineportal.ch
 auth-update-check.myddns.me
 autheti.com
 authstep-booking8442.com
-autodiscover.1254598989899894.duckdns.org
 autodiscover.862413415907186110.duckdns.org
 autogoarackiralama.com
 automationportal.cc
@@ -3101,6 +3100,7 @@ bireyselsube-enpara.ph
 bireyselsubehalkbank.com.ph
 bireyselsudeniz.com
 bireyselyapikredibasvuru.vercel.app
+bireyselyapikredimobilebasvurucomtr.vercel.app
 bireyselyapikredimobilkampanya.vercel.app
 birimadli.org
 birimkamu.org
@@ -4169,9 +4169,7 @@ couturista.shop
 covenya.shop
 cozone.co
 cozyhavenbroccolillc.com
-cpanel.1254598989899894.duckdns.org
 cpanel.862413415907186110.duckdns.org
-cpcalendars.1254598989899894.duckdns.org
 cpcalendars.862413415907186110.duckdns.org
 cptb-per-sync.myonlineportal.ch
 crabserver.top
@@ -10820,7 +10818,6 @@ mail-mofept-gov-pk-proposaluodatetokoria546hvghkdfgjhbhjdv.pages.dev
 mail-mofept-gov-pk-verification2lerserverupdate84jhbhjgbhc.pages.dev
 mail-paknavy-gov-pk-chi.vercel.app
 mail-pmad-gov-pk-online.pages.dev
-mail.1254598989899894.duckdns.org
 mail.862413415907186110.duckdns.org
 mail.aotuzbirharcaharcatmez.duckdns.org
 mail.avskocfilo.net
@@ -13902,7 +13899,6 @@ r5n8q2m7x4v9k1p3z6w0.cfd
 r6w2q8n5t9k1.click
 r99052.site
 radaukraine.top
-radio.evsahibibasvuru.com
 radium-client.com
 radsagency.com
 rafa10jkascdkaskx13x123123x.cfd
@@ -14573,6 +14569,7 @@ sahibinden-param-guvende.siparisim-guvenli.online
 sahibinden-param-guvende.siparisonayi.online
 sahibinden-param-guvende.siparisonayin.online
 sahibinden-param-guvende.tr-servis-onay.online
+sahibinden-param-guvende.tr-servis-onayi.online
 sahibinden-param-guvende.tr-siparisget.online
 sahibinden-param-guvende.tr-siparisgets.online
 sahibinden-param-guvende.tr-urun-detayi.online
@@ -17761,12 +17758,10 @@ webdijital-basvurular.sbs
 webdijital-internetsube.sbs
 webdijital-kampanyalar.click
 webdijital-simdikampanya.sbs
-webdisk.1254598989899894.duckdns.org
 webdisk.862413415907186110.duckdns.org
 webgrntikrdiislemler.info
 webirtianca.shop
 webislemlerimiz.sbs
-webmail.1254598989899894.duckdns.org
 webmaxly.com
 webpdfinstallerstudio.com
 webs182.com

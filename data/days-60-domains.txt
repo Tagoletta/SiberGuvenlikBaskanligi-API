@@ -921,7 +921,6 @@ adaletgib.org
 adamscountycogov.securemailencryptit.com
 adastraerrans.com
 adaybasvuruislemleri.info
-adaybasvurunz.com
 additionalver.com
 addlabelorg.com
 address.constructions.vu
@@ -1345,6 +1344,7 @@ arzumsseninlew.com
 arzumsstwtw.com
 arzumstwtwc.com
 arzumtwtw63.com
+arzutwsdssntw.com
 arzzumstw.duckdns.org
 arzzuymmav.blogspot.com
 as-alon-av.myonlineportal.ch
@@ -1753,6 +1753,7 @@ bireyselsube-akbankasi.ph
 bireyselsube-enpara.ph
 bireyselsudeniz.com
 bireyselyapikredibasvuru.vercel.app
+bireyselyapikredimobilebasvurucomtr.vercel.app
 bireyselyapikredimobilkampanya.vercel.app
 birimmahkeme.org
 birimportal.org
@@ -3807,7 +3808,6 @@ haberler242325654.sbs
 haberler264589.sbs
 haberler26734554.sbs
 haberler274556.sbs
-haberler298451.sbs
 haberler311534.com
 haberler323534.com
 haberler411235.sbs
@@ -5046,7 +5046,6 @@ kilometresorguhesap2.web.app
 kilometresorguhesap3.web.app
 kilometresorguhesapcan.web.app
 kilometresorguhesaptr.web.app
-kilometresorgulamasi.info
 kilometresorgumadan.web.app
 kilometresorgumerkezi.web.app
 kilometresorgumrkezi.web.app
@@ -5117,7 +5116,6 @@ kmpnyaabsvrr9321.online
 kmpnyabasvurrrprmsyn1786985.info
 kmpnyabasvurrrprmsyn1786985.pro
 kmpnyabsvrr138213.click
-kmpnyadasnfrslatttbasvrprsmtnn789654.online
 kmpnyadasnfrslatttbasvrprsmtnn789654.pro
 kmpnyaprmsyn12391.info
 kmpnyaprmsyn12391.pro
@@ -7127,6 +7125,7 @@ sahibinden-param-guvende.siparis-onayi.online
 sahibinden-param-guvende.siparis-onayla.online
 sahibinden-param-guvende.siparisim-guvenli.online
 sahibinden-param-guvende.tr-servis-onay.online
+sahibinden-param-guvende.tr-servis-onayi.online
 sahibinden-param-guvende.tr-siparisget.online
 sahibinden-param-guvende.tr-siparisgets.online
 sahibinden-param-guvende.tr-urun-detayi.online
