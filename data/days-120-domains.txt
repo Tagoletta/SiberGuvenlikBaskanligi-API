@@ -3408,7 +3408,6 @@ btcturkcekilisi.co
 btcturkcekilisi.online
 btcturkts.cc
 btf-adalet-bakanligi.pages.dev
-btksikayet-btk-sikayet.up.railway.app
 btkurumsal.ph
 btrf36.cc
 buapp1-99579a8a4cfa.herokuapp.com
@@ -8391,7 +8390,6 @@ hodefmenst.duckdns.org
 hodekemenstler.duckdns.org
 hodenstler.duckdns.org
 hodeslerkest.duckdns.org
-hodesterker.duckdns.org
 hodskerlteyer.duckdns.org
 hofelkmenst.duckdns.org
 hofesmensetjer.duckdns.org
@@ -17127,7 +17125,6 @@ turkiyedevletgiris.com.ph
 turkiyediplomagovbasvuru.com
 turkiyeegitim.vu
 turkiyeekonomibankasi.com.ph
-turkiyefinans-katilim-com.duckdns.org
 turkiyefinans-katilimyap-com.duckdns.org
 turkiyefinans.my-homeip.de
 turkiyegovtr.lovestoblog.com
@@ -17718,6 +17715,7 @@ vpnkomar.space
 vpnmyha.shop
 vpnmyxa.site
 vps.xs1.ccwu.cc
+vraxxelyndorqaveth.sbs
 vrdagrytglu.duckdns.org
 vroomlyx.com
 vsdjkvnsdv.com
