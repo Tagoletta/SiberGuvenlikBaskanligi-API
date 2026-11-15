@@ -272,7 +272,6 @@
 101-extra-sepette-indirim-sadece-bugune-ozel-tr.getshop-tr.online
 101-firsatlari.duckdns.org
 101-kampanyalaribuguneozel.sbs
-101-kstra.s3.eu-north-1.amazonaws.com
 101-mobil-bugune-ozel-extra-indiriml.shopping-tr.online
 101-mobil-bugune-ozel-indirim-sadece-online-alisveris-tr.extramarket.online
 101-mobil-bugune-ozel-online-alisveris-indirim-sepet-tr.vibe9958.site
@@ -944,6 +943,7 @@
 541221125565556559998.duckdns.org
 541221125565556559999.duckdns.org
 5426554265521.duckdns.org
+5430811591840151.sbs
 543543534534.sbs
 5435663434565.sbs
 54375432423342645.org
@@ -1190,7 +1190,6 @@ a-101-extra-mobil-sponsor-tr.online-sponsor-web-tr.rest
 a-101-extra-mobilde-bugune-ozel.bireysel-siparis-extra-tr.site
 a-101-extra-mobile-ozel-indirimler-tr.mobil-cep-ozel.online
 a-101-extra-online-tr-indirim.ozel.mobil-cep-shop-tr.sbs
-a-101-extra-ozel-indirim-tr.indirim-sepeti-tr.online
 a-101-extra-sadece-bugune-ozel-indirim-sepeti-mobil-tr.bilgi-tr.online
 a-101-extra-sadece-bugune-ozel-indirim-shop-tr.bilgilendirme-shop.online
 a-101-extra-sadece-bugune-ozel-indirimler-mobilde.ekstra-tr.online
@@ -1641,7 +1640,6 @@ akbankdiretk.ph
 akbankinvesthub.net
 akbankinvestprogram-click.pages.dev
 akbankinvestprogram.click
-akbankmobilnet.ph
 akbankonline-giris.ph
 akbankumre.org
 akbnkpk.cfd
@@ -2852,7 +2850,6 @@ bbvagarantiyeniyilkredisi.ph
 bbvaislemler.duckdns.org
 bbvaonline.duckdns.org
 bbytyzirtar.cfd
-bbzirbta.cfd
 bc.etlva.cn
 bckdayigabrjo.ice.mom
 bckdayimhbk.ice.lol
@@ -3039,7 +3036,6 @@ bilinclikullanim.abrdns.com
 bilinclituketim.abrdns.com
 bilipta.top
 billuno.top
-bimcellodeme.ph
 bin-airdrop.online
 binanc.loadportal.site
 binance--cekilisi.com
@@ -3892,8 +3888,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -6595,7 +6591,6 @@ generalmarketbay.shop
 generalmarketfield.shop
 generalneedsplace.shop
 generalvaluebay.shop
-geneticorbit.capital
 genezerix.company
 gennini-ads.com
 genomefrontier.capital
@@ -7095,6 +7090,7 @@ gustonmartinez.duckdns.org
 guvencelisiparisler.com
 guvendealimlarimiz.com
 guvendeilan.online
+guvendesepetimnet.shop
 guvendeticaretnet.store
 guvenfiloavs.net
 guvenilir-checker.online
@@ -12847,7 +12843,6 @@ otokocfiloturkiye.net
 otokockirala.com.tr
 otokockirala.net.tr
 otokockirolama.com
-otokockurumsal.org
 otokoclakirala.com
 otokoclakiralama.com
 otokoconline.com.tr
@@ -18528,7 +18523,6 @@ ylaocgrdasla.lol
 ylaocgrdaslar.lol
 ylhgkj.com
 ymdreferans.online
-ynlendirbrnkrkmdyivlasi.duckdns.org
 ynlensende.top
 ynlndirckinmecnmsnsnbnm.duckdns.org
 ynlndr-gr-t.my-homeip.de
