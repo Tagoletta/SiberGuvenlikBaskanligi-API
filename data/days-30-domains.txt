@@ -452,6 +452,7 @@ alisveris-guvende-10.sbs
 alisveris-guvende-20.sbs
 alisveris-guvende-25.sbs
 alisveris-islemsepetiniz.sbs
+alisveris-sepet-guvende-15.sbs
 alisveris-sepetinde-10.sbs
 alisveris-sepetinde-15.sbs
 alisveris-sepetinde-20.sbs
@@ -1607,6 +1608,7 @@ facebookloginzonenz.com.ph
 fairalligator.com
 faizsiz100bin.blogspot.com
 farixus.com
+fastfilo.net
 fasthavale.cyou
 faturasorgu.com.tr
 faxtronics.com
@@ -1933,6 +1935,7 @@ guvenliodeme-siparis.online
 guvenliodemeget.online
 guvenliportal.online
 guvenotoydkpr.netlify.app
+guzel-servis-checkerid2985205.geobi.eu
 gvndyc.shop
 gvnfkvnmcjk34903.shop
 gw162.online
@@ -2399,12 +2402,14 @@ istanbulkarthemenss.com
 istanbulkartlahemenla.com
 istanbulkartonline.online
 istanbulkrtlahmnodemeya.com
+istanbulkurum.org
 istanbulmaliye.org
 istanbulonlinetr.lol
 istecep.my-homeip.de
 istkarthmnssdtnal.com
 istkartibasvr.online
 isubemlakbank.com
+isubemlakkatilim.com
 isxto.buzz
 it-assistant.top
 it-seccontrol.top
@@ -2908,6 +2913,7 @@ mhrsrandevuonline.vip
 mhrsrandevuonline.xyz
 mhrsrendavuals.space
 mhrsrhizmetler.com
+mhrxfrg.sbs
 mhsaaah.cfd
 mhsagh.autos
 mhsagh.best
@@ -3196,6 +3202,7 @@ osmankinaliye.giize.com
 osmanliglobal.com
 osmanliyatirimmenkul.com
 osmantalcein.giize.com
+otaarackiralama.com
 otarimkoop.com
 otarimkoop.store
 otaupdate.szbboys.com
@@ -3311,6 +3318,7 @@ primelynx.top
 primemarclab.com
 primite.webredirect.org
 prismao-84.wixsite.com
+prjocoseness.xyz
 prmbrdgrntprm.cfd
 prmsynkmpny.sonnfrslatkmonya12554.info
 prmsynnkmpnyabsvr123913.online
@@ -3328,6 +3336,7 @@ prormsynbasvr1.xyz
 protechlabcorp.opticaberl.com
 prsmynnkmpya12391.pro
 psk1zim.abrdns.com
+ptt-avm.alisveris-sepet-guvende-15.sbs
 ptt-avm.islemlerinmobil-13.sbs
 ptt-kargotakip.space
 ptt-trgov.eu.cc
@@ -3945,6 +3954,7 @@ syjyjyhof.world
 sylvexo.com
 sync-node-serv.com
 sys-update-check.top
+sysarackiralama.com
 system-strategy.org
 szfeisi.com
 szwhtl.com
@@ -4042,6 +4052,7 @@ tebresmiiii.duckdns.org
 technovariant.cyou
 techrelay.top
 techsupport2337.onmicrosoft.com
+teenage-summaries-wild-weekly.trycloudflare.com
 teenfinger.online
 teklifzamani.abrdns.com
 teknikhangar.com.tr
@@ -4125,6 +4136,7 @@ tpk-rndv-tkkg.online
 tpkcosbs.info
 tpkulesrglm.click
 tr-medevlet-aidatt-iade-bilgi-sorgu-ekran.ph
+tr-profit-aiapp.com
 tr-sahibinden.com.tr
 tr-servis-onay.online
 tr-siparis-ilan.online
@@ -4298,6 +4310,7 @@ v7.thisisafalsepositive.ru
 vadimarketim.com
 vadinetwork.com
 vakif-erken-onay.duckdns.org
+vakifbank.live
 vakifbank2019web.com.ph
 vakifbankonlinedestek.com
 vakifkatilimcepsube.com

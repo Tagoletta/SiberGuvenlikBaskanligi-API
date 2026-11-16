@@ -1075,6 +1075,7 @@ alisveris-guvende-20.sbs
 alisveris-guvende-25.sbs
 alisveris-islemsepetiniz.sbs
 alisveris-odemesepeti.com
+alisveris-sepet-guvende-15.sbs
 alisveris-sepeti.online
 alisveris-sepetinde-10.sbs
 alisveris-sepetinde-15.sbs
@@ -3144,6 +3145,7 @@ fangtray.com
 farixus.com
 fashionablespaces.com
 fashionfusiongreenllc.com
+fastfilo.net
 fasthavale.cyou
 fatihnvsdc.shop
 faturasorgu.com.tr
@@ -3722,6 +3724,7 @@ guvenliportal.online
 guvenotoydkpr.netlify.app
 guvercinseverlergrubu.com
 guzel-certificateidcheck472984-servis.foxis.it
+guzel-servis-checkerid2985205.geobi.eu
 guzelkizlarllal.duckdns.org
 gvncmdjslas.shop
 gvndyc.shop
@@ -4042,7 +4045,6 @@ hhizli-gecis-bakiye-yukleme273tr.web.app
 hhizli-gecis-bakiye-yukleme281.web.app
 hhizli-gecis-bakiye-yukleme282.web.app
 hicetnihil.top
-hiizggecd.cyou
 hiizli-gecis-bakiye-yukle.web.app
 hiizli-gecis-bakiye-yukle22.web.app
 hiizli-gecis-bakiye-yukle23.web.app
@@ -4793,6 +4795,7 @@ istanbulkartrandevutr.xyz
 istanbulkarttr.xyz
 istanbulkarttrca.xyz
 istanbulkrtlahmnodemeya.com
+istanbulkurum.org
 istanbullbelgimkartt.xyz
 istanbulmaliye.org
 istanbulonlinetr.lol
@@ -4813,6 +4816,7 @@ istkartlasuathmnal.com
 istkwrnrmk.sbs
 isubehissegiris.com
 isubemlakbank.com
+isubemlakkatilim.com
 isubeodeamenkul.com
 isubeturkishmenkulweb.com
 isxto.buzz
@@ -5750,6 +5754,7 @@ mhrsrendavuals.space
 mhrsrhizmetler.com
 mhrsrtrandevu.com
 mhrsxzcvzxc.com
+mhrxfrg.sbs
 mhsaaah.cfd
 mhsagh.autos
 mhsagh.best
@@ -6454,6 +6459,7 @@ osmanlisorgupaneli.space
 osmanlivportfoy.online
 osmanliyatirimmenkul.com
 osmantalcein.giize.com
+otaarackiralama.com
 otarimkoop.com
 otarimkoop.store
 otaupdate.szbboys.com
@@ -6686,6 +6692,7 @@ primemarclab.com
 primite.webredirect.org
 primzelko.com
 prismao-84.wixsite.com
+prjocoseness.xyz
 prmbrdgrntprm.cfd
 prmsynkmpny.sonnfrslatkmonya12554.info
 prmsynnkmpnyabsvr123913.online
@@ -6716,6 +6723,7 @@ psk1zim.abrdns.com
 pskjbzkrodddd.duckdns.org
 pskljbzkrodddd.duckdns.org
 ptt-avm-km-sorgulama-islem.web.app
+ptt-avm.alisveris-sepet-guvende-15.sbs
 ptt-avm.alisverisinsepet-19.sbs
 ptt-avm.islemlerinmobil-13.sbs
 ptt-govv.cc
@@ -7881,6 +7889,7 @@ syncgoogleadsback-production.up.railway.app
 syncgoogleadsback.onrender.com
 synchvault.co
 sys-update-check.top
+sysarackiralama.com
 sysbasvurular.com
 system-strategy.org
 systeminfo.dynns.com
@@ -8047,6 +8056,7 @@ technicais.sytes.net
 technovariant.cyou
 techrelay.top
 techsupport2337.onmicrosoft.com
+teenage-summaries-wild-weekly.trycloudflare.com
 teenfinger.online
 tekbasvuru.abrdns.com
 tekcihazaktivasyonlinki.duckdns.org
@@ -8220,6 +8230,7 @@ tr-islemlerim-web-alisveris.online
 tr-islemlerin-web-alisveris.online
 tr-medevlet-aidatt-iade-bilgi-sorgu-ekran.ph
 tr-odemeilan.online
+tr-profit-aiapp.com
 tr-sahibinden.com.tr
 tr-sepettex.online
 tr-servis-onay.online
@@ -8529,6 +8540,7 @@ vadinetwork.com
 vaha-yatirim.com
 vakif-erken-onay.duckdns.org
 vakifbank.cm.tr
+vakifbank.live
 vakifbank2019web.com.ph
 vakifbankonlinedestek.com
 vakifkatilimcepsube.com
