@@ -1680,7 +1680,6 @@ akonlinereklamlar.sbs
 akportfoy-bi.pages.dev
 akra-frontdeskt.com
 akraantalyafrontdesk.com
-akrafaelxtoky.webhop.me
 akrafrontdesk.com
 akrahoteltr.sbs
 akronestermalhotel.com
@@ -3960,8 +3959,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -13339,7 +13338,6 @@ paribuaraba-yakala.com
 paribuaraba-yakala.info
 paribuaraba-yakala.link
 paribuarabacekilisikazan.com
-paribuarabahazinesi.com
 paribuarabahediyem.com
 paribuarabakazanci.com
 paribuarabakazanclari.com
@@ -13377,7 +13375,6 @@ paribudansponsorluhediyeler.online
 paribuguvenlik.info
 paribuguvenlik.link
 paribuguvenlik.org
-paribuhediyelicark.com
 paribuhediyelicekilisi.com
 paribukazanmakicin.online
 paribununcekilisleri.online

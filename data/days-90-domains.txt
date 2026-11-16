@@ -3077,8 +3077,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -12608,7 +12608,6 @@ turkiyeisbankasiyatirimprogrami-biz-3398i.pages.dev
 turkiyekonomi.my-homeip.de
 turkiyepetrolleri-pro.pages.dev
 turkiyepetrolleri-shop.pages.dev
-turkiyepetrolleri.shop
 turkiyes.xyz
 turkiyeyatirim.xyz
 turkmotosiklet.com
