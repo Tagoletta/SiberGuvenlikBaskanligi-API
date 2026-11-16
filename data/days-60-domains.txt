@@ -1018,6 +1018,7 @@ akbankdirectonlineislemler.ph
 akbankdiretk.ph
 akbankinvesthub.net
 akbankinvestprogram-click.pages.dev
+akbankplayablevercel.vercel.app
 akbankumre.org
 akillicepmarket.com
 akka-avd-aor.myonlineportal.ch
@@ -1236,7 +1237,6 @@ aracim360-portal.online
 aracim360.vercel.app
 aracim360.xyz
 aracim360bakiye.cfd
-aracin-gecisleridahakolay.web.app
 aracla.com
 aracmuayanemonline.com
 aracmuayanerandevu.xyz
@@ -1640,7 +1640,6 @@ bedavapanelisteyengelsinnn.click
 bedavapanelvarlan.click
 bedavasorgu2026.click
 bedavasorgu2026.online
-bedavasorgupanel.netlify.app
 bedavasorgupanel14x.click
 bedavasorgupaneliniz.site
 bedavatelegramsorgu.click
@@ -1713,7 +1712,6 @@ bilgilendirmesayfam.org
 bilgilendirmesler.date
 bilgilendirmezamani.abrdns.com
 bilgimahkeme.org
-bilgimaliye.org
 bilgisel-cepte.online
 bilgisorgu.org
 bilgivermeservisi.bid
@@ -1939,6 +1937,7 @@ byedubaicenter.duckdns.org
 bylmex.com
 bylotatawod.com
 byveo.org
+c-gatepremiums.com
 c.xs1.ccwu.cc
 c0c8e9350576.securemailencryptit.net
 c0cc.cc
@@ -3280,6 +3279,7 @@ garanti-finans-portali.lol
 garanti-finansal-cozum.cloud
 garanti-finansal-danismanlik.cloud
 garanti-finansal-destek.cloud
+garanti-giris.online
 garanti-hesap-uzmani.cloud
 garanti-imkredi.vercel.app
 garanti-kredi-basvurusu.cloud
@@ -4706,6 +4706,7 @@ istkartlahmnodesal.xyz
 istkartlasuathmnal.com
 istkwrnrmk.sbs
 isubehissegiris.com
+isubemlakbank.com
 isubeodeamenkul.com
 isubeturkishmenkulweb.com
 isxto.buzz
@@ -4919,7 +4920,6 @@ kfqkfwq91241.duckdns.org
 kgm-gom.cfd
 kgm-gov.biz
 kgm-gov.onl
-kgm.gkfpe.cc
 kgm.piyka.help
 kgm.ueqgr.xyz
 kgm.ukyaj.cc
@@ -6284,6 +6284,7 @@ oshikaplan.giize.com
 oskimana.giize.com
 osmankalaycinea.giize.com
 osmankinaliye.giize.com
+osmanliglobal.com
 osmanlisorgupaneli.space
 osmanlivportfoy.online
 osmanliyatirimmenkul.com
@@ -6543,6 +6544,7 @@ ptt-avm-km-sorgulama-islem.web.app
 ptt-avm.alisverisinsepet-19.sbs
 ptt-avm.islemlerinmobil-13.sbs
 ptt-govv.cc
+ptt-kargotakip.space
 ptt-trgov.eu.cc
 ptt.avmilansepetim.com
 ptt.avmonlinesiparisim.com
@@ -7041,7 +7043,6 @@ sahibinden-sepet.onlinesepetimde.store
 sahibinden-sepet.sepetimonaycom.surf
 sahibinden-sepet.sepetteonline.shop
 sahibinden-sepetim.sepetimdeonline.shop
-sahibinden-siparis.guvendesepetim.online
 sahibinden.alisveris-islemsepet-15.sbs
 sahibinden.get-guvenliodeme.online
 sahibinden.guvenliodeme-get.online
@@ -8886,6 +8887,7 @@ yenilenmisicerigimiz.abrdns.com
 yenipartidestek.duckdns.org
 yenitokibasvuru.online
 yeniyilaozelkampanya.snfirslatarkmpya12543.pro
+yeniyilaozellkmpnyaprmsyn.75489snfrsltar.info
 yerkalenec.lol
 yeteneksizaze.duckdns.org
 yetim-vakfi-cop31.pages.devu-cop31.org
@@ -9008,6 +9010,7 @@ zilihojifieresede.club
 zion-pulse.com
 zir-bank-turkiye.top
 ziraat-ban-emekli.my-homeip.com
+ziraat-bank-giris.online
 ziraat-banka-mobil.my-homeip.com
 ziraat-bankas.com
 ziraat-bankas.info

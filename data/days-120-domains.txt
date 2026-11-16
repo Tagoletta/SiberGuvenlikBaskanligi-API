@@ -484,7 +484,6 @@
 1245115544166558998991.duckdns.org
 1245115544166558998992.duckdns.org
 1245445898978979907990.duckdns.org
-12457889989990.duckdns.org
 12457889989991.duckdns.org
 12457889989992.duckdns.org
 12457889989993.duckdns.org
@@ -1058,7 +1057,6 @@
 846135483558348.duckdns.org
 8468535135153351.duckdns.org
 84784815354.sbs
-84parcamatkap.myshopify.com
 84parcamatkapseti.shop
 850musterihizmetleri.xyz
 85208520520520520520520.club
@@ -1648,6 +1646,7 @@ akbankinvesthub.net
 akbankinvestprogram-click.pages.dev
 akbankinvestprogram.click
 akbankonline-giris.ph
+akbankplayablevercel.vercel.app
 akbankumre.org
 akbnkpk.cfd
 akefsmblsbbe.duckdns.org
@@ -3537,6 +3536,7 @@ c-e-p-t-e-t-e-b-ayricalikli-firsatlar.my-homeip.de
 c-e-p-t-e-t-e-b.my-homeip.de
 c-e-p-t-e-teb.my-homeip.de
 c-ep-t-e-t-e-b.my-homeip.de
+c-gatepremiums.com
 c.xs1.ccwu.cc
 c0c8e9350576.securemailencryptit.net
 c0cc.cc
@@ -6318,6 +6318,7 @@ garanti-finans-portali.lol
 garanti-finansal-cozum.cloud
 garanti-finansal-danismanlik.cloud
 garanti-finansal-destek.cloud
+garanti-giris.online
 garanti-hesap-uzmani.cloud
 garanti-imkredi.vercel.app
 garanti-kredi-basvurusu.cloud
@@ -7427,7 +7428,6 @@ halimdenanla.dnsup.net
 halk-bireysel-basvur-com.duckdns.org
 halk-kampanya-ozel.online
 halk-kampanya-ozel.site
-halk-mobil-kredim-com.duckdns.org
 halk-mobil-kredimcepte-com.duckdns.org
 halk-mobil-online-islemler-com.duckdns.org
 halk-mobil-online-islemlerin.duckdns.org
@@ -7839,7 +7839,6 @@ hgsdolumbayniz.art
 hgsgecisbakyniz.web.app
 hgshahgfakf-sada.shop
 hgshgsdeykle.cfd
-hgshgsykleykle.cfd
 hgshukukbirimi.ph
 hgskgmyolgecisbrcodyn.com
 hgsodeme.vercel.app
@@ -8510,7 +8509,6 @@ huhugufue-redesepolise.lol
 huhugye-redigelise.lol
 hujililogeresederse.club
 hukukbilgi.org
-hukukbirimi.net
 hukukbirimi.org
 hukukcezasi.org
 hukukdava.org
@@ -9211,6 +9209,7 @@ isttkarttlahmnal.com
 isube-kuveyttt.duckdns.org
 isube-mobilll.duckdns.org
 isubehissegiris.com
+isubemlakbank.com
 isubeodeamenkul.com
 isubeturkishmenkulweb.com
 isxto.buzz
@@ -12824,6 +12823,7 @@ oskimana.giize.com
 osmankalaycinea.giize.com
 osmankinaliye.giize.com
 osmanli.portfoymenkul.com
+osmanliglobal.com
 osmanliportfoy.app
 osmanlisorgupaneli.site
 osmanlisorgupaneli.space
@@ -13640,6 +13640,7 @@ ptt-hgs-odeme.com
 ptt-hgs-odeme.xyz
 ptt-isbank.com.ph
 ptt-kargo.guvenli-hizmet.online
+ptt-kargotakip.space
 ptt-postgov.sbs
 ptt-tc.cc
 ptt-tr.jinsong.shop
@@ -15648,7 +15649,6 @@ songunlerdeyiz.cfd
 sonicweaversinc.com
 sonicweaversinc.net
 soniz.top
-sonkmpnyalartukenyr1o1.shop
 sonkonutislemleri.com
 sonlkmalrkelr.com
 sonmkarletlr.com
@@ -17750,7 +17750,6 @@ web-bas-vur.myonlineportal.de
 web-braun.com
 web-bulut-habercilik.cfd
 web-dijitalkampanya.sbs
-web-garanti-subesi-tr.ph
 web-haber.cyou
 web-haberler-sayaci.cfd
 web-haberler-sayaclar.sbs
@@ -18490,6 +18489,7 @@ yenipartibagisgovtr.sbs
 yenipartidestek.duckdns.org
 yenitokibasvuru.online
 yeniyilaozelkampanya.snfirslatarkmpya12543.pro
+yeniyilaozellkmpnyaprmsyn.75489snfrsltar.info
 yerkalenec.lol
 yerlivemillielektrikli.com
 yesilyuvabungalov.com
@@ -18764,6 +18764,7 @@ zira-at-basvuru-sureci.my-homeip.de
 zira-trade.icu
 ziraa-t-login-int.my-homeip.de
 ziraat-ban-emekli.my-homeip.com
+ziraat-bank-giris.online
 ziraat-banka-mobil.my-homeip.com
 ziraat-bankas.com
 ziraat-bankas.info
