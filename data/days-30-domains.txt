@@ -177,7 +177,6 @@
 2026bedavapanel.cyou
 2026kasim2026onayli.duckdns.org
 2026konut-tok-i.duckdns.org
-2026onayli2026.duckdns.org
 2026play-app.store
 21145542224555546668988290.xyz
 21145542224555546668988291.xyz
@@ -903,7 +902,6 @@ c2.shopreviewt.top
 c2uge9o8jb9b8dk1ty84q56.org
 c85grt98sd.com
 cacaushowbrinde.com
-cacbolokoloabobo.cyou
 cafebabe.cc
 cafeoffdubai.duckdns.org
 cakadisticaret.com
@@ -1664,9 +1662,6 @@ garanti.abrdns.com
 garantiadresfinans.cloud
 garantianindaonay.cloud
 garantibankasi.abrdns.com
-garantibankasikart.vercel.app
-garantibankasiucretsizbasvuruyap.vercel.app
-garantibankasiucretsizkartkredibasvuruyap.vercel.app
 garantibankbbv.vercel.app
 garantibbva-aidat.vercel.app
 garantibbva-aidat.web.app
@@ -1695,7 +1690,6 @@ garantihizlifinans.cloud
 garantihizlinakit.cloud
 garantikolaydestek.cloud
 garantikolayfinans.cloud
-garantikredibasvuruyap.vercel.app
 garantimobilfinansman.cloud
 garantiotomatikfinans.cloud
 garantiparamerkezi.cloud
@@ -1704,7 +1698,6 @@ garantisistemfinans.cloud
 garantivarlikyonetim.cloud
 garantiyatirim-ai-quiz.vercel.app
 gardnerimmigrationlaw.securemailencryptit.com
-garentacarkiralama.net
 gargale-law.com
 garnoeigogdkfk.shop
 garnoface.bounceme.net
