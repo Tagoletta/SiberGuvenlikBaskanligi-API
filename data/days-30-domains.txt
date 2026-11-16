@@ -3802,7 +3802,6 @@ tebinternetsube.top
 tebmobil.duckdns.org
 tebnernet-internet.duckdns.org
 tebnetinden-girislerim.duckdns.org
-teboagoo.sbs
 tebomebolo.cfd
 tebonline-basvuru.duckdns.org
 tebresmiiii.duckdns.org
@@ -3848,7 +3847,6 @@ tkoopjet.sbs
 tkoopmarket.app
 tkrbkupasionline.com
 tkrbonline.com
-tltlankan.net
 tms.szbboys.co
 tms.szbboys.com
 tnvnchfc.click
