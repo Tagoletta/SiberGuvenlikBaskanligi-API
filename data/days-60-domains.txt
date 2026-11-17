@@ -1112,8 +1112,11 @@ amgen.teams-cloud.live
 amobln-drek.myonlineportal.ch
 amplitudecmd.co
 amplitudecmd.com
+amzapplicationra.com
 amzgw27tlydvptun4a2j8jo.lol
+amzncrew.com
 amznkmps.loseyourip.com
+amzssapplication.com
 anadolumenkulyatirimdegerler.com
 anadoluyatirimmenkuldeger.com
 analwithablond.xyz
@@ -1178,7 +1181,9 @@ app.kuzeymenkultr.com
 apple-career.com
 applemuhammed.xyz
 applications-went-add-bias.trycloudflare.com
+applicationsamz.com
 applicensingstudio.com
+applyamazonsp.com
 approvalbineysel.com
 aps-agrra-lt.myonlineportal.ch
 aps-aworld-aty.myonlineportal.ch
@@ -2355,6 +2360,7 @@ delvexan.com
 demlemerehberi.online
 demlikkamplanyasi.com
 dendenden11.duckdns.org
+deneme.icu
 deneme12124325363.duckdns.org
 denemea1001111.duckdns.org
 denemealtyapi.com
@@ -3421,6 +3427,7 @@ gbvyturn.shop
 gbwfwg.com
 gcc-sg.cloud
 gceartkbrrhtbrkytrr.duckdns.org
+gcmgloball.com
 gcmmenkuldegerler.com
 gcsworldwide.org
 gdnkdl.eu.cc
@@ -3819,6 +3826,7 @@ halkbankonlinedestek.com
 halkblgi.cfd
 halkdijital.shop
 halkfirsat.tech
+halkkoaperatifmarket.firstclasstaste.app
 halklimit.help
 halklimit.shop
 halklimits.online
@@ -4038,6 +4046,8 @@ hillsidebeachclubotel.com
 hillsidetr.com
 hilsamauk.giize.com
 hineokalbimi.giize.com
+hiringamazonsp.com
+hiringamzss.com
 hisbuket.duckdns.org
 hizl-gecisekt-yklebakieac.web.app
 hizl-gecisleriniz-kolay.web.app
@@ -4485,7 +4495,6 @@ ilan-alisverisi-sepeti.com
 ilan-detay102.com
 ilan-detay106.com
 ilan-get-onayi.online
-ilan-getonay.online
 ilan-getonayi.online
 ilan-getsiparis.online
 ilan-islem.online
@@ -4854,9 +4863,12 @@ jnakfsdsadsada.shop
 jnkdsnfkdsfjks.com
 jobmarcher.com
 jobnovax.com
+jobsamazonsp.com
+jobsamzss.com
 jobscouthq.com
 jobscouthq.net
 johemenstsd.duckdns.org
+joinamazonsp.com
 joinanimoca.xyz
 joinaxelar.xyz
 joinaztec.xyz
@@ -5512,6 +5524,7 @@ makeneg458.workers.dev
 malaysiapulse.com
 malibirimi.org
 malidosya.org
+malifatiko.xyz
 malirandevu.com
 malirandevu.online
 malisorgula.org
@@ -5598,6 +5611,7 @@ maskulenshow.duckdns.org
 maslakofficebye.duckdns.org
 massgravel.net
 masssakdubaideoffice.duckdns.org
+masterdarky.com
 matjk.click
 matrixinion.com
 maui-cocktailbar.com
@@ -6380,6 +6394,7 @@ online.dokamacto.xyz
 online.esubedunyam.com
 online.teb.com.se
 onlinealisveris.live
+onlineapplicationamz.com
 onlinebilgilendirme.online
 onlinecaysatisplatform.click
 onlinecep-tr.online
@@ -6663,7 +6678,6 @@ poosta.vercel.app
 portalmaliye.net
 portfoyum.org
 portfoyvmenkul.com
-porttalimhemen.lol
 powerlivings.com
 powerquizmaster.com
 pproxy.top
@@ -7220,7 +7234,6 @@ sahibinden-paramguvende.get-odeme.online
 sahibinden-paramguvende.getilan.online
 sahibinden-paramguvende.guvenli-alisveris-tr.online
 sahibinden-paramguvende.ilan-detayi-tr.online
-sahibinden-paramguvende.ilan-getonay.online
 sahibinden-paramguvende.ilan-siparisim.online
 sahibinden-paramguvende.siparisim-guvenli.online
 sahibinden-paramguvende.tr-siparisget.online
@@ -8745,6 +8758,7 @@ wordmoss.com
 wordpress-18e00011.wasmer.app
 wordpress-19c09.wasmer.app
 work-meta.app
+workatamazonsp.com
 workerstats.net
 workportalsso.com
 workwithapex.xyz
