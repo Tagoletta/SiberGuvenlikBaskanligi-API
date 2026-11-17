@@ -2401,6 +2401,7 @@ istanbuladliyesi.org
 istanbulakvaryumu.com
 istanbularaconarimbakim.store
 istanbulasli.org
+istanbulasliye.net
 istanbulasliye.org
 istanbulbasvurutr.lol
 istanbulkartbasvurutr.lol
@@ -2663,8 +2664,10 @@ kooperatifonline.vercel.app
 kooperatiftenhalka.sbs
 kooperatifweb.sbs
 kooperttarim.dnsalias.com
+kooperttarimd.dnsdojo.com
 kooponline.vercel.app
 koparmatifmarket.blogdns.com
+kpermatifmarkt.blogdns.com
 kqmodehizm.store
 kqmodehizm.study
 kraljantonarimbakimm.duckdns.org
@@ -3774,7 +3777,6 @@ siestaday.cfd
 signalpane.cfd
 silverbullet.icu
 simgecicekcilik.com
-sinegolimisayu.giize.com
 sinirlisayidayagsatisi.sbs
 sioparisethemenkapnda5844.duckdns.org
 siparis-get-ilan.online

@@ -4740,6 +4740,7 @@ istanbuladliyesi.org
 istanbulakvaryumu.com
 istanbularaconarimbakim.store
 istanbulasli.org
+istanbulasliye.net
 istanbulasliye.org
 istanbulbaskart.online
 istanbulbasvuru.lol
@@ -5243,11 +5244,13 @@ kooperatifonline.vercel.app
 kooperatiftenhalka.sbs
 kooperatifweb.sbs
 kooperttarim.dnsalias.com
+kooperttarimd.dnsdojo.com
 kooponline.vercel.app
 koparmatifmarket.blogdns.com
 kopmenst.duckdns.org
 kopukluj.hali-yiklamasi.lol
 kosemenseter.duckdns.org
+kpermatifmarkt.blogdns.com
 kqmodehizm.store
 kqmodehizm.study
 kqmodehizmeler.baby
