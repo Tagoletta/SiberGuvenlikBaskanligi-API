@@ -917,6 +917,7 @@
 911919999.duckdns.org
 9123918273.xyz
 91829172182.duckdns.org
+9191039293.click
 919320022002.click
 943365.duckdns.org
 9456161815855.duckdns.org
@@ -2048,6 +2049,8 @@ avsfilom.com
 avsfilom.net
 avsfilomkirala.com
 avsfilomkiralama.com
+avsfilomkurumsal.net
+avsfilomkurumsal.org
 avsfilonrentcara.com
 avsfilonukirala.com
 avsfilorent.com
@@ -2466,7 +2469,6 @@ bireyselyapikredibasvuru.vercel.app
 bireyselyapikredimobilebasvurucomtr.vercel.app
 bireyselyapikredimobilkampanya.vercel.app
 birimkamu.org
-birimkurum.org
 birimmahkeme.org
 birimmali.org
 birimportal.org
@@ -3267,6 +3269,7 @@ continueislem.22web.org
 contoso.add-passkey.com
 contrabsbz.fylo.live
 contraislem.22web.org
+controlling-endorsed-arrive-army.trycloudflare.com
 controlprice.xyz
 cooingeyebrow.com
 cookie-whitelist.top
@@ -4929,7 +4932,6 @@ garanti-servis-noktasi.cloud
 garanti-varlik-merkezi.cloud
 garanti-yatirim-destek.cloud
 garanti.abrdns.com
-garanti.giris.yansitek.cam
 garantiadresfinans.cloud
 garantianindaonay.cloud
 garantibank-iade-kampanya.ph
@@ -5216,6 +5218,7 @@ giris-turkiye-gov-tr-translate-goog.translate.goog
 giris.aracla.com
 girisdyb.com
 girisicbc.com
+girisimdb.com
 girislerburdansk.duckdns.org
 giristurkiyegovtr.vercel.app
 girisyap-hizli.abrdns.com
@@ -5611,7 +5614,6 @@ haberler34652.shop
 haberler411235.sbs
 haberler41289.sbs
 haberler4151231.sbs
-haberler421352.shop
 haberler4215434.sbs
 haberler42213.sbs
 haberler42328.sbs
@@ -6052,6 +6054,7 @@ hillsidesbeachclub.net
 hillsidetr.com
 hilogere-sederese.lol
 hilsamauk.giize.com
+hilsassmauk.giize.com
 hilulsgfhclubtr.sbs
 hineokalbimi.giize.com
 hiringamazonsp.com
@@ -9785,7 +9788,6 @@ paribununodulluyarismalari.online
 paribununsponsorlucekilisleri.online
 paribusansliaraba.com
 paribusponsorlu-cekils.online
-paribusponsorlugudacekilis.online
 paribusponsorlugunda-cekilis.online
 paribusponsorlugundacekilis.live
 paribusponsorlugundacekilisim.online
@@ -10357,8 +10359,10 @@ recipecookingapp.com
 recipeinstaller.com
 reciperoverapp.com
 redwoodbusinessnetwork.cfd
+refdyb.com
 referansdunyamportfoy.com
 referansicbc.com
+referansinfoyatirim.com
 referansonlinefba.com
 referansportal.online
 refund-advertisers.com
@@ -11333,7 +11337,6 @@ sizeozelteklfimiz.abrdns.com
 sizin-sepetleriniz.com.tr
 sizin-siparisleriniz.com
 sizinicinburadayiz1.sbs
-sizinicinburadayiz3.sbs
 sizinicinburdayiz.duckdns.org
 sizinleyizzz.sbs
 sizinleyizzz2.sbs
@@ -11837,7 +11840,6 @@ svdlyrklerdenbyzzzz.duckdns.org
 svglmymnlymbnsd.shop
 svglmymnlymbnsd.xyz
 svkkvalcay.lat
-svkvktrcaydan.lat
 svsvsvsv123sv.duckdns.org
 svvvdddkkkllddsaa.duckdns.org
 swathely.space
@@ -12273,6 +12275,7 @@ togfinans.com
 togg-arac-finansmani.com
 togg-arac-finansmanlari.com
 togg-arac-kredileri.com
+togg-basvuru-siparis.com
 togg-e.com
 togg-faizsizlimitlerim.com
 togg-finansman.com
@@ -12590,6 +12593,7 @@ turkiyedevletgiris.com.ph
 turkiyediplomagovbasvuru.com
 turkiyeekonomibankasi.com.ph
 turkiyefinans.my-homeip.de
+turkiyefinansanaliz.asia
 turkiyeisbankasiyatirimprogrami-biz-3398i.pages.dev
 turkiyekonomi.my-homeip.de
 turkiyepetrolleri-pro.pages.dev
@@ -13729,7 +13733,6 @@ yunhaskse.duckdns.org
 yuntuoutdoorbackpack.cc
 yunusikalame.giize.com
 yunusikalay.duckdns.org
-yunussendeburdaolcabuk12.casa
 yunxse.duckdns.org
 yurtici-kargo.islemlerinmobil-14.sbs
 yusuflumerkezsubesin.duckdns.org

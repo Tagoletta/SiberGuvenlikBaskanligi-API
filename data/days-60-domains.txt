@@ -684,6 +684,7 @@
 911919999.duckdns.org
 9123918273.xyz
 91829172182.duckdns.org
+9191039293.click
 919320022002.click
 943365.duckdns.org
 9456161815855.duckdns.org
@@ -1462,6 +1463,8 @@ avsfilokiralik.com
 avsfilom.net
 avsfilomkirala.com
 avsfilomkiralama.com
+avsfilomkurumsal.net
+avsfilomkurumsal.org
 avsfilonukirala.com
 avsfilorentkiralama.com
 avsfilorezervasyon.net
@@ -2245,6 +2248,7 @@ continentaloverview.click
 continueislem.22web.org
 contrabsbz.fylo.live
 contraislem.22web.org
+controlling-endorsed-arrive-army.trycloudflare.com
 cooingeyebrow.com
 cookiecraftr.com
 coolcams.duckdns.org
@@ -3533,6 +3537,7 @@ giris-turkiye-gov-tr-translate-goog.translate.goog
 giris.aracla.com
 girisdyb.com
 girisicbc.com
+girisimdb.com
 girislerburdansk.duckdns.org
 gittigidiyor-calculations.ph
 glamourevive.com
@@ -4045,6 +4050,7 @@ hillsidebeach.net
 hillsidebeachclubotel.com
 hillsidetr.com
 hilsamauk.giize.com
+hilsassmauk.giize.com
 hineokalbimi.giize.com
 hiringamazonsp.com
 hiringamzss.com
@@ -4370,7 +4376,6 @@ hobevsjaseter.duckdns.org
 hobeyesholes.duckdns.org
 hodekemenstler.duckdns.org
 hofelkmenst.duckdns.org
-hofesmensetjer.duckdns.org
 holdboost.store
 holfamenstf.duckdns.org
 holkoop.app
@@ -6909,8 +6914,10 @@ rdwv03.cc
 recipecookingapp.com
 recipeinstaller.com
 reciperoverapp.com
+refdyb.com
 referansdunyamportfoy.com
 referansicbc.com
+referansinfoyatirim.com
 referansportal.online
 refund-advertisers.com
 regionalperspective.site
@@ -8153,6 +8160,7 @@ tog-t10.com
 togg-arac-finansmani.com
 togg-arac-finansmanlari.com
 togg-arac-kredileri.com
+togg-basvuru-siparis.com
 togg-e.com
 togg-faizsizlimitlerim.com
 togg-finansman.com
@@ -8380,6 +8388,7 @@ turkiyebankasi.live
 turkiyecumhuriyetmerkezbankasi-xyz-oq6g2.pages.dev
 turkiyediplomagovbasvuru.com
 turkiyeekonomibankasi.com.ph
+turkiyefinansanaliz.asia
 turkiyeisbankasiyatirimprogrami-biz-3398i.pages.dev
 turkiyekonomi.my-homeip.de
 turkiyepetrolleri-pro.pages.dev
@@ -8999,7 +9008,6 @@ www-tbstatus-cpteyiz.myonlineportal.ch
 www-tbte-cpte-nov.myonlineportal.ch
 www-teb-com-tr-emekli-kampanya-firsatlari.myonlineportal.eu
 www-teb-com-tr-firsatlar-emeklilik.myonlineportal.ch
-www-teb-com-tr-mobil-site.myonlineportal.ch
 www-teb-com-tr.internet-subesi.site
 www-teb-mobilden.my-homeip.de
 www-tesctb-exit-cepte.myonlineportal.ch
@@ -9245,7 +9253,6 @@ zahlung-p.ftwestseattle.com
 zalimdunyaa.click
 zamangeldi.abrdns.com
 zara-tr-tr-indirimler1.top
-zartelipoluhuguere.club
 zasede-redereteyere.lol
 zasedepilokihidfere.lol
 zasederetesedepiloho.lol

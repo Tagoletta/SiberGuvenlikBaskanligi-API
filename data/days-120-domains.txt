@@ -1098,6 +1098,7 @@
 911919999.duckdns.org
 9123918273.xyz
 91829172182.duckdns.org
+9191039293.click
 919320022002.click
 9273912dsasdasd.com
 943365.duckdns.org
@@ -2575,6 +2576,8 @@ avsfilom.com
 avsfilom.net
 avsfilomkirala.com
 avsfilomkiralama.com
+avsfilomkurumsal.net
+avsfilomkurumsal.org
 avsfilonrentcara.com
 avsfilonukirala.com
 avsfilorent.com
@@ -4180,6 +4183,7 @@ continueislem.22web.org
 contoso.add-passkey.com
 contrabsbz.fylo.live
 contraislem.22web.org
+controlling-endorsed-arrive-army.trycloudflare.com
 controlprice.xyz
 cooingeyebrow.com
 cookie-whitelist.top
@@ -5059,7 +5063,6 @@ edvs-tapursvnnuszs.info
 edvs-tapursvnnuszs.org
 edwardeggcup.shop
 edwnbabaxik.abrdns.com
-edwngarxkdb.abrdns.com
 eetyuursdrthnb.giize.com
 efemdybungalov.com
 efendbungalow.com
@@ -6786,6 +6789,7 @@ giris-turkiye-gov-tr-translate-goog.translate.goog
 giris.aracla.com
 girisdyb.com
 girisicbc.com
+girisimdb.com
 girislerburdansk.duckdns.org
 giristurkiyegovtr.vercel.app
 girisyap-hizli.abrdns.com
@@ -7998,6 +8002,7 @@ hillsidesbeachclub.net
 hillsidetr.com
 hilogere-sederese.lol
 hilsamauk.giize.com
+hilsassmauk.giize.com
 hilulsgfhclubtr.sbs
 hineokalbimi.giize.com
 hiringamazonsp.com
@@ -9744,7 +9749,6 @@ kasimindirimleri.cfd
 kaslminlerlnden.com
 kasmbasvurtt0ki.online
 kaspersky-lab.hl.cn
-kastamaonulusarmisakciskkke3x.duckdns.org
 katafeester.company
 kataloghaftasn.giize.com
 katamoli-toromide.lol
@@ -14232,9 +14236,11 @@ recipecookingapp.com
 recipeinstaller.com
 reciperoverapp.com
 redwoodbusinessnetwork.cfd
+refdyb.com
 referansdunyamportfoy.com
 referansfba.com
 referansicbc.com
+referansinfoyatirim.com
 referansonlinefba.com
 referansportal.online
 refund-advertisers.com
@@ -16416,7 +16422,6 @@ tamamlayan-dahafazla.ink
 tambiroe34232.duckdns.org
 tamponculokmandeneme.duckdns.org
 tamustunedokund.sbs
-tanergiyimiboist.duckdns.org
 tanitim-cekilis.online
 tanitim-sans.online
 tanivuso-gepolemi.lol
@@ -16881,6 +16886,7 @@ togfinans.com
 togg-arac-finansmani.com
 togg-arac-finansmanlari.com
 togg-arac-kredileri.com
+togg-basvuru-siparis.com
 togg-e.com
 togg-faizsizlimitlerim.com
 togg-finans-kredim.com
@@ -17279,7 +17285,6 @@ turkcelpasaj.store
 turkcurrent.blog
 turkey-benz.com
 turkey-post.us.cc
-turkeyindirim.click
 turkeysystems.org
 turkeywish.com
 turkeyynewss.com
@@ -17325,6 +17330,7 @@ turkiyediplomagovbasvuru.com
 turkiyeegitim.vu
 turkiyeekonomibankasi.com.ph
 turkiyefinans.my-homeip.de
+turkiyefinansanaliz.asia
 turkiyegovtr.lovestoblog.com
 turkiyehaberblog.com
 turkiyeisbankasiyatirimprogrami-biz-3398i.pages.dev
