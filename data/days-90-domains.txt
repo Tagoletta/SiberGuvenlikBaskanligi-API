@@ -3078,8 +3078,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -5007,11 +5007,14 @@ garantibbvaria.com.ph
 garantibbvatitles.com.ph
 garantibvvaonline.com
 garantidenkredifirsati.cloud
+garantidenkredifirsatlari.cloud
+garantidenkrediler.cloud
 garantidestek.cloud
 garantidestekfinans.cloud
 garantifinanslimani.cloud
 garantifirsatpuanlar.ph
 garantigelecekfonu.cloud
+garantigucnakit.cloud
 garantihizlifinans.cloud
 garantihizlinakit.cloud
 garantikolaydestek.cloud
