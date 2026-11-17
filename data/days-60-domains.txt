@@ -141,7 +141,6 @@
 101-extra-sadece-bugune-ozel-alisveris-sepeti-tr.cde7444.site
 101-extra-sadece-bugune-ozel-alisveris-sepeti-tr.cepteindirims-tr.online
 101-extra-sadece-bugune-ozel-alisveris-shop-bilgileri-cepte.magazada.site
-101-extra-sadece-bugune-ozel-alisveris-shop-market-indirimi-tr.shops-cep-mobil.online
 101-extra-sadece-bugune-ozel-alisveris-tr-mobil.hemenal.site
 101-extra-sadece-bugune-ozel-cepte-siparis-indirimi-tr.cepio-tr.online
 101-extra-sadece-bugune-ozel-indirim-sepete-ekle-tr.mobils-bilgide.online
@@ -1808,7 +1807,6 @@ bntrarabacekilis.online
 bntrarabacekilisi.online
 bntrhediyecarki.duckdns.org
 bntrurls.duckdns.org
-boiseno.club
 bojuhomefurnishings.com
 bonto.io
 bonus-basvurularitr42345343.sbs
@@ -1839,8 +1837,6 @@ botsprotection.com
 boytalents.xyz
 bozdomuz.duckdns.org
 bpdaersa.click
-bpost.be-pakje-ontvangen-nl-recevoir-colis-fr.my.id
-bpost.center
 brakeliontrail.com
 brandefense.co
 brandlyza.com
@@ -2039,14 +2035,7 @@ cdn.dlmafi.top
 cdn.gotoiphone.com
 cdn.js-static.com
 cdn.netlfjs.com
-cdn.sendibt1.com
 cdn007-digitaldownloads.com
-cdn10.sendibt1.com
-cdn11.sendibt1.com
-cdn2.sendibt1.com
-cdn3.sendibt1.com
-cdn4.sendibt1.com
-cdn9.sendibt1.com
 cebinizde-sepet.online
 cebteb-emekli-kampanya.my-homeip.de
 cebteteb-ayricalik.my-homeip.de
@@ -2273,7 +2262,6 @@ corecloudfileshare.xyz
 corehost.ddns.net
 corexyfi.com
 corporateitservicellc.onmicrosoft.com
-corralos.beer
 coserflwang.com
 cotiellavigia.com
 cozyhavenbroccolillc.com
@@ -3007,7 +2995,6 @@ facebook-loginpage.com.ph
 facebook-password-change-media.ph
 facebook-password-recovery-change-password.ph
 facebook-password-reset-new-password-confirm.ph
-facebook-secure.shop
 facebook-signup-verify99999999999798.ph
 facebook-update-team-verify.ph
 facebook-update-verify-now.ph
@@ -5504,7 +5491,6 @@ mail.binancehediyefirsati.duckdns.org
 mail.crabserver.top
 mail.english.read-books.org
 mail.mobatex.ddns.net
-mail.plan-mail.com
 mailkeyboard.com
 maill.ddns.net
 maill.loginto.me
@@ -5663,7 +5649,6 @@ merkezdensizlere.abrdns.com
 merkezi-hekim-randevu-sistemi.xyz
 merkeziadeveyatirim.com
 merkezlisistem.com
-merkezlisistemim.art
 merkezrannd.com
 merkezrent.com
 merkezsistemi.abrdns.com
@@ -5848,7 +5833,6 @@ mobil-deniz.my-homeip.de
 mobil-erisim-cepteteb.my-homeip.de
 mobil-firsat-hizmetleri.vercel.app
 mobil-sube.teb.com.se
-mobil.osmanlivportfoy.online
 mobilbbvuislemenu.linkpc.net
 mobilcepte.my-homeip.de
 mobilcepteteb.my-homeip.de
@@ -6147,7 +6131,6 @@ ns-wwwhaber7com.gratispilots.beer
 ns-wwwhaber7com.grippex.cfd
 ns-wwwhaber7com.logwayaceite.cfd
 ns.mo7sen.dev
-ns1.wordcheck.info
 nsboards.com
 nsboards.net
 ntlenelana.net
@@ -6449,7 +6432,6 @@ osmankalaycinea.giize.com
 osmankinaliye.giize.com
 osmanliglobal.com
 osmanlisorgupaneli.space
-osmanlivportfoy.online
 osmanliyatirimmenkul.com
 osmantalcein.giize.com
 otaarackiralama.com
@@ -6696,7 +6678,6 @@ prmsynnnkmpnyaaabsvrr874511.online
 prmsynnnkmpnyaaabsvrr874511.pro
 prmsynnnkmpnyaabasvrrr147852.pro
 pro-cepteteb.my-homeip.de
-pro.taustas.com
 profitlyatt.com
 programupdate-assis.top
 projectcontrolgroup.co
@@ -6814,7 +6795,6 @@ q1ls1ho9x7wsxlu.icu
 q2nbfinansbank.vg
 q6z1t4x8n2.lol
 qasrgaovaf7m.thisisafalsepositive.ru
-qfasdwqfa.sadqwdas.casasd.hizmetlssdak.click
 qicehao.info
 qjzze.buzz
 qkjwejkqwq1231.duckdns.org
@@ -8119,7 +8099,6 @@ tkg-tpuransevdnuz.net
 tkg-tpuransevdnuz.online
 tkgm.ink
 tkgm.quest
-tkkaldgmzgnllerdervdaldm.lol
 tkkoop-online.app
 tkkoop.vercel.app
 tkkoopalisveris.app
@@ -9111,7 +9090,6 @@ ydmuzmanli.site
 ydmydm.online
 ydx-stat.ru
 yeettrsesra.giize.com
-yelahaye.surf
 yemekkartbasvurusu.com
 yemektarifleri.shop
 yenibbvuislemenu.linkpc.net
@@ -9272,7 +9250,6 @@ ziraatbankk.sbs
 ziraatbankkasi.sbs
 ziraatkatilim.ai
 ziraatkatilimdestek.com
-ziraatkredibasvuru.netlify.app
 ziravest.biz
 zirgames.site
 ziroyun.site
