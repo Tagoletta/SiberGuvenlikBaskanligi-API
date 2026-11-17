@@ -4488,7 +4488,6 @@ facebooklogin-news.ph
 facebooklogin-pets.ph
 facebooklogin-za-zone.ph
 facebookloginaccess-tr.com.ph
-facebookloginadmin.blogspot.com
 facebookloginalpha.com.ph
 facebookloginambulance.com.ph
 facebookloginanimal.com.ph
@@ -5009,6 +5008,7 @@ garantibvvaonline.com
 garantidenkredifirsati.cloud
 garantidenkredifirsatlari.cloud
 garantidenkrediler.cloud
+garantidenonlinekredi.cloud
 garantidestek.cloud
 garantidestekfinans.cloud
 garantifinanslimani.cloud
@@ -5025,8 +5025,11 @@ garantikrediler.cloud
 garantikredim.cloud
 garantikredirehberi.cloud
 garantimobilfinansman.cloud
+garantimobilkasa.cloud
+garantinakitdijital.cloud
 garantiotomatikfinans.cloud
 garantiparamerkezi.cloud
+garantiparasihirbazi.cloud
 garantis.s.gy
 garantisanalkasa.cloud
 garantisistemfinans.cloud
@@ -5441,7 +5444,6 @@ gustavomartinz.duckdns.org
 gustavopelnikanli.duckdns.org
 gustonaleyi.giize.com
 gustonmartinez.duckdns.org
-guvencelisiparisler.com
 guvendeilan.online
 guvendesepetimnet.shop
 guvendeticaretnet.store
@@ -5957,6 +5959,7 @@ hfgjjkrewjk.com
 hflx64mniw165hv3s1.com
 hfnvmfvkjmv38292.click
 hftanin101firsati.duckdns.org
+hftaninyldiz.shop
 hftbrdasmd.click
 hftlnin1o1frlstlari.duckdns.org
 hftnyldzlbrada.click
@@ -6055,7 +6058,6 @@ hilsamauk.giize.com
 hilulsgfhclubtr.sbs
 hineokalbimi.giize.com
 hisbuket.duckdns.org
-historyclean.cfd
 hizl-gecisekt-yklebakieac.web.app
 hizl-gecisleriniz-kolay.web.app
 hizlabasvurlarinionaylara.sbs
@@ -6299,7 +6301,6 @@ hizlibaslangic.abrdns.com
 hizlibasvrularain.sbs
 hizlibasvuru.online
 hizlibasvurukanalikonut.cfd
-hizlibasvurulariolustur3.sbs
 hizlica-gecislerinburada.lol
 hizlicadevamsektorer.sbs
 hizlicahalledek.web.app
@@ -6669,7 +6670,6 @@ ilan-satisi.online
 ilan-sepetleri-burda.com
 ilan-sepetlerimiz-alisveris.com
 ilan-sepetlerimiz-burada.com
-ilanda-sepetim-1096.com
 ilanda-sepetim-1097.com
 ilanda-sepetim-1098.com
 ilanda-sepetim-1099.com
@@ -7235,7 +7235,6 @@ js-static.com
 jsfeterst.duckdns.org
 jskdljk.top
 jsnetlify.com
-jspara-col.cfd
 juicysfamousfairdocument.ncclouds.co
 juk2a.site
 just-cooperation-production-f159.up.railway.app
@@ -7469,7 +7468,6 @@ kemalradio.com
 kendineiyibak3r.xyz
 kendinicin.abrdns.com
 kendinkullan.abrdns.com
-kendnols.duckdns.org
 kennszaltas.blogspot.com
 kentcicek.com
 kentducks.duckdns.org
@@ -9437,7 +9435,6 @@ odeyklehgs.cfd
 odmdeyklehgs.cfd
 odmeebasvurlarinia.sbs
 odmezmnihgsde.cfd
-odmyeyklezmni.cfd
 odmykleprdahgs.cfd
 odnmezmnihgsde.cfd
 odsmdicmfdhgsode.net
@@ -11948,7 +11945,6 @@ tapu.run
 tapu.surf
 tapurandevuislemlerinz.web.app
 tapurandevulari.web.app
-tapvetrsm.space
 tarbil-gov.net
 taresototamirrci34.duckdns.org
 tarim-kredi.com

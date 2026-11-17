@@ -6534,6 +6534,7 @@ garantiden-basvur.click
 garantidenkredifirsati.cloud
 garantidenkredifirsatlari.cloud
 garantidenkrediler.cloud
+garantidenonlinekredi.cloud
 garantidestek.cloud
 garantidestekfinans.cloud
 garantifinanslimani.cloud
@@ -6558,8 +6559,11 @@ garantilihall.shop
 garantillifk.cfd
 garantillik.cfd
 garantimobilfinansman.cloud
+garantimobilkasa.cloud
+garantinakitdijital.cloud
 garantiotomatikfinans.cloud
 garantiparamerkezi.cloud
+garantiparasihirbazi.cloud
 garantis.s.gy
 garantisanalkasa.cloud
 garantisistemfinans.cloud
@@ -7902,6 +7906,7 @@ hfgjjkrewjk.com
 hflx64mniw165hv3s1.com
 hfnvmfvkjmv38292.click
 hftanin101firsati.duckdns.org
+hftaninyldiz.shop
 hftbrdasmd.click
 hftlnin1o1frlstlari.duckdns.org
 hftnyldzlbrada.click
@@ -10970,7 +10975,6 @@ maganet.ru
 magaza.22web.org
 magaza.online
 magazada-shop.online
-magazadan-odeme.com
 magazafislerionline.com
 magazaindirimi.com
 magazamda-ilanim.com
