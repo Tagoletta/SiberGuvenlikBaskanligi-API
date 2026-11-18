@@ -9783,7 +9783,6 @@ panelabi1.xyz
 panelbalonxfs.xyz
 panelsorgu.buzz
 panelsorgu.online
-panelsorgu.space
 panelsorgu1.world
 pansy.lovingjaw.info
 pantherbuilders.xyz
@@ -9880,6 +9879,7 @@ pazarama.alisverishizi.com
 pazarama.bireysel-magaza.com
 pazarama.bireyselonlineservisler.com
 pazarama.elektronik-urunler-sepetimiz.com
+pazarama.esimbooking.com
 pazarama.eylulfirsatlari.com
 pazarama.firsatli-siparis.com
 pazarama.guvenli-odeme.com
@@ -12536,8 +12536,6 @@ trendy0l1.xyz
 trendyapp.top
 trendyl-mobil-tr.online
 trendymartshop.shop
-trendyo5.lol
-trendyo5.xyz
 trendyogift.com
 trendyol-alibaba.ph
 trendyol-bridge.duckdns.org
