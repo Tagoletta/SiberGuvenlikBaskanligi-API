@@ -434,6 +434,7 @@ akakakakak.duckdns.org
 akbank-aivisibility.lovable.app
 akbank-data.pages.dev
 akbank-odeme.online
+akbank-tr.info
 akbank-tr.live
 akbank-tr.pro
 akbank-trkiye.top
@@ -649,6 +650,7 @@ atat.ink
 atiiyoruz.space
 attacker-collector.com
 autheti.com
+autodiscover.101-de-indirimler-bugune-ozel-firsatlar.duckdns.org
 auukk.com
 availcouncil.xyz
 avantajduragi.cyou
@@ -1151,6 +1153,12 @@ corexyfi.com
 corporateitservicellc.onmicrosoft.com
 coserflwang.com
 cotiellavigia.com
+cpanel.101-de-indirimler-bugune-ozel-firsatlar.duckdns.org
+cpanel.101-mobil-bugune-ozel-indirimler-tr-cep.duckdns.org
+cpcalendars.101-de-indirimler-bugune-ozel-firsatlar.duckdns.org
+cpcalendars.101-mobil-bugune-ozel-indirimler-tr-cep.duckdns.org
+cpcontacts.101-de-indirimler-bugune-ozel-firsatlar.duckdns.org
+cpcontacts.101-mobil-bugune-ozel-indirimler-tr-cep.duckdns.org
 cptb-per-sync.myonlineportal.ch
 crabserver.top
 crash.reporting.t.ya-user-experience.ru
@@ -2028,7 +2036,6 @@ hadidmsimd.cfd
 hadivurjavexxd.duckdns.org
 hafta1o1geldi.duckdns.org
 haftalikyildiz1o1.duckdns.org
-haftaninyildizlari1o1devamet.click
 hailou.ai
 haiulo.ai
 haklanmdne.giize.com
@@ -4445,7 +4452,6 @@ voltamagazasatis.com
 voltaonlinemagaza.com
 voltasatisi.com
 voltataksitlisatis.com
-vonexis-camp-pro-flrsat.com
 vortexza.com
 vps.xs1.ccwu.cc
 vraxxelyndorqaveth.sbs

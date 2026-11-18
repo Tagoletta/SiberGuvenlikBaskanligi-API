@@ -978,6 +978,7 @@ akaryakithesaplama.com
 akbank-aivisibility.lovable.app
 akbank-data.pages.dev
 akbank-odeme.online
+akbank-tr.info
 akbank-tr.live
 akbank-tr.pro
 akbank-trkiye.top
@@ -1421,6 +1422,7 @@ attgenius.com
 au.lpa1.star-boostmedia.com
 auth-update-check.myddns.me
 autheti.com
+autodiscover.101-de-indirimler-bugune-ozel-firsatlar.duckdns.org
 autopilotatt.com
 autotradeatt.com
 auukk.com
@@ -2280,6 +2282,12 @@ corporateitservicellc.onmicrosoft.com
 coserflwang.com
 cotiellavigia.com
 cozyhavenbroccolillc.com
+cpanel.101-de-indirimler-bugune-ozel-firsatlar.duckdns.org
+cpanel.101-mobil-bugune-ozel-indirimler-tr-cep.duckdns.org
+cpcalendars.101-de-indirimler-bugune-ozel-firsatlar.duckdns.org
+cpcalendars.101-mobil-bugune-ozel-indirimler-tr-cep.duckdns.org
+cpcontacts.101-de-indirimler-bugune-ozel-firsatlar.duckdns.org
+cpcontacts.101-mobil-bugune-ozel-indirimler-tr-cep.duckdns.org
 cptb-per-sync.myonlineportal.ch
 crabserver.top
 crash.reporting.t.ya-user-experience.ru
@@ -9205,7 +9213,6 @@ yilsonuindirimlera101-com.duckdns.org
 yixue.linqingkeji.com
 yk-donusum-public.vercel.app
 ykleglsinhzlica.cfd
-yklemelrhzlihgs.cfd
 yklemenkthgs.com
 yklemlrhzlicaypin.cfd
 ykleozmnhgsde.cfd

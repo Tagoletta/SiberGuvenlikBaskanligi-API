@@ -1641,6 +1641,7 @@ akbank-bireysel-subesi.ph
 akbank-data.pages.dev
 akbank-direkt-firsatkampanyasi-esubetr.ph
 akbank-odeme.online
+akbank-tr.info
 akbank-tr.live
 akbank-tr.pro
 akbank-trkiye.top
@@ -2488,6 +2489,7 @@ auth-unmu.myonlineportal.ch
 auth-update-check.myddns.me
 autheti.com
 authstep-booking8442.com
+autodiscover.101-de-indirimler-bugune-ozel-firsatlar.duckdns.org
 autodiscover.862413415907186110.duckdns.org
 autogoarackiralama.com
 automationportal.cc
@@ -3937,8 +3939,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -4214,8 +4216,14 @@ couturista.shop
 covenya.shop
 cozone.co
 cozyhavenbroccolillc.com
+cpanel.101-de-indirimler-bugune-ozel-firsatlar.duckdns.org
+cpanel.101-mobil-bugune-ozel-indirimler-tr-cep.duckdns.org
 cpanel.862413415907186110.duckdns.org
+cpcalendars.101-de-indirimler-bugune-ozel-firsatlar.duckdns.org
+cpcalendars.101-mobil-bugune-ozel-indirimler-tr-cep.duckdns.org
 cpcalendars.862413415907186110.duckdns.org
+cpcontacts.101-de-indirimler-bugune-ozel-firsatlar.duckdns.org
+cpcontacts.101-mobil-bugune-ozel-indirimler-tr-cep.duckdns.org
 cptb-per-sync.myonlineportal.ch
 crabserver.top
 crash.reporting.t.ya-user-experience.ru
