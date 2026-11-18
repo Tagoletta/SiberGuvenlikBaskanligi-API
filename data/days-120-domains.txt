@@ -376,6 +376,7 @@
 101kariyer.org
 101kariyerim.com
 101kralsfe.duckdns.org
+101ligiris.xyz
 101marketleravantaji.com
 101onlinetakipkampanyasi.sbs
 102999940202020.webredirect.org
@@ -3940,8 +3941,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -6792,6 +6793,7 @@ giris-islemler.teb.com.se
 giris-sekermenkul.pro
 giris-turkiye-gov-tr-translate-goog.translate.goog
 giris.aracla.com
+giris.portal-disisleri.org
 girisdyb.com
 girisicbc.com
 girisimdb.com
@@ -8967,6 +8969,7 @@ infoupdate-it.top
 infoxsube.com
 infoyatirim.51-79-38-248.sslip.io
 infoyatirim.51.79.38.120.sslip.io
+infoyatirimreferans.com
 infvarlikdegerler.com
 ingbank-kullanici.ph
 ingbank-online-kampanya.ph
@@ -13718,6 +13721,7 @@ pomopidi.pro
 ponedari-sumafelo.lol
 poosta.vercel.app
 poppyplaytimeplay.ru
+portal-disisleri.org
 portal-mhrs.digital
 portal-web3-extension-welcome.pages.dev
 portal.netgsm.online

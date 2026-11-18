@@ -110,6 +110,7 @@
 101hemenkapinnda.duckdns.org
 101hizlialisverishizmeti.duckdns.org
 101hizlikapinda.com
+101ligiris.xyz
 10to.siestaday.cfd
 1111111110.sbs
 111hizligiris.duckdns.org
@@ -1849,6 +1850,7 @@ gibharcpuluodeme.com
 gibtakip.net
 giris-islemler.teb.com.se
 giris-sekermenkul.pro
+giris.portal-disisleri.org
 girisdyb.com
 girisicbc.com
 girisimdb.com
@@ -2306,6 +2308,7 @@ infomankul.com
 informehoy.live
 infoupdate-it.top
 infoyatirim.51-79-38-248.sslip.io
+infoyatirimreferans.com
 ingmobil.click
 ingonlinekredihizmeti.net
 inidirmlergeldi1o1.duckdns.org
@@ -3341,6 +3344,7 @@ polimericana.company
 polink.cloud
 pom-qp.ftwestseattle.com
 pomopidi.pro
+portal-disisleri.org
 portalmaliye.net
 portfoyum.org
 portfoyvmenkul.com
