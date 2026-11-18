@@ -133,6 +133,7 @@
 123134353.click
 123512351235.duckdns.org
 1235616345234.sbs
+125125125.duckdns.org
 127985698545789555899855990.xyz
 127985698545789555899855992.xyz
 127985698545789555899855993.xyz
@@ -145,6 +146,7 @@
 13112026.com
 146971.xyz
 14785236kmpnyabsvrprsmyn.info
+15125125.duckdns.org
 151512515asdf.duckdns.org
 1688360.cc
 178.landexuan.site
@@ -153,6 +155,7 @@
 18218219219219.bounceme.net
 182internet.com
 185125125.click
+1a1rl.link
 1o1markethftninyldizlari.duckdns.org
 1y69gy2mdzaltz1.icu
 2026bedavapanel.click
@@ -322,6 +325,7 @@
 a-1-0-1-stanleyindirimleri.duckdns.org
 a-1-o-1firsat-stanleys-urunu.duckdns.org
 a-101harcaharca.duckdns.org
+a-10203-4.click
 a-1o1-giris-menuleri.duckdns.org
 a-1o1-hizmet-ekim-stanley-termoslari.duckdns.org
 a-1o1-market-stanley-aktif-indirimi.opik.net
@@ -1706,7 +1710,6 @@ garanti-nakit-sistemi.cloud
 garanti-odeme-portali.cloud
 garanti-odeme-sistemi.cloud
 garanti-para-merkezi.cloud
-garanti-portfoy-yonetimi.cloud
 garanti-sermaye-hizmeti.cloud
 garanti-sermaye-merkezi.cloud
 garanti-sermaye-portali.cloud
@@ -2386,7 +2389,6 @@ istanbulasli.org
 istanbulasliye.net
 istanbulasliye.org
 istanbulbasvurutr.lol
-istanbulkartbasvurutr.lol
 istanbulkarthemenodeme.com
 istanbulkarthemenss.com
 istanbulkartlahemenla.com
@@ -2637,7 +2639,6 @@ kooperatifmarket.org.tr
 kooperatifmarketd.blogdns.com
 kooperatifmarketde.blogdns.com
 kooperatifmarketson.blogspot.com
-kooperatifonline.vercel.app
 kooperatiftenhalka.sbs
 kooperatifweb.sbs
 kooperttarim.dnsalias.com
@@ -2690,6 +2691,7 @@ l7bcsnwc7nzr3uo.icu
 l8e43825hs4h678s.giize.com
 lab.diyanetisleribakanligi.vercel.app
 laboredtire.com
+laleliburgaz.giize.com
 lalibation.ncclouds.com
 lalibations.opticaberl.com
 lamba.cepre-soj.shop
@@ -2933,7 +2935,6 @@ mhsroda182.lifestyle
 mhsroda182.makeup
 mhsroda182.monster
 mhsroda182.motorcycles
-mhsrogren.org
 mhssrawga.buzz
 mhssrawga.cfd
 miboykr.xyz
@@ -3330,7 +3331,6 @@ pressbeam.vu
 preview.diyanetisleribakanligi.vercel.app
 primelynx.top
 primemarclab.com
-primite.webredirect.org
 prismao-84.wixsite.com
 prjocoseness.xyz
 prmsynaskmnpasday12.kmpnyaabsvrr9321.pro
@@ -4088,6 +4088,7 @@ tkg-tap-randvznsz.online
 tkg-tap-randvznsz.site
 tkg-tapvzsurandevun.com
 tkg-tapvzsurandevun.net
+tkg-tapvzsurandevunz.net
 tkg-tapvzsurandevunz.online
 tkg-tapvzsurandevunz.site
 tkg-tpuransevdnuz.com.tr
@@ -4450,7 +4451,6 @@ wuoppin.xyz
 ww-fibabanka.ph
 ww38.k3rdxp0igzguybu6ua1.com
 wwasdhashdu88sadasd.click
-wwolink.cloud
 wwptt-express.m-o-bau-sonnenschutztechnik.de
 www-ac-tb-cpte.myonlineportal.ch
 www-acepte-tb-ayricalik.myonlineportal.ch
@@ -4543,6 +4543,7 @@ www-voltbde-cepte-ayrica.myonlineportal.ch
 www-webactry-cptetbde.myonlineportal.ch
 wwwbnq.sannevanommen.nl
 x5eahhs9hhln2hs.freeddns.org
+x5whl8ee2sh425h2.webredirect.org
 x8n4q2t7m6.lol
 xalamor.com
 xbsti.com
@@ -4571,7 +4572,7 @@ xwlink.cloud
 xyrqaventhryxion.cyou
 xzmvxzmavsk-xzmvkzxda-dssafkas.sbs
 ya-user-experience.ru
-yagrehberi.online
+yakindsasdf438.online
 yale-people-correct-staffing.trycloudflare.com
 yam-cgi.lvborses.net
 yan-stat.ru
