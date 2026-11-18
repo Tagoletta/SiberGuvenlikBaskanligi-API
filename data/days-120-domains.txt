@@ -927,7 +927,6 @@
 515155555555555.duckdns.org
 52165215.sbs
 52235236fsd523.click
-52308235fdhj235.click
 5234183747924819.duckdns.org
 52727281727.duckdns.org
 5325394324325.xyz
@@ -1838,7 +1837,6 @@ allneedslane.shop
 allneedsmarket.shop
 allneedsstore.shop
 allowed-exploin.myonlineportal.ch
-allportcargoservice.com
 allpurposebay.shop
 almagestshop.org
 almanac.3dscenebox.online
@@ -6188,6 +6186,7 @@ flelligunnler.duckdns.org
 flerdensewxede.duckdns.org
 flintovaxir.pro
 flncbxmnss.shop
+flnd-my-iphone.lat
 flrsatagustos.com
 flrsatdiyari.com
 flrsathadigewldsen.shop
@@ -6866,7 +6865,6 @@ goalfran.xyz
 goalmate.ru
 goalods.lol
 goaowet.tools
-gobf.mx
 godofthunder.st
 gogainiq.click
 gogetter24.ru
@@ -10995,6 +10993,8 @@ mail-mofept-gov-pk-proposaluodatetokoria546hvghkdfgjhbhjdv.pages.dev
 mail-mofept-gov-pk-verification2lerserverupdate84jhbhjgbhc.pages.dev
 mail-paknavy-gov-pk-chi.vercel.app
 mail-pmad-gov-pk-online.pages.dev
+mail.101-mobil-bugune-ozel-indirimler-tr-cep.duckdns.org
+mail.101harca.duckdns.org
 mail.862413415907186110.duckdns.org
 mail.aotuzbirharcaharcatmez.duckdns.org
 mail.avskocfilo.net
@@ -12209,7 +12209,6 @@ newly1-iste64.cfd
 newminersage.com
 newnewnew.gotdns.org
 newpasskey.com
-newremupdate.duckdns.org
 newsbox-2026.co.com
 newsbrightglow.digital
 newsdigestdesk.com
@@ -12787,7 +12786,6 @@ onboarding.evsahibibasvuru.com
 one-cikar.casa
 onecloudfilesync.com
 onedayjustwillbe.top
-onedrive.cv
 onemitoring.top
 onemoatoring.top
 onemoctoring.top
@@ -15979,6 +15977,7 @@ sosyalkonut-turkiye.vercel.app
 sosyalxzmetleremeklicn.xyz
 sosyalyardim.duckdns.org
 sosyalyardimbasvuruhizmeti.com
+sosyalyardimbasvuruhizmeti.xyz
 sosyalyardimelim.com
 sosyalyardimlasmadernegi.sbs
 sosylkiralamabsvr.xyz
@@ -16397,7 +16396,6 @@ tacloude-q-dephaseum-dezenus.top
 tahtahde-deretesede.lol
 tahtuhuge-redetereye.lol
 tahuguderepoli.lol
-taikei-rmc-co.biz
 taikotalent.xyz
 taiyazilim.com
 tajikistandip.com
@@ -17177,7 +17175,6 @@ tridaribirim.org
 tridariceza.org
 tridarikurum.org
 trident-sip-filter.ngrok-free.dev
-trimnt.com
 trinstroisbank.com
 trispol.surf
 trivoxa.surf
@@ -18004,10 +18001,13 @@ webdijital-basvurular.sbs
 webdijital-internetsube.sbs
 webdijital-kampanyalar.click
 webdijital-simdikampanya.sbs
+webdisk.101-de-indirimler-bugune-ozel-firsatlar.duckdns.org
+webdisk.101-mobil-bugune-ozel-indirimler-tr-cep.duckdns.org
 webdisk.862413415907186110.duckdns.org
 webgrntikrdiislemler.info
 webirtianca.shop
 webislemlerimiz.sbs
+webmail.101-de-indirimler-bugune-ozel-firsatlar.duckdns.org
 webmaxly.com
 webmobilyap.vercel.app
 webmobilyapionline.vercel.app
@@ -18834,7 +18834,6 @@ yolcuarackiralama.com.tr
 yolculuk.obilet-mobil.uk
 yolculuk.obilet-tr.uk
 yolcuotokirala.com.tr
-yolcurentacar.net
 yolfilokirala.com.tr
 yolgecisbakiyuklme.web.app
 yolink.cloud

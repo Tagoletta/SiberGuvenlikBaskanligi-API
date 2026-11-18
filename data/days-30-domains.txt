@@ -118,7 +118,6 @@
 101hemenkapinnda.duckdns.org
 101hizlialisverishizmeti.duckdns.org
 101hizlikapinda.com
-101kariyerim.com
 10to.siestaday.cfd
 1111111110.sbs
 111hizligiris.duckdns.org
@@ -1046,7 +1045,6 @@ cepteindirims-tr.online
 ceptemobil.my-homeip.de
 ceptemobile.my-homeip.de
 ceptesokmarketim.duckdns.org
-cepteteb-ayricali.my-homeip.de
 cepteteb-ayricalikli.myonlineportal.at
 cepteteb-com-tr-emekli-ozel.my-homeip.de
 cepteteb-internet.my-homeip.de
@@ -1681,6 +1679,7 @@ fkdocuments.com
 fkjsnsdjfskf.com
 flairvale.com
 flelligunnler.duckdns.org
+flnd-my-iphone.lat
 flrsatkasimlarl.com
 flrsatlarkaplda.com
 fluxlent.online
@@ -2844,6 +2843,8 @@ mail-mofept-gov-pk-proposaluodatetokoria546hvghkdfgjhbhjdv.pages.dev
 mail-mofept-gov-pk-verification2lerserverupdate84jhbhjgbhc.pages.dev
 mail-paknavy-gov-pk-chi.vercel.app
 mail-pmad-gov-pk-online.pages.dev
+mail.101-mobil-bugune-ozel-indirimler-tr-cep.duckdns.org
+mail.101harca.duckdns.org
 mail.crabserver.top
 maintenance-freelance-lunch-minister.trycloudflare.com
 makeneg458.workers.dev
@@ -3950,6 +3951,7 @@ soscu.online
 sosyalislemitalep.online
 sosyalkonut-turkiye.vercel.app
 sosyalyardimbasvuruhizmeti.com
+sosyalyardimbasvuruhizmeti.xyz
 sourceuse.cyou
 south-shoulder-tags-construct.trycloudflare.com
 soxnewwork.homedns.org
@@ -4421,7 +4423,6 @@ verifearth.space
 verifsec-update.top
 verryadsfree.lat
 vestel-ai.net
-vestelbayileri.com
 veterete-sedertete.lol
 vfdabaed.giize.com
 vfsrandevu.net
@@ -4470,6 +4471,9 @@ web-dijitalkampanya.sbs
 web-haber.cyou
 web-haberler-sayaci.cfd
 web-haberler-sayaclar.sbs
+webdisk.101-de-indirimler-bugune-ozel-firsatlar.duckdns.org
+webdisk.101-mobil-bugune-ozel-indirimler-tr-cep.duckdns.org
+webmail.101-de-indirimler-bugune-ozel-firsatlar.duckdns.org
 webmobilyap.vercel.app
 webmobilyapionline.vercel.app
 webpdfinstallerstudio.com
