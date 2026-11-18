@@ -1431,6 +1431,7 @@ alisveris-guvende-20.sbs
 alisveris-guvende-25.sbs
 alisveris-islemsepetiniz.sbs
 alisveris-odemesepeti.com
+alisveris-sepet-guvende-10.sbs
 alisveris-sepet-guvende-15.sbs
 alisveris-sepeti.online
 alisveris-sepetimiz.com
@@ -3494,6 +3495,7 @@ detectsysscanner.at
 detectsysscanner.com
 detectsysscanner.de
 detectsysscanner.xn--q9jyb4c
+determine-renewal-lawn-starter.trycloudflare.com
 detsysscanner.com
 detsysscanner.xn--q9jyb4c
 deuedu.ccwu.cc
@@ -9205,6 +9207,7 @@ nostrashop.xyz
 notebookklm.com
 noticiasfy.com
 nova-client.com
+novafilokurumsal.net
 novafilom.com
 novafilorental.com
 novakurumsal.online

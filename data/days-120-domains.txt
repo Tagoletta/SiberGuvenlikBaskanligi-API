@@ -1782,6 +1782,7 @@ alisveris-guvende-20.sbs
 alisveris-guvende-25.sbs
 alisveris-islemsepetiniz.sbs
 alisveris-odemesepeti.com
+alisveris-sepet-guvende-10.sbs
 alisveris-sepet-guvende-15.sbs
 alisveris-sepeti.online
 alisveris-sepetimiz.com
@@ -4101,7 +4102,6 @@ cloudflacecdn.com
 cloudflare.bonto.run
 cloudflareconfirm.com
 cloudharborinsights.cfd
-cloudlanecdn.com
 cloudmask.space
 cloudrichlink.shop
 cloudscraft.com
@@ -4512,6 +4512,7 @@ detectsysscanner.at
 detectsysscanner.com
 detectsysscanner.de
 detectsysscanner.xn--q9jyb4c
+determine-renewal-lawn-starter.trycloudflare.com
 detsysscanner.com
 detsysscanner.xn--q9jyb4c
 deuedu.ccwu.cc
@@ -12414,6 +12415,7 @@ notificationsupdates.com
 nousomtr1.click
 nousomtr1.club
 nova-client.com
+novafilokurumsal.net
 novafilom.com
 novafilorental.com
 novafinans.digital
@@ -15653,7 +15655,6 @@ sizlerininicburadayiz.click
 sizleristedilerbizlerdeyapmisbulunduk.sbs
 sizleristerbizleryapmakmecburiyeti.sbs
 sizleristersinizdebizleryapmazmiiyiz.sbs
-sizlerleberaber.sbs
 sizlerleburadayiz.duckdns.org
 sizlerleyizz.sbs
 sizlerleyizzz.sbs

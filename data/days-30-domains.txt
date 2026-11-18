@@ -466,6 +466,7 @@ alisveris-guvende-10.sbs
 alisveris-guvende-20.sbs
 alisveris-guvende-25.sbs
 alisveris-islemsepetiniz.sbs
+alisveris-sepet-guvende-10.sbs
 alisveris-sepet-guvende-15.sbs
 alisveris-sepetinde-10.sbs
 alisveris-sepetinde-15.sbs
@@ -865,7 +866,6 @@ bizmemhehrese.xyz
 bkjhfkdfjfds.duckdns.org
 bklfbmearve.giize.com
 bktlegal.waitesguide.co
-blayithw.com
 blgalbrdan.duckdns.org
 blgirnd.cfd
 blog.wangmengfun.top
@@ -1226,6 +1226,7 @@ destekmerkeziniz.xyz
 desteksosyal.com
 desteksosyal.net
 detailsarrival.com
+determine-renewal-lawn-starter.trycloudflare.com
 deuedu.ccwu.cc
 dev.diyanetisleribakanligi.vercel.app
 dev.soft-png-cdn.com
@@ -1863,7 +1864,6 @@ gg92929292211.duckdns.org
 ggkiejl.icu
 ggleventapi.icu
 ggolshhk.icu
-gibdetaylibilgi.com
 gibdijltalmobil.com
 gibgiris.com
 gibharcpuluodeme.com
@@ -2324,7 +2324,6 @@ industryspotlightreport.com
 inetcities.net
 infodestek.xyz
 infodexor.com
-infofinansmenkul.online
 infofinansmenkultr.com
 infofinansmenkultr.online
 infogyo.com
@@ -2332,7 +2331,6 @@ infomankul.com
 informehoy.live
 infoupdate-it.top
 infoyatirim.51-79-38-248.sslip.io
-infoyatirim.51.79.38.120.sslip.io
 ingmobil.click
 ingonlinekredihizmeti.net
 inidirmlergeldi1o1.duckdns.org
@@ -3161,6 +3159,7 @@ nordline.vip
 norveta.cyou
 notebookklm.com
 noticiasfy.com
+novafilokurumsal.net
 novafilorental.com
 novakutu.cyou
 novges.com
@@ -3743,7 +3742,6 @@ seitalents.xyz
 sekerbankfinance.com
 sekeryatirimportfoy.com
 selectumresortshotels.net
-selgesideotel.com
 selnora.cyou
 senbendengittingdeli.sbs
 senbunuhaketmistin.xyz
@@ -4322,7 +4320,6 @@ twitter-destek.vercel.app
 twitter-giris.netlify.app
 twitter-giris.vercel.app
 twnic.top
-tymub.com
 u115688093.ct.sendgrid.net
 uat.diyanetisleribakanligi.vercel.app
 ubuntulivepatch.com

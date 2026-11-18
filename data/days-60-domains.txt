@@ -528,7 +528,6 @@
 3432wqewqr211421.cfd
 359165592.cloud
 360aracim.vercel.app
-3635627262.sbs
 365214789prmsynnbsvrrkmpnyyyy.online
 365214789prmsynnbsvrrkmpnyyyy.pro
 365214snfrlstarrkmpnyaabasvrr.info
@@ -1044,6 +1043,7 @@ alisveris-guvende-20.sbs
 alisveris-guvende-25.sbs
 alisveris-islemsepetiniz.sbs
 alisveris-odemesepeti.com
+alisveris-sepet-guvende-10.sbs
 alisveris-sepet-guvende-15.sbs
 alisveris-sepeti.online
 alisveris-sepetinde-10.sbs
@@ -2403,6 +2403,7 @@ desteksosyal.com
 desteksosyal.net
 detailsarrival.com
 detaybakiye.lol
+determine-renewal-lawn-starter.trycloudflare.com
 deuedu.ccwu.cc
 dev.diyanetisleribakanligi.vercel.app
 dev.soft-png-cdn.com
@@ -3647,7 +3648,6 @@ gratis.fandomhousepress.com
 gratis.gscmec.com
 gratis.ianmaffett.com
 gratis.iynsed.com
-gratis.mvolkov.com
 gratis.nexiapy.com
 gratis.ploteando.com
 gratis.poloniacruz.com
@@ -4334,7 +4334,6 @@ hizliservis-35bca7801b37.herokuapp.com
 hizlisgecisnayolsyukleyn.art
 hizlkmsorgu.web.app
 hizmet-akbank.ph
-hizmetiaesorgu.online
 hizmetiaesorgu.site
 hizmetimizaktiftaklaci.myshopify.com
 hizmetimizcalisiyor.com
@@ -6178,6 +6177,7 @@ norveta.cyou
 nostrashop.xyz
 notebookklm.com
 noticiasfy.com
+novafilokurumsal.net
 novafilom.com
 novafilorental.com
 novakutu.cyou
@@ -6445,7 +6445,6 @@ onlinesepet.xyz
 onlinesepetimde.shop
 onlinesepetimde.store
 onlineshoppings.site
-onlineshops-cep-mobil.online
 onlinesiparis.online
 onlinetarim.sbs
 onlinetokibasvuru.net
@@ -6574,7 +6573,6 @@ parcelaramex.xyz
 paribu-destek.org
 paribuaraba-burada.info
 paribuaraba-yakala.link
-paribuguvenlik.info
 paribuguvenlik.link
 paribuguvenlik.org
 paribusansliaraba.com
@@ -6600,7 +6598,6 @@ paypayvibe.com
 paytrodemetoken843758974385787878787.netlify.app
 pazarama-bireysel-siparisim.com
 pazarama-hemen-siparis.com
-pazarama-online-siparis.com
 pazarama.alisverisfirsati.com
 pazarama.alisverishizi.com
 pazarama.bireyselonlineservisler.com
@@ -6784,7 +6781,6 @@ pttavm-hemen-siparis.com
 pttavm-hizli-gecisyklemsiyap.web.app
 pttavm-kilometredetaykolayca.web.app
 pttavm-kmsxrgulama.web.app
-pttavm-online-siparis.com
 pttavm-siparis.ile-guvenlice-web-tr.com
 pttavm-siparisim.ile-guvenlice-web-tr.com
 pttavm.bireysel-ilan.com
@@ -7808,7 +7804,6 @@ sponsorlu-reklam-cekilis.online
 sponsorlu-reklam-cekilisi.online
 sponsorlu-reklam-cekilisin.online
 sponsorlu-reklam-cekilisleri.online
-sponsorlu-reklam-tr.online
 sponsorlu-reklami.online
 sponsorlu-reklamlar.cfd
 sponsorlubasvuru.online
