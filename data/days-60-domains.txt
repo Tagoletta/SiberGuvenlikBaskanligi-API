@@ -124,7 +124,6 @@
 101-extra-sadece-bugune-ozel-alisveris-indirim-sepeti-mobilde.alisverix-tr.online
 101-extra-sadece-bugune-ozel-alisveris-indirim-sepeti-tr.sepetimde-tr.online
 101-extra-sadece-bugune-ozel-alisveris-indirim-sepeti-tr.zam070504.site
-101-extra-sadece-bugune-ozel-alisveris-indirim-tr.extra-trend.online
 101-extra-sadece-bugune-ozel-alisveris-indirimi-mobil-tr.links36.site
 101-extra-sadece-bugune-ozel-alisveris-indirimi-mobil-tr.nz030201.site
 101-extra-sadece-bugune-ozel-alisveris-indirimi-online-tr.e-mails-tr.com
@@ -2790,6 +2789,7 @@ elpulsopopular.com
 elriaplay.com
 elvarion.blog
 elvoranix.com
+email-mfa.org
 emails-tr.com
 emakbapaklugimanasehat.my.id
 emaliasliye.com
@@ -3401,6 +3401,7 @@ garantibbva-iade.netlify.app
 garantibbva-kredi-firsati2.cloud
 garantibbva-kredi-firsati3.cloud
 garantibbva-kredi-firsati4.cloud
+garantibbva-kredi-firsati5.cloud
 garantibbva-kredi.abrdns.com
 garantibbva-mobil.abrdns.com
 garantibbva-mobil.netlify.app
@@ -6156,7 +6157,6 @@ nnmyd.com
 nnnn345474.site
 nnnvvsdsdrttyreeertty.com
 nnnzchrsertesrter.buzz
-nnvirandevubilgilendirme.blogspot.com
 nnvirandevubilgilendirme10.blogspot.com
 nnvirandevubilgilendirme73.blogspot.com
 nnvirandevubilgilendirme74.blogspot.com
@@ -6225,7 +6225,6 @@ nv-online.click
 nv4r8z1p6.lol
 nvidia-aidat.netlify.app
 nvidia-destek.vercel.app
-nviirandevubilgilendirme.blogspot.com
 nviirandevubilgilendirme10.blogspot.com
 nviirandevubilgilendirme73.blogspot.com
 nviirandevubilgilendirme74.blogspot.com
@@ -6237,7 +6236,6 @@ nviirandevubilgilendirme9.blogspot.com
 nviirandevubilgilendirme95.blogspot.com
 nviirandevubilgilendirmecan.blogspot.com
 nviirandevubilgilendirmetr.blogspot.com
-nviraandevubilgilendirme.blogspot.com
 nviraandevubilgilendirme10.blogspot.com
 nviraandevubilgilendirme73.blogspot.com
 nviraandevubilgilendirme74.blogspot.com
@@ -6249,7 +6247,6 @@ nviraandevubilgilendirme9.blogspot.com
 nviraandevubilgilendirme95.blogspot.com
 nviraandevubilgilendirmetr.blogspot.com
 nvirandevu.xyz
-nvirandevubilgilendirme1.blogspot.com
 nvirandevubilgilendirme10.blogspot.com
 nvirandevubilgilendirme100.blogspot.com
 nvirandevubilgilendirme101.blogspot.com
@@ -6259,8 +6256,6 @@ nvirandevubilgilendirme10can.blogspot.com
 nvirandevubilgilendirme10tr.blogspot.com
 nvirandevubilgilendirme12.blogspot.com
 nvirandevubilgilendirme13.blogspot.com
-nvirandevubilgilendirme2.blogspot.com
-nvirandevubilgilendirme3.blogspot.com
 nvirandevubilgilendirme31.blogspot.com
 nvirandevubilgilendirme32.blogspot.com
 nvirandevubilgilendirme33.blogspot.com
@@ -6362,16 +6357,13 @@ nvirandevubilgilendirme98.blogspot.com
 nvirandevubilgilendirme99.blogspot.com
 nvirandevubilgilendirme9can.blogspot.com
 nvirandevubilgilendirme9tr.blogspot.com
-nvirandevubilgilendirmecan.blogspot.com
 nvirandevubilgilendirmecan1.blogspot.com
 nvirandevubilgilendirmecan2.blogspot.com
 nvirandevubilgilendirmecantr.blogspot.com
-nvirandevubilgilendirmetr.blogspot.com
 nvirandevubilgilendirmetrcan.blogspot.com
 nvirandevucunuzz.online
 nvirandevuekrakodeme.online
 nvirandevuhizmetleriniz.online
-nvirandevular.xyz
 nvirandevumvar.online
 nvirandevuncep.com
 nvirandevuonline.xyz
@@ -7004,6 +6996,7 @@ resmidogrulama.online
 resmihegsyklemee.space
 resmionay.online
 resontiacicek.sbs
+retinoa.live
 revoxel.com
 rfes42432423erwdfa1312df.icu
 rfzqw.com
@@ -7870,6 +7863,7 @@ storage.hubpage.cloud
 storex-tr.online
 storyquestnu.com
 stpatlakbrdacalsm.duckdns.org
+strategiefeim.online
 streamyard.appstore.com.mx
 streepinoks.world
 stun.szbboys.com
@@ -8199,6 +8193,7 @@ tkoop.com.tr
 tkoop.hizlifirsatim.com
 tkoopjet.sbs
 tkoopmarket.app
+tkoopt.duckdns.org
 tkrbkupasionline.com
 tkrbonline.com
 tlaknasan.net
