@@ -344,7 +344,6 @@ a101.pics
 a101.website
 a101cepp.duckdns.org
 a101ekimayistanleyfirsati.gleeze.com
-a101hizmetayinda.duckdns.org
 a101kapindakasim.com
 a101karacumaindirimleri.sbs
 a101kasimda.com
@@ -1747,12 +1746,10 @@ garanti-finans-portali.click
 garanti-finans-portali.cloud
 garanti-finans-portali.lol
 garanti-finansal-danismanlik.cloud
-garanti-finansal-destek.cloud
 garanti-giris.online
 garanti-imkredi.vercel.app
 garanti-nakit-hizmeti.click
 garanti-nakit-hizmeti.cloud
-garanti-nakit-noktasi.cloud
 garanti-nakit-sistemi.cloud
 garanti-odeme-portali.cloud
 garanti-odeme-sistemi.cloud
@@ -3301,6 +3298,7 @@ oslhires.ink
 osltalents.xyz
 osmankalaycinea.giize.com
 osmankinaliye.giize.com
+osmanli.rw
 osmanliglobal.com
 osmanliyatirimmenkul.com
 osmantalcein.giize.com
@@ -3666,7 +3664,6 @@ sahibinden-get.islemlerin-sepet-10.sbs
 sahibinden-get.islemlerin-sepet-15.sbs
 sahibinden-get.islemlerin-sepet-30.sbs
 sahibinden-get.islemlerin-sepet-35.sbs
-sahibinden-get.islemlerinmobil-14.sbs
 sahibinden-get.islemlerinmobil-15.sbs
 sahibinden-get.islemlerinmobil-17.sbs
 sahibinden-get.islemsepetler-15.sbs

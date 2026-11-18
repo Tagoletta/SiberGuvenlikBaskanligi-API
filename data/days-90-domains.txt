@@ -3091,8 +3091,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -9654,6 +9654,7 @@ osltalents.xyz
 osmankalaycinea.giize.com
 osmankinaliye.giize.com
 osmanli.portfoymenkul.com
+osmanli.rw
 osmanliglobal.com
 osmanliportfoy.app
 osmanlisorgupaneli.site
