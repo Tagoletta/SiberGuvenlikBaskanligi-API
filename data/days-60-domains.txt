@@ -1240,6 +1240,7 @@ aracim360-portal.online
 aracim360.vercel.app
 aracim360.xyz
 aracim360bakiye.cfd
+arackiralagarent.com
 aracla.com
 aracmuayanemonline.com
 aracmuayanerandevu.xyz
@@ -1744,11 +1745,9 @@ bircan.22web.org
 bireysel-basvur.my-homeip.de
 bireysel-basvuru.my-homeip.de
 bireysel-basvurum.com
-bireysel-bireysel-ziraat.my-homeip.de
 bireysel-cebte.my-homeip.de
 bireysel-cepte.my-homeip.de
 bireysel-indirim.online
-bireysel-zirai-tarim.my-homeip.de
 bireysel.ziraat.a-cn.com
 bireyselcep-mobilde.online
 bireyselonlineservisler.com
@@ -2119,7 +2118,6 @@ cepteteb-ayricalikli.myonlineportal.at
 cepteteb-com-tr-emekli-kampanya.myonlineportal.ch
 cepteteb-com-tr-emekli-ozel.my-homeip.de
 cepteteb-com-tr-emekliler.myonlineportal.ch
-cepteteb-com-tr-emekliye-ozell.my-homeip.de
 cepteteb-den.my-homeip.de
 cepteteb-internet.my-homeip.de
 cepteteb-mobil-bankacilik.my-homeip.de
@@ -3467,6 +3465,7 @@ garantidenonlinekredi.cloud
 garantidestek.cloud
 garantidestekfinans.cloud
 garantifinanslimani.cloud
+garantifinansrotasi.cloud
 garantifirsatpuanlar.ph
 garantigelecekfonu.cloud
 garantigucnakit.cloud
@@ -3494,6 +3493,7 @@ garantiyatirim-ai-quiz.vercel.app
 gardnerimmigrationlaw.securemailencryptit.com
 garenta.com-onlinearackirala.info
 garentacarkiralama.net
+garentamerkez.com
 gargale-law.com
 garnatibbva.ro
 garnoeigogdkfk.shop
@@ -5404,6 +5404,7 @@ kurtoclar.com
 kurumkamu.org
 kurummahkeme.org
 kurumportal.org
+kurumsalfilom.com
 kurumtakip.org
 kuveyt-gorkemli-basvuru-ekrani.loseyourip.com
 kuveyt-promoslalylari.duckdns.org
@@ -5829,6 +5830,7 @@ mh-rdvzmni.cfd
 mhburdagln.shop
 mhdsgfsdgh.art
 mhhhrrrrs.duckdns.org
+mhilernduhlzi.cfd
 mhkdfkdfka.duckdns.org
 mhkhkdfhkdfla.duckdns.org
 mhlerkherk234.duckdns.org
@@ -6034,11 +6036,13 @@ movementtalents.xyz
 moweros.net
 mozvento.com
 mqwmqtq.blogspot.com
+mrcfilo.com
 mrhmrsmxmlm.com
 mrhsmhrmsmaxa.duckdns.org
 mrhsmxlsmlcm.duckdns.org
 mrhsrhsmxl.com
 mrkzimde.com
+mrnfilo.com
 mrsrndvuhzlial.top
 ms-system-check.top
 msagsdgv.art
@@ -6820,6 +6824,7 @@ ptt-kargotakip.space
 ptt-trgov.eu.cc
 ptt.avmalisveris.com
 ptt.avmonlinesiparisim.com
+ptt.guvenle-ode.sbs
 ptt.mobilservis-26.sbs
 ptt.mobilservisler-34.sbs
 ptt.mobilservisler-75.sbs
@@ -7620,6 +7625,7 @@ sirius.surpasstools.com
 siruvise.ydns.eu
 sistemer.sbs
 site-kelthra.life
+site-novnew18.com
 site-velnora.cyou
 site.hfgjjkrewjk.com
 site.jiancai008.com
@@ -9052,11 +9058,8 @@ www-cepteteb-com-tr-firsatlar.my-homeip.de
 www-cepteteb-com-tr-online-kampanya.myonlineportal.ch
 www-cepteteb-com-tr-online-kampanya.myonlineportal.de
 www-cepteteb-com-tr-promosyon.my-homeip.de
-www-cepteteb-emekli-kampanyalari.my-homeip.de
-www-cepteteb-emekliye.my-homeip.de
 www-cepteteb-li-com.myonlineportal.ch
 www-cepteteb.my-homeip.de
-www-ceptetebden-ayricalik.my-homeip.de
 www-ceptetebliye-ayricalikli.my-homeip.de
 www-ceptetebmobil-com-tr.my-homeip.de
 www-ceptetepde-emekli.my-homeip.de

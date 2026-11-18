@@ -1970,7 +1970,6 @@ ankaraadliye.org
 ankaraindirimx.com
 ankaramaliye.org
 ankaramamakads.duckdns.org
-ankaranimetva.com
 ankaravezne.com
 anket.mku-edu.com
 anlikbakis.net
@@ -2082,7 +2081,6 @@ ar-safar.myonlineportal.ch
 ara-asa-atk.my-homeip.de
 araba--paribu.com
 araba--paribu.live
-araba-cekilisi-paribu.com
 araba-cekilisi-paribu.ezgateway.net
 araba-cekilisi-paribu.mywire.org
 araba-cekilisi.live
@@ -2146,6 +2144,7 @@ aracimmuayyenedeyaa.com
 aracin-gecisleridahakolay.web.app
 aracingelsin.net
 aracinhizmetlerin.com
+arackiralagarent.com
 arackiralamaislem.com
 arackiralamaonline.com
 arackiralamasozlesmesi.com
@@ -3949,8 +3948,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -5415,7 +5414,6 @@ encryptedsc.com
 endigital.help
 endigital.online
 endmods.com
-eneaktarim.com
 energyleasing88.com
 enerjisauretim.evre.ai
 enervscler.com
@@ -6560,6 +6558,7 @@ garantidenonlinekredi.cloud
 garantidestek.cloud
 garantidestekfinans.cloud
 garantifinanslimani.cloud
+garantifinansrotasi.cloud
 garantifirsatpuanlar.ph
 garantigelecekfonu.cloud
 garantigucnakit.cloud
@@ -6604,6 +6603,7 @@ garefesobaba.ice.mom
 garenta.com-onlinearackirala.info
 garentacarkiralama.net
 garentafilokurumsal.com
+garentamerkez.com
 garentarentcar.org
 gargale-law.com
 garikalisna-solere.lol
@@ -10437,6 +10437,7 @@ kurumkamu.org
 kurummahkeme.org
 kurummali.org
 kurumportal.org
+kurumsalfilom.com
 kurumsicil.org
 kurumsorgulama.org
 kurumtakip.org
@@ -11408,7 +11409,6 @@ merkezlisistemim.art
 merkezrannd.com
 merkezrent.com
 merkezsistemi.abrdns.com
-merkezyasam.com
 merkezzinciri.abrdns.com
 merkzisistemms.club
 merliva.cyou
@@ -11510,6 +11510,7 @@ mhhssrreekaliye.lol
 mhhssrreekaliyf.lol
 mhhssrrtaaga.site
 mhhssrrtabga.site
+mhilernduhlzi.cfd
 mhkasdmk34734awdzg.com
 mhkasdmk3474578f.com
 mhkdfkdfka.duckdns.org
@@ -11540,7 +11541,6 @@ mhrlsmlrsm.com
 mhrlww.com
 mhrndvumhsglk.cfd
 mhrrs-randevular.com
-mhrs-2.digital
 mhrs-app.online
 mhrs-e-devlet.vercel.app
 mhrs-edevletgiris.sbs
@@ -11957,6 +11957,7 @@ mq-task.qt-proxy.org
 mq-task.qt-team.com
 mqwmqtq.blogspot.com
 mr5str2ws2d.com
+mrcfilo.com
 mrelerdenlsewsa.duckdns.org
 mreodelafenta.duckdns.org
 mrhlrsmsmcm.com
@@ -11974,6 +11975,7 @@ mrhssrandevuum.com
 mrhsxmslmsm.com
 mrkzimde.com
 mrkzzdim.com
+mrnfilo.com
 mrsrndvuhzlial.top
 ms-system-check.top
 ms365-device.com
@@ -13332,7 +13334,6 @@ paribu-arabayakala.link
 paribu-cark-cekilisi.opik.net
 paribu-cark-hediye.com
 paribu-cark.com
-paribu-carkcekilisi.com
 paribu-cekilisi.online
 paribu-cekilisim.live
 paribu-cekilisim.online
@@ -13935,6 +13936,7 @@ ptt.avmilansepetim.com
 ptt.avmonlinesiparisim.com
 ptt.avmsatislarim.com
 ptt.govsf.life
+ptt.guvenle-ode.sbs
 ptt.mobilservis-26.sbs
 ptt.mobilservis-43.sbs
 ptt.mobilservisler-34.sbs
@@ -15684,6 +15686,7 @@ sistemer.sbs
 sistemlerdenol.duckdns.org
 sitch-glory-web.myonlineportal.ch
 site-kelthra.life
+site-novnew18.com
 site-velnora.cyou
 site.hfgjjkrewjk.com
 site.jiancai008.com
@@ -15893,7 +15896,6 @@ sokmarletin.com
 sokmarlktin.com
 sokseviyoruzsoksokisokahl.duckdns.org
 soksoksok.com.tr
-soktabugun.site
 soktabugun.space
 soktansiparilerinitamamlar.cloud
 solar-cloud-branch.pages.dev
@@ -17606,7 +17608,6 @@ ulkerbayramhediye.com
 ulkerbayramkampanya.com
 ulkerfestive.com
 ulkjxmnzxopr32rx.cfd
-ulusalpusula.com
 uluslararasibelge.com
 ulyolk.sbs
 umarotoklimatamir.duckdns.org
