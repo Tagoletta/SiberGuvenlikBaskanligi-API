@@ -1965,7 +1965,6 @@ ankaramamakads.duckdns.org
 ankaranimetva.com
 ankaravezne.com
 anket.mku-edu.com
-anlik-ilan-odemesi.com
 anlikbakis.net
 anlikgiris.abrdns.com
 anlikhaberportal.com
@@ -3283,6 +3282,7 @@ bonusbasvurulari134523.com
 bonusbasvurulari15234.sbs
 bonusbasvurulari32634.sbs
 bonusbasvurusayfasi123q5233.sbs
+bonusbasvurusayfasi125562705.sbs
 bonusbasvurusayfasi1256705.sbs
 bonusbasvurusayfasi12r345325.sbs
 bonusbasvurusayfasi2342355.sbs
@@ -3528,6 +3528,7 @@ burasixyzilkler.xyz
 burdaemhrsrandvlrmz.sbs
 burdagecelerziyaneder.com
 burdageldlsimdn.shop
+bureklamsadecesanaozel.xyz
 bursakozkasap.live
 bursakozkasap.online
 business-gemini.com
@@ -6430,6 +6431,7 @@ garanti.abrdns.com
 garanti.giris.yansitek.cam
 garanti.vva8.com
 garantiadresfinans.cloud
+garantianindacozum.cloud
 garantianindaonay.cloud
 garantibank-iade-kampanya.ph
 garantibankasi.abrdns.com
@@ -11486,7 +11488,6 @@ mhrs-islem-asads.vercel.app
 mhrs-islemyap.vercel.app
 mhrs-onlinerndvu.sbs
 mhrs-randevu-islem.vercel.app
-mhrs-s.digital
 mhrs-sistem.vercel.app
 mhrs-yenidenoo.sbs
 mhrs.alllahnerdekiya.sbs
@@ -12244,6 +12245,7 @@ nexifylon.com
 nexiroka.net
 nexora-indirim-ayagina-geldi.com
 nexoraft.blog
+nexoravexalithorium.cyou
 nexorialis.online
 nexumra.com
 nexupoly.com
@@ -13499,7 +13501,6 @@ pazarama-online-siparis.com
 pazarama.alisverisfirsati.com
 pazarama.alisverishizi.com
 pazarama.anindaodeme.com
-pazarama.anlik-ilan-odemesi.com
 pazarama.bireysel-ilan.com
 pazarama.bireysel-magaza.com
 pazarama.bireyselonlineservisler.com
@@ -14841,7 +14842,6 @@ sahibinden-s-paramguvende.gt.tc
 sahibinden-sepet.guvendeticaretnet.store
 sahibinden-sepet.onlinesepetimde.shop
 sahibinden-sepet.onlinesepetimde.store
-sahibinden-sepet.sepetimdeonay.shop
 sahibinden-sepet.sepetimdeonline.click
 sahibinden-sepet.sepetimdeonline.shop
 sahibinden-sepet.sepetimdeonline.store
@@ -15173,7 +15173,6 @@ selinbutikorgududulu.duckdns.org
 sellectum.com
 selnora.cyou
 selselican.co
-semacicek.com
 semifinalggist.info
 semrush-ai.com
 semrushads-ai.com
@@ -17377,7 +17376,6 @@ tuuvturk-aracmuyne.web.app
 tuuwttukr.govt.hu
 tuv-arac-muayene-randevu.blogspot.com
 tuv-iis.digital
-tuv-res.digital
 tuvaslaturtuv.com
 tuvastuvastuv.com
 tuvhizlihizmetmobil.site
@@ -19070,7 +19068,6 @@ ziratkampanya.sbs
 ziratkampanyadan.sbs
 ziratkampanyasi.sbs
 ziratligunler.sbs
-ziratoff.online
 ziratpngj.cfd
 ziratxha300zir3x00.sbs
 ziravest.biz
