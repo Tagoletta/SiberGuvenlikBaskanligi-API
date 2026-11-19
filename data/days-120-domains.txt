@@ -4485,6 +4485,7 @@ deniz-seyehatplanlama.duckdns.org
 denizbank-bireysel.vercel.app
 denizbank-bireysel.web.app
 denizbank.bonusbasvur.cfd
+denizbank.mobilbasvur.cfd
 denizbankdestek.com
 denizdegerlimenkuller.com
 denizdentoprag.my-homeip.de
@@ -8042,7 +8043,6 @@ hizlcayklemesgla-hge.netlify.app
 hizlcayklemesgla-hgf.netlify.app
 hizlcayklemesgla-hgr.netlify.app
 hizlgcsdldr.click
-hizlgecisbakiyedoldurma.web.app
 hizlgecisbayniz.art
 hizlgecisiniziyukleyn.art
 hizlgecisistembakiyesi.web.app
@@ -9201,6 +9201,7 @@ istanbuladlisorgu.net
 istanbuladlisorgu.org
 istanbuladliye.org
 istanbuladliyesi.org
+istanbuladliyesorgu.org
 istanbulakvaryumu.com
 istanbularaconarimbakim.store
 istanbulasli.org
@@ -17312,7 +17313,6 @@ ttmsdsnyrsd-rysdsda.com
 ttsondakika.info
 tttnnyrsrtyllknklll.com
 tttt22222.duckdns.org
-ttttektikklasponsorlurrklam.com
 tttuvturkhizlirandvu.web.app
 tttuwtukr.govt.hu
 tttzzdttaasrqw.nicepage.io

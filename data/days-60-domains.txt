@@ -2396,6 +2396,7 @@ deneyclass.linkpc.net
 denizbank-bireysel.vercel.app
 denizbank-bireysel.web.app
 denizbank.bonusbasvur.cfd
+denizbank.mobilbasvur.cfd
 denizbankdestek.com
 denizonlinebasvur.duckdns.org
 denmarkh.shop
@@ -4812,6 +4813,7 @@ istanbuladlisorgu.net
 istanbuladlisorgu.org
 istanbuladliye.org
 istanbuladliyesi.org
+istanbuladliyesorgu.org
 istanbulakvaryumu.com
 istanbularaconarimbakim.store
 istanbulasli.org
@@ -7650,7 +7652,6 @@ sonfristlarrskmpnabascr937125.info
 sonfrlstarrkmpnya18232.online
 sonfrsltar2371.info
 sonfrsltar2371.pro
-sonfrsltariikmpnyaabsvrr2138120.online
 sonfrsltariikmpnyaabsvrr2138120.pro
 sonfrsltarrbasvrrkmpnyaa6569741.info
 sonfrsltarrbasvrrkmpnyaa6569741.pro

@@ -767,7 +767,6 @@
 4945176468564184486.duckdns.org
 49492914912.com
 4984168431555.sbs
-49843432322684.sbs
 49864516513.duckdns.org
 4wpr2jn8.top
 5.zalandoweb.com
@@ -1927,7 +1926,6 @@ asncxbyaaasdanala.4875648646541.sbs
 asncxbyaaasdanala.489415686332522.sbs
 asncxbyaaasdanala.4894564986451.sbs
 asncxbyaaasdanala.48965165841844.sbs
-asncxbyaaasdanala.49843544322684.sbs
 asncxbyaaasdanala.654645654756765.sbs
 asncxbyaaasdanala.65735677234232.sbs
 asncxbyaaasdanala.784191565489651.sbs
@@ -2417,7 +2415,6 @@ bilgilislem.abrdns.com
 bilgilislemsayfasi.abrdns.com
 bilgimahkeme.org
 bilgimaliye.org
-bilgipanel.net
 bilgisel-cepte.online
 bilgisorgu.org
 bilgivermeservisi.bid
@@ -3045,7 +3042,6 @@ cepteteb-com-tr.my-homeip.de
 cepteteb-com.my-homeip.de
 cepteteb-den.my-homeip.de
 cepteteb-digital-firsatlar.my-homeip.de
-cepteteb-emekli-basvur.myonlineportal.ch
 cepteteb-emekli-kampanyaniz.my-homeip.de
 cepteteb-emekli-sube.my-homeip.de
 cepteteb-emekli.myonlineportal.de
@@ -3479,13 +3475,13 @@ deneyclass.linkpc.net
 denizbank-bireysel.vercel.app
 denizbank-bireysel.web.app
 denizbank.bonusbasvur.cfd
+denizbank.mobilbasvur.cfd
 denizbankdestek.com
 denizdegerlimenkuller.com
 denizonlinebasvur.duckdns.org
 denmarkh.shop
 depinvesting.online
 derdaloeasdwa.duckdns.org
-dermatologia.cfd
 dermatologie-klinik.st2.al
 dertler-derya.sbs
 des199.site
@@ -3568,7 +3564,6 @@ digitalmeyislemenu.work.gd
 digitalvisioncompany.sbs
 digittal.cfd
 digittal.sbs
-diji-bonus.shop
 diji-login.shop
 diji-teb.my-homeip.de
 dijital-aldinaldin-kampanya.sbs
@@ -3916,7 +3911,6 @@ edosyatalimat.com
 edosyauzlasma.com
 edv-mhrndval.com
 edvs-tapursvnnusz.info
-edvs-tapursvnnusz.net
 edvs-tapursvnnuszs.info
 edvs-tapursvnnuszs.org
 edwardeggcup.shop
@@ -5719,7 +5713,6 @@ halkfirsat.cam
 halkfirsat.click
 halkfirsat.shop
 halkfirsat.tech
-halkfirsat.wiki
 halkinadamirafael.site
 halkinfirsati.cam
 halkkoaperatifmarket.firstclasstaste.app
@@ -7006,6 +6999,7 @@ istanbuladlisorgu.net
 istanbuladlisorgu.org
 istanbuladliye.org
 istanbuladliyesi.org
+istanbuladliyesorgu.org
 istanbulakvaryumu.com
 istanbularaconarimbakim.store
 istanbulasli.org
@@ -7597,7 +7591,6 @@ kivirmasi.online
 kiwebif2403.sbs
 kizlarvixlex.baby
 kizlarvixlex.sbs
-kizlarvixlex.xyz
 kjkgmvlmlm3431.shop
 kkdldsnfds.shop
 kkeyyou.cc
@@ -8582,7 +8575,6 @@ mhrscinizhakan49786.duckdns.org
 mhrsgfrgr.com
 mhrshemenler.com
 mhrsislem-yeni.vercel.app
-mhrsislemlerin.com
 mhrsislemleriniz.blogspot.com
 mhrsislemyapgiris.vercel.app
 mhrskhsdh.art
@@ -8613,7 +8605,6 @@ mhrsrandevumtr.club
 mhrsrandevumtr.com
 mhrsrandevumtr.net
 mhrsrandevumtr.org
-mhrsrandevunx.blogspot.com
 mhrsrandevuolustur.lol
 mhrsrandevuonline.com
 mhrsrandevuonline.lol
@@ -9239,7 +9230,6 @@ ns-wwwhaber7com.gratispilots.beer
 ns-wwwhaber7com.grippex.cfd
 ns-wwwhaber7com.logwayaceite.cfd
 ns-wwwhaber7com.punjumskeet.cfd
-ns-wwwhaber7com.siegerlapses.cfd
 ns-wwwhaber7com.stendscout.cfd
 ns.mo7sen.dev
 ns1.wordcheck.info
@@ -10403,7 +10393,6 @@ referansdunyamportfoy.com
 referansicbc.com
 referansin-foyatirim.com
 referansinfoyatirim.com
-referansonlinefba.com
 referansportal.online
 refund-advertisers.com
 reg.pcsdkflyer.ca
@@ -11478,7 +11467,6 @@ snfirslatarkmpya12543.pro
 snipappusa.com
 sniperentacar.com
 snipex-iota.vercel.app
-snkzbrdansatnalrkennrd.cfd
 snkzbrdansatnalrkennrd.homes
 snkzbrdansatnalrkennrd.lol
 snlbnbgs.net
@@ -13444,7 +13432,6 @@ www-tbstatus-cpte.myonlineportal.ch
 www-tbstatus-cpteyiz.myonlineportal.ch
 www-tbte-cpte-nov.myonlineportal.ch
 www-teb-com-tr-basvuru-emekli-sayfasi.my-homeip.de
-www-teb-com-tr-emekli-basvuru.my-homeip.de
 www-teb-com-tr-emekli-firsatlari.myonlineportal.ch
 www-teb-com-tr-emekli-kampanya-firsatlari.myonlineportal.eu
 www-teb-com-tr-emekli-kampanyasi.my-homeip.de
