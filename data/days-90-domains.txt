@@ -1193,6 +1193,7 @@ adliyekamu.com
 adliyemaliye.org
 adm-govuz.com
 admin-create-user.v01design.it
+admin-turkishairlines.ph
 admin.catcoinglobal.top
 admin.chunhuating.best
 admin.dfxsj.com
@@ -1297,6 +1298,7 @@ aimemtools.cfd
 aircanadagarantibbva.com.ph
 airworldturizm.com
 ais-garantibbva-immobilienscou.ph
+ais-turkishairlines.com.ph
 aiss-garantibbva.com.ph
 aiss-trendyol.com.ph
 aisshepsiburada.ph
@@ -1740,7 +1742,6 @@ aracmuayeneistasyon.com
 aracmuayenemtr.xyz
 aracmuayenenburda.blogspot.com
 aracmuayenepratik.com
-aracmuayenerandevu.com
 aracmuayenerandevumtr.com
 aracmuayenetabiki.blogspot.com
 aracmuayenetuvturk.com
@@ -2274,6 +2275,7 @@ bc.etlva.cn
 bcr-trendyol.ph
 bdchc.com
 bddkdestek.com
+bddkislemdestek.com
 bdeledadwan.duckdns.org
 bdiugz.getcriso.info
 bdkfleasv.giize.com
@@ -4178,6 +4180,7 @@ epatsturkpatent.com
 eportalceza.com
 eportaldava.com
 eportaldosya.com
+eportaldosyasorgu.org
 eportalhazine.org
 eportalhukuk.com
 eportalmaliye.org
@@ -4817,6 +4820,7 @@ foto3969.link
 fountaincatering.sbs
 frawlix.com
 frdgdwqdw.duckdns.org
+free-turkishairlines.ph
 freedata-giveaway.com
 freeimagecdn.com
 freesas.info
@@ -8236,6 +8240,7 @@ malivezne.net
 malivezneformu.org
 maliye-apple.ph
 maliye-deutschebank.ph
+maliye-ingbank.ph
 maliye-vezne.com
 maliye.online
 maliyearastirma.com
@@ -10063,6 +10068,7 @@ prmsynnnkmpnyaaabsvrr874511.online
 prmsynnnkmpnyaaabsvrr874511.pro
 prmsynnnkmpnyaabasvrrr147852.pro
 pro-cepteteb.my-homeip.de
+pro-turkishairlines.ph
 pro.taustas.com
 prod-artfkt.com
 profitlyatt.com
@@ -11793,7 +11799,6 @@ storage-apis.vercelcloud.com
 storage-data.com
 storage.hubpage.cloud
 store-ceptr.online
-store-plus.online
 storego-tr.online
 storex-tr.online
 storyquestnu.com
@@ -11935,6 +11940,7 @@ t0kibsvuru.xyz
 t0kievbsvrulari.com
 t0kievleriibbasvuru.sbs
 t0kievleriiikonutkampanyalari.click
+t0kievvbaasvurullaarim.com
 t0kiieevleriiibasvuru.sbs
 t2154bb2122.duckdns.org
 t2265newdne.com
@@ -12349,7 +12355,12 @@ toki-konutlarim.sbs
 toki-konutum.sbs
 toki-onlinepay.com
 tokiasrinprojesi.cfd
+tokibasvrulariii.ph
 tokibasvuru.it.com
+tokibasvuru.myonlineportal.eu
+tokibasvuruyap332.cfd
+tokibasvuruyap332.monster
+tokibasvuruyapmerkezi3.lol
 tokievbasvursu.xyz
 tokievlerbizim.com
 tokimntokimm-knt-projem.com
@@ -12598,8 +12609,22 @@ turkgm-gov.cc
 turkhavayollari.se
 turkiaee.dothome.co.kr
 turkish-air-lines.ru
+turkishairlines-alibaba.com.ph
+turkishairlines-asset.ph
+turkishairlines-com.ph
+turkishairlines-free.ph
+turkishairlines-hilton.ph
+turkishairlines-klm.ph
+turkishairlines-line.ph
+turkishairlines-mailersend.ph
 turkishairlines-verify-online.ph
+turkishairlines-webmail.ph
+turkishairlines.fly
+turkishairlinesadmin.ph
+turkishairlinesais.com.ph
 turkishairlineskampanyalari.ziyoklam.click
+turkishairlinesline.ph
+turkishairlinessignal.ph
 turkiye-bankas.sbs
 turkiye-bankasi.net
 turkiye-garantibbva.com.ph
@@ -13206,6 +13231,7 @@ www-actuel-time-tbcpte.myonlineportal.ch
 www-ai-tb-cepteayricalik.myonlineportal.ch
 www-al-tbdecpte-extend.myonlineportal.ch
 www-alcpt-end-cepte.myonlineportal.ch
+www-aldisplay-cpte-webtb.myonlineportal.ch
 www-alrightb-cepte-ayrica.myonlineportal.ch
 www-altb-cpt-ayricalik.myonlineportal.ch
 www-amoutb-spent-cepte.myonlineportal.ch
