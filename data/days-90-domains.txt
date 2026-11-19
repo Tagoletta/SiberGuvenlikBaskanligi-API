@@ -737,6 +737,7 @@
 412121145441555445592.duckdns.org
 412121145441555445593.duckdns.org
 412542212224555455589991.duckdns.org
+412prmsnynkbmp.online
 41865485646468.sbs
 41m4at124bsbs.com
 421412421412124.duckdns.org
@@ -1578,6 +1579,7 @@ anlikgiris.abrdns.com
 anlikhavale.site
 anmoso.com
 annacicek.com
+anndbsvrkrdprmsyn64.online
 annelergunuozll.com
 annuneeciators.info
 anomkit.shop
@@ -3811,7 +3813,6 @@ e-devlet-trust.xyz
 e-devlet-turkiye-tr.vercel.app
 e-devlet.de
 e-devletblog.blogspot.com
-e-devletinvest-digital.pages.dev
 e-devletplatformu.xyz
 e-devlettc.netlify.app
 e-disisleri.com
@@ -6318,7 +6319,6 @@ hizli-gecis-bakiye-yukletr.web.app
 hizli-gecis-bayi.lol
 hizli-gecisetkitkyatirm.web.app
 hizli-gecsektityklemek.web.app
-hizli-tuvttr.site
 hizli-yapgecisin-yk.web.app
 hizlial-siparis.com
 hizlialisverislerim.com
@@ -6694,8 +6694,6 @@ ilan-satisi.online
 ilan-sepetleri-burda.com
 ilan-sepetlerimiz-alisveris.com
 ilan-sepetlerimiz-burada.com
-ilanda-sepetim-1097.com
-ilanda-sepetim-1098.com
 ilanda-sepetim-1099.com
 ilanda-sepetim-1101.com
 ilanda-sepetim-1102.com
@@ -9020,7 +9018,6 @@ naijapulse.org
 nakilotokiralama.com
 nakletmek-web.garden
 nakliyathizmetlerieniyisiburada.sbs
-nalikalisgo-modere.lol
 namedivo.com
 namiflo.com
 nanejaojmnas.duckdns.org
@@ -11367,6 +11364,7 @@ siparislerkapida.com
 siparisonayin.online
 siparisonayla.online
 siparisteslimati.com
+siparscomtryuadepo6481.duckdns.org
 sipsapsop.click
 siritmax.cfd
 siritmax.click
@@ -11529,7 +11527,6 @@ sokcepte-kampxny.com
 sokfirsatderken.duckdns.org
 sokflrsatlar.com
 sokflrsatlarburada.com
-sokkaracaileindir.shop
 sokmafetil.com
 sokmarket.lat
 sokmarketekstrakampanya2.duckdns.org

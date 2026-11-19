@@ -534,6 +534,7 @@
 403-forbidden.sbs
 404-found.icu
 404-found.xyz
+412prmsnynkbmp.online
 421412421412124.duckdns.org
 42942949256.com
 429472ae25.nxcli.io
@@ -638,7 +639,6 @@
 79446515646848456.duckdns.org
 7mvpq2rxk9.cfd
 8.tcp.cpolar.top
-8279999991.duckdns.org
 83434563.xyz
 83434834.xyz
 846135483558348.duckdns.org
@@ -1133,6 +1133,7 @@ ankaramamakads.duckdns.org
 ankaravezne.com
 anlikhavale.site
 anmoso.com
+anndbsvrkrdprmsyn64.online
 annelergunuozll.com
 annuneeciators.info
 antaiyimin.com
@@ -2705,8 +2706,6 @@ efsnefrstgnlri.duckdns.org
 egibhazine.com
 egibhazine.net
 egibkontrol.com
-egibsorgu.com
-egibsorgula.com
 egibsorgulama.com
 egirisgib.com
 egirisgov.com
@@ -7517,6 +7516,7 @@ siparisinadresi.com
 siparislerim-onayli-127438.com
 siparislerim-onayli-127447.com
 siparisteslimati.com
+siparscomtryuadepo6481.duckdns.org
 sirius.surpasstools.com
 siruvise.ydns.eu
 sistemer.sbs
