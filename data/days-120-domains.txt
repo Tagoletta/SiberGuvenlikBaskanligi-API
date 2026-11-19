@@ -4463,7 +4463,6 @@ delvexan.com
 demirkolturizm.com
 demlemerehberi.online
 demlenedemlene.sbs
-demlervedemlikbizimisimiz.sbs
 demlikkamplanyasi.com
 demo-axxel1.com
 demo.axxel1.com
@@ -6813,6 +6812,7 @@ giris-islemler.teb.com.se
 giris-sekermenkul.pro
 giris-turkiye-gov-tr-translate-goog.translate.goog
 giris.aracla.com
+giris.mobil-ziraat.org
 giris.portal-disisleri.org
 girisdyb.com
 girisicbc.com

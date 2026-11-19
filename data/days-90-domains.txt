@@ -86,7 +86,6 @@
 101-extra-mobil-online-ozel-urunler-alisveris-sepet-bilgisi-tr.sepet-bilgilendirmesi.online
 101-extra-mobil-online-ozel-urunler-sh.trendsepeti.online
 101-extra-mobil-online-ozel-urunler-shop-sepet-bilgisinde-tr.trendsepeti.online
-101-extra-mobil-online-sadece-bugune-ozel-sepet-indirimi-tr.shop
 101-extra-mobil-online-sadece-bugune-ozel-sepet-indirimi-tr.shop-plus.online
 101-extra-mobil-online-shop-ozel-alisveris-urun-sepetleri-tr.trendbuy-tr.online
 101-extra-mobil-online-shop-ozel-alisveris-urun-sepetleri-tr.trendlytr.site
@@ -739,7 +738,6 @@
 412542212224555455589991.duckdns.org
 412prmsnynkbmp.online
 41865485646468.sbs
-41m4at124bsbs.com
 421412421412124.duckdns.org
 42942949256.com
 429472ae25.nxcli.io
@@ -1158,7 +1156,6 @@ acdsafwevsd.giize.com
 acelepay.cfd
 acfpdorg.securemailencryptit.com
 acik-deniz-online.my-homeip.de
-acik-deniz.my-homeip.de
 acikdeniz-denizbankasi.com.ph
 aclaraciones-digital.online
 acmlawoffice.nngresearch.com
@@ -1809,7 +1806,6 @@ arracrndvual.govt.hu
 arracrndvuicn.lozan.com
 arrow-berry-gem.pages.dev
 ars-aek-arn.myonlineportal.ch
-arsbeyzfstt.com
 art-rol.myonlineportal.ch
 artafana.click
 artikkatildiburdaherkescabukbak76.site
@@ -3036,7 +3032,6 @@ cepten-ayricaliklar.my-homeip.de
 cepten-mobile-basvur.myonlineportal.de
 ceptes0k-indir1m.gt.tc
 ceptes0k.site.je
-ceptesokindirmleri.online
 ceptesoklarile.online
 ceptesokmarketim.duckdns.org
 ceptesokmarklrt.lol
@@ -5251,6 +5246,7 @@ giris-islemler.teb.com.se
 giris-sekermenkul.pro
 giris-turkiye-gov-tr-translate-goog.translate.goog
 giris.aracla.com
+giris.mobil-ziraat.org
 giris.portal-disisleri.org
 girisdyb.com
 girisicbc.com
@@ -8161,7 +8157,6 @@ losr066.site
 love01.site
 love02.site
 love03.site
-lovememore.click
 lovesorgupanelim.click
 lp84s4e8gh.freeddns.org
 lpmonster.duckdns.org
@@ -9482,7 +9477,6 @@ odemeni-gerceklestir.com
 odemeonayli-tr.online
 odemsmihgssmid.cfd
 odeykelhgsykleode.cfd
-odeyklehgs.cfd
 odmdeyklehgs.cfd
 odmezmnihgsde.cfd
 odmykleprdahgs.cfd
@@ -10930,7 +10924,6 @@ sahibinden.islem-siparisver.com
 sahibinden.kaskoiletisim.com
 sahibinden.mobil-simdi.com
 sahibinden.mobilsepet-islemler-12.sbs
-sahibinden.mobilservislerim-1.sbs
 sahibinden.odeme-onay-1283.com
 sahibinden.odeme-onay-1285.com
 sahibinden.odeme-onay-1293.com
@@ -12015,7 +12008,6 @@ tanitim-cekilis.online
 tanitim-sans.online
 tanivuso-gepolemi.lol
 tanuwi-fikosen.lol
-taphzmrl.shop
 taplrksd.web.app
 taprsdbursdksr.com
 tapu.ink
@@ -13521,7 +13513,6 @@ x14hidgz0ez.s3.ap-south-1.amazonaws.com
 x1opay.co
 x5eahhs9hhln2hs.freeddns.org
 x5whl8ee2sh425h2.webredirect.org
-x7m6ha235fds3df2.duckdns.org
 x7vk2m9q.top
 x8n4q2t7m6.lol
 xalamor.com
