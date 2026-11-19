@@ -328,7 +328,6 @@ a-101harcaharca.duckdns.org
 a-10203-4.click
 a-1o1-giris-menuleri.duckdns.org
 a-1o1-hizmet-ekim-stanley-termoslari.duckdns.org
-a-1o1-market-stanley-aktif-indirimi.opik.net
 a-cpte-tbde.myonlineportal.ch
 a01.ai-poolion.cc
 a101-karacumaindirim.xyz
@@ -418,6 +417,7 @@ akbank-tr.info
 akbank-tr.live
 akbank-tr.pro
 akbank-trkiye.top
+akbankdirect.online
 akbankdirectonlineislemler.ph
 akbankdiretk.ph
 akbankinvestprogram-click.pages.dev
@@ -698,7 +698,6 @@ banka-akbank.ph
 bannedfromserv.icu
 bannedfromserv.sbs
 barclaysmenkul.com.tr
-basakcicekcilik.com.tr
 basvor.sbs
 basvrrkmpnya12372138.info
 basvrrkmpnya12372138.pro
@@ -1946,7 +1945,6 @@ guvenliodeme-61.sbs
 guvenliodeme-get.online
 guvenliodeme-siparis.online
 guvenliodemeget.online
-guvenotoydkpr.netlify.app
 guzel-servis-checkerid2985205.geobi.eu
 gvndyc.shop
 gvnfkvnmcjk34903.shop
@@ -2113,7 +2111,6 @@ hizlcayklemesgla-hgc.netlify.app
 hizlcayklemesgla-hge.netlify.app
 hizlcayklemesgla-hgf.netlify.app
 hizlcayklemesgla-hgr.netlify.app
-hizlibasvuru.online
 hizlicahalledin.biz
 hizlifirsatim.com
 hizligecisbakiyeyukyn.web.app
@@ -2442,7 +2439,6 @@ itencrypted.co
 itencrypted.com
 itendpoint365.onmicrosoft.com
 ithelpplus42.onmicrosoft.com
-ivgportal.com
 iwannalove1.ya-user-experience.ru
 iwatypojysy.world
 iweibu.dev
@@ -2967,7 +2963,6 @@ mhsglklamhr.cfd
 mhsmsmsmsmsms.xyz
 mhsmsmsmsmszz.xyz
 mhsrbsvrusistemszxc.space
-mhsroda182.click
 mhsroda182.lifestyle
 mhsroda182.monster
 mhsroda182.motorcycles
@@ -3269,6 +3264,8 @@ otp-oi.liveoakfarmsllc.net
 outagefixed.sbs
 outagerestored.sbs
 outlook2.indevs.in
+ovisfilokirala.com
+ovisfilokurumsal.com
 ox-api.ftwestseattle.com
 oyakmenkuldegerler.net
 oyakportfoytrader.com
@@ -3477,7 +3474,6 @@ randeuvhziosdmbrus.store
 randevu-merkez-hekim.lol
 randevu.vilan.online
 randevuhzmtlebrusds.store
-randumanduman.co
 randumanduman.net
 raulpoloullonpsp.wixsite.com
 ravilon.net
@@ -4537,6 +4533,7 @@ workwitheigen.xyz
 workwithlinea.xyz
 workwithsei.xyz
 world-captain-dextt.cyou
+world-captain-dextt.xyz
 world-captain.cyou
 world-captain.xyz
 worldofmusic-tk--canli-u6d10to3.web.app

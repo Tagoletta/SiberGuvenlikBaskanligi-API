@@ -1321,6 +1321,7 @@ akbank-tr.live
 akbank-tr.pro
 akbank-trkiye.top
 akbank.online
+akbankdirect.online
 akbankdirectonlineislemler.ph
 akbankdiretk.ph
 akbankinvesthub.net
@@ -1654,7 +1655,6 @@ ar-as-m.myonlineportal.ch
 ar-safar.myonlineportal.ch
 ara-asa-atk.my-homeip.de
 araba-cekilisim.link
-araba-cekilisim.online
 araba-kazanma-sansi.online
 arabacekilis.link
 arabacekilisim.link
@@ -2344,7 +2344,6 @@ berahotelsresort.com
 beraresortalanya.com
 beratalents.xyz
 berkdonat1.online
-bernagulcicekcilik.com.tr
 best987458sonfrsltarkmpny.click
 bestiemovie.com
 bestipip.com
@@ -2416,7 +2415,6 @@ bilinclikullanim.abrdns.com
 bilinclituketim.abrdns.com
 bilipta.top
 bin-airdrop.online
-binanc.loadportal.site
 binance-account-login.vercel.app
 binance-destek.com
 binance-exchanges.cloud
@@ -4971,7 +4969,6 @@ garantibbva-bb.ph
 garantibbva-bireysel.netlify.app
 garantibbva-boll.com.ph
 garantibbva-bot.com.ph
-garantibbva-cgd.ph
 garantibbva-citi.ph
 garantibbva-claro.com.ph
 garantibbva-destek.netlify.app
@@ -5951,7 +5948,6 @@ hesaplikasabim.world
 hesaplikasap.site
 hesaplishop-tr.online
 hesapta-tr.online
-hesaserfskert.duckdns.org
 hew58le4thhchsxs.lan64.de
 hexnoxpr.world
 heyhru.com
@@ -5994,7 +5990,6 @@ hgsodndismdi.cfd
 hgsx-web.vercel.app
 hgsyklemelerde.duckdns.org
 hgsyklezmnipraykle.cfd
-hgsyklodesmdi.cfd
 hgszmnidmflofe.cfd
 hgykledme.cfd
 hhadssasdkasd.click
@@ -7260,7 +7255,6 @@ kaarchertr.com
 kabsakaioniine.com
 kacirilmiyacakfrstlargunudyz.online
 kacirmayinbunlarisizlericinyaptik.sbs
-kaclmasendehemenbasvuryap81.info
 kacrmafirsti1001.duckdns.org
 kadersiz.shop
 kadslfgasdkfg.blogspot.com
@@ -7403,7 +7397,6 @@ karentino.gifts
 kargoguvenli.com
 kargoilesiparis.com
 kargokapinda.com
-kargomhizli.com
 kargotakibim.com
 karismayindostkalalim.duckdns.org
 kariyerportal.derestech.com
@@ -8808,7 +8801,6 @@ mobilsepetalim-10.online
 mobilsepetalim-20.online
 mobilsepetalim-40.sbs
 mobilsepetlerimtralimlar.online
-mobilsepetlerimtrservis.online
 mobilsepetlerin-alimlar-1.sbs
 mobilsepetlerservisintr.online
 mobilsepetllerservisim.online
@@ -8907,7 +8899,6 @@ mucize.bizler.sonhizmet.fdsasasdkasd.click
 mucize.bizler.sonhizmet.usafjasdkasd.click
 mudonano.com
 muhtesem-lndirim-havasl-kaplna-geldl.com
-muhtesem-lndrm-kaplna-geldl.com
 muhtesem-yuzyilin-indirimi-sende.com
 muhugilipolisedere.club
 muhuguferedeliseli.lol
@@ -9396,7 +9387,6 @@ nvirandevuekrakodeme.online
 nvirandevuhizmetleriniz.online
 nvirandevular.com
 nvirandevular.xyz
-nvirandevulariniz.online
 nvirandevulariniz.space
 nvirandevularinizz.online
 nvirandevularinizz.site
@@ -9695,6 +9685,8 @@ outlook365livee.dothome.co.kr
 outsourcingwise.net
 ov86ayb0fe4ep2b92-645o.com
 overislem.22web.org
+ovisfilokirala.com
+ovisfilokurumsal.com
 owleblo.net
 ox-api.ftwestseattle.com
 oyakmenkuldegerler.net
@@ -9757,7 +9749,6 @@ paparalnvest.com
 paparamenkuldeger.com
 papermakellrsocioeconomic.info
 param-guvende.cfd
-paramguvende-banaozel.sbs
 paramguvende.cfd
 paramguvendepay.store
 paranamarka.click
@@ -12930,7 +12921,6 @@ vbvgfvbb5.click
 vc998741.site
 vector.my-homeip.de
 vegapdf.com
-vekor.my-homeip.de
 velodium.latrpcsecnoweb.pro
 velouraintimates.com
 velsanto.gifts
@@ -13187,6 +13177,7 @@ workwitheigen.xyz
 workwithlinea.xyz
 workwithsei.xyz
 world-captain-dextt.cyou
+world-captain-dextt.xyz
 world-captain.cyou
 world-captain.xyz
 worldbulletin.blog
@@ -13616,7 +13607,6 @@ yasadiklarimbanaagirgeldi.sbs
 yasantiarl.com
 yasinbulutgot.duckdns.org
 yatirim-finansman.com
-yatirimfinans.com
 yawrohta3ti.shareyourhtml.com
 yazaozelsizlerleyiz.com
 ydkdmnasdasdsadasds.duckdns.org
