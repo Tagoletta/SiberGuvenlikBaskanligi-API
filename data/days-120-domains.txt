@@ -488,7 +488,6 @@
 1245115544166558998991.duckdns.org
 1245115544166558998992.duckdns.org
 1245445898978979907990.duckdns.org
-12457889989996.duckdns.org
 12457889989998.duckdns.org
 12457889989999.duckdns.org
 1249124919.duckdns.org
@@ -720,7 +719,6 @@
 2451.basitdom.biz
 2451.basitdom.click
 2451.domainclx.click
-2451.ezpizi.click
 245635566nett.xyz
 245891251.sbs
 2458967sonfrstlarrkmpnyaasa.info
@@ -3439,7 +3437,6 @@ btcturkts.cc
 btf-adalet-bakanligi.pages.dev
 btkurumsal.ph
 btrf36.cc
-buapp1-99579a8a4cfa.herokuapp.com
 buf2.com
 bufirsatikacirmamalisinn.com
 bufirstbirkeregelir.giize.com
@@ -4462,7 +4459,6 @@ deltaclient.xyz
 delvexan.com
 demirkolturizm.com
 demlemerehberi.online
-demlenedemlene.sbs
 demlikkamplanyasi.com
 demo-axxel1.com
 demo.axxel1.com
@@ -8338,7 +8334,6 @@ hizliidanismanliik.com
 hizliidanismannliklar.com
 hizliislem.net
 hizliislemlerr.art
-hizlika-mpanyalar.biz
 hizlikapida.com
 hizlikapimda.com
 hizlikapinda.com
@@ -8458,7 +8453,6 @@ hmnodemesatnalsd.com
 hmnrdvuall.cfd
 hmnrndvubrda.cfd
 hmnrvdal182.org
-hmnsanmashsnmshasnmasmhasnms.fwh.is
 hmnstnalodemeanlk.com
 hmnypdx.art
 hmnypsan.art
@@ -11005,7 +10999,6 @@ m1h46r5s458sdf.duckdns.org
 m2h4rspnline.art
 m3333.site
 m365-owa.com
-m3v9x2p7z6q4.lol
 m3vz1p7k4m9v.cfd
 m8t2dxq.store
 m99090s.site
@@ -11389,7 +11382,6 @@ mertiyungalaa.duckdns.org
 mertiyungl.duckdns.org
 meruno.cyou
 mesaj.cam
-messtxgymx.xyz
 mesuttgulerr573.workers.dev
 met2ndsiu8k.icu
 meta-support.online
@@ -13108,7 +13100,6 @@ otokocfilokiralama.org
 otokocfilomturkey.net
 otokocfilootomotiv.com
 otokocfiloturkiye.com
-otokocfiloturkiye.net
 otokockirala.com.tr
 otokockirala.net.tr
 otokockirolama.com
@@ -13119,9 +13110,7 @@ otokoconline.net.tr
 otokoconlinekirala.com.tr
 otokocotokirala.com.tr
 otokocotomobil.com
-otokocrental.com
 otokocrental.net
-otokocrental.org
 otokocrentcars.net
 otokocrentecar.com
 otokoctturkiye.com
@@ -18750,11 +18739,9 @@ yemekkartbasvurusu.com
 yemeknlerin.click
 yemektarifleri.shop
 yenbasvuruzamnansendekatl2.click
-yenegeldbasladkbzszdegelnh.click
 yenerscreation.com
 yeni-parti-bagis.com
 yeni-parti.uk
-yeni-safha.guru
 yenibasvurumerkezi.cfd
 yenibbvuislemenu.linkpc.net
 yenicanreklam.sbs
