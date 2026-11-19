@@ -1246,7 +1246,6 @@ dijitalbasvuru-kredi.sbs
 dijitalhizligiris-ziraatbireyselmobil.sbs
 dijitalmobilgiris-ziraatwebkampanya.sbs
 dijitaltrgib.com
-dijitalweb-ziraatbireysel.sbs
 discordsupporttt.xyz
 disisleri.org
 dispertia.co
@@ -1703,6 +1702,7 @@ fuelcouncil.ink
 fundayenerlersenerler.duckdns.org
 funnyhappyhapion.duckdns.org
 fypahedupal2-0maz.workers.dev
+g34g-onl.top
 ga-a9.co
 gamgambomgam.shop
 gaminjet.com
@@ -2335,7 +2335,6 @@ intentionallyevaluated.site
 interestinghub.site
 internal.diyanetisleribakanligi.vercel.app
 internet-speed-check.com
-internet-sube-cepteteb.my-homeip.de
 internet-sube.my-homeip.de
 intranet.diyanetisleribakanligi.vercel.app
 intumedias.com
