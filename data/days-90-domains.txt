@@ -1655,7 +1655,6 @@ ar-as-m.myonlineportal.ch
 ar-safar.myonlineportal.ch
 ara-asa-atk.my-homeip.de
 araba-cekilisim.link
-araba-kazanma-sansi.online
 arabacekilis.link
 arabacekilisim.link
 arabacekilisim.online
@@ -2130,6 +2129,7 @@ bakiyelerdetayli.lol
 bakkaldennoo.linkpc.net
 balbolma.duckdns.org
 balonx.online
+banabakca.lol
 banabaklan.lol
 banabatcak.lol
 banabatcaka.lol
@@ -2563,7 +2563,6 @@ bnpparibas-fr.cfd
 bntr-arabacekilisi.com
 bntr-arabacekilisi.online
 bntr-cekilis.online
-bntr-cekilisim.online
 bntr-logintr.click
 bntrarabacekilis.online
 bntrarabacekilisi.online
@@ -3075,8 +3074,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -4102,6 +4101,7 @@ emaliuyap.com
 emaliuzlasma.com
 emaliyebdk.com
 emaliyebildirim.org
+emaliyebilgi.com
 emaliyebtk.com
 emaliyecbs.com
 emaliyecbs.org
@@ -5775,6 +5775,7 @@ hazinesorgu.com
 hazinesorgu.net
 Hazinetr.org
 hazineuzlasma.com
+hazinevemaliye.shop
 hazmedemeyenvar.sbs
 hb-whatsapp-takip.vercel.app
 hblnife.co
@@ -8084,7 +8085,6 @@ loadwatchdpd.ink
 loadwatcherdpd.ink
 loayrexdru.sbs
 loayrexdru.top
-localcito.com
 lodofagida.site
 lofmsfonest.duckdns.org
 log.bit728.eu.cc
@@ -8225,11 +8225,13 @@ maliportaltc.org
 maliportaltr.org
 malirandevu.com
 malirandevu.online
+malirandevuformu.online
 malisorgula.org
 malisorgulama.com
 malisorgulama.net
 malisorgulama.org
 malivezne.net
+maliveznedar.org
 malivezneformu.org
 maliye-apple.ph
 maliye-deutschebank.ph
@@ -8240,9 +8242,11 @@ maliyearastirma.com
 maliyebildirim.com
 maliyebilgi.net
 maliyebirim.net
+maliyeborcsorgu.com
 maliyecezasi.org
 maliyecezasorgulama.com
 maliyedavam.org
+maliyedevlet.org
 maliyedosyabilgi.com
 maliyedosyasorgula.com
 maliyedosyasorgulama.com
@@ -8253,6 +8257,7 @@ maliyeodemeislemleri.com
 maliyeportal.org
 maliyerandevusistemi.com
 maliyesorgulama.net
+maliyesorgulamasi.com
 maliyesorgutc.net
 maliyetrsorgu.org
 maliyevezne.org
@@ -8715,7 +8720,6 @@ microsoftforms.securemailencryptit.com
 microsoftonline.whitecarrot.app
 microupdate.me
 midas.com.ng
-midiroseagustos.sbs
 midj0urney.org
 migros-tr.com
 migrosanal.github.io
@@ -9191,6 +9195,7 @@ novafilom.com
 novafilorental.com
 novakurumsal.online
 novakutu.cyou
+novelixra.com
 novges.com
 novixtra.com
 nowakaesthetics.cyou
@@ -10079,7 +10084,6 @@ promosyonbasvurum.xyz
 promotion.storage-data.com
 promsynbasvrusayfasi.click
 promsyngunlerndyzbiz.sbs
-promsyongunleriagstos.giize.com
 prormsynbasvr1.xyz
 prosmynnkmpnyaabsavrr.online
 protechlabcorp.opticaberl.com
@@ -10620,7 +10624,6 @@ s.uubmi.com
 s0k-aktuel.duckdns.org
 s0k-cepte-kasimfirsatlari.duckdns.org
 s0kfirsatlarim.duckdns.org
-s0kkap1n4gel5infir5s4tl4ri.duckdns.org
 s0kmlarket.shop
 s1.evsahibibasvuru.com
 s1181402.ha026.t.mydomain.zone
@@ -10942,6 +10945,7 @@ sahibindensatis.xyz
 sahibindensigorta.click
 sahibindensigorta.quest
 sahibirdenguvnde.com
+sahibnden-paramguvende-tr.siparis-onayi.shop
 sahihinden.com.tr
 sahihindeni.com.tr
 sahinden-param-guvende.siparis-onayi.online
@@ -10962,7 +10966,6 @@ sanalmarketmigro.duckdns.org
 sanaozlindirimsadc101.com
 sancak2.cfd
 sandbox.diyanetisleribakanligi.vercel.app
-sandegelbasvrkazan81.click
 sanemcicekcilik.com
 sangarlara.click
 sans--buradahediye.online
@@ -11478,7 +11481,6 @@ sokfirsatderken.duckdns.org
 sokflrsatlar.com
 sokflrsatlarburada.com
 sokmafetil.com
-sokmarket.lat
 sokmarketekstrakampanya2.duckdns.org
 sokmarketik.com
 sokmarketler.shop
@@ -12372,7 +12374,6 @@ toonie-bot.com
 toplu-konut.com
 toplubloklar.vercelserver.com
 toplukonut0054975248.vercel.app
-toplukonut2026-toki2026.vercel.app
 toplukonut35912911.vercelcloud.com
 toplukonutaptdetayli.vercelapi.com
 toplukonutdavetli.vercelapi.com
@@ -12492,6 +12493,7 @@ trendymartshop.shop
 trendyogift.com
 trendyol-alibaba.ph
 trendyol-bridge.duckdns.org
+trendyol-khaki-one.vercel.app
 trendyol-poc.ommateum.ninja
 trendyol.im
 trendyol.lol

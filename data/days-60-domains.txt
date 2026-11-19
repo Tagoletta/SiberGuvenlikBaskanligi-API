@@ -1523,6 +1523,7 @@ bakinsedensi.com
 bakiyelerdetayli.lol
 bakkaldennoo.linkpc.net
 balbolma.duckdns.org
+banabakca.lol
 banabaklan.lol
 banabatcak.lol
 banabatcaka.lol
@@ -2825,6 +2826,7 @@ emalitalimat.com
 emaliuyap.com
 emaliuzlasma.com
 emaliyebdk.com
+emaliyebilgi.com
 emaliyecbs.com
 emaliyedava.com
 emaliyedosya.com
@@ -3959,6 +3961,7 @@ hazineonline.site
 hazinesorgu.com
 hazinesorgu.net
 hazineuzlasma.com
+hazinevemaliye.shop
 hb-whatsapp-takip.vercel.app
 hblnife.co
 hblnife.com
@@ -5656,10 +5659,12 @@ malidosya.org
 malifatiko.xyz
 malirandevu.com
 malirandevu.online
+malirandevuformu.online
 malisorgula.org
 malisorgulama.com
 malisorgulama.net
 malisorgulama.org
+maliveznedar.org
 maliye-apple.ph
 maliye-deutschebank.ph
 maliye-ingbank.ph
@@ -5667,11 +5672,14 @@ maliye.online
 maliyebildirim.com
 maliyebilgi.net
 maliyebirim.net
+maliyeborcsorgu.com
 maliyecezasi.org
+maliyedevlet.org
 maliyedosyabilgi.com
 maliyeegm.net
 maliyehazine.com
 maliyehazinesorgu.com
+maliyesorgulamasi.com
 maliyetrsorgu.org
 maliyevezne.org
 maliyeveznedar.online
@@ -6279,6 +6287,7 @@ novafilokurumsal.net
 novafilom.com
 novafilorental.com
 novakutu.cyou
+novelixra.com
 novges.com
 novixtra.com
 nowakaesthetics.cyou
@@ -7308,6 +7317,7 @@ sahibindensatis.live
 sahibindensigorta.click
 sahibindensigorta.quest
 sahibirdenguvnde.com
+sahibnden-paramguvende-tr.siparis-onayi.shop
 sahihinden.com.tr
 sahihindeni.com.tr
 sahinden-param-guvende.siparis-onayi.online
@@ -8342,6 +8352,7 @@ trendyl-mobil-tr.online
 trendymartshop.shop
 trendyogift.com
 trendyol-bridge.duckdns.org
+trendyol-khaki-one.vercel.app
 trendyol-poc.ommateum.ninja
 trendyol.luxe
 trendyol.mobilservisler-37.sbs

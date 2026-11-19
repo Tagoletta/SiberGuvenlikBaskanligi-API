@@ -2690,6 +2690,7 @@ balbolma.duckdns.org
 balerdenmased.duckdns.org
 balonx.online
 banabakarifdabi.sbs
+banabakca.lol
 banabaklan.lol
 banabatcak.lol
 banabatcaka.lol
@@ -2908,7 +2909,6 @@ be2dfxorunilakemvytosa.sbs
 beadfaw.giize.com
 beatbloom.cc
 beatsculpture.com
-beautyvexa.com
 bedava1sorgucunuz2026.click
 bedavapanel.cyou
 bedavapanel.net
@@ -3937,8 +3937,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -5319,6 +5319,7 @@ emaliuyap.com
 emaliuzlasma.com
 emaliyebdk.com
 emaliyebildirim.org
+emaliyebilgi.com
 emaliyebtk.com
 emaliyecbs.com
 emaliyecbs.org
@@ -7487,7 +7488,6 @@ haberler78945.sbs
 haberler834756.shop
 haberler8676.shop
 haberler8834232.shop
-haberler911.sbs
 haberler93748.shop
 haberler9854.sbs
 haberler99534945.shop
@@ -7582,7 +7582,6 @@ halklimits.xyz
 halkmarket.app
 halkmarketi.sbs
 halkmobil-internet-basvuruekrani-com.duckdns.org
-halkmobil-internet-guncell-com.duckdns.org
 halkolanmalko.club
 halkonay.sbs
 halkonay.tech
@@ -7678,6 +7677,7 @@ hazinesorgu.com
 hazinesorgu.net
 Hazinetr.org
 hazineuzlasma.com
+hazinevemaliye.shop
 hazmedemeyenvar.sbs
 hb-whatsapp-takip.vercel.app
 hblnife.co
@@ -11072,6 +11072,7 @@ maliportaltc.org
 maliportaltr.org
 malirandevu.com
 malirandevu.online
+malirandevuformu.online
 malisorgula.org
 malisorgulama.com
 malisorgulama.net
@@ -11080,6 +11081,7 @@ malitilanda-tudore.lol
 maliuyap.org
 malivezne.com
 malivezne.net
+maliveznedar.org
 malivezneformu.org
 maliye-apple.ph
 maliye-deutschebank.ph
@@ -11090,11 +11092,13 @@ maliyearastirma.com
 maliyebildirim.com
 maliyebilgi.net
 maliyebirim.net
+maliyeborcsorgu.com
 maliyecezahukuk.org
 maliyecezasi.org
 maliyecezasorgulama.com
 maliyecezauzlasmasi.com
 maliyedavam.org
+maliyedevlet.org
 maliyedosyabilgi.com
 maliyedosyasorgula.com
 maliyedosyasorgulama.com
@@ -11106,6 +11110,7 @@ maliyeodemeislemleri.com
 maliyeportal.org
 maliyerandevusistemi.com
 maliyesorgulama.net
+maliyesorgulamasi.com
 maliyesorgutc.net
 maliyetakibi.org
 maliyetrsorgu.org
@@ -12464,6 +12469,7 @@ novakurumsal.online
 novakutu.cyou
 novarackiralama.com
 novarixelto.world
+novelixra.com
 novges.com
 novixtra.com
 nowakaesthetics.cyou
@@ -14997,6 +15003,7 @@ sahibindensigorta.click
 sahibindensigorta.com
 sahibindensigorta.quest
 sahibirdenguvnde.com
+sahibnden-paramguvende-tr.siparis-onayi.shop
 sahibndensatis.click
 sahihinden.com.tr
 sahihindeni.com.tr
@@ -17182,6 +17189,7 @@ trendyogift.com
 trendyol-alibaba.ph
 trendyol-bridge.duckdns.org
 trendyol-ekargo-4000.netlify.app
+trendyol-khaki-one.vercel.app
 trendyol-poc.ommateum.ninja
 trendyol-siparistamamla.com
 trendyol-siparistamamla.com.tr
@@ -17514,7 +17522,6 @@ tyame.top
 tylarion867mino.com
 tymub.com
 typec.e-wl.com
-tyrztrtkks.cfd
 tzpx.courses
 u.97rich.vip
 u.ddns.me
