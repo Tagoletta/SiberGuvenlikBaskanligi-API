@@ -1800,6 +1800,7 @@ alisverisepetin-12.sbs
 alisverisepetin-13.sbs
 alisverisepetislem-15.sbs
 alisverisfirsati.com
+alisverisfirsatlari.com
 alisverishizmeti.online
 alisverishizmetin-10.sbs
 alisverishizmetin-20.sbs
@@ -2859,7 +2860,6 @@ baykarhisseleri.digital
 baykarinvestmentprogram.live
 baykarmagaza.org.ph
 baykarmtal.com.ph
-baykarplatform-system.com
 baykarplatformsystem.digital
 baykarpusula.info
 baykarteknoloji.info
@@ -7715,7 +7715,6 @@ hedefon.hedefonportfoyum.com
 hedefon.hedefportfoyfon.com
 hedefonportfoyum.com
 hedefportfoyfon.com
-hedefprtfoy.com
 hediye--burada.online
 hediye-burada.online
 hediyeler--burada.online
@@ -8596,7 +8595,6 @@ hsbcrewards-homesb.info
 hsdgmfsodg.art
 hsdomynl.xyz
 hsfdgsdg.art
-hsgpraykleme.cfd
 hshshsgsghshs.eu.cc
 hsswkllufw9yeeh.udp64.de
 hstnelersizide.shop
@@ -9713,12 +9711,10 @@ karacahomeliving.shop
 karacahomes.shop
 karacahomestore.shop
 karacahometr.shop
-karacakaramacakovalaca.xyz
 karacakitchen.homes
 karacakitchen.shop
 karacakorkmaz.com
 karacalife.homes
-karacan-cepte.info.tr
 karacaonline.homes
 karacaonlinetr.shop
 karacaonlinetrs.shop
@@ -9962,6 +9958,7 @@ kingbss.com
 kingdavote.com
 kinoranx.com
 kinovialun.duckdns.org
+kipdownon.net
 kira-sozlesmesi-sistemi.vercel.app
 kiralikaraclarimislemler.com
 kiralikkonutbasvurularim.cfd
@@ -10208,7 +10205,6 @@ kocotomonlineodeme.com
 kocotorezervasyon.com
 kocotorezervasyon.net
 kocrental.com
-kocrental.org
 koctas.live
 kocyaninda.com
 koefes.cc.cd
@@ -12932,7 +12928,6 @@ online-sozlesme-islemleri.com
 online-sozlesme.e-islem-hizmet.com
 online-sozlesme.r-onayllservishizmeti.com
 online-sozlesme.servisinguvenli-45.sbs
-online-tr-shop-mobil.site
 online-trend.online
 online-tuv.com
 online-web-store.online
@@ -13180,7 +13175,6 @@ oyakyatirimdegerler.com
 oyakyatirimmenkul.com
 oyakyatirimtradeplus.com
 oykmenkul.com
-oykportfolio.online
 oylebirurunbulduk.xyz
 oylecebakmabana.sbs
 ozdeslesim-tire.ink
@@ -13280,7 +13274,6 @@ paribu-araba-cekilis.online
 paribu-araba-cekilisi.com
 paribu-araba-cekilisi.live
 paribu-araba-cekilisi.online
-paribu-araba-cekilisi.ooguy.com
 paribu-araba-cekilisi.opik.net
 paribu-araba-kazanma.com
 paribu-araba.live
@@ -14297,6 +14290,7 @@ refdyb.com
 referansdunyamportfoy.com
 referansfba.com
 referansicbc.com
+referansin-foyatirim.com
 referansinfoyatirim.com
 referansonlinefba.com
 referansportal.online
@@ -16437,9 +16431,11 @@ t-e-b-ayricaliklar.my-homeip.de
 t-e-b-ayricalikli.my-homeip.de
 t.shoptk.la
 t0kibasvurulariniz.com
+t0kibsvrulari1.com
 t0kibsvuru.lol
 t0kibsvuru.sbs
 t0kibsvuru.xyz
+t0kievbsvrulari.com
 t0kievleriibbasvuru.sbs
 t0kievleriiikonutkampanyalari.click
 t0kiieevleriiibasvuru.sbs
@@ -17271,7 +17267,6 @@ trmaliyekurum.org
 trmasak.net
 trmobilyapigirisonlinetr.vercel.app
 trmskelr.store
-trndyl.medianova.com
 trnovherez.wasmer.app
 tromvax.com
 trplgnlerdervdalsn.click
@@ -17361,11 +17356,8 @@ turkgundem.online
 turkhavayollari.se
 turkiaee.dothome.co.kr
 turkish-air-lines.ru
-turkish-airlines.com.ph
-turkish-airlines.ph
 turkish-petroleum.sbs
 turkishairlines-verify-online.ph
-turkishairlines.net.ph
 turkishairlineskampanyalari.zelenskkk.click
 turkishairlineskampanyalari.ziyoklam.click
 turkishairlineskampanyalari.zosssdalin.click
@@ -17485,7 +17477,6 @@ tvtap-hd.app
 tvtap-liveapp.com
 tvtr-randevu.web.app
 tvtrarcmynb.sbs
-tvtrkarcmuayne.cfd
 tvtrkkkrdnvvvuu.duckdns.org
 tvtrkmafylari.duckdns.org
 tvtrkmynexx.duckdns.org
@@ -18743,7 +18734,6 @@ yasinbulutgot.duckdns.org
 yatirim-finansman.com
 yatirim-hesabi-tr-10.online
 yatirim.oykportfolio.com
-yatirim.oykportfolio.online
 yatirimfinans.com
 yatirimhedef.com
 yattaras.click

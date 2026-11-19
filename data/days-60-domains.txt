@@ -88,7 +88,6 @@
 101-extra-mobil-sadece-bugune-ozel-online-alisveris-cebinde-tr.extram.site
 101-extra-mobil-sadece-bugune-ozel-online-alisveris-tr.lis00666.site
 101-extra-mobil-sadece-bugune-ozel-online-alisveris-tr.pro-tr.online
-101-extra-mobil-sadece-bugune-ozel-online-firsatli-alisveris-tr.netsepet.online
 101-extra-mobil-sadece-bugune-ozel-online-mobil-sepet-tr.bizz7778.site
 101-extra-mobil-sadece-bugune-ozel-online-sepet-indirimi.extradamobil.online
 101-extra-mobil-sadece-bugune-ozel-online-shop-alisveris-cep-tr.e-sepets-tr.online
@@ -1035,6 +1034,7 @@ alisveris-sepetinde-25.sbs
 alisverisepet-islem-10.sbs
 alisverisepetislem-15.sbs
 alisverisfirsati.com
+alisverisfirsatlari.com
 alisverisimeyonlendirarzum.online
 alisverisinsepet-17.sbs
 alisverisinsepet-18.sbs
@@ -5169,6 +5169,7 @@ kimbunasasirmazkisizinicin.sbs
 kingdavote.com
 kinoranx.com
 kinovialun.duckdns.org
+kipdownon.net
 kira-sozlesmesi-sistemi.vercel.app
 kiralikotoavs.com
 kiredi-bbav-birligi.sbs
@@ -6574,7 +6575,6 @@ pazarama.odeme-onay-1293.com
 pazarama.odemeguvende.com
 pazarama.onayda-sepet-7185.com
 pazarama.onayda-sepet-7186.com
-pazarama.onlineservisler.com
 pazarama.param-guvende.org
 pazarama.sepet-odemeler-2211.com
 pazarama.sepet-odemeler-2212.com
@@ -6770,7 +6770,6 @@ pttavmkmsorgulamamiz.com
 pttavmkmsormakweb.firebaseapp.com
 pttavmsepet.com
 pttavn-hizl-kolay-ykle.web.app
-pttavn-hizli-gecisleriniz.web.app
 pttavn-hizlica-islem-ykle.web.app
 pttavn-onlinebakiyehallet.web.app
 pttavn-pratikbakiyeode.web.app
@@ -6878,7 +6877,6 @@ randevu.vilan.online
 randevucunuz.com
 randevumtuvturkorg.duckdns.org
 randevuntuvturkorg.duckdns.org
-randevunuzayaginizageldi2.sbs
 randevunuzayaginizageldi3.sbs
 randevunuzburda.com
 randevutuvturkorg.duckdns.org
@@ -6901,6 +6899,7 @@ reciperoverapp.com
 refdyb.com
 referansdunyamportfoy.com
 referansicbc.com
+referansin-foyatirim.com
 referansinfoyatirim.com
 referansportal.online
 refund-advertisers.com
@@ -7909,6 +7908,8 @@ szfeisi.com
 szwhtl.com
 t.shoptk.la
 t0kibasvurulariniz.com
+t0kibsvrulari1.com
+t0kievbsvrulari.com
 t0kievleriibbasvuru.sbs
 t0kievleriiikonutkampanyalari.click
 t0kiieevleriiibasvuru.sbs
@@ -8315,7 +8316,6 @@ trendoldumdestek.workers.dev
 trendsepet-tr.online
 trendy0l1.homes
 trendy0l1.sbs
-trendy0l1.xyz
 trendyapp.top
 trendyl-mobil-tr.online
 trendymartshop.shop
