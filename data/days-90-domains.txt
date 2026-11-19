@@ -3051,7 +3051,6 @@ ceptetebden-emeklin.my-homeip.de
 ceptetebden-firsati.my-homeip.de
 ceptetebden.my-homeip.de
 ceptetebdeniz.my-homeip.de
-ceptetebeva.my-homeip.de
 ceptetebli-ayricalik.my-homeip.de
 ceptetebli-emekliye.my-homeip.de
 ceptetebli-kampanya.my-homeip.de
@@ -7892,7 +7891,6 @@ kurummahkeme.org
 kurumportal.org
 kurumsalfilom.com
 kurumtakip.org
-kurumtr.org
 kuveyt-gorkemli-basvuru-ekrani.loseyourip.com
 kuveyt-promoslalylari.duckdns.org
 kuveytturk.sbs
