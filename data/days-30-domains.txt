@@ -862,6 +862,7 @@ bonusbasvurusayfasi123q5233.sbs
 bonusbasvurusayfasi125562705.sbs
 bonusbasvurusayfasi1256705.sbs
 bonusbasvurusayfasi12r345325.sbs
+bonusbasvurusayfasi223414.sbs
 bonusbasvurusayfasi2342355.sbs
 bonusbasvurusayfasi3123125.sbs
 bonusbasvurusayfasi3233.sbs
@@ -1023,7 +1024,6 @@ ceptesokmarketim.duckdns.org
 cepteteb-ayricalikli.myonlineportal.at
 cepteteb-com-tr-emekli-ozel.my-homeip.de
 cepteteb-den.my-homeip.de
-cepteteb-internet.my-homeip.de
 cepteteb-mobil-bankacilik.my-homeip.de
 cepteteb-pro.my-homeip.de
 cepteteb-sube.my-homeip.de
@@ -3340,7 +3340,6 @@ phillipcapitaldanismanliktr.com
 phillipcapitalportfoytr.com
 phillipcapitalportfoyyonetim.com
 pilschip.com
-pinekoskim.giize.com
 pixelground.space
 pixelground.xyz
 pixelryx.com
