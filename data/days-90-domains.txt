@@ -3011,7 +3011,6 @@ cepte-eylul.info.tr
 cepte-eylul.name.tr
 cepte-eylul.net.tr
 cepte-inter.my-homeip.de
-cepte-islemleriminz-garanti.duckdns.org
 cepte-lndirimlerin.com
 cepte-shop-tr.online
 cepte-t-e-b-com-tr.my-homeip.de
@@ -3095,8 +3094,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -4995,7 +4994,6 @@ garantibbva-bb.ph
 garantibbva-bireysel.netlify.app
 garantibbva-boll.com.ph
 garantibbva-bot.com.ph
-garantibbva-cainiao.ph
 garantibbva-cgd.ph
 garantibbva-citi.ph
 garantibbva-claro.com.ph
@@ -6992,8 +6990,6 @@ islemler-kredi-garanti.duckdns.org
 islemler.teb.eu.com
 islemlerim-bireysell-garanti.duckdns.org
 islemlerim-ceptee-garanti.duckdns.org
-islemlerim-garanti.bounceme.net
-islemlerim-garanti.freemyip.com
 islemlerim-hemen-garanti.duckdns.org
 islemlerin-sepet-20.sbs
 islemlerin-sepet-25.sbs
