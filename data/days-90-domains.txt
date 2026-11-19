@@ -3074,8 +3074,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -5585,7 +5585,6 @@ haberler14223.shop
 haberler1425123.shop
 haberler14253231.shop
 haberler142536231.shop
-haberler14534925.shop
 haberler15123424.sbs
 haberler15132.sbs
 haberler15341231.sbs
@@ -5894,6 +5893,7 @@ hepsi10bu1ra.com
 hepsi10bu1re.com
 hepsi10bu2ral.com
 hepsiberada.live
+hepsiburada-bool.com.ph
 hepsiburada-kep.com
 hepsiburada-kinotam.ph
 hepsiburada-mobilepay-indeed.ph
@@ -6682,7 +6682,6 @@ ile-e-islemlerle.com.tr
 ile-e-sepet.com.tr
 ile-guvenle-islem-tr.com
 ile-guvenli-ilan-web.com
-ile-guvenlice-tamamlama.com
 ile-isleminiz.com.tr
 ile-islemlerdeyim.com.tr
 ile-odemen-tamamla.com
@@ -9805,7 +9804,6 @@ parsrentcar.org
 partaonline.click
 pasamotor.net
 pasmonest.duckdns.org
-passiligbasvurun.com
 passkey-mfa.com
 passkeymailchimp.com
 password-protect-pdf.com
@@ -12377,6 +12375,8 @@ toplukonut0054975248.vercel.app
 toplukonut35912911.vercelcloud.com
 toplukonutaptdetayli.vercelapi.com
 toplukonutdavetli.vercelapi.com
+toplukonutdetayli.vercelsh.com
+toplukonuthh.verceldomain.com
 toplukonuttoki.com
 toplutokikonutlar.com
 toptancinizburada.sbs

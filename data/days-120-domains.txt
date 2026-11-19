@@ -2800,10 +2800,8 @@ basvurularburdan.cfd
 basvurularevler.com
 basvurulari-1.sbs
 basvurulari-gov.com
-basvurularimiz.myonlineportal.de
 basvurulariniaslasman.sbs
 basvurularinitamamlar.sbs
-basvurulariniz.myonlineportal.de
 basvurularinla.logwayaceite.cfd
 basvurulariyapinkacirmayin2026.cfd
 basvurulariyapinkacirmayinekim.cfd
@@ -3937,8 +3935,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -7832,6 +7830,7 @@ hepsi10bu1ra.com
 hepsi10bu1re.com
 hepsi10bu2ral.com
 hepsiberada.live
+hepsiburada-bool.com.ph
 hepsiburada-garantibbva.ph
 hepsiburada-kep.com
 hepsiburada-kinotam.ph
@@ -9460,7 +9459,6 @@ jfuendchxakwdrsavqfy.sbs
 jgnvmmfk3432.click
 jgsbdrd.cc
 jgvmfkcml34ws.shop
-jhdgfadd.nicepage.io
 jhdgfaddd.nicepage.io
 jhflt6l0dwminsl494836rb.org
 jhtlncm8494849.click
@@ -11371,7 +11369,6 @@ merkeziadeveyatirim.com
 merkeziiprmsynnfrstlarrbsvrr.art
 merkeziislemler.my-homeip.de
 merkezinkayit.abrdns.com
-merkeziyetkayit.abrdns.com
 merkeziyetsizbasvuru.com
 merkeziyetsizkayit.abrdns.com
 merkezlekayit.abrdns.com
@@ -17042,6 +17039,8 @@ toplukonut2026-toki2026.vercel.app
 toplukonut35912911.vercelcloud.com
 toplukonutaptdetayli.vercelapi.com
 toplukonutdavetli.vercelapi.com
+toplukonutdetayli.vercelsh.com
+toplukonuthh.verceldomain.com
 toplukonutidaresi.gravitycl.app
 toplukonuttoki.com
 topluluk-t.garden
@@ -19203,5 +19202,4 @@ zz30147.site
 zz771718.site
 zza7888.site
 zzcv777.site
-zzirfhd.cfd
 zzmdsnd.duckdns.org

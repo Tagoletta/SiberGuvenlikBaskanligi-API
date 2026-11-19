@@ -551,7 +551,6 @@ aracetketbakyuklmye.web.app
 aracim360-etiketbakiyldolum.web.app
 aracim360-gecis-hizli-bakyler.web.app
 aracim360-gecslerbkyelfykle.web.app
-aracim360-kilo-metre-detay.web.app
 aracim360-portal.online
 aracim360.vercel.app
 aracim360.xyz
@@ -1950,7 +1949,6 @@ gvnfkvnmcjk34903.shop
 gyi9coh788uuk17a75lw109.org
 gyzhu.com
 h-hzlirnv.cfd
-h-rndal.cfd
 h-saglkrhb.cfd
 h23lh8236l9h5ll3.opik.net
 h2l562hllh93833s.flashhub.net
@@ -2077,6 +2075,7 @@ hepsi-cpte-ayricalik.myonlineportal.ch
 hepsi10bu1ra.com
 hepsi10bu1re.com
 hepsi10bu2ral.com
+hepsiburada-bool.com.ph
 hepsifqdh1jk.com
 hepsifqdh1lk.com
 hepsissaldnrb.com
@@ -3636,7 +3635,6 @@ sahibinden-get.urundetay-sepet-30.sbs
 sahibinden-get.urundetay-sepet-35.sbs
 sahibinden-get.x-mobil-islem-guvenceli.com
 sahibinden-getilan.islemler-web-tr-getalisveris.online
-sahibinden-param-guvende.bilgi-urundetayi.online
 sahibinden-param-guvende.get-servis-onay.online
 sahibinden-param-guvende.guvenli-alisveris-hizmet.online
 sahibinden-param-guvende.guvenli-alisveris-tr.online
@@ -3654,7 +3652,6 @@ sahibinden-paramguvende.bilgi-urundetayi.online
 sahibinden-paramguvende.get-odeme.online
 sahibinden-paramguvende.getilan.online
 sahibinden-paramguvende.guvenli-alisveris-tr.online
-sahibinden-paramguvende.ilan-detayi-tr.online
 sahibinden-paramguvende.tr-siparisget.online
 sahibinden-sepet.guvendeticaretnet.store
 sahibinden-sepet.sepetimonaycom.surf
@@ -4217,6 +4214,8 @@ tokisahibibasvurusu.xyz
 tokkibasvurunkasim.com
 tools-masak-ai-sri26.pages.dev
 toplukonut0054975248.vercel.app
+toplukonutdetayli.vercelsh.com
+toplukonuthh.verceldomain.com
 total-sitevv.lol
 toyotaqueretaro.hotelemilenium.com.mx
 tpao-ai.com
