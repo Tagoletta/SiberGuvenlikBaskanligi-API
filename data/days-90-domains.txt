@@ -319,7 +319,6 @@
 101-sadece-bugune-ozel-mobil-sepet-indirimleri-shop-extra.blog-sites.online
 101-sadece-bugune-ozel-mobilde-sepet-alisveris-indirimleri-tr.mobils-cep.online
 101-sadece-bugune-ozel-online-alisveris-cep-indirimleri-tr.shopstore-tr.online
-101-sadece-bugune-ozel-online-alisveris-sepet-indirimleri-tr.sepetgo.online
 101-sadece-bugune-ozel-online-indirim-alisveris-sepeti-tr.bilgishop.online
 101-sadece-bugune-ozel-online-mobil-indirim-sepeti-alisveris-tr.sepet-net.online
 101-sadece-bugune-ozel-online-sepet-indirimleri-tr.shopnet-tr.online
@@ -1300,7 +1299,6 @@ aimemtools.cfd
 aircanadagarantibbva.com.ph
 airworldturizm.com
 ais-garantibbva-immobilienscou.ph
-aisosym.com.tr
 aiss-garantibbva.com.ph
 aiss-trendyol.com.ph
 aisshepsiburada.ph
@@ -1658,7 +1656,6 @@ ar-safar.myonlineportal.ch
 ara-asa-atk.my-homeip.de
 araba-cekilisim.link
 araba-cekilisim.online
-araba-cekilisin.online
 araba-kazanma-sansi.online
 arabacekilis.link
 arabacekilisi.online
@@ -1667,6 +1664,7 @@ arabacekilisim.online
 arabacekilisin.online
 arabulucuadliye.org
 arabulucuegm.org
+arabuluculukadli.org
 arabuluculukmaliye.org
 arabulucutc.net
 arac-bakiye.lol
@@ -1805,7 +1803,6 @@ arracrndvuicn.lozan.com
 arrow-berry-gem.pages.dev
 ars-aek-arn.myonlineportal.ch
 art-rol.myonlineportal.ch
-artafana.click
 artikkatildiburdaherkescabukbak76.site
 artikyalanyokye.sbs
 artisoft.duckdns.org
@@ -1916,6 +1913,7 @@ askfaskgasogasg.blogspot.com
 aslicezasorgu.org
 aslicicek.com
 aslihukuksorgu.com
+asliyearabuluculuk.org
 asmdkasmk43k712.duckdns.org
 asnc-tebde-ayricalikli.myonlineportal.ch
 asncxbyaaasdanala.15334265341523.sbs
@@ -2332,7 +2330,6 @@ belsis.sbs
 belsis1.world
 belsis2.world
 bementlaw.ncclouds.com
-benbenks.duckdns.org
 bencalsyrmhrsrndvlrdan.lol
 bencalsyrmhrsrndvlrdan.online
 bencalsyrmhrsrndvlrdan.sbs
@@ -2802,7 +2799,6 @@ c2.installscenter.com
 c2.ios.catcoinglobal.top
 c2.shopreviewt.top
 c2uge9o8jb9b8dk1ty84q56.org
-c77478.site
 c85grt98sd.com
 cabbagemeasure.xyz
 cabernafer.duckdns.org
@@ -3062,7 +3058,6 @@ ceptetebden.my-homeip.de
 ceptetebdeniz.my-homeip.de
 ceptetebeva.my-homeip.de
 ceptetebli-ayricalik.my-homeip.de
-ceptetebli-basvurum.my-homeip.de
 ceptetebli-emekliye.my-homeip.de
 ceptetebli-kampanya.my-homeip.de
 ceptetebte-tr.my-homeip.de
@@ -3085,8 +3080,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -4603,7 +4598,6 @@ famehubfy.net
 fangtray.com
 farixus.com
 fark-islemler-garanti.duckdns.org
-fartanasa.click
 fashionablespaces.com
 fashionfusiongreenllc.com
 faslizabita.click
@@ -5814,7 +5808,6 @@ healthiron.space
 healthy.koeln-gastro.com
 healthy39.co
 healthy39.com
-heddalesedc.duckdns.org
 hedefon.hedefborsa.com
 hedefon.hedefportfoyfon.com
 hedefportfoyfon.com
@@ -7132,8 +7125,6 @@ ivdijital.com
 ivgmobil.com
 ivgportal.com
 iwannalove1.ya-user-experience.ru
-iwanttodie.vip
-iwasdevastated.biz
 iwasdevastated.vip
 iwatypojysy.world
 iweibu.dev
