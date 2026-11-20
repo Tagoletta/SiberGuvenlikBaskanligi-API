@@ -1616,7 +1616,6 @@ aidatiademerkezi.my-homeip.de
 aidatiadeonline.my-homeip.de
 aidatmerkezislem.my-homeip.de
 aidatsorgulama0081.org
-ailegelecegi.co
 ailemgov.biz
 ailemtr.biz
 ailemyanimda.org
@@ -2263,6 +2262,7 @@ aroramotorsatis.com
 aroraonline.co
 arorayedekparcalarisatis.com
 arorayedekparcalistesi.com
+arorayedekparcamagaza.com
 arorayedekparcamagazasi.com
 arorayedekparcasi.com
 arracamuyane.web.app
@@ -2725,6 +2725,7 @@ bannedfromserv.sbs
 barclaysmenkul.com.tr
 barouzlasma.com
 basakcicekcilik.com.tr
+basbrrkmpyprmsyn1454.online
 basitdom.click
 basivurucu.duckdns.org
 baskenslfmds.click
@@ -3071,7 +3072,6 @@ bilgilislemsayfasi.abrdns.com
 bilgimahkeme.org
 bilgimaliye.org
 bilgipanel.net
-bilgiplatformu.biz
 bilgiplatformu.com
 bilgiradar.co
 bilgis-tr.online
@@ -3670,7 +3670,6 @@ cathaybk-garantibbva.com.ph
 caude.ai
 cavonirexulampetoz.cfd
 cay-caydanlikindirimleri.sbs
-cayalleltlering.com
 caydanlikburada.vercel.app
 caydanlikburda.vercel.app
 caydanlikkampholding.com
@@ -5326,6 +5325,7 @@ emekli-garanti.my-homeip.de
 emekli-ozel-kampanya.online
 emekli-promosyon.my-homeip.de
 emekli-tebde.my-homeip.de
+emekli.my-homeip.de
 emeklilere-cepteteb-com.my-homeip.de
 emeklilik-promosyon.com
 emeklim-tebde.my-homeip.de
@@ -5334,6 +5334,7 @@ emeklipromosyonlari.com
 emeklirotasi.cyou
 emekliye-ceptetebde.my-homeip.de
 emhrsrandvlrmzburda.sbs
+emiondafe.giize.com
 emiratea-post.top
 emiratespost.fnbd.top
 emiratespost.fnbg.top
@@ -6065,6 +6066,7 @@ filokocrental.com
 filokocrental.net
 filorentkoc.net
 filsgustnonli.duckdns.org
+filsonlismrkst.duckdns.org
 filtreden-al-urunlerini.sbs
 fimmora.surf
 fin-zen-ai.com
@@ -7421,7 +7423,6 @@ haberler3242.sbs
 haberler324874.sbs
 haberler3262343.sbs
 haberler332348.shop
-haberler34063.sbs
 haberler344232.shop
 haberler34432.sbs
 haberler34652.shop
@@ -7734,7 +7735,6 @@ helpdesk-support-office-4.com
 helpdesk-support-us-ny.com
 helpdesk-support-us3.com
 helpdeskteam365.onmicrosoft.com
-helwmgsl.sbs
 helxiagent.com
 hemasnlaknsata.blogspot.com
 hemcnsa.duckdns.org
@@ -11133,7 +11133,6 @@ mao.terh5.cn
 mapid.e-wl.com
 marentio.com
 marielsorgupaneli.online
-markapalas.click
 markelasoft.com
 market-hizli-mobil-indirimler.duckdns.org
 market-plus.online
@@ -11749,8 +11748,8 @@ mobil-cep-ozel.online
 mobil-cep.online
 mobil-cepte-teb.my-homeip.de
 mobil-cepte.myonlineportal.de
+mobil-cepteb.my-homeip.de
 mobil-cepteteb.my-homeip.de
-mobil-deniz-com-esube.duckdns.org
 mobil-deniz-promosyyon-bilgi-ekranim.theworkpc.com
 mobil-deniz-promosyyon-cepte.webredirect.org
 mobil-deniz-promosyyon-ekrani.theworkpc.com
@@ -12213,6 +12212,7 @@ neurostreamlink7.lol
 neurostreamlink8.lol
 neurostreamlink9.lol
 nevadacoffee.life
+nevavm.com
 nevorohomellc.com
 nevra3523.duckdns.org
 newapi.pro
@@ -13706,6 +13706,7 @@ polihipoluhuguferese.club
 polijihiedere-refereteye.lol
 polimericana.company
 polink.cloud
+polkecnehcec.giize.com
 polnet.lol
 pom-qp.ftwestseattle.com
 pomopidi.pro
@@ -15924,7 +15925,6 @@ soqmlarklt.online
 soraki-proxy.20245aad98d27b1b1a2f0f103e1d7ee0.workers.dev
 soraki.cc
 soraki.work
-sorggirsin.cfd
 sorgu1.site
 sorgu3131.click
 sorgu3169.site
@@ -16674,7 +16674,7 @@ teenfinger.online
 tefasplatfrom.com
 tefasportfoyyonetimi.com
 tej0kygaj0g3-tad7.workers.dev
-tejjdjskssf.nicepage.io
+tek-tkla-lndirim.com
 tekbasvuru.abrdns.com
 tekcihazaktivasyonlinki.duckdns.org
 tekcihazlaraktivasyonlinki.duckdns.org
@@ -17237,7 +17237,6 @@ trustfee.club
 trvrksdnbsrudfs.store
 trvrksdnbsrudfssf.online
 trvtrkdsnrsvjsd.online
-trvtrkdsnrsvjsd.store
 trx-exchange.com
 trxid048637.haoekang.com
 tryapikredibireyselmobile.vercel.app
@@ -18231,6 +18230,7 @@ www-ayricalikcepte-tb.myonlineportal.ch
 www-ayricaliklarla-dolutb.myonlineportal.ch
 www-ayricalikli-t-on.myonlineportal.ch
 www-ayricaliktb-cepte.myonlineportal.ch
+www-ayricaliktb-dispatch-weptb.myonlineportal.ch
 www-bdgettb-exceps-ayrica.myonlineportal.ch
 www-bdgettb-looms-ayrica.myonlineportal.ch
 www-bestb-cept-ayricalik.myonlineportal.ch
@@ -18585,7 +18585,6 @@ xn--yucuslar182-yzbb.shop
 xnmqzrtvpkjldwfh.sbs
 xocapesarnas.com
 xoilacxe.co
-xq.ezpizi.click
 xra300xax39xlsjxm4.cfd
 xrcarrefrsfirsatlari.click
 xrcarrefrsfirsatlari.lat
