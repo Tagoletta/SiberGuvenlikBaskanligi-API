@@ -3567,7 +3567,6 @@ get-info-check.top
 get-kurumsal.online
 get-odeme.online
 get-servis-onay.online
-get-siparis.online
 get-sys-info.top
 get-upd-sys.top
 get.islemsepetleri-45.sbs
@@ -6381,7 +6380,6 @@ omegasicurezzas.com
 omurluksorgupaneli.click
 onassets.online
 onay-mobilden111.com
-onayda-sepet-7186.com
 onayli-alisveris-1501901.com
 onayli-alisveris-1501903.com
 onayli-alisveris-1501905.com
@@ -7236,7 +7234,6 @@ sahibinden-param-guvende.bilgi-urundetayi.online
 sahibinden-param-guvende.get-ode.online
 sahibinden-param-guvende.get-odeme.online
 sahibinden-param-guvende.get-servis-onay.online
-sahibinden-param-guvende.get-siparis.online
 sahibinden-param-guvende.guvenli-alisveris-hizmet.online
 sahibinden-param-guvende.guvenli-alisveris-tr.online
 sahibinden-param-guvende.ilan-detayi-tr.online
@@ -7288,7 +7285,6 @@ sahibinden.mobilsepet-islemler-12.sbs
 sahibinden.odeme-onay-1283.com
 sahibinden.odeme-onay-1285.com
 sahibinden.odeme-onay-1293.com
-sahibinden.onayda-sepet-7186.com
 sahibinden.online-satislari-burada.com
 sahibinden.secure-ilan.com
 sahibinden.sepet-odemeler-2211.com
@@ -7439,7 +7435,6 @@ sepetim-onayli-157426.com
 sepetimburada.xyz
 sepetimde-tr.online
 sepetimdeonline.shop
-sepetimodeme.shop
 sepetimonaycom.surf
 sepetindeonline.shop
 sepetindevar-tr.online
