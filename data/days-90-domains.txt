@@ -1431,6 +1431,7 @@ alisveris-guvende-20.sbs
 alisveris-guvende-25.sbs
 alisveris-islemsepetiniz.sbs
 alisveris-odemesepeti.com
+alisveris-sepet-detay-10.sbs
 alisveris-sepet-guvende-10.sbs
 alisveris-sepet-guvende-15.sbs
 alisveris-sepeti.online
@@ -3150,6 +3151,7 @@ ciceksepeti.store
 cilginkmpny.duckdns.org
 ciliabula.cc
 cinselsaglikhatti.org
+cirkinkral.pro
 cirrushare.co
 citi-garantibbva-bell.ph
 citi-garantibbva.ph
@@ -3481,6 +3483,7 @@ desirezone02.com
 desirezone03.com
 desirezone04.com
 desirezone05.com
+destekadres.com
 destekmerkeziniz.xyz
 desteksosyal.com
 desteksosyal.net
@@ -3832,6 +3835,7 @@ ebay-garantibbva-grab.ph
 ebebsitemizsizlere.click
 ebelgesorgu.com
 ebertsoft.com
+ebilgidosya.com
 ebilisimceza.com
 ebilisiminfaz.com
 ebilisimteblig.com
@@ -3907,6 +3911,7 @@ edwardeggcup.shop
 eetyuursdrthnb.giize.com
 efemdybungalov.com
 efendbungalow.com
+efendibungalov.uk
 efendibungalow.com
 efendibungolov.win
 efendy-bungalow.com
@@ -5676,7 +5681,6 @@ hadidmsimd.cfd
 hadivurjavexxd.duckdns.org
 hafta1o1geldi.duckdns.org
 haftalikyildiz1o1.duckdns.org
-haftanin1o1flrsatlari.com
 haftaninfirsatliurunleri.sbs
 haftaninsokfirsatlari.duckdns.org
 haftaninyildizlari1o1devamet.click
@@ -6341,6 +6345,7 @@ hizlikapimda.com
 hizlikargolama.com
 hizlionlinekredibasvurusu.loseyourip.com
 hizliotoavs.com
+hizliotokirala.com
 hizliservis-35bca7801b37.herokuapp.com
 hizlisgecisnayolsyukleyn.art
 hizlisigortam.click
@@ -7378,7 +7383,6 @@ karacashopping.homes
 karacasonline.shop
 karacasummer.shop
 karacatrhome.shop
-karacatrs.homes
 karacatrsale.shop
 karadeniz.osp.158.69.116.36.sslip.io
 karayatirim.net
@@ -8406,6 +8410,7 @@ melvionex.com
 memaiagent.cfd
 members.evsahibibasvuru.com
 mengchongbaotoys.com
+menkulcuzdanim.com
 menkulcuzdanim.online
 menkuldegerleroyak.com
 menkulkiymetlerosmanli.com
@@ -8784,6 +8789,7 @@ mobili-cepteteb.my-homeip.de
 mobilim-cepte-teb.my-homeip.de
 mobilim-cepteteb.my-homeip.de
 mobilite-pr-g.myonlineportal.ch
+mobilite.online
 mobilnoz.com
 mobilpapara.app
 mobils-bilgide.online
@@ -9202,6 +9208,7 @@ ns.mo7sen.dev
 ns1.wordcheck.info
 nsboards.com
 nsboards.net
+nscticaret.com
 ntlenelana.net
 ntllnakmakm.net
 ntlnltnltnl.net
@@ -9613,6 +9620,7 @@ osmankinaliye.giize.com
 osmanli.portfoymenkul.com
 osmanli.rw
 osmanliglobal.com
+osmanlimenkul.org
 osmanliportfoy.app
 osmanlisorgupaneli.site
 osmanlisorgupaneli.space
@@ -9711,6 +9719,7 @@ palmiiyesultan.com
 palmiyesulltan.site
 palmiyesultam.site
 palmiyesultanb.uk
+palmiyesultann.online
 palmiyesultanrezervasyon.com
 palmiyesultn.com
 palmiyesultns.com
@@ -9995,6 +10004,7 @@ portalmasak.org
 portfoymenkul.com
 portfoyum.org
 portfoyvmenkul.com
+portfoyyf.com
 porttalimhemen.lol
 powerlivings.com
 powerquizmaster.com
@@ -10308,6 +10318,7 @@ rafoskr.ccwu.cc
 rafoteb.space
 ragbetteknoloji.com
 rahatinaduskunolanlara.sbs
+ralphlaurenturkiye.me
 randbevhszlsd.online
 randbevhszlsd.store
 randeuvhziosdmbrus.store
@@ -10557,6 +10568,7 @@ ruhsuzpanelkeyfi.click
 ruhsuzpanelq.wendicraft.site
 ruhsuzpaneltekdirr.click
 ruhsuzpanelvsusom.click
+ruhsuzpanelxd.shop
 ruhsuzsistem1.click
 ruhzy.top
 rujhr1rzu84nny91cs.info
@@ -11334,6 +11346,7 @@ sizeozelflrsatlar.com
 sizeozelteklfimiz.abrdns.com
 sizin-sepetleriniz.com.tr
 sizin-siparisleriniz.com
+sizingibipanelsatmadim.click
 sizinicinburdayiz.duckdns.org
 sizinleyizzz2.sbs
 sizler.icin.hizmetler.mavibeyazskorlar.click
@@ -11927,6 +11940,7 @@ tahtuhuge-redetereye.lol
 tahuguderepoli.lol
 taikotalent.xyz
 taiyazilim.com
+takaleot.com
 takip-merkezi.vercel.app
 takipidari.org
 takipkamu.org
@@ -12578,6 +12592,7 @@ turkcell-garantibbva-ria.com.ph
 turkcellpasajmagazm.store
 turkcelpasaj.store
 turkey-post.us.cc
+turkey.gov.online
 turkeysystems.org
 turkeywish.com
 turkfinex.digital
@@ -12677,6 +12692,7 @@ tuvturkrandevumuayene.com
 tuvturkrandevun.com
 tuvturkx.com
 tuvtuvvurk.xyz
+tuwrandlvrlaral.web.app
 tuwrkontrolrandwu.netlify.app
 tuwtukr.govt.hu
 tuwwtukr.govt.hu
