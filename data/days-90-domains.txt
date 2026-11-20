@@ -3072,8 +3072,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -4640,7 +4640,6 @@ femonester.duckdns.org
 ferhatgelbanaat.duckdns.org
 fernasburs.site
 ferrari-invite.com
-feslink.net
 fethiyeturizmseyahat.com
 feww3534ft19vs324s127cd.cfd
 fexun9bik2wazr7c.sbs
@@ -5232,6 +5231,7 @@ girihub.info
 giris-islemler.teb.com.se
 giris-sekermenkul.pro
 giris-turkiye-gov-tr-translate-goog.translate.goog
+giris-ziraatmobile.com
 giris.aracla.com
 giris.mobil-teb.com
 giris.mobil-ziraat.org
@@ -5857,7 +5857,6 @@ hemen-hediye--burada.online
 hemen-hediye-burada.online
 hemen-hediyeburada.online
 hemenapaortal.lol
-hemenas-sonvlsak.net
 hemenbakiyem.lol
 hemenfirsatlarikacirmadanhizlicadavran.info
 hemenfirsatlarikacirmadanhizlicadavran.site
@@ -6501,7 +6500,6 @@ hoystlerskye.duckdns.org
 hpfonborsa.com
 hpnzskytrmmbradagln.duckdns.org
 hprferruhsa.duckdns.org
-hrryagustosgunlerindepr.duckdns.org
 hryagstsprmsyn.duckdns.org
 hs7253h33e469lh5.api64.de
 hsb.menkulcuzdan.com
@@ -7029,7 +7027,6 @@ istanbulbelrlgim.xyz
 istanbulbzmbelgim.xyz
 istanbulcacabelgin.xyz
 istanbulcanbelgim.xyz
-istanbulcanbelgimcan.xyz
 istanbulelmbelgim.xyz
 istanbulelmbelgimkart.xyz
 istanbulhovardasi.sbs
@@ -7835,7 +7832,6 @@ kredddbsvrrprmsynnkmpnya745896.pro
 kredi-basvuru-platform.net
 kredi-basvuru-platformu.net
 kredi-basvuru-sistemi.click
-kredi-basvuru-sistemi.net
 kredi-online-hizmetleri.buzz
 kredi-online-hizmetleri.online
 kredi-online-hizmetleri.site
@@ -8143,7 +8139,6 @@ ltltkamhen.net
 lucky-random.sbs
 luckytap.cc
 lulunotescompany.com
-lumagilorlo-paxere.lol
 lumenlink.top
 lumenorbit.space
 lumex2qorin9zavetukar.sbs
@@ -10085,6 +10080,7 @@ prormsynbasvr1.xyz
 prosmynnkmpnyaabsavrr.online
 protechlabcorp.opticaberl.com
 protectaeeble.info
+protectedviewer.linkpc.net
 prsmynnkmpya12391.pro
 prsmynnnbasvruurkmpygdsa58967.online
 psk1zim.abrdns.com
@@ -10252,6 +10248,7 @@ qnbfinansbank-internetsube-com-tr.ph
 qnbfinansbank-subeweb.vg
 qnbfinansbankonline.com
 qnbfinmansbank.vg
+qorvantis.cyou
 qoslink.cloud
 qpmvt.bus2Z
 qqnbilekatkat.duckdns.org
@@ -12548,7 +12545,6 @@ trmaliyekurum.org
 trmobilyapigirisonlinetr.vercel.app
 trmskelr.store
 trnovherez.wasmer.app
-trplgnlerdervdalsn.click
 trptt-gov.club
 trptt-gov.eu.cc
 trpttgov.eu.cc
@@ -13143,6 +13139,7 @@ windows-update-server-microsoft.servehttp.com
 windows-update-ws.servehttp.com
 windows-update.damnserver.com
 windows-updates-check.ddns.net
+windows22.help
 windowsupdate-microsoft-com.servehttp.com
 windowsupdates.us
 windwsecurity.run
