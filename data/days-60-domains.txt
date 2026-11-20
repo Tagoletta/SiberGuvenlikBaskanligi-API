@@ -1265,7 +1265,6 @@ aracmuayeneislem.web.app
 aracmuayeneisleminz.web.app
 aracmuayeneislemleri.web.app
 aracmuayenemtr.xyz
-aracmuayenepratik.com
 aracmuayenerandevumtr.com
 aracmuayenetuvturk.com
 aracmuayenetuvturkrandevu.com
@@ -4827,7 +4826,6 @@ istanbulbelgimbasvur.lol
 istanbulbelgimbasvur.xyz
 istanbulbelgimkartr.xyz
 istanbulbelgimkartrr.xyz
-istanbulbelgimonline.xyz
 istanbulbelimkart.xyz
 istanbulkartbasvuru.lol
 istanbulkartbasvuru.pro
@@ -5057,7 +5055,6 @@ kaplumbaga-satin-al.myshopify.com
 kaplumbaga-satinal.myshopify.com
 kaplumbagaci.com
 karacafirsat.shop
-karacasepet.shop
 karayel.live
 karcaekimgnleri.com
 karcher-tr.com
@@ -6012,7 +6009,6 @@ molidoria.com
 moliplgedereseliopa.lol
 mollquest.top
 monday-brief-claude.com
-mondzorgcentrum-amsterdam.nl
 monothreads.org
 moonhop.cc
 morgangentleman.com
@@ -7645,7 +7641,6 @@ sonfrstlar.75489snfrsltar.info
 sonfrstlarrkmpnyaabasvrr478596.info
 sonfrstlarrkmpnyaabasvrr478596.pro
 sonfrstlarrkmpnyaabsvrr147852.online
-sonfrstlarrkmpnyaabsvrr147852.pro
 sonfrstlarrrkmpnyaa96587412.click
 sonfrstlarrrkmpnyaa96587412.online
 sonfsrtlarkmpny381.info
@@ -8203,7 +8198,6 @@ toki-ev.com
 toki-form.com
 toki-gov-tr-013.vercel.app
 toki-konut-basvuru.sbs
-toki-konut.sbs
 toki-konutum.sbs
 toki-onlinepay.com
 tokiasrinprojesi.cfd
@@ -8421,7 +8415,6 @@ turkiye-tr.cfd
 turkiye-tr.icu
 turkiye-tr.sbs
 turkiye.gov.online
-turkiyebanian.com
 turkiyebankasi.live
 turkiyecep.cfd
 turkiyecumhuriyetmerkezbankasi-xyz-oq6g2.pages.dev
