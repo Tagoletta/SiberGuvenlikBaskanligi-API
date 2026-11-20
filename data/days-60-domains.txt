@@ -816,7 +816,6 @@ a101dehayatvar.duckdns.org
 a101destanleyindirimiaktif.duckdns.org
 a101ekimayistanleyfirsati.gleeze.com
 a101extra.sbs
-a101eylulfirsatlari.duckdns.org
 a101harcaharcabitttmez.xyz
 a101heyecanli.xyz
 a101hizmetayinda.duckdns.org
@@ -834,6 +833,7 @@ a101reklam.com
 a101stanleyfirsatlaraktifekimayinda.duckdns.org
 a1nsmdnsdkn.click
 a1o1alsvrs.duckdns.org
+a1o1alsvsypyrz.duckdns.org
 a1o1devamet.click
 a1o1haftanlnfrstlari.duckdns.org
 a1o1halftaninflrsatlari.duckdns.org
@@ -1428,8 +1428,6 @@ avis-online-kirala.com
 avis-otokiralama.my-homeip.com
 avisfilo-kurumsal.com
 avisfilo-rezervasyon.com
-avisfilorezervasyon.com
-avisfilorezervasyon.net
 aviskiralama365.com
 aviskocturkiye.com
 aviskurumsal.org
@@ -2409,6 +2407,7 @@ dev.soft-png-cdn.com
 devafilo.com
 devamet1o1.click
 development.diyanetisleribakanligi.vercel.app
+devlet.lovestoblog.com
 devvcepptesokkfirrsaatttlarii.online
 dewaltturkiye.com
 dezadove.com
@@ -2915,6 +2914,7 @@ euyaphazine.com
 euyaptr.com
 euzlasmabdk.com
 euzlasmahukuk.com
+euzlasmatr.com
 ev-basvuru-toplu.com
 evbasvuryeni.com
 evdebasvurusistemi.abrdns.com
@@ -3749,6 +3749,7 @@ guvendesistemnet.store
 guvendeticaretnet.store
 guvenilir-checker.online
 guvenilirhizmetler.com
+guvenle-ode.sbs
 guvenli-alisveris-hizmet.online
 guvenli-alisveris-tr.online
 guvenli-basvuru.online
@@ -6056,6 +6057,7 @@ msws-updates.ddns.me
 msxf.info
 msxfweb.net
 muayene.randsjvjad.store
+muayene.rndhvskjdkzsns.store
 muayene.taprnsdhvsdlsc.store
 muayne-payonline.com
 mucilaginoeeus.info
@@ -6889,6 +6891,7 @@ randevuntuvturkorg.duckdns.org
 randevunuzburda.com
 randevutuvturkorg.duckdns.org
 randevuvaktii.com
+randnevunvi.com
 random.royalifield.app
 randoomom.duckdns.org
 randumanduman.co
@@ -7147,6 +7150,7 @@ sahibinden-get.alisverislersepet-20.sbs
 sahibinden-get.alisverislersepet-30.sbs
 sahibinden-get.e-servisler10.sbs
 sahibinden-get.guvenle-ode.sbs
+sahibinden-get.guvenliodeme-61.sbs
 sahibinden-get.guvenliodeme-62.sbs
 sahibinden-get.hementeslimatlar.com
 sahibinden-get.ileservishzmetleri.sbs
@@ -8225,6 +8229,7 @@ tokibasvurusubaslamistir.urlbee.icu
 tokibasvuruyap332.cfd
 tokibasvuruyap332.monster
 tokibasvuruyapmerkezi3.lol
+tokibloklari.vercelfastcdn.com
 tokievbasvursu.xyz
 tokievlerbizim.com
 tokimntokimm-knt-projem.com
