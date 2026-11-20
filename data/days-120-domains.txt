@@ -1611,7 +1611,6 @@ aidatiademerkezi.my-homeip.de
 aidatiadeonline.my-homeip.de
 aidatmerkezislem.my-homeip.de
 aidatsorgulama0081.org
-ailebilgisi.com
 ailegelecegi.co
 ailemgov.biz
 ailemtr.biz
@@ -2222,6 +2221,7 @@ aradiginburadavar.sbs
 aradigindanbilefazlasi.xyz
 aradiginherseyibirarada.sbs
 aradiklarinesyalarburada.sbs
+arafandana.5765436434456.sbs
 arafandana.89458645615.sbs
 araksdatoaslvanb.online
 aralikayiifrisatlariii.kmnpyfrstlarrbsvr139154.online
@@ -3127,6 +3127,7 @@ bireysel-ziraatli-kampanya.my-homeip.net
 bireysel-zirai-tarim.my-homeip.de
 bireysel.ziraat.a-cn.com
 bireyselcep-mobilde.online
+bireyselekranlarformlar.duckdns.org
 bireyselonlineservisler.com
 bireyselsiparis.com
 bireyselsiparisin.online
@@ -3287,6 +3288,7 @@ bonusbasvurusayfasi1256705.sbs
 bonusbasvurusayfasi12r345325.sbs
 bonusbasvurusayfasi223414.sbs
 bonusbasvurusayfasi2342355.sbs
+bonusbasvurusayfasi236704.sbs
 bonusbasvurusayfasi3123125.sbs
 bonusbasvurusayfasi3233.sbs
 bonusbasvurusayfasi3254325.sbs
@@ -3853,7 +3855,6 @@ ceptemobilim.my-homeip.de
 cepten-ayricaliklar.my-homeip.de
 cepten-mobile-basvur.myonlineportal.de
 ceptenmobilkredi.my-homeip.de
-ceptep-basvurularonline.myonlineportal.de
 ceptes0k-indir1m.gt.tc
 ceptes0k.site.je
 ceptesokfirsatlarim.com
@@ -3925,8 +3926,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -4077,7 +4078,6 @@ climberbycuno.live
 clioobanby.duckdns.org
 cliosnurpl.live
 clkkkprmsynkrdibsvrrr.pro
-cloackajdvskkx131x231z2312.cfd
 clockaskdjjkx1k32x4314.cfd
 clonatiempo.com
 clothes.life-collective.top
@@ -6051,6 +6051,7 @@ filescenter.cloud
 filesdwnl.top
 filesdwnld.top
 filesdwnload.top
+filesmrks.duckdns.org
 filessubesi.giize.com
 fileswiftonline.cloud
 filevelvettractor.sbs
@@ -6249,7 +6250,6 @@ formsayfasi.netlify.app
 forpeople.space
 forpickerpuck.org
 forti.access.ly
-fortivpn.com.tr
 fortunstan.com
 forum2.evsahibibasvuru.com
 forv.ink
@@ -11776,6 +11776,7 @@ mobil-sepet-shop.online
 mobil-sepet-tr.online
 mobil-simdi.com
 mobil-sube.teb.com.se
+mobil-teb-gir.my-homeip.de
 mobil-teb-onay.my-homeip.de
 mobil-tepden-basvur.myonlineportal.de
 mobil-tradresi.live
@@ -14142,7 +14143,6 @@ rafa14dcsjkadjkskjx123x12312.cfd
 rafa15acdsjkjcakxk12k3x123123c12.cfd
 rafa1cadcjksakx13x12x3123x.cfd
 rafa1cjadskjk12k3x123v123.shop
-rafa1ckasdljcakx123x12.cfd
 rafa2casdkkj13x123.cfd
 rafa2lcdsajcjksakjx123x12.cfd
 rafa2vasdkasckl123jkx123.cfd
@@ -14653,6 +14653,7 @@ sahib-in-den-para-mguv-ende-get-ilan.shop
 sahib.inden-get.com
 sahibinden-get-paramguvende-ode.gt.tc
 sahibinden-get.alisveris-guvende-10.sbs
+sahibinden-get.alisveris-sepet-guvende-20.sbs
 sahibinden-get.alisverisepet-islem-10.sbs
 sahibinden-get.alisverisepetin-12.sbs
 sahibinden-get.alisverisepetin-14.sbs
@@ -15484,7 +15485,6 @@ shop-tr-ozel.online
 shop.evsahibibasvuru.com
 shopextra.online
 shopier.guvenli-hizmet.online
-shopier.webislemlerimiz.com
 shopinger-tr.online
 shopmax-tr.online
 shopmobil.online
@@ -15896,6 +15896,7 @@ sonnnfrstlarrrkmpnyaaabasvr741258.online
 sonnnfrstlarrrkmpnyaakredii.info
 sonnnfrstlarrrkmpnyaakredii.pro
 sonnnfrtsltarrrrprmsynnkmpnya.pro
+sonnnftsltarkmpy12543.online
 sonnngnllrrmzartkk.duckdns.org
 sonnnnkmpnyaalrrremekliirpsmynnn.info
 sonnnnkmpnyaalrrremekliirpsmynnn.live
@@ -16441,7 +16442,6 @@ taphzmrl.shop
 taphzmts.shop
 taplrksd.web.app
 taprsdbursdksr.com
-tapu-randevum-e-devlet.vercel.app
 tapu-randevumsu-tkgm-e-devlet.vercel.app
 tapu.ink
 tapu.lat
@@ -16980,7 +16980,6 @@ tony.scriptdemo.top
 toolbox.ddns.net
 tools-masak-ai-sri26.pages.dev
 toonie-bot.com
-tooourhow.shop
 toplu-konut.com
 toplu-konut.gravitycl.app
 toplubloklar.vercelserver.com
@@ -17089,7 +17088,6 @@ traderpaparainvest.com
 tradingideasai.com
 tradingideasfromai.com
 tradli.net
-tradli.org
 tradliye.com
 tradliye.org
 traffic-analyzer.net
@@ -17342,7 +17340,6 @@ turkiye.gov.online
 turkiyeaidatiade.duckdns.org
 turkiyebanian.com
 turkiyebankasi.live
-turkiyebilgi.cc
 turkiyecep.cfd
 turkiyecumhuriyetisiberguvenlikvesavunma.org
 turkiyecumhuriyetmerkezbankasi-xyz-oq6g2.pages.dev
@@ -17962,7 +17959,6 @@ vzz4777.site
 w122411-64886.portmap.host
 w17907.com
 w2-binance.com
-w2m7r9t3n5x6.click
 w4iunvbdvjof39q-3.net
 w4xen7qor2zuma9kirev3ta.sbs
 w83lfokwwmqoyo0r.info
@@ -18954,7 +18950,6 @@ yzhrope.com
 z0iraat.cfd
 z102.site
 z1ffssa.cfd
-z1p7k4m9v6x3.lol
 z1raatb4nkasi.duckdns.org
 z1ttrhf.cfd
 z2ratll.cfd
@@ -19080,7 +19075,6 @@ ziraatssbank.xyz
 ziraattarimsa.cfd
 ziraattli.sbs
 ziraatyatirimborsahesabi.pro
-ziraatyenilenensubemiz.com.ph
 zirailillf.cfd
 ziraitarimfs.cfd
 ziralmobilislemlerl.duckdns.org
