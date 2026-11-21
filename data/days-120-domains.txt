@@ -2471,7 +2471,6 @@ assetqcnetflixstudios.com
 assignpasskey.com
 assis-programupdate.top
 associa.associazionecodis.com
-ast.ols-img-12.workers.dev
 asterisk.evsahibibasvuru.com
 asteronllc.com
 astorialaza.com
@@ -3945,8 +3944,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -13806,7 +13805,6 @@ prependinganalysis.site
 preplexity.ai
 preprod.diyanetisleribakanligi.vercel.app
 pressbeam.vu
-presscraftly.net
 presslifyra.com
 pressureulcerlawyer.com
 presswavxo.org
