@@ -638,7 +638,6 @@ avis-otokiralama.my-homeip.com
 avisfilo-kurumsal.com
 avisfilo-rezervasyon.com
 aviskurumsal.org
-avismuhasebe.com
 avisotokocturkey.com
 Avisotokocturkiye.com
 avisrezervasyonbirimi.com
@@ -1365,7 +1364,6 @@ egibavukat.com
 egibhazine.com
 egibhazine.net
 egm.govern.my.id
-egmgovre.biz.id
 egmgovren.my.id
 egmgovrenm.biz.id
 egmgovrenm.web.id
@@ -1697,7 +1695,6 @@ garanti-butce-yonetimi.click
 garanti-finans-merkezim.cloud
 garanti-finans-platformu.cloud
 garanti-finans-portali.click
-garanti-finans-portali.lol
 garanti-giris.online
 garanti-nakit-hizmeti.click
 garanti-odeme-portali.cloud
@@ -2132,7 +2129,6 @@ hsb.menkulvcuzdan.com
 hsb.menkulvcuzdanim.com
 hsbcbank-finance.com
 hsdomynl.xyz
-hsfdgsdg.art
 hsswkllufw9yeeh.udp64.de
 huehnchenfarm.ru
 hurriyet.finance
@@ -2523,7 +2519,6 @@ ked2l10tklevhcukbe.live
 kedicik.org
 keensalmon.com
 kemalradio.com
-kendineiyibak3r.xyz
 kessler-m88.workers.dev
 kfkwrfdd.xyz
 kgm.ukyaj.cc
@@ -2645,7 +2640,6 @@ kurtoclar.com
 kurummahkeme.org
 kurumsalfilom.com
 kuveytturkdestek.com
-kuzeyfinansyatirim.com
 kvadisipsu.click
 kyywl.com
 kzeytrade.com
@@ -2980,7 +2974,6 @@ mucize.bizler.sonhizmet.fdsasasdkasd.click
 mucize.bizler.sonhizmet.usafjasdkasd.click
 mudonano.com
 musurirorul.online
-mutfakaletleri.lat
 muzedekultur.com
 muzekapilarim.com
 mvnrepo.net
@@ -3131,7 +3124,6 @@ online-bilgisi.online
 online-cepteteb.myonlineportal.de
 online-ceptetebde.my-homeip.de
 online-sozlesme.r-onayllservishizmeti.com
-online-trend.online
 online.dokamacto.xyz
 online.teb.com.se
 onlinealisveris.live
@@ -3345,6 +3337,7 @@ ptt.avmalisveris.com
 ptt.avmonlinesiparisim.com
 ptt.avmsiparisolustur.com
 ptt.guvenle-ode.sbs
+ptt.mobilguvenle.sbs
 pttavm.com.siparis-olustur.com
 pttavm.guvenlisite.online
 pttavm.ilan-sepetlerimiz-buradan.com
@@ -3972,7 +3965,6 @@ tahtuhuge-redetereye.lol
 taikotalent.xyz
 taiyazilim.com
 takaleot.com
-takipidari.org
 takipkamu.org
 takipmali.org
 takipsorgu.org
@@ -4493,7 +4485,6 @@ ww38.k3rdxp0igzguybu6ua1.com
 wwasdhashdu88sadasd.click
 wwptt-express.m-o-bau-sonnenschutztechnik.de
 www-ac-tb-cpte.myonlineportal.ch
-www-acepte-tb-ayricalik.myonlineportal.ch
 www-actry-tbde-cpt.myonlineportal.ch
 www-actuel-time-tbcpte.myonlineportal.ch
 www-ai-tb-cepteayricalik.myonlineportal.ch
@@ -4710,7 +4701,6 @@ yukitr.com
 yummycello.com
 yungalamrtii.duckdns.org
 yunusikalame.giize.com
-yunusikalay.duckdns.org
 yuuzuyuzbr.click
 yuzbirindirimss.duckdns.org
 ywapilsewekasd.click
@@ -4768,4 +4758,3 @@ zxnvhvxz-vdskdsgpeq-asxzvas.sbs
 zz.aiapi2025.top
 zz30147.site
 zz771718.site
-zza7888.site
