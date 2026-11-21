@@ -2679,7 +2679,6 @@ egirisgib.com
 egirisgov.com
 egirisportal.com
 egm.govern.my.id
-egmbilisim.com
 egmgovem.web.id
 egmgovemn.my.id
 egmgovern.shop
@@ -3760,7 +3759,6 @@ guvenotoydkpr.netlify.app
 guvercinseverlergrubu.com
 guzel-certificateidcheck472984-servis.foxis.it
 guzel-servis-checkerid2985205.geobi.eu
-guzelkizlarllal.duckdns.org
 gvncmdjslas.shop
 gvndyc.shop
 gvnfkvnmcjk34903.shop
@@ -4565,7 +4563,6 @@ ilan-detay102.com
 ilan-detay106.com
 ilan-get-onayi.online
 ilan-getonayi.online
-ilan-islem.online
 ilan-islemi.online
 ilan-mobilder.com
 ilan-odemen-tr.online
@@ -5596,7 +5593,6 @@ m-rndbnd.cfd
 m-rndsglkrhber.cfd
 m-rndvual.com
 m-sahibinden.lovestoblog.com
-m-sahihinden.com.tr
 m-sglikrhber.cfd
 m-sglkrndrhber.cfd
 m.catcoinglobal.top
@@ -7304,8 +7300,6 @@ sahibindensigorta.quest
 sahibirdenguvnde.com
 sahiblndendestek.com
 sahibnden-paramguvende-tr.siparis-onayi.shop
-sahihinden.com.tr
-sahihindeni.com.tr
 sahinden-param-guvende.siparis-onayi.online
 sahtedom9999.duckdns.org
 sakreatif.online
@@ -8790,7 +8784,6 @@ web-tr-islemlerin-getalisveris.online
 webapp.webstatici-whatsapp.com
 webdijital-basvurular.sbs
 webdijital-internetsube.sbs
-webdijital-kampanyalar.click
 webdijital-simdikampanya.sbs
 webdisk.101-de-indirimler-bugune-ozel-firsatlar.duckdns.org
 webdisk.101-mobil-bugune-ozel-indirimler-tr-cep.duckdns.org

@@ -11378,7 +11378,6 @@ merkeziislemler.my-homeip.de
 merkezinkayit.abrdns.com
 merkeziyetsizbasvuru.com
 merkeziyetsizkayit.abrdns.com
-merkezlekayit.abrdns.com
 merkezlerkayit.abrdns.com
 merkezlisistem.com
 merkezlisistemim.art
@@ -15004,7 +15003,6 @@ sahibindenpay.shop
 sahibindenpay.store
 sahibindensatici.com
 sahibindensatici.live
-sahibindensaticionay.com
 sahibindensatis.live
 sahibindensatis.org
 sahibindensatis.xyz
@@ -16267,7 +16265,6 @@ store-plus.online
 storego-tr.online
 storex-tr.online
 storyquestnu.com
-stparaguvende.servisbilgi-tr.online
 stpatlakbrdacalsm.duckdns.org
 strategiefeim.online
 streamyard.appstore.com.mx
@@ -16449,7 +16446,6 @@ t2154bb2122.duckdns.org
 t2265newdne.com
 t748383.click
 t7q4x1n8v3.lol
-t90141296286.p.clickup-attachments.com
 t9ffxu6zhf915fadjv1.app
 t9xuv2mqi7zora4kel8nav5.sbs
 tabaeq.mom
@@ -16988,7 +16984,6 @@ togg.top
 togg.website
 togg.wiki
 togg.zuzzuu.com
-toggarac.com
 toggbasvuru.com
 toggfinans.com
 toggfinans.online
