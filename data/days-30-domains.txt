@@ -455,7 +455,6 @@ alisverisfirsati.com
 alisverisfirsatlari.com
 alisverisinsepet-20.sbs
 alisverislersepet-10.sbs
-alisverislersepet-20.sbs
 alisverisonlinex.duckdns.org
 alisverslersepet-1.sbs
 alivenow.tv
@@ -646,6 +645,7 @@ avismuhasebe.com
 avisotokocturkey.com
 Avisotokocturkiye.com
 avisrezervasyonbirimi.com
+avisskiralama.com
 avmalisveris.com
 avmsiparisolustur.com
 avsaraba.com
@@ -706,7 +706,6 @@ basvurrrkmpnyaaprsmyn3291.info
 basvurrrkmpnyaaprsmyn3291.pro
 basvurrrkmpnyaaprsmynn12371237.online
 basvuru-sayfasi.duckdns.org
-basvuruevler.com
 basvuruformev.com
 basvuruilkevimform.com
 basvurularbasladitoki.cloud
@@ -1415,7 +1414,6 @@ emaliportal.com
 emalitalimat.com
 emaliuzlasma.com
 emaliyebilgi.com
-emaliyecbs.com
 emaliyedava.com
 emaliyedosya.com
 emaliyegovtr.com
@@ -1873,7 +1871,6 @@ gov.online
 gozderestaurant.sbs
 gp.bit728.eu.cc
 grantibbva-turkey.com
-gratis.ianmaffett.com
 gratis.poloniacruz.com
 gratis.ruffson.com
 gratis.stevenhickson.com
@@ -3476,7 +3473,6 @@ rndvuhzlmisnce.cfd
 rndvuilesglklamh.cfd
 rndvusglka.cfd
 robot.avbliud.com
-robotsafell.lol
 rodecaster.net
 rodgttenskm.cfd
 rolling-arabic-words-crossing.trycloudflare.com
@@ -4388,6 +4384,7 @@ vakifbankonlinedestek.com
 vakifkatilimcepsube.com
 vakko.hesapkapama.com
 vakkof1.vercel.app
+valenoraxs.com
 validator.dokamacto.xyz
 valmira.cyou
 valnikat.com
