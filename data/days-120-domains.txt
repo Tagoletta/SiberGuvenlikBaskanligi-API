@@ -1296,7 +1296,6 @@ a-yonlendir.ink
 a01.ai-poolion.cc
 a1-82rvdnalbrdan.org
 a10001firstlari.giize.com
-a100111aa101110202.duckdns.org
 a101-aktuel.netlify.app
 a101-firsatlariniz-artik-burada.duckdns.org
 a101-firsatlariniza-gelin.duckdns.org
@@ -1304,6 +1303,7 @@ a101-girisfacebook.click
 a101-karacumaindirim.xyz
 a101-sanalmarket.duckdns.org
 a101.alisveris-sepet-guvende-15.sbs
+a101.alisveris-sepeti-guvende-20.sbs
 a101.alisveris-sepetinde-10.sbs
 a101.dijitalbayim.com
 a101.dpdns.org
@@ -1667,7 +1667,6 @@ akbank-tr.pro
 akbank-trkiye.top
 akbank.com.ph
 akbank.online
-akbankbireysel-sube.ph
 akbankdirect.online
 akbankdirectonlineislemler.ph
 akbankdiretk.ph
@@ -1802,6 +1801,7 @@ alisveris-odemesepeti.com
 alisveris-sepet-detay-10.sbs
 alisveris-sepet-guvende-10.sbs
 alisveris-sepet-guvende-15.sbs
+alisveris-sepeti-guvende-20.sbs
 alisveris-sepeti.online
 alisveris-sepetimiz.com
 alisveris-sepetinde-10.sbs
@@ -2212,6 +2212,7 @@ aracmuayenemtr.xyz
 aracmuayenenburda.blogspot.com
 aracmuayenepratik.com
 aracmuayenerandevu.com
+aracmuayenerandevu.name
 aracmuayenerandevumtr.com
 aracmuayenetabiki.blogspot.com
 aracmuayenetuvturk.com
@@ -2528,7 +2529,6 @@ auukk.com
 av-r-tg.myonlineportal.ch
 av.evsahibibasvuru.com
 availcouncil.xyz
-avansy-web.ink
 avantaj-gunu.top
 avantaj-tr.online
 avantajduragi.cyou
@@ -3065,7 +3065,6 @@ bilgial.site
 bilgicep-tr.online
 bilgihub.info
 bilgikamu.org
-bilgikayit.abrdns.com
 bilgikurum.net
 bilgikurum.org
 bilgilendir-sepet.online
@@ -3545,7 +3544,6 @@ busykifukek2-8psk.workers.dev
 butuncizgileronunmasasinda.cfd
 butunumutlarimibendenaldin.sbs
 buy-tr.online
-buyazapp1-43a83c3c83a4.herokuapp.com
 buyazbiziz.xyz
 buydealexpress.com
 buysoftinstaller.com
@@ -3578,7 +3576,6 @@ bylotatawod.com
 bytezi.xyz
 byveo.org
 byyrdrmdmdnsnttt.com
-c-8796086020260726-019d4d23-f9e1-7d22-bcd6-535b8233ac63.codepen.dev
 c-e-p-t-e-t-e-b-ayricalikli-firsatlar.my-homeip.de
 c-e-p-t-e-t-e-b.my-homeip.de
 c-e-p-t-e-teb.my-homeip.de
@@ -3947,8 +3944,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -3960,6 +3957,7 @@ cezamaliyesorgu.org
 cezamasak.org
 cezamerkezi.org
 cezasesorgu.net
+cezasorgulama.blogspot.com
 cezasorgumaliye.com
 cezasorguyap.com
 cezatakip.net
@@ -5144,6 +5142,7 @@ efscmdnzbn.ice.mom
 efsgarantisker.ice.fo
 efskwqhalx.ice.fo
 efsnefrstgnlri.duckdns.org
+egibavukat.com
 egibhazine.com
 egibhazine.net
 egibinfaz.com
@@ -6560,7 +6559,6 @@ garantibbvahepsiburada.com.ph
 garantibbvakasikornbank.ph
 garantibbvakoreanair.com.ph
 garantibbvakredibasvuru.online
-garantibbvakredibasvurusu.info
 garantibbvanorusderma.ph
 garantibbvaria.com.ph
 garantibbvatitles.com.ph
@@ -6847,6 +6845,7 @@ giris.aracla.com
 giris.mobil-teb.com
 giris.mobil-ziraat.org
 giris.portal-disisleri.org
+girisdy.com
 girisdyb.com
 girisicbc.com
 girisimdb.com
@@ -8793,6 +8792,7 @@ ilan-hizmetin.online
 ilan-ikinciel.com
 ilan-islem.online
 ilan-islemi.online
+ilan-mobil.com
 ilan-mobilder.com
 ilan-odemen-tr.online
 ilan-odemen.online
@@ -11525,9 +11525,7 @@ mhrs-e-devlet.vercel.app
 mhrs-edevletgiris.sbs
 mhrs-gecelrburas.sbs
 mhrs-giris-islem-link.vercel.app
-mhrs-giris.blog
 mhrs-giris.online
-mhrs-hastane.digital
 mhrs-islem-asads.vercel.app
 mhrs-islemyap.vercel.app
 mhrs-onlinerndvu.sbs
@@ -11593,7 +11591,6 @@ mhrsrandevutr.net
 mhrsrandevutronline.com
 mhrsrandevuu.xyz
 mhrsrandevxs.ink
-mhrsrarandvlrmbrda.sbs
 mhrsrarandvzhmzrsbrda.sbs
 mhrsrarandvzlrmmhrsbrda.sbs
 mhrsrendavuals.space
@@ -13998,7 +13995,6 @@ pttavmdetaykontrol.firebaseapp.com
 pttavmdetaykontrol.web.app
 pttavmhgs.click
 pttavmhgs.cloud
-pttavmhgsbakiyedoldur.web.app
 pttavmhgsyukle.click
 pttavmhgsyukle.cloud
 pttavmhgsyukle.club
@@ -14593,7 +14589,6 @@ s-paramguvende.bilgi-urundetayi.online
 s-paramguvende.islembilgitr.online
 s-paramguvende.islemonaylatr.online
 s-paramguvende.onaybilgi.online
-s-paramguvende.servisbilgi-tr.online
 s-paramguvende.urunhizmetleri.online
 s-sozlesmen.alisverslersepet-1.sbs
 s-sozlesmen.e-islem-hizmet.com
@@ -14971,7 +14966,6 @@ sahibinden.servisepetin-30.sbs
 sahibinden.servisinguvenli-58.sbs
 sahibinden.servislermobil-12.sbs
 sahibinden.siparishizliver.com
-sahibinden.siparisver-hemen.com
 sahibinden.siparisverhemen.com
 sahibinden.sizin-sepetiniz.com.tr
 sahibinden.sizin-sepetinizde.com.tr
@@ -15266,7 +15260,6 @@ sensemeks.duckdns.org
 sensemeksa.duckdns.org
 sensizolmazsensizolmaz.com
 sepet-bilgilendirmesi.online
-sepet-mobil-tr.online
 sepet-net.online
 sepet-odemeler-2211.com
 sepet-odemeler-2212.com
@@ -15292,6 +15285,7 @@ sepetimonline724.duckdns.org
 sepetindeonline.shop
 sepetindevar-tr.online
 sepetinizde.com.tr
+sepetlikmagaza.duckdns.org
 sepetteal.online
 sepettefirsat.sbs
 sepettefrstkacmaz.duckdns.org
@@ -16005,6 +15999,7 @@ sorgulagec.online
 sorgulagec.site
 sorgulama-tr.online
 sorgulamasisteminde.xyz
+sorgulamatrafik.blogspot.com
 sorgumalitr.org
 sorgunbosphours.com
 sorgupanel.fit
@@ -17122,6 +17117,7 @@ tr-ptt-gov1.us.cc
 tr-sahibinden.com.tr
 tr-sepettex.online
 tr-servis-onay.online
+tr-servis-onayi.online
 tr-siparis-ilan.online
 tr-siparis-onayi.online
 tr-siparisgets.online
@@ -17135,6 +17131,7 @@ tr-urun-detayi.online
 tr-web-alisveris-get-islemler.online
 tr-web-alisveris.online
 tr-web-islemler-get-alisveris.online
+tr-web-islemler-tr-getalisveris.online
 tr-webalisveris-tr-getislemler.online
 tr-webalisverisler-tr-getalisveris.online
 tr-webalisverisler-tr-getislemler.online
@@ -17785,7 +17782,6 @@ vakko.hesapkapama.com
 vakkof1.vercel.app
 vala.e-wl.com
 valenspara-elemond.it.com
-valenspara-elre.it.com
 valenspara-fejoo.it.com
 validationsetupac.com
 validator.dokamacto.xyz
@@ -17880,7 +17876,6 @@ verification-page.xyz
 verification-salesforce.com
 verification-security.com
 verifsec-update.top
-verify-akbank.testyourphishing.com
 verifyaccount-google.com
 verityluxenova.com
 verryadsfree.lat
@@ -18996,6 +18991,7 @@ yukifabrikasatisi.com
 yukimora.live
 yukimotorluaraclar.com
 yukionlinesatis.com
+yukitr.com
 yukleme-gecisdetay.lol
 yuklemeneniziyapin.duckdns.org
 yuklmenkthgs.cfd
