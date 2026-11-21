@@ -544,7 +544,6 @@ arac360-srglrklmtr.web.app
 arac360.cfd
 aracetketbakyuklmye.web.app
 aracim360-etiketbakiyldolum.web.app
-aracim360-gecis-hizli-bakyler.web.app
 aracim360-gecslerbkyelfykle.web.app
 aracim360-portal.online
 aracim360.vercel.app
@@ -559,7 +558,6 @@ aracmuayenerandevu.name
 aracmuayenerandevumtr.com
 aracmuayenetuvturk.com
 aracmuayenetvtrk.com
-aracmuayentuvturk.com
 aracmuaynehzmteniz.web.app
 aracmuaynerandvsu.web.app
 aracmuaynrndvu.web.app
@@ -646,6 +644,7 @@ avmalisveris.com
 avmsiparisolustur.com
 avsaraba.com
 avsaracinfilo.com
+avsaracingelsin.com
 avsaracinkurumsal.com
 avsfilokiralama.online
 avsfilomkirala.com
@@ -1331,7 +1330,6 @@ ecrincicek.com
 edavahukuk.com
 edevlet.netlify.app
 edevlet.tcvatandas.org
-edevlet.vatandasgiris.org
 edevletplatformu.org
 edevletplatformu.sbs
 edevletuyap.com
@@ -1853,6 +1851,7 @@ gordugunherseyihemenal.xyz
 gorllhvleeglyronyyvr.buzz
 goshensorg.securemailencryptit.com
 gotoaf.xyz
+gov-tr-traficfine.pdl-wespenverdelging.be
 gov.online
 gozderestaurant.sbs
 gp.bit728.eu.cc
@@ -1902,7 +1901,6 @@ gvndyc.shop
 gvnfkvnmcjk34903.shop
 gyi9coh788uuk17a75lw109.org
 gyzhu.com
-h-hzlirnv.cfd
 h-saglkrhb.cfd
 h23lh8236l9h5ll3.opik.net
 h2l562hllh93833s.flashhub.net
@@ -2003,7 +2001,6 @@ healthy39.co
 healthy39.com
 hegwgsaagl.giize.com
 hejsakf.duckdns.org
-helinbinergiler.duckdns.org
 hellimice.giize.com
 helpdesk-call.com
 helpdesk-s1x.com
@@ -2072,7 +2069,6 @@ hizligecisdolumunuz.web.app
 hizligecisportalin.web.app
 hizligecisrehberi.web.app
 hizligecisyuklemniz.web.app
-hizliislem.net
 hizliotoavs.com
 hizliotokirala.com
 hizliservis-35bca7801b37.herokuapp.com
@@ -2634,7 +2630,6 @@ kugogogosahdahs99sad.lol
 kugosahdhashd9sdas9sw.click
 kukluhguhuderesede.lol
 kuluhrrre-rederete.lol
-kunumalima.duckdns.org
 kuripestay.net
 kurtoclar.com
 kurummahkeme.org
@@ -3355,7 +3350,6 @@ pttavm.online-satislari-burada.com
 pttavm.sepete-ekle.com
 pttavm.siparis-olustur.com
 pttavm.siparisini-olustur.com
-pttavm.sizin-sepetinizde.com.tr
 pttavm.sorunsuzsiparis.online
 pttavmhgsyukle.club
 pttavmkmsorgulamamiz.com
@@ -3399,6 +3393,7 @@ qyhgf.com
 qzervanthryxellor.cyou
 r-rhberndv.cfd
 r99052.site
+rabygile.online
 racks-reference-tournament-transmit.trycloudflare.com
 rad2016.publicvm.com
 radarpublico.live
@@ -3420,6 +3415,7 @@ rdtalents.xyz
 recipecookingapp.com
 recipeinstaller.com
 reciperoverapp.com
+red-tr.villadeliny.com
 refdyb.com
 referansin-foyatirim.com
 referansinfoyatirim.com
@@ -4128,6 +4124,7 @@ toggresmitr.com
 toggrezerv.com
 toggrezervasyon.com
 toggtrumore.autos
+toggtrumore.com
 toki-gov-tr-013.vercel.app
 tokiasrinprojesi.cfd
 tokibasvrulariii.ph
@@ -4489,7 +4486,6 @@ www-actry-tbde-cpt.myonlineportal.ch
 www-actuel-time-tbcpte.myonlineportal.ch
 www-ai-tb-cepteayricalik.myonlineportal.ch
 www-al-tbdecpte-extend.myonlineportal.ch
-www-alcpt-end-cepte.myonlineportal.ch
 www-aldisplay-cpte-webtb.myonlineportal.ch
 www-alrightb-cepte-ayrica.myonlineportal.ch
 www-amoutb-spent-cepte.myonlineportal.ch

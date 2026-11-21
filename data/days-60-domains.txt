@@ -277,7 +277,6 @@
 1220294899922.bounceme.net
 122048882008288.bounceme.net
 122048882008329.bounceme.net
-12212111455447885588952225590.duckdns.org
 12212111455447885588952225591.duckdns.org
 1222222222994949388.webredirect.org
 1222233122455666512255990.xyz
@@ -1423,6 +1422,7 @@ avndsalpokjbv.duckdns.org
 avs-rentacars.com
 avsaraba.com
 avsaracinfilo.com
+avsaracingelsin.com
 avsaracinkurumsal.com
 avsarackirala.com
 Avsbayisi.com
@@ -3664,12 +3664,12 @@ goshensorg.securemailencryptit.com
 goshshare.online
 gota.unaux.com
 gotoaf.xyz
+gov-tr-traficfine.pdl-wespenverdelging.be
 gov-tr.cam
 gov-tr.cfd
 gov-tr.sbs
 gov.online
 gov.zapto.org
-govegm.my.id
 gozderestaurant.sbs
 gozlerinbaskabaska.sbs
 gp.bit728.eu.cc
@@ -6767,7 +6767,6 @@ pttavmkmsorgulamamiz.com
 pttavmkmsormakweb.firebaseapp.com
 pttavmsepet.com
 pttavn-hizl-kolay-ykle.web.app
-pttavn-hizlica-islem-ykle.web.app
 pttavn-onlinebakiyehallet.web.app
 pttavn-pratikbakiyeode.web.app
 pttawmshgs.com
@@ -6843,6 +6842,7 @@ r-rhberndv.cfd
 r-rndvakti.com
 r2mazan-oze1-firs2tl2r-aabb11.cfd
 r99052.site
+rabygile.online
 racks-reference-tournament-transmit.trycloudflare.com
 rad2016.publicvm.com
 radarpublico.live
@@ -6895,6 +6895,7 @@ rdwv03.cc
 recipecookingapp.com
 recipeinstaller.com
 reciperoverapp.com
+red-tr.villadeliny.com
 refdyb.com
 referansdunyamportfoy.com
 referansicbc.com
@@ -7250,8 +7251,6 @@ sahibinden.odeme-onay-1285.com
 sahibinden.odeme-onay-1293.com
 sahibinden.online-satislari-burada.com
 sahibinden.secure-ilan.com
-sahibinden.sepet-odemeler-2216.com
-sahibinden.sepet-odemeler-2217.com
 sahibinden.sepetim-onayli-147426.com
 sahibinden.sepetimdeonline.shop
 sahibinden.sepetinizde.com.tr
@@ -8193,6 +8192,7 @@ toggresmitr.com
 toggrezerv.com
 toggrezervasyon.com
 toggtrumore.autos
+toggtrumore.com
 toki-2026-basvuru.sbs
 toki-basvurular.com
 toki-ev.com
@@ -8313,7 +8313,6 @@ trendly-shops.online
 trendlysepet.online
 trendoldumdestek.workers.dev
 trendy0l1.homes
-trendy0l1.sbs
 trendyapp.top
 trendyl-mobil-tr.online
 trendymartshop.shop
@@ -8376,7 +8375,6 @@ ttes.szfeisi.com
 ttiyigunleriyiseneler.site
 tttnnyrsrtyllknklll.com
 tttt22222.duckdns.org
-tttuvturkhizlirandvu.web.app
 tttuwtukr.govt.hu
 tubitakdergileri.info
 tubitakdergileri.site
@@ -8435,7 +8433,6 @@ turkticaret-servis-idcheck8820137.diars.it
 turna-tr.com
 turvearacbakim.site
 tutyrncjcn.shop
-tuuwttukr.govt.hu
 tuv-trkhizmetiniz.duckdns.org
 tuvaracmuaynelerimizinyeri.com.ph
 tuvastuvastuv.com
@@ -9391,7 +9388,6 @@ zoom-schedule-meeting.click
 zoom.us.sg2.chostore.biz.id
 zoom4usinvite.space
 zoomcares.zoom.us.ikd3.mjid.web.id
-zoominvite-us09web-user08b.pages.dev
 zoraptly.com
 zr8v3n6t1.lol
 zraatbank.netlify.app
