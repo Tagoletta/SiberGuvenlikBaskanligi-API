@@ -2081,6 +2081,7 @@ avskocrental.net
 avskurumsalkirala.com
 avsotokiralama.net
 avsotokockiralama.com
+avsotomotivkirala.com
 avsrentkurumsal.com
 avssfilokiralama.com
 avsskiirala.com
@@ -3087,8 +3088,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -3615,7 +3616,6 @@ dijitalsiparis-hizlial.sbs
 dijitalsiparis-kampanyasi.sbs
 dijitalsiparis-online.sbs
 dijitalsiparisler-kapinda.duckdns.org
-dijitalsiparisler-kapinda.sbs
 dijitalsube-onlinebasvur.sbs
 dijitaltrgib.com
 dijitalurun-aynigunkapinda.duckdns.org
@@ -3795,6 +3795,7 @@ dynamicsailboat.com
 dynexly.com
 dynotatattaas.lol
 dynotatattaas.xyz
+dyref.com
 dysoreli.com
 dzone01.site
 dzone02.site
@@ -5164,7 +5165,6 @@ gelburuagelaldepodan2297.duckdns.org
 geldivegidiceksadecezaman.sbs
 geleceginvizyonadresi.sbs
 gelecekhedefleri.com
-gelecekongorusu.misecure.com
 gelendengidenden.duckdns.org
 gelengecenalsindiye.sbs
 gelengidenalsindiye.lol
@@ -5960,7 +5960,6 @@ her.koeln-gastro.com
 herangelmek.duckdns.org
 heranheryerde-ekstra.com
 herdammhs.duckdns.org
-hergetens.duckdns.org
 herhangi.feints.cfd
 heritiage.org
 heritiages.org
@@ -7632,7 +7631,6 @@ klmgarantibbva.com.ph
 klmlesorgla.com
 klmnbnndansnrasn.beer
 klomensta.duckdns.org
-klometresrgulamacomptt.duckdns.org
 klomtresorgulamayapburdagovptt.duckdns.org
 klomtresrgulamaislemlerinizbrdanyazi.duckdns.org
 klsamdass.shop
@@ -11204,6 +11202,7 @@ sepetimde-tr.online
 sepetimdeonline.shop
 sepetimodeme.shop
 sepetimonaycom.surf
+sepetimonline724.duckdns.org
 sepetindeonline.shop
 sepetindevar-tr.online
 sepetinizde.com.tr
@@ -11419,7 +11418,6 @@ sizin-sepetleriniz.com.tr
 sizin-siparisleriniz.com
 sizingibipanelsatmadim.click
 sizinicinburdayiz.duckdns.org
-sizinleyizzz2.sbs
 sizler.icin.hizmetler.mavibeyazskorlar.click
 sizler.icin.hizmetler.organizeislers.click
 sizler.icin.hizmetler.sahizmtofls.click
@@ -12897,6 +12895,7 @@ urundetayi.com
 urunguvende.online
 urunhizmetivebedeli.com
 urunhizmetleri.online
+urunlerdekampanyalar.duckdns.org
 urunlerin-online-satisi.com
 us.dev
 us.download
@@ -12935,7 +12934,6 @@ uyuzcangg.dpdns.org
 uz-whatsapp.com
 uz-y-group.com
 uzaktanekip.com
-uzaktanhemen.abrdns.com
 uzlasmaaktifdosyasorgula.com
 uzlasmabaro.com
 uzlasmabildirim.com

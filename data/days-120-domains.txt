@@ -2628,6 +2628,7 @@ avskocrental.net
 avskurumsalkirala.com
 avsotokiralama.net
 avsotokockiralama.com
+avsotomotivkirala.com
 avsrentkurumsal.com
 avssfilokiralama.com
 avsskiirala.com
@@ -3944,8 +3945,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -4925,6 +4926,7 @@ dynamicsailboat.com
 dynexly.com
 dynotatattaas.lol
 dynotatattaas.xyz
+dyref.com
 dysoreli.com
 dysphoria.androiddebugbridge.su
 dzone01.site
@@ -15281,6 +15283,7 @@ sepetimdeonline.site
 sepetimdeonline.store
 sepetimodeme.shop
 sepetimonaycom.surf
+sepetimonline724.duckdns.org
 sepetindeonline.shop
 sepetindevar-tr.online
 sepetinizde.com.tr
@@ -17647,6 +17650,7 @@ urundetayi.com
 urunguvende.online
 urunhizmetivebedeli.com
 urunhizmetleri.online
+urunlerdekampanyalar.duckdns.org
 urunlerin-online-satisi.com
 urunodeme-tr.online
 urunodemetr.online

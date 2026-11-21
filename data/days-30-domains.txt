@@ -660,6 +660,7 @@ avsfiloturkey.net
 avskiralamamerkezi.com
 avskiralamayeri.com
 avskiralla.com
+avsotomotivkirala.com
 avsrentkurumsal.com
 avsskiirala.com
 awovvlink.cloud
@@ -1305,6 +1306,7 @@ dymensioncouncil.site
 dymensionhires.xyz
 dymensiontalents.xyz
 dynamicsailboat.com
+dyref.com
 dzone01.site
 dzone02.site
 dzone3.site
@@ -3737,6 +3739,7 @@ sepetim-onayli-157426.com
 sepetimburada.xyz
 sepetimdeonline.shop
 sepetimonaycom.surf
+sepetimonline724.duckdns.org
 sepetindeonline.shop
 sepetindevar-tr.online
 seras.s.gy
@@ -4396,6 +4399,7 @@ urundetay-sepet-10.sbs
 urundetay-sepet-25.sbs
 urundetay-sepet-30.sbs
 urundetay-sepet-35.sbs
+urunlerdekampanyalar.duckdns.org
 us.dev
 us.download
 us956web-zoom.us
