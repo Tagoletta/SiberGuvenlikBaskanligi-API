@@ -1310,6 +1310,7 @@ a101.dpdns.org
 a101.hizlifirsatim.com
 a101.hizligiriss.com
 a101.ilan-sepetlerimiz-burada.com
+a101.kaslminlerlnden.com
 a101.pics
 a101.website
 a1011.frstlarbrdsmgs.store
@@ -2114,6 +2115,7 @@ arabacekilisin.online
 arabaprotokol.com
 arabulucuadliye.org
 arabulucuegm.org
+arabulucuistanbul.org
 arabuluculukadli.org
 arabuluculukmaliye.org
 arabulucutc.net
@@ -3945,8 +3947,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -4215,6 +4217,7 @@ corendavia.com.ru
 corendon.prelive.xyz
 corepala-jalesude.lol
 corexyfi.com
+corlinexa.online
 corporateitservicellc.onmicrosoft.com
 corralos.beer
 coserflwang.com
@@ -13913,6 +13916,7 @@ ptt.avmalisveris.com
 ptt.avmilansepetim.com
 ptt.avmonlinesiparisim.com
 ptt.avmsatislarim.com
+ptt.avmsiparisolustur.com
 ptt.govsf.life
 ptt.guvenle-ode.sbs
 ptt.mobilservis-26.sbs
@@ -13988,6 +13992,7 @@ pttavm.siparis-onay-7269.com
 pttavm.siparis-onay-7712.com
 pttavm.siparisini-olustur.com
 pttavm.sizin-sepetinizde.com.tr
+pttavm.sorunsuzsiparis.online
 pttavm.tamamla-sipars.com
 pttavmdetaykontrol.firebaseapp.com
 pttavmdetaykontrol.web.app
@@ -18987,6 +18992,7 @@ yuhujukulu-dereteye.lol
 yukafilorent.com
 yukifabrika.com
 yukifabrikasatis.com
+yukifabrikasatisi.com
 yukimora.live
 yukimotorluaraclar.com
 yukionlinesatis.com

@@ -785,6 +785,7 @@ a101.alisveris-sepetinde-10.sbs
 a101.dpdns.org
 a101.hizlifirsatim.com
 a101.hizligiriss.com
+a101.kaslminlerlnden.com
 a101.pics
 a101.website
 a101cepp.duckdns.org
@@ -1169,6 +1170,7 @@ arabacekilis.link
 arabacekilisim.link
 arabulucuadliye.org
 arabulucuegm.org
+arabulucuistanbul.org
 arabuluculukadli.org
 arabuluculukmaliye.org
 arabulucutc.net
@@ -1753,7 +1755,6 @@ blog-tecnet-microsoft.servegame.com
 blog-tecnet-microsoft.servehttp.com
 blog.wangmengfun.top
 blsvisa.org
-bltlankama.net
 bmw.bestipip.com
 bmwistebmwbenim.duckdns.org
 bn-arabacekilisi.com
@@ -2232,6 +2233,7 @@ copytrade.lat
 corecloudfileshare.xyz
 corehost.ddns.net
 corexyfi.com
+corlinexa.online
 corporateitservicellc.onmicrosoft.com
 coserflwang.com
 cotiellavigia.com
@@ -3573,7 +3575,6 @@ gibdetaylibilgi.com
 gibdijltalmobil.com
 gibgiris.com
 gibharcpuluodeme.com
-gibsorgula.com
 gibsorgulama.net
 gibtakip.net
 giperon.net
@@ -3913,7 +3914,6 @@ harctahsil.com
 harikaservis-66024f4ca84b.herokuapp.com
 harmttlessly.info
 hasdawww.click
-hashimimran.22web.org
 hastanebulo.win
 hastanelerinizbilgi.com
 hastanelersizinle.shop
@@ -5499,8 +5499,6 @@ livoranx.com
 lizlwlanth.sharedmsform.com
 lkklaooapaaa.shop
 llllllllllll111111.com
-llllllllllllllllllllllllllllllllllllllllllllllllll.info
-llllllllllllllllllllllllllllllllllllllllllllllllll.site
 lls6vre6e6desls3ee28shs9ehhhh.tcp64.de
 lnaktnaksnta.net
 lndirimler-enlylrerden.com
@@ -6234,7 +6232,6 @@ nltkkamats.net
 nltkmamt.net
 nltlnalnakar.net
 nltnakkm.net
-nltnakmam.net
 nngresearch.com
 nngresearch.net
 nnmyd.com
@@ -6303,7 +6300,6 @@ nv-online.click
 nv4r8z1p6.lol
 nvidia-aidat.netlify.app
 nvidia-destek.vercel.app
-nvirandevu.xyz
 nvirandevucunuzz.online
 nvirandevuekrakodeme.online
 nvirandevumvar.online
@@ -6558,7 +6554,6 @@ pazarama.esimbooking.com
 pazarama.firsatli-siparis.com
 pazarama.guvenlianindaodeme.com
 pazarama.gvnliodemeniz.com
-pazarama.hementeslimatlar.com
 pazarama.hizlisiparishizmeti.com
 pazarama.ikinciel-alisverisler.com
 pazarama.ikinciel-sepet.com
@@ -6583,7 +6578,6 @@ pazarama.odeme-onay-1290.com
 pazarama.odeme-onay-1293.com
 pazarama.odemeguvende.com
 pazarama.param-guvende.org
-pazarama.sepet-odemeler-2211.com
 pazarama.sepet-odemeler-2212.com
 pazarama.sepet-odemeler-2213.com
 pazarama.sepet-odemeler-2214.com
@@ -6730,6 +6724,7 @@ ptt-trgov.eu.cc
 ptt.alisveris-sepet-detay-10.sbs
 ptt.avmalisveris.com
 ptt.avmonlinesiparisim.com
+ptt.avmsiparisolustur.com
 ptt.guvenle-ode.sbs
 ptt.mobilservis-26.sbs
 ptt.mobilservisler-34.sbs
@@ -6771,6 +6766,7 @@ pttavm.siparis-onay-7269.com
 pttavm.siparis-onay-7712.com
 pttavm.siparisini-olustur.com
 pttavm.sizin-sepetinizde.com.tr
+pttavm.sorunsuzsiparis.online
 pttavmhgs.click
 pttavmhgs.cloud
 pttavmhgsyukle.click
@@ -7266,7 +7262,6 @@ sahibinden.odeme-onay-1293.com
 sahibinden.online-satislari-burada.com
 sahibinden.secure-ilan.com
 sahibinden.sepet-odemeler-2212.com
-sahibinden.sepet-odemeler-2213.com
 sahibinden.sepet-odemeler-2214.com
 sahibinden.sepet-odemeler-2215.com
 sahibinden.sepet-odemeler-2216.com
@@ -8363,7 +8358,6 @@ trendyolshop.cc
 trendyolshop.net
 trendyolshop.one
 Trentyolgift.com
-trhazinemaliye.org
 trhisseborsalari.com
 tridariceza.org
 trident-sip-filter.ngrok-free.dev
@@ -9249,7 +9243,6 @@ yerkalenec.lol
 yeteneksizaze.duckdns.org
 yetim-vakfi-cop31.pages.devu-cop31.org
 yetkisiz-qnbfinansbank.ph
-yfyatirimgiris.online
 yglasan.world
 yhnbgh.click
 yibncwaixwewai.top
@@ -9327,6 +9320,7 @@ yudumtoptan.site
 yudumyag.site
 yudumyudum.online
 yuhujukulu-dereteye.lol
+yukifabrikasatisi.com
 yukimora.live
 yukimotorluaraclar.com
 yullink.cloud
