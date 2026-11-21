@@ -3283,7 +3283,6 @@ form-statonline-here.sbs
 form-viva.site
 forma-viva.com
 formbasvuruev.com
-formsayfasi.netlify.app
 forpeople.space
 forpickerpuck.org
 forti.access.ly
@@ -8229,7 +8228,6 @@ toonie-bot.com
 toplu-konut.com
 toplubloklar.vercelserver.com
 toplukonut0054975248.vercel.app
-toplukonut35912911.vercelcloud.com
 toplukonutaptdetayli.vercelapi.com
 toplukonutdavetli.vercelapi.com
 toplukonutdetayli.vercelsh.com
