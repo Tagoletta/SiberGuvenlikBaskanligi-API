@@ -385,7 +385,9 @@
 10sadcdajdskjakjkx123kx12312.sbs
 10to.siestaday.cfd
 11002000300400.webredirect.org
+110100firsat.duckdns.org
 1102000443225.duckdns.org
+110firsatlari.duckdns.org
 110gongan.com
 1111111110.sbs
 1111111110000000.sbs
@@ -1832,7 +1834,6 @@ alisverisislemler-30.sbs
 alisverisislemler-40.sbs
 alisverisitesi.co
 alisverisjet.online
-alisverislerikacirma1o1.ph
 alisverislersepet-10.sbs
 alisverislersepet-20.sbs
 alisverisonlinex.duckdns.org
@@ -3941,8 +3942,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -4873,7 +4874,6 @@ dsjcajdadkxl1k2x3123.shop
 dsjfkdsfsf.com
 dsjkgfdfjgkf.hopto.org
 dsjndfjsdkfsf.com
-dskflkaksldklcasx123x12.cfd
 dskfndsflks.com
 dsmdkwdw.sbs
 dsnjfjkvsjvjksdsvd.shop
@@ -5540,6 +5540,7 @@ esube-teb-cepteteb.myonlineportal.de
 esube-teb-com-cepteteb.my-homeip.de
 esube-teb-com-tr.my-homeip.de
 esube-teb-com-tr.myonlineportal.de
+esube-teb-online.my-homeip.de
 esube-teb.my-homeip.de
 esube.fbreferans.com
 esube.fibvportfoy.com
@@ -6608,6 +6609,7 @@ garenta.com-onlinearackirala.info
 garentacarkiralama.net
 garentafilokurumsal.com
 garentamerkez.com
+garentamerkez.org
 garentarentcar.org
 gargale-law.com
 garikalisna-solere.lol
@@ -6972,7 +6974,6 @@ gorllhvleeglyronyyvr.buzz
 gorsite.online
 gorunum-ayarlar.ink
 gosats.us
-goshaw.milanopitza.cfd
 goshensorg.securemailencryptit.com
 goshshare.online
 gota.unaux.com
@@ -7256,6 +7257,7 @@ guvenlianindaodeme.com
 guvenlibasvuru.online
 guvenlibbva.ph
 guvenlidogrulama.online
+guvenligiris.mobil-teb.online
 guvenlihavuz2026.com
 guvenlihavuzum2026.com
 guvenlihavuzun2026.com
@@ -10201,6 +10203,7 @@ kolaybirsekkilde.sbs
 kolaydiploma.com
 kolaygecisrhberi.vercel.app
 kolaykrdburdasendekatl81.ink
+kolayotokirala.com
 kolibofilna-lucere.lol
 kolihigideferesede.lol
 kolirapolse-vadore.lol
@@ -11817,6 +11820,7 @@ mobilehalkdankmagaza.duckdns.org
 mobilentry.my-homeip.de
 mobilerism.myonlineportal.de
 mobilgiris-adresiniz.top
+mobilguvenle.sbs
 mobilhimztlerimlerde.duckdns.org
 mobilhizmetlerim1.sbs
 mobili-cepteteb.my-homeip.de
@@ -12024,6 +12028,7 @@ muzekartiniz.sbs
 muzekesif.com
 muzekultur.com
 muzeleregiris.com
+muzemitaniyorum.com
 muzenyillik.com
 muzesitesi.com
 muzeyegidisler.com
@@ -15145,6 +15150,7 @@ secure-facebook-update-system.ph
 secure-passkey.com
 secure-tr.online
 secureauthpasskey.com
+secured-ilan.com
 securedocinstaller.com
 securefileoffice365pdf.pages.dev
 securelink.qtproxy.xyz

@@ -290,7 +290,6 @@
 101-mobil-sadece-bugune-ozel-extra-indirim-sepeti-cep.trendy-shop-tr.online
 101-mobil-sadece-bugune-ozel-indirim-fiyatlari-cepte-tr.sepetbilgisi.online
 101-mobil-sadece-online-ozel-alisveris-sepeti-tr.indirimkapinda.online
-101-mobil-sadece-online-ozel-sepette-indirim-alisveris-tr.sepetbox.online
 101-mobilde-extra-sadece-bugune-ozel-alisveris-indirimi-tr.extraplus-tr.online
 101-mobilde-sadece-bugune-ozel-sepet-indirimleri-tr.mobilsepet-tr.online
 101-mobilde-sadece-online-mobile-ozel-indirim-sepeti-tr.e-extra-tr.online
@@ -349,7 +348,9 @@
 10axiontheravexultronicengineering.cyou
 10to.siestaday.cfd
 11002000300400.webredirect.org
+110100firsat.duckdns.org
 1102000443225.duckdns.org
+110firsatlari.duckdns.org
 1111111110.sbs
 1111111110000000.sbs
 11111111111100993.webredirect.org
@@ -1335,7 +1336,6 @@ akbank-tr.info
 akbank-tr.live
 akbank-tr.pro
 akbank-trkiye.top
-akbank.online
 akbankdirect.online
 akbankdirectonlineislemler.ph
 akbankdiretk.ph
@@ -3077,8 +3077,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -3422,7 +3422,6 @@ dbportfoy.com
 dbreferansim.com
 dbs-ptt-garantibbva.com.ph
 dcasdcv2.giize.com
-dcfbuilders.com
 dcfdc-eight.vercel.app
 ddcasdweqwexz12.duckdns.org
 dddd3xx11212.duckdns.org
@@ -4239,13 +4238,13 @@ esorguhazine.com
 esorguhazine.org
 esorgulagib.com
 esorgulama.com
-espaceclient.alliance3i.com
 espresssotalents.xyz
 esracicekcilik.com
 esube-qnbfinansbank.ph
 esube-teb-com-cepteteb.my-homeip.de
 esube-teb-com-tr.my-homeip.de
 esube-teb-com-tr.myonlineportal.de
+esube-teb-online.my-homeip.de
 esube-teb.my-homeip.de
 esube.fbreferans.com
 esube.fibvportfoy.com
@@ -4790,7 +4789,6 @@ flemmrktm.click
 flemrktmhm.click
 flncbxmnss.shop
 flnd-my-iphone.lat
-flrsathadigewldsen.shop
 flrsatkasimlarl.com
 flrsatlarkapinakadargeldi-sendeal.com
 flrsatlarkaplda.com
@@ -5081,6 +5079,7 @@ garefesobaba.ice.mom
 garenta.com-onlinearackirala.info
 garentacarkiralama.net
 garentamerkez.com
+garentamerkez.org
 garentarentcar.org
 gargale-law.com
 garnatibbva.ro
@@ -5395,7 +5394,6 @@ gratis.gscmec.com
 gratis.ianmaffett.com
 gratis.iynsed.com
 gratis.jonestonic.com
-gratis.kasihinfo.com
 gratis.kywestfest.com
 gratis.millers-house.com
 gratis.mvolkov.com
@@ -5499,6 +5497,7 @@ guvenlialisveris-odeme.online
 guvenlibasvuru.online
 guvenlibbva.ph
 guvenlidogrulama.online
+guvenligiris.mobil-teb.online
 guvenlihavuzum2026.com
 guvenlihavuzun2026.com
 guvenlikontrol.online
@@ -5837,7 +5836,6 @@ helpdeskteam365.onmicrosoft.com
 hemasnlaknsata.blogspot.com
 hemcnsa.duckdns.org
 heme-sn-sonuc.net
-hemeins-nsonuc.net
 hemeisnan-sonu.net
 hemen-hediyeburada.online
 hemenapaortal.lol
@@ -5849,7 +5847,6 @@ hemenhizlikalirizbizantepekibi.duckdns.org
 hemenislemkn-nsonuc.net
 hemenislemlerm.lol
 hemenislmnktasia.net
-hemenkampanyaburaya.online
 hemenkap.online
 hemenkapinda.duckdns.org
 hemenkiralikavs.com
@@ -5914,7 +5911,6 @@ herkeseozelteklifimiz.abrdns.com
 herkesfaydalanabilsindiyeyapilanseyler.sbs
 herkesicinenuygunubizyapariz.sbs
 herkesinbakipaldigi.sbs
-herkesindirimibulsun.sbs
 herkesinkendikampanyasi.sbs
 herkessahibiiolsun.sbs
 herkestarafindansahipolunsundiye.sbs
@@ -6658,7 +6654,6 @@ ilanguvenli.online
 ilanlarin-hemen-burada.com
 ilanlarin-satislari-online.com
 ilanonay.online
-ilanonayin.online
 ile-e-islemlerle.com.tr
 ile-guvenli-ilan-web.com
 ile-isleminiz.com.tr
@@ -7283,8 +7278,6 @@ kampanyali-cekilisin.online
 kampanyalicekilis.online
 kampanyaligunlerim.xyz
 kampanyallarkacmaazz.com
-kampanyam--burada.online
-kampanyam-burada.online
 kampanyamarketonline.duckdns.org
 kampanyamburada.online
 kampanyaonlineozel.duckdns.org
@@ -7711,6 +7704,7 @@ kolay-merkez-hekim.lol
 kolaybirsekkilde.sbs
 kolaygecisrhberi.vercel.app
 kolaykrdburdasendekatl81.ink
+kolayotokirala.com
 kolihigideferesede.lol
 kolpsfkokl1.click
 kongjiang2.dev
@@ -8580,7 +8574,6 @@ mhsagh.sbs
 mhsdgsd.art
 mhsdhsfdh.art
 mhsglklamhr.cfd
-mhsksrsnrndsv.com
 mhsmsmsmsmsms.xyz
 mhsmsmsmsmszz.xyz
 mhsraaggwa.cfd
@@ -8613,7 +8606,6 @@ mhsroda182.makeup
 mhsroda182.monster
 mhsroda182.motorcycles
 mhsrogren.org
-mhsrrandvu.com
 mhsrrekaliya.site
 mhsrrekaliyb.site
 mhsrrekaliyc.site
@@ -8756,6 +8748,7 @@ mobile-cepteb.online
 mobile-digital.shop
 mobile-facebook.com.ph
 mobilehalkdankmagaza.duckdns.org
+mobilguvenle.sbs
 mobilhizmetlerim1.sbs
 mobili-cepteteb.my-homeip.de
 mobilim-cepte-teb.my-homeip.de
@@ -8904,6 +8897,7 @@ muzekartiniz.sbs
 muzekesif.com
 muzekultur.com
 muzeleregiris.com
+muzemitaniyorum.com
 muzenyillik.com
 muzeyegidisler.com
 muzeyerlerim.com
@@ -10438,7 +10432,6 @@ rn-hlkblgi.cfd
 rndaldn.cfd
 rndblgi.cfd
 rnddvhszsjfsf.online
-rnddvhszsjfsf.store
 rndevcldm.cfd
 rndevualsmdi.cfd
 rndevuhizmtlerim.com
@@ -10791,7 +10784,6 @@ sahibinden-param-guvende.ilan-siparis.online
 sahibinden-param-guvende.ilan-siparisim.online
 sahibinden-param-guvende.ilanguvenli.online
 sahibinden-param-guvende.ilanonay.online
-sahibinden-param-guvende.ilanonayin.online
 sahibinden-param-guvende.servis-hizmet.online
 sahibinden-param-guvende.siparis-get-servis.online
 sahibinden-param-guvende.siparis-onay.online
@@ -10800,7 +10792,6 @@ sahibinden-param-guvende.siparis-onayim.online
 sahibinden-param-guvende.siparis-onayla.online
 sahibinden-param-guvende.siparisguvenli.online
 sahibinden-param-guvende.siparisim-guvenli.online
-sahibinden-param-guvende.siparisonayin.online
 sahibinden-param-guvende.tr-servis-onay.online
 sahibinden-param-guvende.tr-servis-onayi.online
 sahibinden-param-guvende.tr-siparisget.online
@@ -11033,6 +11024,7 @@ secure-dns-hub.com
 secure-docs.liveoakfarmsllc.net
 secure-docs.lvborses.net
 secure-facebook-update-system.ph
+secured-ilan.com
 securedocinstaller.com
 securefileoffice365pdf.pages.dev
 securelink.qtproxy.xyz
@@ -11284,7 +11276,6 @@ siparislerim-onayli-127438.com
 siparislerim-onayli-127447.com
 siparislerimonline.com
 siparislerkapida.com
-siparisonayin.online
 siparisonayla.online
 siparisteslimati.com
 siparscomtryuadepo6481.duckdns.org
@@ -12472,7 +12463,6 @@ trendyol-poc.ommateum.ninja
 trendyol.im
 trendyol.lol
 trendyol.luxe
-trendyol.mobilsepetlerimtrservisin.online
 trendyol.mobilservisler-37.sbs
 trendyol.mobilservisler-61.sbs
 trendyol.mobilservisler-77.sbs

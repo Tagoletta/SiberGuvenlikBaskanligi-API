@@ -83,7 +83,6 @@
 101-extra-mobil-sadece-bugune-ozel-indirim-sepeti-tr.webshops-tr.online
 101-extra-mobil-sadece-bugune-ozel-indirim-var-tr.verifysepet.online
 101-extra-mobil-sadece-bugune-ozel-indirimler-mobilde-tr.trendly-shops.online
-101-extra-mobil-sadece-bugune-ozel-indirimli-alisveris-sepette.extramarket-tr.online
 101-extra-mobil-sadece-bugune-ozel-online-alisveris-cebinde-tr.extram.site
 101-extra-mobil-sadece-bugune-ozel-online-alisveris-tr.lis00666.site
 101-extra-mobil-sadece-bugune-ozel-online-alisveris-tr.pro-tr.online
@@ -250,7 +249,9 @@
 10axiontheravexultronicengineering.cyou
 10to.siestaday.cfd
 11002000300400.webredirect.org
+110100firsat.duckdns.org
 1102000443225.duckdns.org
+110firsatlari.duckdns.org
 1111111110.sbs
 11111111111100993.webredirect.org
 111111111111111332.webredirect.org
@@ -333,7 +334,6 @@
 1267125.xyz
 1271772882038.duckdns.org
 127199292020199.servehttp.com
-127478900120.duckdns.org
 127919552784050.webredirect.org
 1279199552030.duckdns.org
 127985698545789555899855990.xyz
@@ -457,7 +457,6 @@
 265271.duckdns.org
 266016565925.cloud
 27478900120.bounceme.net
-2747890012056.duckdns.org
 28958161.xyz
 289coommunity.xyz
 29299124124.com
@@ -2848,6 +2847,7 @@ esorguhazine.org
 esorgulagib.com
 espresssotalents.xyz
 esube-qnbfinansbank.ph
+esube-teb-online.my-homeip.de
 esube.osmnlportfoy.com
 esubedunya.com
 esubedunyamportfoy.com
@@ -3438,6 +3438,7 @@ gardnerimmigrationlaw.securemailencryptit.com
 garenta.com-onlinearackirala.info
 garentacarkiralama.net
 garentamerkez.com
+garentamerkez.org
 gargale-law.com
 garnatibbva.ro
 garnoeigogdkfk.shop
@@ -3718,6 +3719,7 @@ guvenlialisveris-odeme.online
 guvenlibasvuru.online
 guvenlibbva.ph
 guvenlidogrulama.online
+guvenligiris.mobil-teb.online
 guvenlikontrol.online
 guvenliodeme-61.sbs
 guvenliodeme-get.online
@@ -5064,7 +5066,6 @@ kfqkfwq91241.duckdns.org
 kgm-gom.cfd
 kgm-gov.biz
 kgm-gov.onl
-kgm.ueqgr.xyz
 kgm.ukyaj.cc
 kgm460.top
 kgmgom.cfd
@@ -5224,6 +5225,7 @@ koeln-gastro.com
 koenig-usa.com
 kojacuxubuse.shorts.gy
 kolay-merkez-hekim.lol
+kolayotokirala.com
 kolpsfkokl1.click
 kongjiang2.dev
 kongjiang5.dev
@@ -5931,6 +5933,7 @@ mobildeniz.trdnz.cfd
 mobildeniz.yeniyilaozel.cfd
 mobile-cepteb.online
 mobilehalkdankmagaza.duckdns.org
+mobilguvenle.sbs
 mobili-cepteteb.my-homeip.de
 mobilim-cepte-teb.my-homeip.de
 mobilim-cepteteb.my-homeip.de
@@ -6020,6 +6023,7 @@ muzekartiniz.sbs
 muzekesif.com
 muzekultur.com
 muzeleregiris.com
+muzemitaniyorum.com
 muzeyegidisler.com
 muzeyerlerim.com
 mvnrepo.net
@@ -6716,7 +6720,6 @@ pttkilometresorgusnoktasi.web.app
 pttkolayklemekbakie.web.app
 pttmerkez.vercel.app
 pttsorgu.vercel.app
-ptttavmhgsyukle.com
 ptttavmkmhgsorgula.com
 ptttavmsorgulasana.com
 ptttawmsorgulasana.com
@@ -6915,7 +6918,6 @@ rodininbabasiyim.duckdns.org
 rodiwasherecandan.com
 roleplayyasak.duckdns.org
 rollcyrentacars.online
-rollenmetimur.duckdns.org
 rolling-arabic-words-crossing.trycloudflare.com
 romenstlerkest.duckdns.org
 rootechglobal.com
@@ -7172,11 +7174,9 @@ sahibinden.id64827.cfd
 sahibinden.id72662.cfd
 sahibinden.ilan-mobilder.com
 sahibinden.ile-odemeyi-tamamla.com
-sahibinden.ileservishizmetleri.com
 sahibinden.ileservishzmetleri.sbs
 sahibinden.iletisimkasko.com
 sahibinden.islem-siparisver.com
-sahibinden.kaskoiletisim.com
 sahibinden.mobilsepet-islemler-12.sbs
 sahibinden.odeme-onay-1283.com
 sahibinden.odeme-onay-1285.com
@@ -7270,6 +7270,7 @@ secure-dns-hub.com
 secure-docs.liveoakfarmsllc.net
 secure-docs.lvborses.net
 secure-facebook-update-system.ph
+secured-ilan.com
 securedocinstaller.com
 securefileoffice365pdf.pages.dev
 securemailencryptit.com
@@ -8514,7 +8515,6 @@ vakifbank2019web.com.ph
 vakifbankonlinedestek.com
 vakifkatilimcepsube.com
 vakiifbankonline.org.ph
-vakko.appmira.co
 vakko.hesapkapama.com
 vakkof1.vercel.app
 valenoraxs.com
