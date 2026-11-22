@@ -187,6 +187,7 @@
 101-extra-sepette-indirim-sadece-bugune-ozel-tr.getshop-tr.online
 101-firsatlari.duckdns.org
 101-kampanyalaribuguneozel.sbs
+101-mobil-bugune-ozel-alisveris-sepeti-indirim-mobilde-tr.sepetimde.online
 101-mobil-bugune-ozel-extra-indiriml.shopping-tr.online
 101-mobil-bugune-ozel-online-alisveris-indirim-sepet-tr.vibe9958.site
 101-mobil-extra-bugune-ozel-indirim-alisveris-sepeti-tr.zz771718.site
@@ -2410,7 +2411,6 @@ digitalinadresiyapi.xyz
 digitalmeyislemenu.work.gd
 digittal.cfd
 digittal.sbs
-dijital-aldinaldin-kampanya.sbs
 dijital-aldinaldin-siparisver.sbs
 dijitalbasvuru-kredi.sbs
 dijitalbuguneozel-kampanyasi.sbs
@@ -3730,7 +3730,6 @@ guvenliodeme-siparis.online
 guvenliodemeget.online
 guvenliportal.online
 guvenotoydkpr.netlify.app
-guvercinseverlergrubu.com
 guzel-certificateidcheck472984-servis.foxis.it
 guzel-servis-checkerid2985205.geobi.eu
 gvncmdjslas.shop
@@ -5261,7 +5260,9 @@ kooponline.vercel.app
 koparmatifmarket.blogdns.com
 koperatflndmrlerid.blogdns.net
 kopermatfrklalarriindd.doomdns.com
+kopermatfrklalarriinddd.dyndns.biz
 kopermatfrklamlariiriin.blogdns.com
+kopermatfrklamlariiriind.blogdns.com
 kopermatfrklamlarriindd.dnsdojo.com
 kopmenst.duckdns.org
 kopukluj.hali-yiklamasi.lol
@@ -5288,7 +5289,6 @@ kredddbsvrrprmsynnkmpnya745896.pro
 krediaktarimdeniz.com
 krediaktarimhalk.com
 kredifirsatstatusu.com
-kredim-togg.com
 kredimvodafone.ph
 kredts-mpay.online
 krekdsfsdcvncmndjf.shop
@@ -5768,7 +5768,6 @@ mhmrmermrems.duckdns.org
 mhr-sonlinex.sbs
 mhrdnve.cfd
 mhremhmsdfksdfkasfa.duckdns.org
-mhrfivems.lol
 mhrhssrs.duckdns.org
 mhrndvumhsglk.cfd
 mhrrs-randevular.com
@@ -6361,7 +6360,6 @@ ortakdegerrotasi.com
 ortakdogrulama-online-sbm.netlify.app
 ortakvizyonhatti.com
 ortakvizyonrotasi.com
-ortkyklmenktlari.vercel.app
 oryhaworiva.online
 orylozecan.site
 oscertdegree.com
@@ -9154,7 +9152,6 @@ yildzurunlerkampanysi.duckdns.org
 yilsonuindirimlera101-com.duckdns.org
 yixue.linqingkeji.com
 yk-donusum-public.vercel.app
-ykleglsinhzlica.cfd
 yklemenkthgs.com
 yklemlrhzlicaypin.cfd
 ykleozmnhgsde.cfd

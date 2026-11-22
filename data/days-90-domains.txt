@@ -254,6 +254,7 @@
 101-extra-sepette-indirim-sadece-bugune-ozel-tr.getshop-tr.online
 101-firsatlari.duckdns.org
 101-kampanyalaribuguneozel.sbs
+101-mobil-bugune-ozel-alisveris-sepeti-indirim-mobilde-tr.sepetimde.online
 101-mobil-bugune-ozel-extra-indiriml.shopping-tr.online
 101-mobil-bugune-ozel-online-alisveris-indirim-sepet-tr.vibe9958.site
 101-mobil-extra-bugune-ozel-indirim-alisveris-sepeti-tr.zz771718.site
@@ -2061,7 +2062,6 @@ avsfilo724.com
 avsfilokiiralama.com
 avsfilokiralama.online
 avsfilokiralik.com
-avsfilokurumsal.com
 avsfilom.com
 avsfilom.net
 avsfilomkirala.com
@@ -2995,7 +2995,6 @@ cepmobil-teb.my-homeip.de
 cepmobili-teb.my-homeip.de
 cepoffices.co
 cepoffices.com
-ceppptesokklarli.online
 cepsatis-tr.online
 cepsel-viptr.online
 cepsube.netlify.app
@@ -3054,7 +3053,6 @@ cepteteb-mobil-bankacilik.my-homeip.de
 cepteteb-pro.my-homeip.de
 cepteteb-sube.my-homeip.de
 cepteteb-tr.my-homeip.de
-ceptetebde-com.my-homeip.de
 ceptetebde-emekli.my-homeip.de
 ceptetebden-emekli.my-homeip.de
 ceptetebden-emeklin.my-homeip.de
@@ -3569,7 +3567,6 @@ dijital-aldinaldin-siparisver.sbs
 dijital-internetkampanya.duckdns.org
 dijital-marketplus.duckdns.org
 dijital-simdial.sbs
-dijital-urunlerkapinda.sbs
 dijitalbasvuru-kredi.sbs
 dijitalbasvuru-simdikampanya.duckdns.org
 dijitalbuguneozel-kampanyasi.sbs
@@ -5447,7 +5444,6 @@ gta6demo.asia
 gta6demo.eu
 gta6demo.us
 gtaiscoming.rest
-gttignyeryerdegil.sbs
 guach.net
 guardiancapitalway.com
 guardiangrowthfunding.com
@@ -5818,9 +5814,7 @@ hedefon.hedefportfoyfon.com
 hedefportfoyfon.com
 hediye--burada.online
 hediye-burada.online
-hediyelerimburada.online
 hediyem--burada.online
-heemenisn-sonuc.net
 hegeseodemesi.vercel.app
 hegwgsaagl.giize.com
 heilongyk.top
@@ -5840,7 +5834,6 @@ hemasnlaknsata.blogspot.com
 hemcnsa.duckdns.org
 heme-sn-sonuc.net
 hemeisnan-sonu.net
-hemen-hediyeburada.online
 hemenapaortal.lol
 hemenbakiyem.lol
 hemenfirsatlarikacirmadanhizlicadavran.info
@@ -5859,8 +5852,6 @@ hemenmagaza-tr.online
 hemenmarket.online
 hemenportal.lol
 hemenportaldanislem.lol
-hemensansburaya.online
-hemensielm-sonuc.net
 hemensiparis.online
 hemensiparissolustur.click
 hemensisn-sonu.net
@@ -7019,7 +7010,6 @@ istanbulkarttr.xyz
 istanbulkarttrca.xyz
 istanbulkrtlahmnodemeya.com
 istanbulkurum.org
-istanbullbelgiimkart.xyz
 istanbullbelgimkartt.xyz
 istanbullbelgimmkart.xyz
 istanbullbelgimmkartt.xyz
@@ -7743,7 +7733,9 @@ kooponline.vercel.app
 koparmatifmarket.blogdns.com
 koperatflndmrlerid.blogdns.net
 kopermatfrklalarriindd.doomdns.com
+kopermatfrklalarriinddd.dyndns.biz
 kopermatfrklamlariiriin.blogdns.com
+kopermatfrklamlariiriind.blogdns.com
 kopermatfrklamlarriindd.dnsdojo.com
 kopmenst.duckdns.org
 kopukluj.hali-yiklamasi.lol
@@ -8256,7 +8248,6 @@ market-hizli-mobil-indirimler.duckdns.org
 market-plus.online
 marketai.tr
 marketaktifa101firsatlarim.duckdns.org
-marketalisverislerimizucuzlugua101.duckdns.org
 marketimcebimde.com.ph
 marketindirimkacmaz.duckdns.org
 marketinga101de.duckdns.org
@@ -10942,7 +10933,6 @@ sansburada.online
 sansburadahediye.online
 sanshediye.online
 sanshemenburada.online
-sanshemenburaya.online
 sansli--hediye-burada.online
 sansli--hediyeburada.online
 sansli--sponsorluk.online
@@ -11149,7 +11139,6 @@ ses.1001gacor.org
 sessivesnet.us
 sessseehlheeh2r896hlvlhd3se.freeddns.org
 setinizialinrahatinizabakin.sbs
-setsahipsizkalmasinkimse.sbs
 settings-iliskilendirme.myonlineportal.ch
 setupmypasskey.com
 setuppdfsoft.com
@@ -11258,10 +11247,8 @@ siparis-ilanin-tr.online
 siparis-ilanin.online
 siparis-kapinda.com
 siparis-onay-7268.com
-siparis-onay.online
 siparis-onayi.online
 siparis-onayim.online
-siparis-onayin.online
 siparis-onayla.online
 siparis-teslimat.com
 siparis-tr.online
@@ -13288,7 +13275,6 @@ www-cepte-stor-syn.myonlineportal.ch
 www-cepte-tb-result.myonlineportal.ch
 www-cepte-tb-story.myonlineportal.ch
 www-cepte-tbyour-web.myonlineportal.ch
-www-cepte-teb-com.my-homeip.de
 www-cepte-teb-work.myonlineportal.ch
 www-cepte-time-tb.myonlineportal.ch
 www-cepte-tool-tb.myonlineportal.ch

@@ -68,6 +68,7 @@
 101-extra-sadece-online-ozel-shop-urun-bilgileri-alisveris.bilgiselshopier.site
 101-extra-sepette-indirim-sadece-bugune-ozel-tr.getshop-tr.online
 101-kampanyalaribuguneozel.sbs
+101-mobil-bugune-ozel-alisveris-sepeti-indirim-mobilde-tr.sepetimde.online
 101-mobil-bugune-ozel-online-alisveris-indirim-sepet-tr.vibe9958.site
 101-mobil-extra-bugune-ozel-indirim-alisveris-sepeti-tr.zz771718.site
 101-mobil-extra-bugune-ozel-online-alisveris-cep-sepeti-tr.trendbox-tr.online
@@ -1206,7 +1207,6 @@ dispertia.co
 dispertia.com
 displayresearchinc.org
 djgmll323scd.shop
-dksfsdfsd.shop
 dksjfjkdsjfksdjkf.com
 dktrgeldi.duckdns.org
 dlsdksdl.click
@@ -1595,7 +1595,6 @@ flrsatlarkaplda.com
 fluxstormhub.com
 fly.ufunpaly.com
 fmfis-sharepoint-fallsmetal.cncsinks.com
-fncymdjsyr.shop
 fnmvlfgmlgmv90040.shop
 fnvbcndcx.shop
 fnvbcndjs.shop
@@ -1767,7 +1766,6 @@ gncl-sglk.cfd
 gnclsglkrhber.cfd
 gnvbfhnbs.shop
 gnvbfjdns.shop
-gnvhfjncd.shop
 gnvmfjfkjfi.shop
 gnvmfjm3434.shop
 gnvmfnv434.click
@@ -2055,7 +2053,6 @@ hntg.abrdns.com
 holkoop.app
 home.dengshop.com
 homelee-web-world.cyou
-host.portaromanahouse.it
 hostoosoosg.click
 hotelemilenium.com.mx
 householdwares.co
@@ -2139,7 +2136,6 @@ ileribakismerkezi.com
 ilerigelisimrotasi.com
 ileservishzmetleri.sbs
 iletisimdestek.org
-ilhnvmfdmc.shop
 ilkeevimtoki.cfd
 ilkevtoplu.com
 im.dev
@@ -2303,7 +2299,6 @@ istanbulkrtlahmnodemeya.com
 istanbulkurum.org
 istanbulmaliye.org
 istanbulonlinetr.lol
-istkarthmnssdtnal.com
 istkartibasvr.online
 isubemlakbank.com
 isubemlakkatilim.com
@@ -2334,7 +2329,6 @@ j3slshb7ef.ipv64.net
 jdknsfjdksnfsd.com
 jdksnfjksdfjnsk.shop
 jdnsfkdjfndskfsdf.shop
-jdsfjsfksdfs.shop
 je4ft3gn8vxudum.icu
 jeqoal.xyz
 jet-night.com
@@ -2469,7 +2463,6 @@ kissfirsatlariiprsmynn.ksmmkmpnylrbsvr8547.click
 kiwebif2403.sbs
 kjkgmvlmlm3431.shop
 kkdldsnfds.shop
-klemnfe.shop
 klenna.top
 klig.ai
 klign.ai
@@ -2547,7 +2540,9 @@ kooperttarimd.dnsdojo.com
 koparmatifmarket.blogdns.com
 koperatflndmrlerid.blogdns.net
 kopermatfrklalarriindd.doomdns.com
+kopermatfrklalarriinddd.dyndns.biz
 kopermatfrklamlariiriin.blogdns.com
+kopermatfrklamlariiriind.blogdns.com
 kopermatfrklamlarriindd.dnsdojo.com
 koravimix.com
 korkskelsc.click
@@ -3298,7 +3293,6 @@ q2nbfinansbank.vg
 q6z1t4x8n2.lol
 qasrgaovaf7m.thisisafalsepositive.ru
 qer99.shop
-qicehao.info
 qjzze.buzz
 qmnasdn.click
 qnb-bank-promosyon.my-homeip.com
@@ -3422,7 +3416,6 @@ s-guvendesigortaodemeleriniz.duckdns.org
 s-guvenli-sozlesme-birimi.com
 s-guvenlikaskosigortaodemenoktaniz.duckdns.org
 s-guvenlimuhasebeodemebirimi.duckdns.org
-s-guvenlimuhasebeodemenoktaniz.duckdns.org
 s-paramguvende.bilgi-urundetayi.online
 s-sozlesmen.alisverslersepet-1.sbs
 s.97rich.vip
@@ -3520,7 +3513,6 @@ sahibindendestekkasko.com
 sahibindenekstra.com
 sahibindeniletisimdestek.com
 sahibindenonlinedestek.com
-sahibindenparam-guvende.bilgi-urundetayi.online
 sahibindenparamguvende.tr-siparisget.online
 sahibindensatici.live
 sahibindensatis.live
@@ -3791,7 +3783,6 @@ soxnewwork.homedns.org
 soylebisaat.duckdns.org
 soylebisigeciyimmi.xyz
 spnsorlubasvurular.vercel.app
-spnsrgthmn.click
 sponsorbul.online
 sponsorluetkinlikler.online
 sporoslrws.click
@@ -4014,7 +4005,6 @@ tkrbonline.com
 tkshop.la
 tms.szbboys.co
 tms.szbboys.com
-tnvnchfc.click
 tobb-nefes.vilan.online
 today-cepte-tbde.myonlineportal.ch
 today-tbde-ayricalik.myonlineportal.ch
@@ -4539,7 +4529,6 @@ yapskazxp-afsafkasp-safkdasksaf.top
 yaralarapatchgibizehirliduman.lol
 yarinabirikim.cyou
 yasadiklarimbanaagirgeldi.sbs
-yasantiarl.com
 yasinbulutgot.duckdns.org
 ydx-stat.ru
 yeettrsesra.giize.com

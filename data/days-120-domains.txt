@@ -278,6 +278,7 @@
 101-extra-sepette-indirim-sadece-bugune-ozel-tr.getshop-tr.online
 101-firsatlari.duckdns.org
 101-kampanyalaribuguneozel.sbs
+101-mobil-bugune-ozel-alisveris-sepeti-indirim-mobilde-tr.sepetimde.online
 101-mobil-bugune-ozel-extra-indiriml.shopping-tr.online
 101-mobil-bugune-ozel-indirim-sadece-online-alisveris-tr.extramarket.online
 101-mobil-bugune-ozel-online-alisveris-indirim-sepet-tr.vibe9958.site
@@ -10253,7 +10254,9 @@ kooponline.vercel.app
 koparmatifmarket.blogdns.com
 koperatflndmrlerid.blogdns.net
 kopermatfrklalarriindd.doomdns.com
+kopermatfrklalarriinddd.dyndns.biz
 kopermatfrklamlariiriin.blogdns.com
+kopermatfrklamlariiriind.blogdns.com
 kopermatfrklamlarriindd.dnsdojo.com
 kopkop.click
 kopmenst.duckdns.org
@@ -11557,7 +11560,6 @@ mhrsonlnesd.sbs
 mhrsoqowr.sbs
 mhrsprodevu.lol
 mhrsrandevu.ink
-mhrsrandevu346.duckdns.org
 mhrsrandevu993.duckdns.org
 mhrsrandevual.com
 mhrsrandevual.net
@@ -15584,7 +15586,6 @@ sinemcicekcilik.com
 sinirlisayidaurununuz.sbs
 sinirlisayidayagsatisi.sbs
 sinirlisayidayayinda.sbs
-sinirsizkampanyalarinizkapida.xyz
 sioparisethemenkapnda5844.duckdns.org
 siparis-cekme.pages.dev
 siparis-get-ilan.online
@@ -17743,7 +17744,6 @@ vaha-yatirim.com
 vajowigus0p3-yw4k.workers.dev
 vakif-erken-onay.duckdns.org
 vakif.pzbsin.com
-vakifbank-2--vakifbanktr.replit.app
 vakifbank.cm.tr
 vakifbank.live
 vakifbank2019web.com.ph
