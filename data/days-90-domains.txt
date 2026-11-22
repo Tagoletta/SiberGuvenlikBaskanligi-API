@@ -77,6 +77,7 @@
 101-extra-mobil-indirimli-urunler-sadece-bugune-ozel-tr.hemenkap.online
 101-extra-mobil-online-alisveris-ozel-shop-urun-bilgileri-tr.bilgim-tr.site
 101-extra-mobil-online-alisveris-ozel-shop-urun-bilgileri-tr.shops-bilgilendirme.online
+101-extra-mobil-online-bugune-ozel-alisveris-sepet-indirim-tr.mobilci.online
 101-extra-mobil-online-ozel-alisveris-urun-bilgileri-sepet-tr.cepshop.online
 101-extra-mobil-online-ozel-alisveris-urun-bilgileri-sepet-tr.e-shopmobil.site
 101-extra-mobil-online-ozel-alisveris-urun-bilgileri-sepet-tr.extrashop-mobil.online
@@ -139,6 +140,7 @@
 101-extra-online-sadece-bugune-ozel-alisveris-indirim-sepeti.bilgi-indirim-tr.online
 101-extra-online-shop-ozel-alisveris-urun-ve-sepet-bilgileri-tr.shopingers.online
 101-extra-online-shop-ozel-alisveris-urun-ve-sepet-bilgileri-tr.shopsetr.site
+101-extra-ozel-sadece-bugune-ozel-sepette-indirim-tr.extradacep.online
 101-extra-sadece-bugune-online-shop-urun-ve-sepet-bilgileri-tr.bilgimobils.online
 101-extra-sadece-bugune-ozel-alisveris-indirim-cep-tr.mobilescepte.online
 101-extra-sadece-bugune-ozel-alisveris-indirim-kuponu-tr.bilgilendirme-sepeti.online
@@ -211,6 +213,7 @@
 101-extra-sadece-bugune-ozel-online-siparis-sepeti-mobil-tr.shop-sepeti.online
 101-extra-sadece-bugune-ozel-sepet-indirimleri-mobilde-tr.sepetbox-tr.online
 101-extra-sadece-bugune-ozel-sepet-indirimleri-tr.marketteplus-tr.online
+101-extra-sadece-bugune-ozel-sepette-indirim-var-tr.shopmobilde.online
 101-extra-sadece-bugune-ozel-sepette-mobil-indirimleri-tr.buy-market.online
 101-extra-sadece-bugune-ozel-shop-sepet-indirimi-tr.hesapta-tr.online
 101-extra-sadece-bugune-ozel-shop-sepet-indirimleri-tr.vipde-indirim.online
@@ -298,6 +301,7 @@
 101-online-sadece-bugune-ozel-indiirm-sepeti-mobil-tr.shopextra.online
 101-online-siparis-ver-sadece-bugune-ozel-tr.blogers.online
 101-sadece-bugune-ozel-alisveris-indirim-sepeti-tr.sepetindevar-tr.online
+101-sadece-bugune-ozel-alisveris-indirimi-mobil-sepette.hostextra.online
 101-sadece-bugune-ozel-alisveris-indirimleri-sepette-tr.marketra-tr.online
 101-sadece-bugune-ozel-alisveris-sepeti-indirimleri-tr.storesmobil-tr.online
 101-sadece-bugune-ozel-cepte-alisveris-indirimleri-sepette-tr.shopier-tr.online
@@ -323,6 +327,7 @@
 1010010000020045.webredirect.org
 1010010177200.bounceme.net
 101001310177200.bounceme.net
+10101firsattl.duckdns.org
 10108283004588.bounceme.net
 1014545082504588.bounceme.net
 101aldinaldinextra.sbs
@@ -3001,6 +3006,7 @@ cepte-eylul.info.tr
 cepte-eylul.name.tr
 cepte-eylul.net.tr
 cepte-inter.my-homeip.de
+cepte-lndirim-gunleri.com
 cepte-lndirimlerin.com
 cepte-shop-tr.online
 cepte-t-e-b-com-tr.my-homeip.de
@@ -3077,8 +3083,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -4862,6 +4868,7 @@ frstkmpny.shop
 frstkmpnysans.shop
 frstlarkmpnyybsvrr.kmpnyasvr3453.info
 frstlarkmpy21.sonnfrslatkmonya12554.info
+frstlarrkmpnya43284.online
 frstlarrkmpnyassiibsvrremeklii.click
 frstlarrprmsnykmpnya193219.info
 frstlarrprmsnykmpnya193219.pro
@@ -5905,7 +5912,6 @@ herhangi.feints.cfd
 heritiage.org
 heritiages.org
 herkesalsindiyeburada.sbs
-herkesbizmleonlne.sbs
 herkesburdasendebasgelartk81.click
 herkeseozelteklifimiz.abrdns.com
 herkesfaydalanabilsindiyeyapilanseyler.sbs
@@ -6566,6 +6572,7 @@ icagllmbt.space
 icansamyope.com
 icbcgiris.com
 iceagelandforms.surf
+icerikbizde.abrdns.com
 icerikguncellemesi.abrdns.com
 ichikanakanon.com
 icloud-findmy.app
@@ -6600,6 +6607,7 @@ ifoodgarantibbva.com.ph
 igahyjizyran.com
 Ighop.buzz
 igniteatt.com
+igodenoji.world
 ihemenbasvur.club
 ihemenbasvur.lol
 ihemenbasvur.xyz
@@ -7847,7 +7855,6 @@ kuvttb.com
 kuvyt-promosyonlarfirsati.sbs
 kuwadsadhgasdgg929sad.click
 kuzeyfinansyatirim.com
-kuzeymenkulas.com
 kuzeymenkuldegerleras.com
 kuzeymenkulgroup.com
 kuzeymenkultr.com
@@ -8065,6 +8072,7 @@ lokkotokyo.co
 lolmetareklamfalan.shop
 lolohugudere-sedere.lol
 lonekasmeter.duckdns.org
+loneripug.world
 lonshjaertmenst.duckdns.org
 look-damages-chat-cent.trycloudflare.com
 loop.tanktvvip.com
@@ -8356,6 +8364,7 @@ meetonline.cam
 megafiloarackiralama.com
 megafiloarackiralama.org
 megthegullo.com
+megucemizol.online
 mehasrn.duckdns.org
 meherselerle.com
 mehmetatws.blogspot.com
@@ -9706,7 +9715,6 @@ papa-jon-pizza.koeln-gastro.com
 papapapxxxx.mirokamigo4.workers.dev
 papara-hepsiburada.com.ph
 papara-online.com.ph
-paparaemenkuldegerler.com
 paparalnvest.com
 paparamenkuldeger.com
 papermakellrsocioeconomic.info
@@ -10034,6 +10042,7 @@ promotion.storage-data.com
 promsynbasvrusayfasi.click
 promsyngunlerndyzbiz.sbs
 prormsynbasvr1.xyz
+prosmynkmpnyabsvr3263.online
 prosmynnkmpnyaabsavrr.online
 protechlabcorp.opticaberl.com
 protectaeeble.info
@@ -10698,6 +10707,7 @@ sahibinden-get.islemsepetler-40.sbs
 sahibinden-get.islemsepetleri-45.sbs
 sahibinden-get.jethizmetin2-ru.online
 sahibinden-get.kargoilesiparis.com
+sahibinden-get.mobilguvenle.sbs
 sahibinden-get.mobilhizmetlerim1.sbs
 sahibinden-get.mobiliservis.com
 sahibinden-get.mobilsepetalim-15.online
@@ -11367,7 +11377,6 @@ slmmmmbbbrrdsasd.duckdns.org
 slokmarkltin.lol
 slordanslordan.shop
 sls-onlinetuvhizli.site
-sltelye-ylnendirivmici.com
 sltnnt.ru
 slyfogx.shop
 smartbusinessclass.sbs
@@ -11456,7 +11465,6 @@ soljmarlktlr.calilncenmaknlr.sbs
 solkmalrkeler.sualtihizleri.shop
 solkmarlektler.shop
 solkmce-pte.lol
-solkmlrkatler.com
 solktanmarketler.shop
 solktanmarlektler.shop
 sollink.cloud
@@ -12971,6 +12979,7 @@ vodafaonne.fun
 vodafaonne.pics
 vodafaonne.shop
 vodafaoone.shop
+vodafone-admin-app.netlify.app
 vodafoone.boats
 vodafoonne.bond
 voicearch.online
@@ -13060,6 +13069,7 @@ web-tr-islemler-get-alisveris.online
 web-tr-islemler-getalisveris.online
 web-tr-islemlerim-getalisveris.online
 web-tr-islemlerin-getalisveris.online
+web-vodafone.netlify.app
 web.evsahibibasvuru.com
 web1.evsahibibasvuru.com
 web5-4v9a-online-garantibbva.vibtee.com
@@ -13375,6 +13385,7 @@ www-nerde-cepte-tbayrica.myonlineportal.ch
 www-nerdecepte-tb-ayricalik.myonlineportal.ch
 www-niptb-cepte-ayrica.myonlineportal.ch
 www-npstb-cepte-tb.myonlineportal.ch
+www-offper-tbayrica-cpt.myonlineportal.ch
 www-offtbde-cept-ayrica.myonlineportal.ch
 www-oncetb-hakycp-web.myonlineportal.ch
 www-only-tb-ceptewby.myonlineportal.ch
