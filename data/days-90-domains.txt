@@ -330,6 +330,7 @@
 1010010000020045.webredirect.org
 1010010177200.bounceme.net
 101001310177200.bounceme.net
+10100kampanya.duckdns.org
 10101firsattl.duckdns.org
 10108283004588.bounceme.net
 1014545082504588.bounceme.net
@@ -796,6 +797,7 @@
 512512351213hizlcsmler-aracm360ptavm.space
 5125125125.duckdns.org
 512551213hizlcsmler-aracm360ptavm.online
+51291271766.cloud
 51299657326612.cloud
 51515151222.duckdns.org
 52165215.sbs
@@ -824,6 +826,7 @@
 58475kmpnyaprmsyn.pro
 58746231basvrurksmynansda.online
 5896328bsrrprsmynnkmpny.click
+59127768203882.cloud
 5943kmpnyasadprsmyn.online
 5959snfprsmasdj.info
 5959snfprsmasdj.pro
@@ -946,6 +949,7 @@
 958745521bsvrprmsynnnkmpnyyyy.info
 958745521bsvrprmsynnnkmpnyyyy.pro
 96.ip-51-91-100.eu
+9652368sonfrsrlakmpny.click
 968574sonfrstlarrkmpnpyaabsvr.info
 968574sonfrstlarrkmpnpyaabsvr.online
 9685sonfrsltar.info
@@ -3089,8 +3093,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -5268,6 +5272,7 @@ gitarkursistan.duckdns.org
 gitnow.dev
 gitprogram.com
 gittigidiyor-calculations.ph
+gizaycicek.com
 gizemliaysubesindeyzbz.duckdns.org
 gizemligunlersdz.sbs
 gizemlisubesindyz.duckdns.org
@@ -7511,6 +7516,7 @@ kisgunlerindeyiz.cfd
 kisiyedegilherkesegecerli.sbs
 kisiyeozeldegilherkeseozel.sbs
 kissfirsatlariiprsmynn.ksmmkmpnylrbsvr8547.click
+kissfrsiatlarii31.yakndaasonaerecek1325.click
 kit-pro-bot.click
 kitsumc.com
 kittensmp.com
@@ -7810,6 +7816,7 @@ kubamodellerisatis.com
 kubamotor.net
 kubamotorsatis.com
 kubamotorsonline.com
+kubamotortr.com
 kubamotoryedekparca.com
 kubaonlinetr.com
 kubaonlineturkiye.com
@@ -10039,6 +10046,7 @@ protechlabcorp.opticaberl.com
 protectaeeble.info
 protectedviewer.linkpc.net
 protokol-mfa.com
+prsmynkmnpya219.online
 prsmynnkmpya12391.pro
 prsmynnnbasvruurkmpygdsa58967.online
 psk1zim.abrdns.com
@@ -13379,6 +13387,7 @@ www-partytb-web-live.myonlineportal.ch
 www-pertb-page-cepte.myonlineportal.ch
 www-pmtb-cepte-door.myonlineportal.ch
 www-pointb-cpttb-gorunum.myonlineportal.ch
+www-processtb-weptan-ayrica.myonlineportal.ch
 www-requestwb-tb-cpt.myonlineportal.ch
 www-sayfatb-cepte-ayricalik.myonlineportal.ch
 www-seritbde-ayricalik-web.myonlineportal.ch
@@ -13535,6 +13544,7 @@ yagrehberi.online
 yagyagyag.site
 yagyudum.online
 yakindsasdf438.online
+yakndaasonaerecek1325.click
 yale-people-correct-staffing.trycloudflare.com
 yam-cgi.lvborses.net
 yamakiro.live
