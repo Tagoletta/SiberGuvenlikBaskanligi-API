@@ -186,6 +186,7 @@
 101-extra-sadece-online-ozel-shop-urun-bilgileri-alisveris.bilgiselshopier.site
 101-extra-sepette-indirim-sadece-bugune-ozel-tr.getshop-tr.online
 101-firsatlari.duckdns.org
+101-kampaanya.duckdns.org
 101-kampanyalaribuguneozel.sbs
 101-mobil-bugune-ozel-alisveris-sepeti-indirim-mobilde-tr.sepetimde.online
 101-mobil-bugune-ozel-extra-indiriml.shopping-tr.online
@@ -1409,16 +1410,20 @@ avsaracinfilo.com
 avsaracingelsin.com
 avsaracinkurumsal.com
 avsarackirala.com
+avsarackirala.net
 Avsbayisi.com
 avscomtr.com
+avsfiilokurumsal.com
 avsfilokiiralama.com
 avsfilokiralama.online
 avsfilokiralik.com
+avsfilokurumsal.net
 avsfilomkirala.com
 avsfilomkiralama.com
 avsfilomkurumsal.net
 avsfilomkurumsal.org
 avsfilonukirala.com
+avsfilorentacar.net
 avsfilorentkiralama.com
 avsfilorezervasyon.net
 avsfiloturkey.net
@@ -1435,6 +1440,7 @@ avskurumsalotomotiv.com
 avsotomotivkirala.com
 avsotorentacar.com
 avsrentacarfilo.com
+avsrentacarfilo.net
 avsrentkurumsal.com
 avsskiirala.com
 avsturkiyefilo.com
@@ -2405,7 +2411,6 @@ digitalinadresiyapi.xyz
 digitalmeyislemenu.work.gd
 digittal.cfd
 digittal.sbs
-dijital-aldinaldin-siparisver.sbs
 dijitalbasvuru-kredi.sbs
 dijitalbuguneozel-kampanyasi.sbs
 dijitalhizligiris-ziraatbireyselmobil.sbs
@@ -2572,7 +2577,6 @@ e2lshs9wv2kk8l46h.theworkpc.com
 e3l34e5877l579lh.mytunnel.org
 e5s4h22el4hw89h5.opik.net
 e5v2e66hle4e4shs.eth64.de
-eadaletcezadosya.org
 eadli.org
 earn.fm
 eastggsdbda.giize.com
@@ -3853,6 +3857,7 @@ halkolanmalko.club
 halkooperatif.app
 halksglkrhbr.cfd
 halkyatirim-tr.info
+hamhamhamhamhamh.online
 haoekang.com
 haoekang.net
 harasin-ox.lvborses.net
@@ -3934,7 +3939,6 @@ hemenhizlikalirizbizantepekibi.duckdns.org
 hemenislemlerm.lol
 hemenislmnktasia.net
 hemenkap.online
-hemenkapinda.duckdns.org
 hemenkiralikavs.com
 hemenkontrolsagla.abrdns.com
 hemenltakns.at
@@ -3972,7 +3976,6 @@ herseyhizlicaveguzelce.com
 heryereherkesehaberverin.sbs
 herzamansizlerleyiz.online
 hesapavantaji.cyou
-hesaplikasabim.site
 hesaplikasabim.world
 hesaprotasi.cyou
 hesapta-tr.online
@@ -4297,6 +4300,7 @@ hizlicahalledek.web.app
 hizlicahalledin.biz
 hizlicicekci.org
 hizlicozum.icu
+hizlifilokirala.net
 hizlifirsatim.com
 hizligecis-hgsbkysleyklemes.netlify.app
 hizligecis-hgsbkysleyklemescan.netlify.app
@@ -4315,6 +4319,8 @@ hizlionline-bilgi.com
 hizlionlinekredibasvurusu.loseyourip.com
 hizliotoavs.com
 hizliotokirala.com
+hizliotokirala.net
+hizliotokiralama.net
 hizliservis-35bca7801b37.herokuapp.com
 hizlisgecisnayolsyukleyn.art
 hizlkmsorgu.web.app
@@ -6389,6 +6395,10 @@ overislem.22web.org
 ovisfilo.com
 ovisfilokirala.com
 ovisfilokurumsal.com
+ovisfilokurumsal.net
+ovisfilorentacar.net
+oviskiralama.com
+oviskurumsal.com
 owleblo.net
 ox-api.ftwestseattle.com
 oyakemenkuldegerler.com
@@ -7149,6 +7159,7 @@ sahibinden-sepet.guvendeticaretnet.store
 sahibinden-sepet.onlinesepetimde.store
 sahibinden-sepet.sepetimonaycom.surf
 sahibinden-sepetim.sepetimdeonline.shop
+sahibinden-tr-paramguvende.siparis-onayi.shop
 sahibinden.alisveris-islemsepet-15.sbs
 sahibinden.get-guvenliodeme.online
 sahibinden.guvenliodeme-get.online
@@ -7166,6 +7177,7 @@ sahibinden.odeme-onay-1285.com
 sahibinden.odeme-onay-1293.com
 sahibinden.online-satislari-burada.com
 sahibinden.secure-ilan.com
+sahibinden.secured-ilan.com
 sahibinden.sepetim-onayli-147426.com
 sahibinden.sepetimdeonline.shop
 sahibinden.sepetinizde.com.tr
