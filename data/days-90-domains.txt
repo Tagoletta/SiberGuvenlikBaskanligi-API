@@ -20,6 +20,7 @@
 0nline-sok-markett.duckdns.org
 0rl.link
 0tuvturkorg.duckdns.org
+1-0-1-kampanya.duckdns.org
 1.482319.xyz
 1.517413.xyz
 1.604446.xyz
@@ -5178,7 +5179,6 @@ gentle.best
 gentlevector.com
 geoveral.ink
 geoveral.space
-gerdenleawkelr.duckdns.org
 gere6677.site
 gerlace.com
 ges.1001gacor.org
@@ -7519,7 +7519,6 @@ kittensmp.com
 kittyscrafts.com
 kivirmasi.online
 kiwebif2403.sbs
-kizlarvixlex.sbs
 kjkgmvlmlm3431.shop
 kkdldsnfds.shop
 kkeyyou.cc
@@ -8510,6 +8509,7 @@ mhrs-onlinerndvu.sbs
 mhrs-randevu-islem.vercel.app
 mhrs-sistem.vercel.app
 mhrs-yenidenoo.sbs
+mhrs.85-235-74-24.sslip.io
 mhrsgad.art
 mhrsgfrgr.com
 mhrsislem-yeni.vercel.app
@@ -8775,6 +8775,7 @@ mobilservisler-39.sbs
 mobilservisler-57.sbs
 mobilservisler-61.sbs
 mobilservisler-64.sbs
+mobilservisleri-42.sbs
 mobilsokkamp.site
 mobilsube.teb.com.se
 mobiltebcepte.my-homeip.de
@@ -9651,7 +9652,6 @@ oyakmenkuldegerler.net
 oyakmenkulyatirim.com
 oyakmobil.com
 oyakportfoytrader.com
-oyaktradeplus.com
 oyaktraderplus.com
 oyakyatirimdegerler.com
 oyakyatirimmenkul.com
@@ -10079,6 +10079,7 @@ ptt.mobilguvenle.sbs
 ptt.mobilservis-26.sbs
 ptt.mobilservisler-34.sbs
 ptt.mobilservisler-75.sbs
+ptt.mobilservisleri-42.sbs
 ptt360avm.com
 pttavkilometresrgu.web.app
 pttavm-bireysel-siparis.com
