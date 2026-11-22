@@ -487,8 +487,6 @@
 124451545544554888787996.duckdns.org
 124451545544554888787997.duckdns.org
 124451545544554888787998.duckdns.org
-1245115544166558998990.duckdns.org
-1245115544166558998991.duckdns.org
 1245115544166558998992.duckdns.org
 1249124919.duckdns.org
 124992004888522.webredirect.org
@@ -624,6 +622,7 @@
 1o1haftaninyldizlari.com
 1o1hftyldzlr.click
 1o1markethftninyldizlari.duckdns.org
+1orvexalithrontechnologies.cyou
 1qwd9s99.click
 1reklammetaonline.cfd
 1scdacdx123c123x12312.cfd
@@ -986,6 +985,7 @@
 5mp.eu
 5vobauua3ojpklx.icu
 5wg3w278e3oamlohmcinrkh.live
+5xentavexoriontechnologies.cyou
 6.ddns.me
 60.chezmae.com
 60.yourhh.com
@@ -1607,7 +1607,6 @@ ahefi.com
 ahlarahdalders.duckdns.org
 ahlatcimenkuldegerler.xyz
 ahlatciyatirim.co
-ahlbindendestek.com
 ahlprosube.com
 ahlsube.com
 ahmetasdds.blogspot.com
@@ -2630,6 +2629,7 @@ avsotokiralama.net
 avsotokockiralama.com
 avsotomotivkirala.com
 avsotorentacar.com
+avsrentacarfilo.com
 avsrentkurumsal.com
 avssfilokiralama.com
 avsskiirala.com
@@ -3943,8 +3943,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -8791,6 +8791,7 @@ ilan-satisi.online
 ilan-sepetleri-burda.com
 ilan-sepetlerimiz-alisveris.com
 ilan-sepetlerimiz-burada.com
+ilan-siparis-tr.online
 ilanda-sepetim-1091.com
 ilanda-sepetim-1092.com
 ilanda-sepetim-1093.com
@@ -11791,6 +11792,7 @@ mobil-ozel-tr.site
 mobil-ozel.site
 mobil-simdi.com
 mobil-sube.teb.com.se
+mobil-tamamlama.com
 mobil-teb-gir.my-homeip.de
 mobil-teb-onay.my-homeip.de
 mobil-teb.com
@@ -12041,7 +12043,6 @@ mwcspraseves.duckdns.org
 mxzkvaksapf-samxzkvsap-asfkwqpsaf.sbs
 my-facebook-login-deal.ph
 my-invite.org
-my-securty-gr.ink
 myaccountsecurity.com
 myconnectkey.com
 mydirect.space
@@ -12783,7 +12784,6 @@ oktasession.com
 okul.acildi.ho.sadhjefaksaf.click
 okuladonuskmp-101.com
 okuneva.sbs
-okuyucum-son-web.ink
 olaraganba.click
 old.evsahibibasvuru.com
 oldsvlseeyluldeyzb.giize.com
@@ -13166,7 +13166,6 @@ oylebirurunbulduk.xyz
 oylecebakmabana.sbs
 ozdeslesim-tire.ink
 ozel-firsatlarsizeozel.vercel.app
-ozel-hizmet-islemleri.com
 ozel-indirimler.online
 ozelarackiralama.com
 ozelbankacilik25.com
@@ -14994,7 +14993,6 @@ sahibindensatici.live
 sahibindensatis.live
 sahibindensatis.org
 sahibindensatis.xyz
-sahibindensatisonay.com
 sahibindensatiss.click
 sahibindensigorta.click
 sahibindensigorta.quest
@@ -15006,6 +15004,7 @@ sahihinden.com.tr
 sahihindeni.com.tr
 sahinden-param-guvende.siparis-onayi.online
 sahiplenici-edinim-gr.ink
+sahlbindendestek.com
 sahlbindeni.com
 sahlbindeni.com.tr
 sahnazceylans.duckdns.org
@@ -15198,10 +15197,8 @@ selectumresortshotels.com
 selectumresortshotels.net
 selesy-mlg-tr.myonlineportal.ch
 selgebeachmanavgat.com
-selgebeachresortside.com
 selgebeachs.com
 selgebeachsresorts.com
-selgehotels.com
 selgeotelside.com
 selgeresortbeachside.com
 selgeresortside.com
@@ -17366,7 +17363,6 @@ turkishairlinesadmin.ph
 turkishairlinesais.com.ph
 turkishairlineskampanyalari.zelenskkk.click
 turkishairlineskampanyalari.ziyoklam.click
-turkishairlineskampanyalari.zosssdalin.click
 turkishairlinesline.ph
 turkishairlinessignal.ph
 turkiye-bankas.sbs
@@ -17417,6 +17413,7 @@ turktelekom-basvuru.vip
 turktelekom.sbs
 turktelekomtariflari.vip
 turkticaret-servis-idcheck8820137.diars.it
+turkticaret-servis-managerid9274290.amicibassottoclub.it
 turkticaretbankasi.login.org.tr
 turktoday.blog
 turna-tr.com
