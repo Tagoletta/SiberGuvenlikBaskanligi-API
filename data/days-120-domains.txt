@@ -2935,7 +2935,6 @@ bedavapanelciniz.website
 bedavapanelhizmetleri.click
 bedavapanelhizmetleri.website
 bedavapanelhizmetleri.world
-bedavapanelimizyeniden.gt.tc
 bedavapanelisteyengelsinnn.click
 bedavapanelvarlan.click
 bedavasorgu.site
@@ -3941,8 +3940,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
