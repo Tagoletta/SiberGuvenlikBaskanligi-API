@@ -169,7 +169,6 @@
 101-extra-sadece-bugune-ozel-alisveris-shop-market-indirimi-tr.shops-cep-mobil.online
 101-extra-sadece-bugune-ozel-alisveris-tr-mobil.hemenal.site
 101-extra-sadece-bugune-ozel-cepte-siparis-indirimi-tr.cepio-tr.online
-101-extra-sadece-bugune-ozel-indirim-alisveris-sepeti-tr.web-market.online
 101-extra-sadece-bugune-ozel-indirim-sepete-ekle-tr.mobils-bilgide.online
 101-extra-sadece-bugune-ozel-indirim-sepeti-cepte-tr.b70004.site
 101-extra-sadece-bugune-ozel-indirim-sepeti-online-tr-cep.alisverisgo.online
@@ -1956,7 +1955,6 @@ asncxbyaaasdanala.8796451654165333.sbs
 asncxbyaaasdanala.8889655532144.sbs
 asncxbyaaasdanala.89415648951651.sbs
 asncxbyaaasdanala.8941568418975.sbs
-asncxbyaaasdanala.894216546865.sbs
 asncxbyaaasdanala.894734547864156.sbs
 asncxbyaaasdanala.9479845619688.sbs
 asncxbyaaasdanala.995444566222.sbs
@@ -2089,6 +2087,7 @@ avskiralla.com
 avskockiralama.com
 avskocrental.net
 avskurumsalkirala.com
+avskurumsalotomotiv.com
 avsotokiralama.net
 avsotokockiralama.com
 avsotomotivkirala.com
@@ -3087,8 +3086,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliyesorgu.com
@@ -5756,7 +5755,6 @@ harcportal.com
 harctahsil.com
 harikaservis-66024f4ca84b.herokuapp.com
 harmttlessly.info
-harykents.duckdns.org
 hasardosyatakip.com
 hasdawww.click
 hashimimran.22web.org
@@ -7149,7 +7147,6 @@ jagrosorgu.online
 jalerdawsw.duckdns.org
 jambojournal.org
 jansportturkiyeoff.com
-jasdmonester.duckdns.org
 jdfsakdkasd.shop
 jdknsfjdksnfsd.com
 jdksnfjksdfjnsk.shop
@@ -7383,7 +7380,6 @@ karayel.live
 karcaekimgnleri.com
 karcher-tr.com
 karchrfirsatlari.online
-kardiyosporfitnessxr.duckdns.org
 karemenkulkiymetler.com
 karentino.gifts
 kargoguvenli.com
@@ -8858,7 +8854,6 @@ mq-task.qt-team.com
 mqwmqtq.blogspot.com
 mr5str2ws2d.com
 mrcfilo.com
-mreodelafenta.duckdns.org
 mrhlrsmsmcm.com
 mrhmrsmxmlm.com
 mrhrlsmxlm.com
@@ -10752,7 +10747,6 @@ sahibinden-get.mobilsepetalim-25.online
 sahibinden-get.mobilsepetalim-35.sbs
 sahibinden-get.mobilsepetalim-40.sbs
 sahibinden-get.mobilsepetlerim1.com
-sahibinden-get.mobilsepetlerimtrservisin.online
 sahibinden-get.mobilsepetllerservisim.online
 sahibinden-get.mobilservis-25.sbs
 sahibinden-get.mobilservis-26.sbs
@@ -10958,7 +10952,6 @@ sahihinden.com.tr
 sahihindeni.com.tr
 sahinden-param-guvende.siparis-onayi.online
 sahlbindendestek.com
-sahlbindeni.com
 sahnazceylans.duckdns.org
 sahtedom9999.duckdns.org
 sakreatif.online
@@ -12021,7 +12014,6 @@ tasarla-togg.com
 taskafatst.xyz
 taspectra.com
 tastan.av.tr
-tastypepper.info
 tatfx.buzz
 tatil.son.bitti.eldengelenler.click
 tauchtechnik.com
@@ -12795,7 +12787,6 @@ umrfrstlsmdi.click
 umudimimu.online
 umutcanwuooppinadsde.xyz
 un-mofa-gov-np.workers.dev
-un98exb3k22azr3z7c.sbs
 unimarc-gifts.com
 unisalesemina.giize.com
 univozai.com
