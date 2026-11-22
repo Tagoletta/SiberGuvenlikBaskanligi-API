@@ -6700,7 +6700,6 @@ ilan-satisi.online
 ilan-sepetleri-burda.com
 ilan-sepetlerimiz-alisveris.com
 ilan-sepetlerimiz-burada.com
-ilanda-sepetim-1099.com
 ilanda-sepetim-1101.com
 ilanda-sepetim-1102.com
 ilanda-sepetim-1103.com
@@ -9463,7 +9462,6 @@ odeme-onay-1292.com
 odeme-onay-1293.com
 odeme-onayli-tr.online
 odeme-tamamla.com
-odememguvende.online
 odemeni-gerceklestir.com
 odemeonayli-tr.online
 odemsmihgssmid.cfd
@@ -13974,7 +13972,6 @@ ziraatyatirimborsahesabi.pro
 ziralmobilislemlerl.duckdns.org
 ziralmobilonlineislemlerimtr.duckdns.org
 ziraqvmtxkplndwbhsca.sbs
-zirat.sbs
 ziratkampanya.sbs
 ziratkampanyadan.sbs
 ziratkampanyasi.sbs
