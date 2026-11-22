@@ -978,6 +978,7 @@ cepte-teb-mobile.my-homeip.de
 cepte-teb-mobilim.my-homeip.de
 cepte-teb-pro.my-homeip.de
 cepte.teb.com.se
+cepteb.mobile-login.org
 ceptebli.my-homeip.de
 cepteindirims-tr.online
 ceptemobil.my-homeip.de
@@ -1955,7 +1956,6 @@ helpdeskteam365.onmicrosoft.com
 hemasnlaknsata.blogspot.com
 hemenhizlikalirizbizantepekibi.duckdns.org
 hemenkiralikavs.com
-hemenkontrolsagla.abrdns.com
 hemenltakns.at
 hemngvmhc.net
 hemngvnc.net
