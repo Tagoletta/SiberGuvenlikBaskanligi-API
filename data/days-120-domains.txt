@@ -3962,8 +3962,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -4668,6 +4668,7 @@ dijital-simdial.sbs
 dijital-simdikapinda.sbs
 dijital-sipariskapinda.sbs
 dijital-siparislerkapinda.sbs
+dijital-turkiye.com
 dijital-urunkapinda.sbs
 dijital-urunlerkapinda.sbs
 dijitalbasvuru-kredi.sbs
@@ -5575,6 +5576,7 @@ esubedunyamportfoy.com
 esubem-teb.my-homeip.de
 esubem.kuzeymenkultr.com
 esubem.my-homeip.de
+esubereferansinfo.com
 esubeturkishkayit.com
 esvfecawvjmchjslqyemho2fiduc59wzn.oast.fun
 etahkimceza.com
@@ -9158,6 +9160,7 @@ isdestekbasvurusu.cfd
 iseekaigogo.com
 ishano456.sbs
 isht.ink
+isirftod-1639245159-uvugdbg-83218.dijital-turkiye.com
 isiticibirligindeyiz.sbs
 isiticidunyasindailkler.sbs
 isko-web.ink
@@ -12456,6 +12459,7 @@ nnvirandevubilgilendirmetr.blogspot.com
 nobilservislerim-2.sbs
 nobrains.localto.net
 node.androiddebugbridge.su
+node8.dijital-turkiye.com
 nodemyayun.otax.store
 noedjsetertas.duckdns.org
 noevara.shop
@@ -13199,6 +13203,7 @@ oyaktradeplus.com
 oyaktraderplus.com
 oyakyatirimdegerler.com
 oyakyatirimmenkul.com
+oyakyatirimmobil.com
 oyakyatirimtradeplus.com
 oykmenkul.com
 oylebirurunbulduk.xyz
