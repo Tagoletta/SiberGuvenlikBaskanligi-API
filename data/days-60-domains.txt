@@ -52,7 +52,6 @@
 101-extra-bugune-ozel-mobil-alisveriste-sepette-indirim-firsat.hesapli-tr.online
 101-extra-bugune-ozel-mobil-indirimler-alisveris.genelsepet.online
 101-extra-bugune-ozel-mobil-sponsor-tr.online-sepet-sponsor-tr.lol
-101-extra-bugune-ozel-online-alisveris-sepet-mobil-indirimi-tr.cepinde.online
 101-extra-bugune-ozel-online-alisveris-sepeti-mobilde-tr.bireyselcep-mobilde.online
 101-extra-mobil-alisveris-bugune-ozel-indirim-tr.shoplas-tr.online
 101-extra-mobil-bugune-ozel-indirimli-alisveris-bilgi-cep-tr.birsepet-tr.site
@@ -1416,6 +1415,7 @@ avskocrental.net
 avskurumsalotomotiv.com
 avsotomobilkirala.com
 avsotomotivkirala.com
+avsotomotivturkiye.com
 avsotorentacar.com
 avsrentacarfilo.com
 avsrentacarfilo.net
@@ -1574,7 +1574,6 @@ bekleyiniz112233.blogspot.com
 bekleyiniz34455656.blogspot.com
 bekosepeti.com
 belgedogrulama.e-turkiye-gov.com.ua
-beli7774.site
 beliefdesk.xyz
 bellebox.gifts
 bellislem.22web.org
@@ -2049,7 +2048,6 @@ cezabildirim.com
 cezadosyabilgi.com
 cezadosyabilgisi.com
 cezahazine.com
-cezamali.org
 cezamaliye.net
 cezamasak.org
 cezasesorgu.net
@@ -2723,7 +2721,6 @@ elvoranix.com
 elvoranix.online
 email-mfa.org
 emails-tr.com
-emakbapaklugimanasehat.my.id
 emaliasliye.com
 emalidosya.com
 emalievrak.com
@@ -3846,7 +3843,6 @@ hastnmkemell.lol
 hastnmkemnle.lol
 hathathathahta.sbs
 havaistislem.ist
-havaisttis.online
 havaistxbilet.online
 havaistxnbul.com
 havaxistis.online
@@ -3899,6 +3895,7 @@ helpdesk-support-office-4.com
 helpdesk-support-us-ny.com
 helpdesk-support-us3.com
 helpdeskteam365.onmicrosoft.com
+helval.shop
 hemasnlaknsata.blogspot.com
 hemenapaortal.lol
 hemenfirsatlarikacirmadanhizlicadavran.info
@@ -4427,7 +4424,6 @@ hzlirndvlr.cfd
 hzlmyndsvzen.net
 hzlmyndsvzen.site
 hzlnsdanismanlk.com.tr
-hzlnsdanismanlk.net
 hzlrnd.cfd
 hzlsaglkrhbr.cfd
 hzlsstmlndaaarserrn.com
@@ -4879,6 +4875,7 @@ jointoamber.xyz
 jointoavail.xyz
 jointuring.xyz
 joinwebflow.xyz
+jokerfilokiralama.com
 jomenstas.duckdns.org
 jona-construction.com
 jopabel.live
@@ -5468,6 +5465,7 @@ luckytap.cc
 lulunotescompany.com
 lumenlink.top
 lumenorbit.space
+lumexiara.online
 lumitexaicloud.com
 lumitexaihub.com
 lumitexbasex.com
@@ -5675,6 +5673,7 @@ menkulcuzdanim.online
 menkuldegerleroyak.com
 menkulkiymetlerosmanli.com
 menkulkiymetleroyak.com
+menkulportfoy.app
 menkulvcuzdan.com
 mensweariuunners.info
 meravito.com
@@ -6121,7 +6120,6 @@ nlatknakakakl.net
 nlkkknlnklklnxx.duckdns.org
 nlknkramas.net
 nlltakmar.net
-nlltamhen.net
 nlnlnknmknmkn.sbs
 nlntkamams.net
 nltakamasm.net
@@ -6526,6 +6524,7 @@ planer7.com
 planer7.online
 platformunsahipleri.xyz
 platincar.com
+plausiblenesbbses.info
 play.kitsumc.com
 playios.net
 playsuperseed.online
@@ -7066,7 +7065,6 @@ sahibinden-get.servisepetin-15.sbs
 sahibinden-get.servisepetin-20.sbs
 sahibinden-get.servisinguvenli-75.sbs
 sahibinden-get.servisinguvenli-80.sbs
-sahibinden-get.servislerinmobil-12.sbs
 sahibinden-get.servislerinmobil-13.sbs
 sahibinden-get.urundetay-sepet-10.sbs
 sahibinden-get.urundetay-sepet-15.sbs
@@ -7308,7 +7306,6 @@ servisinguvenli-68.sbs
 servisinguvenli-75.sbs
 servisinguvenli-80.sbs
 servislerinislemler.sbs
-servislerinmobil-12.sbs
 sessivesnet.us
 sessseehlheeh2r896hlvlhd3se.freeddns.org
 setuppdfsoft.com
@@ -7830,7 +7827,6 @@ tarmyonmsdddd.blogdns.com
 tarrinessooes.info
 tasarla-togg.com
 taspectra.com
-tastan.av.tr
 tatfx.buzz
 tauchtechnik.com
 tauzakyollarda.click

@@ -311,7 +311,6 @@
 101-sadece-bugune-ozel-extra-indirim-alisverisi-tr.marketjet.online
 101-sadece-bugune-ozel-extra-mobil-indirim-sepeti-tr.onlinesiparis.online
 101-sadece-bugune-ozel-extra-mobil-sepet-indirimleri-tr.alisverisjet.online
-101-sadece-bugune-ozel-extra-sepet-alisveris-indirimi-tr.market-extra.online
 101-sadece-bugune-ozel-extra-sepet-indirimleri-mobil-online-tr.jet-shop.online
 101-sadece-bugune-ozel-indirim-kampanyasi-sepette-extra-tr.cepte-bilgisel.online
 101-sadece-bugune-ozel-indirimli-sepet-mobile-ozel-extra-tr.sepetjet.online
@@ -492,7 +491,6 @@
 13395003853566003.duckdns.org
 13395003853fark.duckdns.org
 1379889898999899091.duckdns.org
-1379889898999899092.duckdns.org
 1379889898999899093.duckdns.org
 1379889898999899096.duckdns.org
 1379889898999899097.duckdns.org
@@ -1454,7 +1452,6 @@ alisveris-sepetinde-10.sbs
 alisveris-sepetinde-15.sbs
 alisveris-sepetinde-20.sbs
 alisveris-sepetinde-25.sbs
-alisveris.lol
 alisverisepet-islem-10.sbs
 alisverisepetin-12.sbs
 alisverisepetin-13.sbs
@@ -2096,6 +2093,7 @@ avsotokiralama.net
 avsotokockiralama.com
 avsotomobilkirala.com
 avsotomotivkirala.com
+avsotomotivturkiye.com
 avsotorentacar.com
 avsrentacarfilo.com
 avsrentacarfilo.net
@@ -3088,8 +3086,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliye.net
@@ -3417,7 +3415,6 @@ dasdasds.online
 dashboard.asteara.org
 dashboard.cklomino.ink
 dashboard.gaganata.ink
-dassdaasd16.blogspot.com
 data-sys-seq.top
 datamons.org
 datvanton.info
@@ -3944,7 +3941,6 @@ efesoskr.bot.cd
 efokesker.ccwu.cc
 efsane-cuma-indirimleri-teknosa.duckdns.org
 efsane-cuma-ozel-firsatlari-teknosa.webredirect.org
-efsane-lndirim-havasl-kaplna-geldl.com
 efsanekasaburadaala.com
 efsaneucuzlukburadadir.com
 efsgarantisker.ice.fo
@@ -5407,7 +5403,6 @@ gratis.millers-house.com
 gratis.mvolkov.com
 gratis.nexiapy.com
 gratis.nottheweb.com
-gratis.paperbacksins.com
 gratis.ploteando.com
 gratis.poloniacruz.com
 gratis.raspberrydevice.com
@@ -5766,7 +5761,6 @@ havaxistis.online
 havenistanbul.net
 havxaistbilet.site
 hay3ykleme.22web.org
-hayajad.sbs
 hayatimiyiktinbeinsan.sbs
 hayatkadiniseviyorum.duckdns.org
 haydisizdegelinverandevunuzualin.duckdns.org
@@ -5789,7 +5783,6 @@ hazmedemeyenvar.sbs
 hb-whatsapp-takip.vercel.app
 hblnife.co
 hblnife.com
-hbnmhlrsarndlv.com
 hbomax-macos.com
 hbomaxx.app
 hbomaxx.us
@@ -5830,6 +5823,7 @@ helpdesk-support-office-4.com
 helpdesk-support-us-ny.com
 helpdesk-support-us3.com
 helpdeskteam365.onmicrosoft.com
+helval.shop
 hemasnlaknsata.blogspot.com
 hemcnsa.duckdns.org
 heme-sn-sonuc.net
@@ -5957,7 +5951,6 @@ hgsdolumbayniz.art
 hgsgecisbakyniz.web.app
 hgshukukbirimi.ph
 hgsodeme.vercel.app
-hgsodndismdi.cfd
 hgsx-web.vercel.app
 hgsyklemelerde.duckdns.org
 hgsyklezmnipraykle.cfd
@@ -6279,7 +6272,6 @@ hizlicicekler.duckdns.org
 hizlicicektr.online
 hizlicozum.icu
 hizlidanismanlikllaar.com
-hizlidanismanlikllar.com
 hizlidoldurmagcs.web.app
 hizlifilokirala.net
 hizlifirsatim.com
@@ -6430,7 +6422,6 @@ homefask.duckdns.org
 homehub.opik.net
 homelee-web-world.cyou
 homenstdf.duckdns.org
-homensterkljsf.duckdns.org
 homeofexcellentproducts.org
 homesjersfter.duckdns.org
 homesnetlerkest.duckdns.org
@@ -6639,7 +6630,6 @@ ilan-sepetleri-burda.com
 ilan-sepetlerimiz-alisveris.com
 ilan-sepetlerimiz-burada.com
 ilan-siparis-tr.online
-ilanda-sepetim-1103.com
 ilanda-sepetim-1104.com
 ilanda-sepetim-1105.com
 ilangetsiparis.online
@@ -7177,6 +7167,7 @@ jointoamber.xyz
 jointoavail.xyz
 jointuring.xyz
 joinwebflow.xyz
+jokerfilokiralama.com
 jomenstas.duckdns.org
 jona-construction.com
 jopabel.live
@@ -7920,7 +7911,6 @@ lebraku-lyt-g.myonlineportal.ch
 legendaryoutdoor.org
 leh98w224e55hhsx.api64.de
 lel9ehesswfkuhyw.dns64.de
-lemandelasdera.duckdns.org
 leoartkmddayibrkkk.duckdns.org
 leoartksnbrrhrsdsnbttn.com
 leocangurcu.duckdns.org
@@ -8092,6 +8082,7 @@ lulunotescompany.com
 lumenlink.top
 lumenorbit.space
 lumex2qorin9zavetukar.sbs
+lumexiara.online
 lumitexaicloud.com
 lumitexaihub.com
 lumitexbasex.com
@@ -8372,6 +8363,7 @@ menkulcuzdanim.online
 menkuldegerleroyak.com
 menkulkiymetlerosmanli.com
 menkulkiymetleroyak.com
+menkulportfoy.app
 menkulvcuzdan.com
 mensweariuunners.info
 meravito.com
@@ -8860,7 +8852,6 @@ mucize.bizler.sonhizmet.fdsasasdkasd.click
 mucize.bizler.sonhizmet.usafjasdkasd.click
 mudonano.com
 muhtesem-lndirim-havasl-kaplna-geldl.com
-muhtesem-yuzyilin-indirimi-sende.com
 muhugilipolisedere.club
 muhuguferedeliseli.lol
 muhugufu-reteyeuy.lol
@@ -9164,7 +9155,6 @@ npugovua.cfd
 nq8h0vi.s.gy
 nqwetah.blogspot.com
 nrrhrsctyylnmase.com
-ns-wwwhaber61net.cobblex.sbs
 ns-wwwhaber7com.coliculpas.cfd
 ns-wwwhaber7com.gratispilots.beer
 ns-wwwhaber7com.grippex.cfd
@@ -9802,7 +9792,6 @@ pazarama.ikinciel-sat.com
 pazarama.ikinciel-sepet.com
 pazarama.ilan-ikinciel.com
 pazarama.ilan-sepetlerimiz-alisveris.com
-pazarama.ilanda-sepetim-1103.com
 pazarama.ilandetaylari.com
 pazarama.ile-e-islemlerde.com.tr
 pazarama.ile-islemlerdeyim.com.tr
@@ -9918,6 +9907,7 @@ planer7.com
 planer7.online
 platformunsahipleri.xyz
 platincar.com
+plausiblenesbbses.info
 play.kitsumc.com
 playios.net
 playsuperseed.online
@@ -10902,7 +10892,6 @@ sahihinden.com.tr
 sahihindeni.com.tr
 sahinden-param-guvende.siparis-onayi.online
 sahlbindendestek.com
-sahnazceylans.duckdns.org
 sahtedom9999.duckdns.org
 sakreatif.online
 saksula.lol
@@ -11134,7 +11123,6 @@ servislerinmobil-12.sbs
 ses.1001gacor.org
 sessivesnet.us
 sessseehlheeh2r896hlvlhd3se.freeddns.org
-setinizialinrahatinizabakin.sbs
 settings-iliskilendirme.myonlineportal.ch
 setupmypasskey.com
 setuppdfsoft.com
@@ -12024,7 +12012,6 @@ teb-emeklilik-promosyon-mobil.myonlineportal.de
 teb-emeklisin.my-homeip.de
 teb-emekliye.my-homeip.de
 teb-f-i-r-s-a-t-l-a-r-i.my-homeip.de
-teb-hizmet.my-homeip.de
 teb-internet.mobil-bankacilik.site
 teb-mobil.internet-subesi.site
 teb-mobil.mobil-bankacilik.site
@@ -12809,7 +12796,6 @@ v30105.site
 v7.thisisafalsepositive.ru
 v707070.site
 v99999.site
-v999995.site
 vadimarketim.com
 vadinetwork.com
 vaha-yatirim.com
