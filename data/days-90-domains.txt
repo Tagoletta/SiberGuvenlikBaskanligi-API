@@ -5688,7 +5688,6 @@ halkefeso.bot.cd
 halkfirsat.cam
 halkfirsat.tech
 halkinadamirafael.site
-halkinfirsati.cam
 halkkoaperatifmarket.firstclasstaste.app
 halklimit.help
 halklimit.shop
@@ -5806,7 +5805,6 @@ helpdeskteam365.onmicrosoft.com
 helval.shop
 hemasnlaknsata.blogspot.com
 hemcnsa.duckdns.org
-heme-sn-sonuc.net
 hemeisnan-sonu.net
 hemenapaortal.lol
 hemenbakiyem.lol
@@ -9408,6 +9406,8 @@ on-pssword.com
 onassets.online
 onay-mobilden111.com
 onay-sizlerin.biz.tr
+onay-sizlerin.com
+onay-sizlerin.net
 onayda-sepet-7180.com
 onayda-sepet-7181.com
 onayda-sepet-7182.com
