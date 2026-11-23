@@ -263,6 +263,7 @@
 1111111110.sbs
 11111111111100993.webredirect.org
 111111111111111332.webredirect.org
+111111111111uu11.xyz
 1111112541112.bounceme.net
 11111128200049.bounceme.net
 1111112820004933.bounceme.net
@@ -626,7 +627,6 @@
 7171717171.duckdns.org
 717182728.duckdns.org
 719271927382.click
-72682091.duckdns.org
 7456565892854851453.duckdns.org
 746846513.sbs
 75489snfrsltar.info
@@ -1345,7 +1345,6 @@ at-govt-tr.icu
 atanibibulursamalahini.sbs
 atat.ink
 atayatirimtr.com
-atb-acb-and.myonlineportal.ch
 atiiyoruz.space
 attacker-collector.com
 attgenius.com
@@ -1869,7 +1868,6 @@ buyukbabacan.net
 buzzarix.com
 buzzlancing.com
 bva-customer.sbs
-bva-online.click
 bva-promotion.sbs
 bva-tanitim.sbs
 bvc3456.site
@@ -2716,7 +2714,6 @@ elonmuskbenim.duckdns.org
 eloqyra.com
 elpolacosur.dynuddns.com
 elriaplay.com
-elvarion.blog
 elvoranix.com
 elvoranix.online
 email-mfa.org
@@ -2746,6 +2743,7 @@ emekli.my-homeip.de
 emeklilere-cepteteb-com.my-homeip.de
 emeklirotasi.cyou
 emekliye-ceptetebde.my-homeip.de
+emekrentacar.net
 emiondafe.giize.com
 emlakatasehirrrssl.duckdns.org
 emlakjetmuhasebe.org
@@ -3406,6 +3404,7 @@ garantiwebkredibaassvurum.fun
 garantiyatirim-ai-quiz.vercel.app
 gardnerimmigrationlaw.securemailencryptit.com
 garenta.com-onlinearackirala.info
+garentabayim.com
 garentacarkiralama.net
 garentam.org
 garentamerkez.com
@@ -4341,6 +4340,7 @@ hmnnrdvual.cfd
 hmnodemesatnalsd.com
 hmnrdvuall.cfd
 hmnrndvubrda.cfd
+hmnsdaals.net
 hmnstnalodemeanlk.com
 hmnypdx.art
 hmnypsan.art
@@ -4463,7 +4463,6 @@ igahyjizyran.com
 Ighop.buzz
 igniteatt.com
 igodenoji.world
-ihemenbasvur.lol
 ihugewe.online
 iiadenial.duckdns.org
 iinatbox.com.tr
@@ -5220,6 +5219,7 @@ koparmatifmarket.blogdns.com
 koperatflndmrlerid.blogdns.net
 kopermatfrklalarriindd.doomdns.com
 kopermatfrklalarriinddd.dyndns.biz
+kopermatfrklalarriinddde.dyndns-home.com
 kopermatfrklamlariiriin.blogdns.com
 kopermatfrklamlariiriind.blogdns.com
 kopermatfrklamlarriindd.dnsdojo.com
@@ -5740,6 +5740,7 @@ mhrs-yenidenoo.sbs
 mhrs.85-235-74-24.sslip.io
 mhrsgad.art
 mhrsgfrgr.com
+mhrsgovvtrr.lol
 mhrsgovvtrr.online
 mhrsislemleriniz.blogspot.com
 mhrsmlimlsmsm.duckdns.org
@@ -5774,6 +5775,7 @@ mhrsrandevxs.ink
 mhrsrendavuals.space
 mhrsrhizmetler.com
 mhrsrtrandevu.com
+mhrssgovtr.lat
 mhrsxzcvzxc.com
 mhrxfrg.sbs
 mhsaaah.cfd
@@ -5963,6 +5965,7 @@ muayne-payonline.com
 mucilaginoeeus.info
 mucize.bizler.sonhizmet.fdsasasdkasd.click
 mucize.bizler.sonhizmet.usafjasdkasd.click
+mucizefilokiralama.com
 mudonano.com
 muhugufu-reteyeuy.lol
 mulquick.top
@@ -6282,7 +6285,6 @@ onlineozel1o1.duckdns.org
 onlineozelindirim-101.com
 onlineozldantexx.ct.ws
 onlinesepet.xyz
-onlinesepetimde.store
 onlineshoppings.site
 onlinesiparis.online
 onlinetarim.sbs
@@ -7092,6 +7094,7 @@ sahibinden-param-guvende.get-servis-onay.online
 sahibinden-param-guvende.guvenli-alisveris-hizmet.online
 sahibinden-param-guvende.guvenli-alisveris-tr.online
 sahibinden-param-guvende.ilan-detayi-tr.online
+sahibinden-param-guvende.ilan-siparis-servisi.online
 sahibinden-param-guvende.ilan-siparisim.online
 sahibinden-param-guvende.ilanonay.online
 sahibinden-param-guvende.servis-hizmet.online
@@ -7131,6 +7134,7 @@ sahibinden.ilan-mobilder.com
 sahibinden.ileservishzmetleri.sbs
 sahibinden.iletisimkasko.com
 sahibinden.islem-siparisver.com
+sahibinden.mobil-siparis-odeme.com
 sahibinden.mobilsepet-islemler-12.sbs
 sahibinden.odeme-onay-1283.com
 sahibinden.odeme-onay-1285.com
@@ -7810,9 +7814,7 @@ tarimkopmarketonlayn.blogdns.com
 tarimkopmarketonline.blogdns.com
 tarimkopmarketonlinee.blogdns.com
 tarimkopmarketonlineee.blogdns.com
-tarimkredikoop.vercel.app
 tarimmarketgece.blogdns.com
-tarimmarketim.vercel.app
 tarkopmrk.webhop.net
 tarlamagirmek.com
 tarmdaonlmark.dnsdojo.com
@@ -8003,7 +8005,6 @@ tkglobalstoree.com
 tkgm.ink
 tkgm.quest
 tkkoop-online.app
-tkkoop.vercel.app
 tkkoopalisveris.app
 tkkooponline.vercel.app
 tkoiasngfsafs.cfd
@@ -8096,7 +8097,6 @@ toplutokikonutlar.com
 toptancinizburada.sbs
 toralino.org
 toria.app
-toria.apple03cloudstore.com
 total-sitevv.lol
 toweringgum.com
 toyotaqueretaro.hotelemilenium.com.mx
