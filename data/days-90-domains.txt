@@ -4674,6 +4674,7 @@ filemobil.duckdns.org
 filemrktm.click
 filescenter.cloud
 filesmrks.duckdns.org
+filesonlsbesi.sbs
 filessubesi.giize.com
 fileswiftonline.cloud
 fille3213x32.duckdns.org
@@ -5579,7 +5580,6 @@ haberler1345621.sbs
 haberler1346428.sbs
 haberler1358636.shop
 haberler14223.shop
-haberler142536231.shop
 haberler15123424.sbs
 haberler15132.sbs
 haberler15341231.sbs
@@ -7683,6 +7683,7 @@ kooperatiffmarket.blogdns.com
 kooperatifjet.app
 kooperatifmarket-online.blogdns.org
 kooperatifmarket-onlined.blogdns.com
+kooperatifmarket-onlinei.blogdns.com
 kooperatifmarket.online
 kooperatifmarket.org.tr
 kooperatifmarket.vercel.app
@@ -7698,6 +7699,7 @@ kooperttarimd.dnsdojo.com
 kooponline.vercel.app
 koparmatifmarket.blogdns.com
 koperatflndmrlerid.blogdns.net
+kopermatfmarketd.dnsalias.com
 kopermatfrklalarriindd.doomdns.com
 kopermatfrklalarriinddd.dyndns.biz
 kopermatfrklalarriinddde.dyndns-home.com
@@ -7708,7 +7710,6 @@ koplafnmece.giize.com
 kopmenst.duckdns.org
 kopukluj.hali-yiklamasi.lol
 koravimix.com
-korebazi-talasude.lol
 korkskelsc.click
 kosemenseter.duckdns.org
 kp2-3ur6pe4r8i2hj5.com
@@ -9610,6 +9611,7 @@ oyakemenkuldegerler.com
 oyakmenkuldegerler.net
 oyakmenkulyatirim.com
 oyakmobil.com
+oyakmobilyatirim.com
 oyakportfoytrader.com
 oyaktraderplus.com
 oyakyatirimdegerler.com
@@ -10018,7 +10020,6 @@ ptt-gov.eu.cc
 ptt-gov.life
 ptt-govv.cc
 ptt-govz.life
-ptt-isbank.com.ph
 ptt-kargotakip.space
 ptt-postgov.sbs
 ptt-tc.cc
@@ -13715,6 +13716,7 @@ z1raatb4nkasi.duckdns.org
 z34777.site
 z3z07444.site
 z4t8n2v6q1.lol
+z52e4as6.s.gy
 z7775sa.site
 z87014.site
 z98333z.site

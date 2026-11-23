@@ -4403,7 +4403,6 @@ dailygoodswayhub.shop
 dailyhomemarket.shop
 dailyutilitybay.shop
 dailyutilityway.shop
-dailyverna.com
 dandanadak.duckdns.org
 danielkleinofficial.live
 darebazi-rolepara.lol
@@ -4476,7 +4475,6 @@ degasxdwwa.duckdns.org
 degerbakisacisi.com
 degercicek.com
 degerlendirme-aninda.ink
-degerodaklari.com
 degilmii.sbs
 degisiklik-hakkinda.ink
 deladedondaea.duckdns.org
@@ -6055,7 +6053,6 @@ felkaritasle.live
 felkelselfel.sbs
 fellanfllansas.live
 femonester.duckdns.org
-fendril.rest
 fennelspire.info
 fep0bupuhag2-o0kk.workers.dev
 ferhatgelbanaat.duckdns.org
@@ -6102,6 +6099,7 @@ filesdwnl.top
 filesdwnld.top
 filesdwnload.top
 filesmrks.duckdns.org
+filesonlsbesi.sbs
 filessubesi.giize.com
 fileswiftonline.cloud
 filevelvettractor.sbs
@@ -6848,7 +6846,6 @@ gibtakip.net
 gidayenifirsatindirimler.com
 giftavora.com
 giftcornera.homes
-gildrak.forum
 giperon.net
 gipulora-menaxosi.lol
 gir-vesile-ifade.casa
@@ -7679,7 +7676,6 @@ havenistanbul.net
 havxaistbilet.site
 hay3ykleme.22web.org
 hayajad.sbs
-hayat-seninle-guzel.casa
 hayatifinans.com
 hayatimiyiktinbeinsan.sbs
 hayatkadiniseviyorum.duckdns.org
@@ -9798,7 +9794,6 @@ kartepara.click
 karteparta.click
 karttbassvr.com
 kartulisuperi.duckdns.org
-karvend.courses
 kasdefstert.duckdns.org
 kasdertmonst.duckdns.org
 kasdwqwdasd.click
@@ -10269,6 +10264,7 @@ kooperatiffmarket.blogdns.com
 kooperatifjet.app
 kooperatifmarket-online.blogdns.org
 kooperatifmarket-onlined.blogdns.com
+kooperatifmarket-onlinei.blogdns.com
 kooperatifmarket.online
 kooperatifmarket.org.tr
 kooperatifmarket.vercel.app
@@ -10284,6 +10280,7 @@ kooperttarimd.dnsdojo.com
 kooponline.vercel.app
 koparmatifmarket.blogdns.com
 koperatflndmrlerid.blogdns.net
+kopermatfmarketd.dnsalias.com
 kopermatfrklalarriindd.doomdns.com
 kopermatfrklalarriinddd.dyndns.biz
 kopermatfrklalarriinddde.dyndns-home.com
@@ -10382,7 +10379,6 @@ krevforgevex.top
 kreyzduck.duckdns.org
 kri-t.myonlineportal.ch
 krmafzlynmzcnrvd.store
-krostel.best
 krowbaba.b-cdn.net
 krs-izeltas.dnsup.net
 krssxrglamalarinin.net
@@ -11824,8 +11820,6 @@ mobil-banka.teb.com.se
 mobil-basvuru-talep.vercel.app
 mobil-bireysel-cep.my-homeip.de
 mobil-c-e-p-t-e-t-e-b-kampanya.my-homeip.de
-mobil-cep-online-tr.site
-mobil-cep-ozel.online
 mobil-cep.online
 mobil-cepte-teb.my-homeip.de
 mobil-cepte.myonlineportal.de
@@ -11841,7 +11835,6 @@ mobil-erisim.myonlineportal.de
 mobil-firsat-hizmetleri.vercel.app
 mobil-indirimleri.online
 mobil-ozel-tr.online
-mobil-ozel-tr.site
 mobil-ozel.site
 mobil-simdi.com
 mobil-siparis-odeme.com
@@ -13219,6 +13212,7 @@ oyakemenkuldegerler.com
 oyakmenkuldegerler.net
 oyakmenkulyatirim.com
 oyakmobil.com
+oyakmobilyatirim.com
 oyakportfoytrader.com
 oyaktradeplus.com
 oyaktraderplus.com
@@ -13230,7 +13224,6 @@ oykmenkul.com
 oylebirurunbulduk.xyz
 oylecebakmabana.sbs
 ozel-firsatlarsizeozel.vercel.app
-ozel-indirimler.online
 ozelarackiralama.com
 ozelbankacilik25.com
 ozelfrsatlarkacrmasakin.cfd
@@ -19094,6 +19087,7 @@ z3ratvv.cfd
 z3z07444.site
 z4m8p2x7k1n9v5q3r6t0.sbs
 z4t8n2v6q1.lol
+z52e4as6.s.gy
 z7775sa.site
 z87014.site
 z98333z.site
