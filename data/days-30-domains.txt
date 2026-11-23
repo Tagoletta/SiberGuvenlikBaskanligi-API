@@ -91,7 +91,6 @@
 101-sadece-bugune-ozel-alisveris-indirimi-mobil-sepette.hostextra.online
 10100kampanya.duckdns.org
 10101firsattl.duckdns.org
-101anindafirsatyakala.duckdns.org
 101campanyam.click
 101fiifirsat.duckdns.org
 101firsatlarikacirrma.duckdns.org
@@ -2740,7 +2739,6 @@ maliyesorgulamasi.com
 maliyetrsorgu.org
 maliyeveznedar.online
 maliyevezneformu.org
-maliyevezneislem.org
 maliyevezneislemler.org
 mall.bit728.eu.cc
 malll-tk.shop
@@ -3471,7 +3469,6 @@ saglik-rnd.cfd
 sagliklifirma.lol
 saglikrandevum.lol
 saglikrandevutr.online
-saglikrhbr.cfd
 saglk-rhberim.cfd
 saglkblgi.cfd
 saglkicndnvualn.cfd
@@ -3479,7 +3476,6 @@ saglklirhberle.cfd
 saglklmhrndy.cfd
 saglkmhr.cfd
 saglkrhberlri.cfd
-saglkrnd.cfd
 sagltmslml.net
 sahabinden.info
 sahibinden-get.alisveris-guvende-10.sbs
