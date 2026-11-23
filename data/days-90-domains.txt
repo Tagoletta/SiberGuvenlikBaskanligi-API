@@ -491,8 +491,6 @@
 1339500385355.duckdns.org
 13395003853566003.duckdns.org
 13395003853fark.duckdns.org
-1379889898999899091.duckdns.org
-1379889898999899093.duckdns.org
 1379889898999899096.duckdns.org
 1379889898999899097.duckdns.org
 1379889898999899098.duckdns.org
@@ -1315,7 +1313,6 @@ aidat-iades-web-grs-e-devlet-gov-tr.com.ph
 aidatcepdestekmobilkapisi-gov-tr.com.ph
 aidatsorgulama0081.org
 ailemyardim.com
-ailesosyaldestegi.org
 ailesosyalyardim.sbs
 ailetr.xyz
 ailingk.xyz
@@ -1325,7 +1322,6 @@ airworldturizm.com
 ais-garantibbva-immobilienscou.ph
 ais-turkishairlines.com.ph
 aiss-garantibbva.com.ph
-aiss-trendyol.com.ph
 aisshepsiburada.ph
 aistei.com
 ajyvetalawof.company
@@ -1428,7 +1424,6 @@ algolab-trading.pages.dev
 alguvendekal.click
 alguvendekal.xyz
 alhadisaglikliyasa.click
-alhadisaglikliyasa.sbs
 alhadisaglikliyasa.xyz
 alhoceima-rentcar.com
 ali-isbank.com.ph
@@ -1960,7 +1955,6 @@ asncxbyaaasdanala.9479845619688.sbs
 asncxbyaaasdanala.995444566222.sbs
 asnjfjnwddq.duckdns.org
 aspd-l-arc.myonlineportal.ch
-aspencore18.com
 aspentrekgoods.org
 aspers.myonlineportal.ch
 asri-as-alt-a.myonlineportal.ch
@@ -1986,7 +1980,6 @@ atayatirimtr.com
 atb-acb-and.myonlineportal.ch
 atiiyoruz.space
 atks.group
-atlas-compass.com
 atlaswiucheck.cfd
 atm-acv.myonlineportal.ch
 ato-blik-ziraatbank.com.ph
@@ -2294,7 +2287,6 @@ baykaryatirimprogrami.digital
 baykaryatirimprogrami.xyz
 bayloramuse.com
 bb-trendyol.com.ph
-bbgarantibbva.ph
 bbnnsnsdsdrtyqaasertse.com
 bbsteknoloji.com
 bbva-mobile.site
@@ -2625,6 +2617,7 @@ bool-trendyol.com.ph
 bopaje7148.site
 bopaje7148.space
 bopaje7148.store
+bopirugibov.com
 borcbilgisi.org
 borertors92.anondns.net
 borgerproperties.opticaberl.com
@@ -2666,7 +2659,6 @@ brenden-maj-garantibbva.ph
 brhfs.buzz
 bricela.com
 bride.bridgersrl.it
-bright-links.com
 brightaccess.top
 brightcornerlab.online
 brilliancefragment.shop
@@ -3085,8 +3077,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliye.net
@@ -3397,7 +3389,6 @@ czpathos.org
 d19v1tntmz2i98.cloudfront.net
 d2stradeapp.ink
 d35htktbyt7nxc.cloudfront.net
-daazgarantibbva.ph
 dactuus.com
 dadcweadf.giize.com
 dafoogrupa.blog
@@ -3483,6 +3474,7 @@ denizfinansman.cfd
 denizonlinebasvur.duckdns.org
 denmarkh.shop
 depinvesting.online
+depordansprsgodqertnm8469.duckdns.org
 dermatologie-klinik.st2.al
 dertler-derya.sbs
 des199.site
@@ -3538,7 +3530,6 @@ dfxsj.com
 dgsjkfjsdjfsgdsgsg.shop
 dgxyt.com
 dhl-tr.top
-dhl-trendyol.ph
 dhlno.cfd
 dhsssrasc.shop
 dhsssrasc.site
@@ -3709,7 +3700,6 @@ draemetech.com
 dramaspoolcoa.com
 drasw.club
 drawn-sacrifice-asking-microphone.trycloudflare.com
-dreamspace-garantibbva.ph
 dreo-turkiye.com
 dressergym.com
 driftshare.co
@@ -3907,7 +3897,6 @@ edv-mhrndval.com
 edvs-tapursvnnusz.info
 edvs-tapursvnnuszs.info
 edvs-tapursvnnuszs.org
-edwardeggcup.shop
 eetyuursdrthnb.giize.com
 efemdybungalov.com
 efendbungalow.com
@@ -4074,6 +4063,7 @@ el-camino-trader.com
 elad-ox.lvborses.net
 elanavo.com
 eldaventhoris.blog
+eldeneleyardimlasma.org
 eldengelenler.click
 eldoria.blog
 elektronik-dolap.com
@@ -4199,7 +4189,6 @@ eportalmaliye.org
 eportalmasak.com
 eportalmasak.org
 eportaluzlasma.com
-epostgarantibbva.ph
 epsilonsystems.net
 equans.antaiyimin.org
 equinoxoutcast.shop
@@ -4367,7 +4356,6 @@ ewwewnewnen.com
 ex.evsahibibasvuru.com
 ex0x40vmi8qyccxq.net
 excellcoatings.ca
-expediaenel-garantibbva.com.ph
 expertassist.top
 explicittweak.cc
 expres-tr.online
@@ -4700,6 +4688,7 @@ finansaldestekler.cfd
 finansalpiyasa.cfd
 finansbankasi-eqnbsube.ph
 finansbankkredi.ph
+finansbul.net
 finansdenetim.org
 finansmanmenkul.pro
 finanzzas.cfd
@@ -5003,7 +4992,6 @@ garantibbva-giris.web.app
 garantibbva-gov.ph
 garantibbva-iade.netlify.app
 garantibbva-isbank.ph
-garantibbva-kraken.ph
 garantibbva-kredi-firsati2.cloud
 garantibbva-kredi-firsati3.cloud
 garantibbva-kredi-firsati4.cloud
@@ -5012,12 +5000,10 @@ garantibbva-kredi.abrdns.com
 garantibbva-mobil.abrdns.com
 garantibbva-mobil.netlify.app
 garantibbva-mobil.web.app
-garantibbva-movistar.com.ph
 garantibbva-my-login.ph
 garantibbva-nus.com.ph
 garantibbva-odeme.netlify.app
 garantibbva-odeme.web.app
-garantibbva-okta.com.ph
 garantibbva-olacabs.ph
 garantibbva-onay.netlify.app
 garantibbva-panel.vercel.app
@@ -5030,14 +5016,12 @@ garantibbva.duckdns.org
 garantibbva.my-board.org
 garantibbva.pro
 garantibbvaa.vercel.app
-garantibbvabol.com.ph
 garantibbvacepsubesi-mobilislem.ph
 garantibbvaclaro.com.ph
 garantibbvahepsiburada.com.ph
 garantibbvakoreanair.com.ph
 garantibbvakredibasvuru.online
 garantibbvanorusderma.ph
-garantibbvaria.com.ph
 garantibbvatitles.com.ph
 garantibvvaonline.com
 garanticeptefinans.cloud
@@ -5239,6 +5223,7 @@ gir-vesile-ifade.casa
 giramodi-valamoli.lol
 giresunilozelidare.cyou
 girihub.info
+giris-cepte-teb.finansbul.online
 giris-islemler.teb.com.se
 giris-sekermenkul.pro
 giris-turkiye-gov-tr-translate-goog.translate.goog
@@ -5352,13 +5337,11 @@ goshshare.online
 gota.unaux.com
 gotoaf.xyz
 gov-ct.com
-gov-kbstar-garantibbva.ph
 gov-tr-traficfine.pdl-wespenverdelging.be
 gov-tr.cam
 gov-tr.cfd
 gov-tr.sbs
 gov-trendyol.com.ph
-gov-trendyol.ph
 gov.online
 gov.zapto.org
 gov12366.com
@@ -5431,8 +5414,6 @@ grntm.com
 grnttam.com
 groundvy.space
 groundvy.xyz
-grove-12.com
-grove-satin.com
 groy.cc
 grprmognri.cfd
 gryacvm.click
@@ -5509,7 +5490,6 @@ guvercinseverlergrubu.com
 guzel-certificateidcheck472984-servis.foxis.it
 guzel-gunlerde-kullanmaniz-dilegiyle.sbs
 guzel-servis-checkerid2985205.geobi.eu
-guzelgunleryaknsendekatlyap16.click
 guzelkizlarllal.duckdns.org
 gvncmdjslas.shop
 gvndyc.shop
@@ -5705,7 +5685,6 @@ halkfirsat.tech
 halkinadamirafael.site
 halkinfirsati.cam
 halkkoaperatifmarket.firstclasstaste.app
-halklimit.click
 halklimit.help
 halklimit.shop
 halklimits.online
@@ -5867,7 +5846,6 @@ hepsiburada-kinotam.ph
 hepsiburada-mobilepay-indeed.ph
 hepsiburada-norton.com.ph
 hepsiburada-sberbank.ph
-hepsiburada-you.com.ph
 hepsiburada.ile-sepetinizde.com.tr
 hepsiburadalj.com
 hepsiburadalll.com
@@ -6363,7 +6341,6 @@ hmnbhcdbsd.art
 hmnbrdafrstkpn.shop
 hmnbsdbsd.art
 hmnbsvranlk.art
-hmnisllmnktnas.net
 hmnislmeonktar.net
 hmnislmeonktasr.net
 hmnislmkntaos.net
@@ -6480,6 +6457,7 @@ hukukmali.org
 hukukportal.org
 hulifpo-desedu.lol
 hulihpo-desedu.lol
+humamawi.shorts.gy
 huncvkov9.icu
 hurriyet.finance
 hurriyetistanbul.vip
@@ -6577,7 +6555,6 @@ ievade.net
 ifccanada.waitesguide.co
 ifegubolode.company
 ifonedaybetellmee.top
-ifoodgarantibbva.com.ph
 igahyjizyran.com
 Ighop.buzz
 igniteatt.com
@@ -6585,7 +6562,6 @@ igodenoji.world
 ihemenbasvur.club
 ihemenbasvur.lol
 ihemenbasvur.xyz
-ihggarantibbva.com.ph
 ihh.sorguekrani.org
 ihugewe.online
 iiadenial.duckdns.org
@@ -6908,7 +6884,6 @@ islammemisbnp.store
 islemler-kredi-garanti.duckdns.org
 islemler.teb.eu.com
 islemlerim-ceptee-garanti.duckdns.org
-islemlerim-hemen-garanti.duckdns.org
 islemlerin-sepet-20.sbs
 islemlerin-sepet-25.sbs
 islemlerinmobil-12.sbs
@@ -6917,6 +6892,7 @@ islemlerinmobil-15.sbs
 islemlerinmobil-17.sbs
 islemlerle.com.tr
 islemsepetleri-45.sbs
+islemtalepmobil.online
 islemynmd.net
 isletmedesteklerim.xyz
 islmhizliaa.net
@@ -7513,7 +7489,6 @@ kkmsorgulamaislemleri.web.app
 kknbabeex.shop
 kktcedevlet.console.icont.ai
 kladenslesdwa.duckdns.org
-klarna-garantibbva.com.ph
 klarnagarantibbva.com.ph
 klasmansmcs.click
 klasmanssld.click
@@ -7734,13 +7709,10 @@ korkskelsc.click
 kosemenseter.duckdns.org
 kp2-3ur6pe4r8i2hj5.com
 kpermatifmarkt.blogdns.com
-kps-garantibbva.ph
-kpsgarantibbva.ph
 kqmodehizm.store
 kqmodehizm.study
 kqmodehizmeler.baby
 kra.1001gacor.org
-kraken-garantibbva.ph
 kralinkizi.duckdns.org
 kraljantonarimbakimm.duckdns.org
 krallarinkralii.duckdns.org
@@ -8549,6 +8521,7 @@ mhrsrhizmetler.com
 mhrsrtrandevu.com
 mhrss-aps.online
 mhrssgovtr.lat
+mhrssgovtr.lol
 mhrssizden.duckdns.org
 mhrsxzcvzxc.com
 mhrxfrg.sbs
@@ -9185,7 +9158,6 @@ nv-online.click
 nv4r8z1p6.lol
 nvidia-aidat.netlify.app
 nvidia-destek.vercel.app
-nvidiapapara.com.ph
 nviilerrndevusu.org
 nviirandevubilgilendirme.blogspot.com
 nviirandevubilgilendirme10.blogspot.com
@@ -9512,7 +9484,6 @@ opaektne23.giize.com
 openai-ads.ai
 openai-advertisers.com
 openaiadsteam.com
-openaigarantibbva.com.ph
 opensea-garantibbva.com.ph
 opera-istanbul.com.tr
 operagohhers.info
@@ -9687,6 +9658,7 @@ panelsorgu1.world
 pansy.lovingjaw.info
 pantherbuilders.xyz
 panthertalents.xyz
+paoefdsavn.giize.com
 papa-john-pizza.koeln-gastro.com
 papa-jon-pizza.koeln-gastro.com
 papapapxxxx.mirokamigo4.workers.dev
@@ -9705,7 +9677,6 @@ parcaofisi.net
 parcelaramex.ink
 parcelaramex.xyz
 pardusyatirim.com
-parentpreneurx.com
 paribu--araba.com
 paribu-app.digital
 paribu-arababurada.info
@@ -10175,6 +10146,7 @@ q-parkfine.cfd
 q1ls1ho9x7wsxlu.icu
 q2nbfinansbank.vg
 q6z1t4x8n2.lol
+qamarbrothers.com
 qasrgaovaf7m.thisisafalsepositive.ru
 qavix7meron3zulaterok.cfd
 qazwsxedcr.info
@@ -10451,7 +10423,6 @@ rodininbabasiyim.duckdns.org
 rodiwasherecandan.com
 rodyskryrzzbgnn.duckdns.org
 rogdt-917c.williammgros4.workers.dev
-rogers-garantibbva.com.ph
 roketsan-miras.com
 roleplayyasak.duckdns.org
 rollcyrentacars.online
@@ -11133,7 +11104,6 @@ sewap426322plus.shop
 sex.dwelling.eu.cc
 sexgirltiktok.cam
 sfee.waitesguide.co
-sfjalsflasfaksflkasflkasfljafkasfjasl.xyz
 sftlr.com
 sfwrtqqrrqrww.sbs
 sgdfgsdfsdf.webredirect.org
@@ -11664,7 +11634,6 @@ srrddasdasdasdsa.duckdns.org
 srtrserertyrezartrer.duckdns.org
 srv.corehost.ddns.net
 ss43l36h2hs26977.route64.de
-ssa-ziraatbank.com.ph
 sse6v2ehr56leeshlel3hsl58h93h68sd288e.home64.de
 sshlw.com
 ssl.evsahibibasvuru.com
@@ -12385,6 +12354,7 @@ tralkegr.duckdns.org
 tramdarsa.net
 tramdarssa.net
 trampdonkey.icu
+transgendersubratccional.info
 transitwatch.ink
 translate-youdao.hl.cn
 transportfine.cfd
@@ -12399,7 +12369,6 @@ trbireyselyapikredionlinegiris.vercel.app
 trbirimadli.org
 trbuyukbenbir.click
 trcxwedaxm.sharedmsform.com
-trekmesh15.com
 trend-burada-tr.online
 trendex-tr.online
 trendly-shops.online
@@ -12415,7 +12384,6 @@ trendyapp.top
 trendyl-mobil-tr.online
 trendymartshop.shop
 trendyogift.com
-trendyol-alibaba.ph
 trendyol-bridge.duckdns.org
 trendyol-khaki-one.vercel.app
 trendyol-poc.ommateum.ninja
@@ -12726,6 +12694,7 @@ urebanned.top
 urganltd.com
 urgansorgupanel.ct.ws
 uroker.casa
+urosefif.world
 urunbitmedengerekeniyapanlar.sbs
 urundetay-sepet-10.sbs
 urundetay-sepet-15.sbs
@@ -12894,7 +12863,6 @@ viggie.ai
 vihhy.buzz
 vihylece.online
 vilialobos.lol
-vine-96.com
 viogarxnti.ice.fo
 vip-etkinlik.online
 vip-shop-tr.online
