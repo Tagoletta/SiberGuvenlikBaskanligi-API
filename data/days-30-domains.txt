@@ -521,6 +521,7 @@ aracmuayanemonline.com
 aracmuayeneislem.web.app
 aracmuayeneisleminz.web.app
 aracmuayeneislemleri.web.app
+aracmuayenemtck.com
 aracmuayenerandevu.name
 aracmuayenerandevumtr.com
 aracmuayenetuvturk.com
@@ -1638,7 +1639,6 @@ garanti-butce-yonetimi.click
 garanti-finans-merkezim.cloud
 garanti-finans-platformu.cloud
 garanti-giris.online
-garanti-nakit-hizmeti.click
 garanti-odeme-portali.cloud
 garanti-para-merkezi.cloud
 garanti-sermaye-hizmeti.cloud
