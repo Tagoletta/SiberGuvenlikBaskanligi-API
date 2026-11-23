@@ -491,7 +491,6 @@
 124215151512.duckdns.org
 1244422115455455888899991.duckdns.org
 1244422115455455888899993.duckdns.org
-124451545544554888787993.duckdns.org
 124451545544554888787994.duckdns.org
 124451545544554888787995.duckdns.org
 124451545544554888787996.duckdns.org
@@ -2602,6 +2601,7 @@ avscarfilom.com
 avscarkiralama.com
 avscehwvsvanasb.org
 avscomtr.com
+avsfiiloarackiralama.com
 avsfiilokurumsal.com
 avsfilo724.com
 avsfiloarackiralama.com
@@ -2814,7 +2814,6 @@ basvursendmn.sbs
 basvursendr.sbs
 basvursendsmr.sbs
 basvursenszv.sbs
-basvursmn.sbs
 basvursns.sbs
 basvursondkkkkmpnyaa98754frstlar.info
 basvursrs.sbs
@@ -3082,6 +3081,7 @@ bilgikamu.org
 bilgikurum.net
 bilgikurum.org
 bilgilendir-sepet.online
+bilgilendir.sbs
 bilgilendiriyorum.abrdns.com
 bilgilendirme-merkezi.sbs
 bilgilendirme-sepeti.online
@@ -3393,7 +3393,6 @@ brdanrvdal182.org
 brdanrvdalsnsmdi182.lol
 brdansdcaneacdve.duckdns.org
 brdlssrabklemdn.com
-brdnbrangtmtsneeee.com
 brdnglsndnbzmolsn.cfd
 brdnmhsrvdl182.click
 brdnrvalcnsnrabn.lol
@@ -6690,7 +6689,6 @@ gecmezdemehepsigecer.com
 gecshgsislm.cfd
 gecssssyukkdmsyaparzz.art
 gederselerdensler.duckdns.org
-gedewadgsqa.duckdns.org
 gedikesubem.com
 gedikeyatirim.com
 gedikinveoportfoy.com
@@ -7138,6 +7136,7 @@ gratis.ask4tree.com
 gratis.benmook.com
 gratis.blohm.com
 gratis.bunkershub.com
+gratis.cmogaming.com
 gratis.doordk.com
 gratis.dumfi.com
 gratis.fandomhousepress.com
@@ -7316,7 +7315,6 @@ guyofahsdhashd89sadas.click
 guzel-certificateidcheck472984-servis.foxis.it
 guzel-gunlerde-kullanmaniz-dilegiyle.sbs
 guzel-servis-checkerid2985205.geobi.eu
-guzelapp1-fd4eb5ee687a.herokuapp.com
 guzelgunlere-ormana-dogaya.sbs
 guzelgunleryaknsendekatlyap16.click
 guzelkizlarllal.duckdns.org
@@ -8345,7 +8343,6 @@ hizligecis-hgsbkysleyklemes.netlify.app
 hizligecis-hgsbkysleyklemescan.netlify.app
 hizligecis-mobil.web.app
 hizligecisbakiyeyukyn.web.app
-hizligecisbakyeyuklme.web.app
 hizligecisbakyrhber.web.app
 hizligecisbakyukyylen.web.app
 hizligecisbayisi.org
@@ -8610,6 +8607,7 @@ hrryagustosgunlerindepr.duckdns.org
 hrrynewgnler.duckdns.org
 hryagstsprmsyn.duckdns.org
 hs7253h33e469lh5.api64.de
+hsarkmmmsrglma.duckdns.org
 hsb.menkulcuzdan.com
 hsb.menkulvcuzdan.com
 hsb.menkulvcuzdanim.com
@@ -9355,7 +9353,6 @@ istbelgimkartbasvuru.xyz
 istbelgimrandevu.xyz
 istcanistanbulbelgim.xyz
 istecep.my-homeip.de
-istelmancankart.xyz
 istismar.online
 istkadarbkasadn.com
 istkarlanlasanadas.com
@@ -9733,6 +9730,7 @@ karacadoms.co
 karacaev.shop
 karacafirsat.shop
 karacagood.shop
+karacahappy.shop
 karacahome.club
 karacahome.online
 karacahomeliving.shop
@@ -11942,6 +11940,7 @@ modelturizm.com
 modernki.com
 modernsorgulamam.shop
 modernsupplyhub.shop
+modvix.shop
 moelcloud.online
 mofa-ankara.org
 molidoria.com
@@ -14406,6 +14405,7 @@ remekehe.duckdns.org
 rendeburg.com
 render-984.pages.dev
 renfilo.com
+renkc.boyala.shop
 renkliticaret.com
 renooffliva.com
 repeated-probe-desperate-liability.trycloudflare.com
@@ -15566,6 +15566,7 @@ sgktesviksorgulama.info
 sglamhrrndvu.cfd
 sglik-rhber.cfd
 sglkagelzmni.cfd
+sglkimhalrvdu.cfd
 sglklamhrrndvu.cfd
 sglklarndvual.cfd
 sglklignleredgru.cfd
@@ -15727,7 +15728,6 @@ sitekullanimi.abrdns.com
 sitin.ai
 sitmarks.xyz
 sitmarx.site
-sivri.ezpizi.click
 sizdegelinbizimlepastayiyiyin.blogspot.com
 sizdenbize.abrdns.com
 size-ozel.ink
@@ -15864,7 +15864,6 @@ snfirslatarkmpya12543.pro
 snipappusa.com
 sniperentacar.com
 snipex-iota.vercel.app
-snksnctysnysnns.com
 snkzbrdansatnalrkennrd.cfd
 snkzbrdansatnalrkennrd.homes
 snkzbrdansatnalrkennrd.lol
@@ -15911,6 +15910,7 @@ sokflrsatlarharikala.shop
 sokisokkapidafirsattilari.duckdns.org
 sokkaracaileindir.shop
 sokmafetil.com
+sokmakterin.com
 sokmarket.lat
 sokmarketekstrakampanya2.duckdns.org
 sokmarkethepsi.shop
@@ -18783,6 +18783,7 @@ yapifinance.fun
 yapikre4disubesigiris.com.ph
 yapikredi.com.ph
 yapikredi.giris.2g0c.com
+yapikredibireyselmobileorgtr.vercel.app
 yapikredidijitalkampanya.vercel.app
 yapikredifaizsiz.urganltd.com
 yapikredikampanya.vercel.app
@@ -19037,6 +19038,7 @@ ys2egt1hal.ooguy.com
 ysdvdcvd.click
 yshyness.xyz
 ysokumi.online
+ytkmdaals.net
 ytnvhfdk.com
 ytodaktirgarage34.duckdns.org
 ytrrrartkkkuzymynnbnn.duckdns.org
