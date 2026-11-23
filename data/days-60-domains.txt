@@ -244,6 +244,7 @@
 101extraaldinaldinkapinda.sbs
 101extrakampanyalari.online
 101extrakapidanaldinaldin.sbs
+101fiifirsat.duckdns.org
 101firsatlarikacirrma.duckdns.org
 101flrsatlarlburada1o1.duckdns.org
 101hemenkapinnda.duckdns.org
@@ -2007,6 +2008,7 @@ cepte-inter.my-homeip.de
 cepte-lndirim-gunleri.com
 cepte-lndirimlerin.com
 cepte-teb-den.my-homeip.de
+cepte-teb-mobil-giris.interinterlink.com
 cepte-teb-mobile.my-homeip.de
 cepte-teb-mobilim.my-homeip.de
 cepte-teb-pro.my-homeip.de
@@ -3414,6 +3416,7 @@ garantiyatirim-ai-quiz.vercel.app
 gardnerimmigrationlaw.securemailencryptit.com
 garenta.com-onlinearackirala.info
 garentacarkiralama.net
+garentam.org
 garentamerkez.com
 garentamerkez.org
 gargale-law.com
@@ -3822,7 +3825,6 @@ haklanmdne.giize.com
 halkacikmagazam.duckdns.org
 halkbankonlinedestek.com
 halkblgi.cfd
-halkfirsat.tech
 halkkoaperatifmarket.firstclasstaste.app
 halkmarket.app
 halkmarketi.sbs
@@ -6572,6 +6574,7 @@ preplexity.ai
 preprod.diyanetisleribakanligi.vercel.app
 pressbeam.vu
 preview.diyanetisleribakanligi.vercel.app
+primegoarackiralama.com
 primelynx.top
 primemarclab.com
 primite.webredirect.org
@@ -6640,6 +6643,7 @@ pttavm-siparisim.ile-guvenlice-web-tr.com
 pttavm.com.siparis-olustur.com
 pttavm.guvenlisite.online
 pttavm.gvnliodeme.com
+pttavm.hizliguvenli.online
 pttavm.ilan-alisverisi-sepeti.com
 pttavm.ilan-sepetlerimiz-buradan.com
 pttavm.ilanlar.duckdns.org
@@ -7551,6 +7555,7 @@ sonnnfrstlar3912381.pro
 sonnnftsltarkmpy12543.online
 sonnngnllrrmzartkk.duckdns.org
 sonnudaerecekkmpny14.online
+sonsansn41.online
 sonteb.bounceme.net
 soq-tacelp.shop
 sorgu1.site

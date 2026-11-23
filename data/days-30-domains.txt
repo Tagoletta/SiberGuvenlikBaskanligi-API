@@ -93,6 +93,7 @@
 10101firsattl.duckdns.org
 101anindafirsatyakala.duckdns.org
 101campanyam.click
+101fiifirsat.duckdns.org
 101firsatlarikacirrma.duckdns.org
 101hemenkapinnda.duckdns.org
 101ligiris.xyz
@@ -979,6 +980,7 @@ ceptb.my-homeip.de
 cepte-lndirim-gunleri.com
 cepte-lndirimlerin.com
 cepte-teb-den.my-homeip.de
+cepte-teb-mobil-giris.interinterlink.com
 cepte-teb-mobile.my-homeip.de
 cepte-teb-mobilim.my-homeip.de
 cepte-teb-pro.my-homeip.de
@@ -1695,6 +1697,7 @@ garantisistemfinans.cloud
 garantivarlikyonetim.cloud
 garantiyatirim-ai-quiz.vercel.app
 gardnerimmigrationlaw.securemailencryptit.com
+garentam.org
 garentamerkez.com
 garentamerkez.org
 gargale-law.com
@@ -3248,6 +3251,7 @@ preplexity.ai
 preprod.diyanetisleribakanligi.vercel.app
 pressbeam.vu
 preview.diyanetisleribakanligi.vercel.app
+primegoarackiralama.com
 primelynx.top
 prismao-84.wixsite.com
 prjocoseness.xyz
@@ -3287,6 +3291,7 @@ ptt.mobilguvenle.sbs
 ptt.mobilservisleri-42.sbs
 pttavm.com.siparis-olustur.com
 pttavm.guvenlisite.online
+pttavm.hizliguvenli.online
 pttavm.ilan-sepetlerimiz-buradan.com
 pttavm.ile-sepete-islemler.info.tr
 pttavm.ile-sepete-islemler.org.tr
@@ -3782,6 +3787,7 @@ sonnnfrstlar3912381.info
 sonnnfrstlar3912381.pro
 sonnnftsltarkmpy12543.online
 sonnudaerecekkmpny14.online
+sonsansn41.online
 sonteb.bounceme.net
 soq-tacelp.shop
 sorgu3131.click
