@@ -2452,7 +2452,6 @@ binancelogin-tr.com
 binancetrlogin.duckdns.org
 binfrstlariekm.duckdns.org
 bir-sigortam-nas-check-20261018.birsigortam-net-tr.workers.dev
-biramodi-folepara.lol
 birbakmissinsepetedolmus.sbs
 bircan.22web.org
 bireboko-folasude.lol
@@ -4877,7 +4876,6 @@ frstlrrsonnbsvrrkmpnyaa965849.info
 frstlrrsonnbsvrrkmpnyaa965849.online
 frstmlkklcsd.shop
 frsttlrrrkmpnyaabsvrrrrsonnnn.online
-frsttrnetdvulrdaim.com
 frstttkmpnylariiibsvrrrr.art
 fruitta.com
 frullam-nemo.com
@@ -9416,7 +9414,6 @@ onayli-alisveris-1501903.com
 onayli-alisveris-1501905.com
 onboarding.evsahibibasvuru.com
 onecloudfilesync.com
-onedayjustwillbe.top
 onesdto.shop
 onidepiceru.world
 onikimlir.duckdns.org
@@ -10119,6 +10116,7 @@ pttavnn-hizla-gecisstem.web.app
 pttawmshgs.com
 pttbakiye.vercel.app
 ptteimza.com
+pttexpressparcelgov-tr.com.ph
 pttgecisyuklemeniz.web.app
 pttgecisyuklmesi.web.app
 ptthizligecisbakiym.art
@@ -12272,6 +12270,7 @@ toplukonut35912911.vercelcloud.com
 toplukonutaptdetayli.vercelapi.com
 toplukonutdavetli.vercelapi.com
 toplukonutdetayli.vercelsh.com
+toplukonutevdetaylari.vercelhost.com
 toplukonuthh.verceldomain.com
 toplukonuttoki.com
 toplutokikonutlar.com

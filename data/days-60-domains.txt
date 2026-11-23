@@ -370,7 +370,6 @@
 14to.siestaday.cfd
 15125125.duckdns.org
 151512515asdf.duckdns.org
-166027567602.cloud
 1688360.cc
 172.210.204.92.host.secureserver.net
 178.landexuan.site
@@ -423,7 +422,6 @@
 213786745345.sbs
 2142115251.xyz
 2146614.xyz
-2151261.xyz
 215466.xyz
 2156124.xyz
 2222222.sbs
@@ -821,7 +819,6 @@ abn3l8febkskxmce0tat6ide.store
 absntmartnremy.giize.com
 abuzbiirharcabitmez.duckdns.org
 acayioynamazgencler.duckdns.org
-access-gate-knssk.b-cdn.net
 account-sync-data.com
 accounts-bvets-au.cncsinks.com
 accounts-cgi.lvborses.net
@@ -1960,7 +1957,6 @@ cbstalimat.com
 cbsuyap.com
 cbznsbkazxc.shop
 ccd47774.site
-cceltd-onmicrosoft.vercel.app
 ccfdc.com
 cdfavwead.giize.com
 cdn-redhatcom.serveftp.com
@@ -5356,7 +5352,6 @@ lavinyacicek.com.tr
 lcscenter.co
 lcscenter.com
 lcwaikiki.cam
-lcwaikikifestr.com
 lcwaikikii.shop
 le93l9432l9e4996.mytunnel.org
 le9e3l9ss89s4464.mytunnel.org
@@ -5708,7 +5703,6 @@ merkezbankasi-ai.com
 merkezdensizlere.abrdns.com
 merkezi-hekim-randevu-sistemi.xyz
 merkeziadeveyatirim.com
-merkezrannd.com
 merkezrent.com
 merkezsistemi.abrdns.com
 merliva.cyou
@@ -5740,7 +5734,6 @@ mhhhrrrrs.duckdns.org
 mhilernduhlzi.cfd
 mhkdfkdfka.duckdns.org
 mhkhkdfhkdfla.duckdns.org
-mhlerkherk234.duckdns.org
 mhmhmmrsms.click
 mhmrmermrems.duckdns.org
 mhr-sonlinex.sbs
@@ -6143,7 +6136,6 @@ nknnnnkk.duckdns.org
 nlatknakakakl.net
 nlkkknlnklklnxx.duckdns.org
 nlknkramas.net
-nlltakmar.net
 nlnlnknmknmkn.sbs
 nlntkamams.net
 nltakamasm.net
@@ -6253,7 +6245,6 @@ oelreksd.shop
 oeoweoqoeo.sbs
 ofezucyhymu.company
 offcevent-login.com
-office365cidh.duckdns.org
 officegocrqb.com
 ofs-l-istatistik.myonlineportal.ch
 ofsfdfsdfdsffvvs.shop
@@ -6707,6 +6698,7 @@ pttavn-pratikbakiyeode.web.app
 pttawmshgs.com
 pttbakiye.vercel.app
 ptteimza.com
+pttexpressparcelgov-tr.com.ph
 ptthizligecisbakiym.art
 pttkargo-onay.vercel.app
 pttkilometresorgusnoktasi.web.app
@@ -8117,6 +8109,7 @@ toplukonut0054975248.vercel.app
 toplukonutaptdetayli.vercelapi.com
 toplukonutdavetli.vercelapi.com
 toplukonutdetayli.vercelsh.com
+toplukonutevdetaylari.vercelhost.com
 toplukonuthh.verceldomain.com
 toplukonuttoki.com
 toplutokikonutlar.com
