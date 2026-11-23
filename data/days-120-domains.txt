@@ -490,8 +490,6 @@
 124215151512.duckdns.org
 1244422115455455888899991.duckdns.org
 1244422115455455888899993.duckdns.org
-124451545544554888787990.duckdns.org
-124451545544554888787991.duckdns.org
 124451545544554888787992.duckdns.org
 124451545544554888787993.duckdns.org
 124451545544554888787994.duckdns.org
@@ -1688,7 +1686,6 @@ akbankdirectonlineislemler.ph
 akbankdiretk.ph
 akbankinvesthub.net
 akbankinvestprogram-click.pages.dev
-akbankinvestprogram.click
 akbankonline-giris.ph
 akbankplayablevercel.vercel.app
 akbankumre.org
@@ -2433,7 +2430,6 @@ asics-indirim.com
 asikkkkbucocuk.xyz
 asimple-lear-gorl.myonlineportal.ch
 asis-asc-awr.myonlineportal.ch
-asist-web.casa
 askarzadeh.com
 askbayan.22web.org
 askfaskgasogasg.blogspot.com
@@ -2732,6 +2728,7 @@ baknburdaherseyvarsndegelhadi81.click
 balbolma.duckdns.org
 balerdenmased.duckdns.org
 balonx.online
+balusug.site
 banabakca.lol
 banabaklan.lol
 banabatca.lol
@@ -2815,7 +2812,6 @@ basvurrrrkmpnyaasnfrslatttr.info
 basvursendmn.sbs
 basvursendr.sbs
 basvursendsmr.sbs
-basvursenrnz.sbs
 basvursenszv.sbs
 basvursenxm.sbs
 basvursmn.sbs
@@ -6963,6 +6959,7 @@ gokcencicek.com.tr
 gokretmade.giize.com
 gol.to
 golden-digger.art
+goldencarfilo.com
 goldienove.com
 goldpartyminetgy1694.duckdns.org
 goleboko-virepala.lol
@@ -7809,7 +7806,6 @@ hemenhediyeburada.online
 hemenhizlikalirizbizantepekibi.duckdns.org
 hemenislemkn-nsonuc.net
 hemenislemlerm.lol
-hemenislemn-sonuc.net
 hemenislemnktasna.net
 hemenislmatknas.net
 hemenislmkntokas.net
@@ -9786,6 +9782,7 @@ kariyerportal.derestech.com
 karmanaparas.click
 karmavotogalerist.duckdns.org
 karocoshoprt.shop
+karomelo.com
 karpanel.space
 karparenda.click
 karsamansa.click
@@ -9990,7 +9987,6 @@ kirameso-hulavite.lol
 kiredi-bbav-birligi.sbs
 kirlenmekguzeldir.net
 kiro.cheap
-kisa-edinim.guru
 kisaltsaniza.space
 kisgunlerindeyiz.cfd
 kisim-edinim-hakkinda.ink
@@ -11498,6 +11494,7 @@ mhbksdfs.art
 mhburdagln.shop
 mhcbsdfgs.art
 mhdsgfsdgh.art
+mhdshgsdfv.art
 mherese.com
 mheresrandevu.cfd
 mhgfshsfdhds.art
@@ -11577,6 +11574,7 @@ mhrscinizhakan49786.duckdns.org
 mhrsgad.art
 mhrsgfrgr.com
 mhrsgiris-edvltlogin2026.com
+mhrsgovvtrr.online
 mhrshemenler.com
 mhrsislem-yeni.vercel.app
 mhrsislemlerin.com
@@ -12506,6 +12504,7 @@ nostrashop.xyz
 notebookklm.com
 noticiasfy.com
 nova-client.com
+novaarackiralafilo.com
 novafilokurumsal.net
 novafilom.com
 novafilorental.com
@@ -13699,6 +13698,7 @@ perdedevlerimeys.duckdns.org
 peregrinecooksoft.com
 perfectcookingsuite.com
 pergalomon.giize.com
+permissibleplane.com
 perplecity.ai
 perplexity-advertising.com
 perplexity-beta-ads.com
@@ -15231,7 +15231,6 @@ seedmora.com
 sefi.jspara-col.cfd
 segmentfy.com
 seguranca.versionnova.site
-sehaaredales.duckdns.org
 sehhatdeniz.duckdns.org
 seibuilders.xyz
 seicareers.site
@@ -17055,7 +17054,6 @@ toki-konut.sbs
 toki-konutlarim.sbs
 toki-konutum.sbs
 toki-onlinepay.com
-toki-toplukonut.gravitycl.app
 tokiasrinprojesi.cfd
 tokibasvrulariii.ph
 tokibasvuru.it.com
@@ -17086,7 +17084,6 @@ toolbox.ddns.net
 tools-masak-ai-sri26.pages.dev
 toonie-bot.com
 toplu-konut.com
-toplu-konut.gravitycl.app
 toplubloklar.vercelserver.com
 toplukonut-toki.gravitycl.app
 toplukonut.gravitycl.app
@@ -17097,7 +17094,6 @@ toplukonutaptdetayli.vercelapi.com
 toplukonutdavetli.vercelapi.com
 toplukonutdetayli.vercelsh.com
 toplukonuthh.verceldomain.com
-toplukonutidaresi.gravitycl.app
 toplukonuttoki.com
 topluluk-t.garden
 toplutokikonutlar.com
@@ -19155,6 +19151,7 @@ zibomifac.company
 zilihojifieresede.club
 zimbranotereminder.weebly.com
 zion-pulse.com
+zipfiloarackiralama.com
 zir-bank-turkiye.top
 zira-at-basvuru-sureci.my-homeip.de
 zira-trade.icu

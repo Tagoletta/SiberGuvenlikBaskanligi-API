@@ -609,7 +609,6 @@
 616121.xyz
 6164252151zsf.duckdns.org
 620617625.cloud
-62616608764.cloud
 626262mn.duckdns.org
 6454845.xyz
 65168551658600.duckdns.org
@@ -1462,6 +1461,7 @@ bakinsedensi.com
 bakiyelerdetayli.lol
 bakkaldennoo.linkpc.net
 balbolma.duckdns.org
+balusug.site
 banabakca.lol
 banabaklan.lol
 banabatca.lol
@@ -1644,7 +1644,6 @@ bilgisel-cepte.online
 bilgisorgu.org
 bilgivermeservisi.bid
 bilipta.top
-bin-airdrop.online
 binance-account-login.vercel.app
 binance-destek.com
 binance-exchanges.cloud
@@ -2542,7 +2541,6 @@ e-rndval.cfd
 e-rndval.com
 e-saglkrhber.cfd
 e-sahibinden.ile-sepetten-islem.com
-e-sbm.org
 e-sepetalisveris.sbs
 e-servisler10.sbs
 e-sozlesmem.com
@@ -2628,7 +2626,6 @@ efsnefrstgnlri.duckdns.org
 egibavukat.com
 egibhazine.com
 egibhazine.net
-egibkontrol.com
 egirisgib.com
 egirisgov.com
 egirisportal.com
@@ -3580,6 +3577,7 @@ gohome.douwen.me
 gokretmade.giize.com
 gol.to
 golden-digger.art
+goldencarfilo.com
 goldienove.com
 goldpartyminetgy1694.duckdns.org
 gomesnetrelers.duckdns.org
@@ -3785,7 +3783,6 @@ haberler2331112.sbs
 haberler234634.com
 haberler2352341.sbs
 haberler242312.sbs
-haberler242325654.sbs
 haberler311534.com
 haberler323534.com
 haberler411235.sbs
@@ -4925,7 +4922,6 @@ kaicouncil.xyz
 kaiotosereals.sbs
 kaita1reklamhizmetleri.sbs
 kaitaellemeentermenter.sbs
-kaitamokoko.duckdns.org
 kaitareklamhizmetleri.sbs
 kaitoxroleastt.sbs
 kalakaldimdyorbirbasisma.sbs
@@ -4979,6 +4975,7 @@ kargoilesiparis.com
 kargokapinda.com
 kargotakibim.com
 karismayindostkalalim.duckdns.org
+karomelo.com
 karpanel.space
 kartalbasvurux12.duckdns.org
 karttbassvr.com
@@ -5170,7 +5167,6 @@ kmsorgulamaonlinee.web.app
 kmsorgulamsaxmarz.duckdns.org
 kmsorgulardan.web.app
 kmsorgulatmahizmetlerim.web.app
-kmsoxgulamaislemleriniz.web.app
 kmsroglamahizmttimiz.web.app
 kmzsgsmdiza.web.app
 koadsfced.giize.com
@@ -5329,7 +5325,6 @@ lakalakalklakak.shop
 lake-90.com
 laktanasma.net
 laleliburgaz.giize.com
-lalezarbotanik.live
 lalezarte346655ter.duckdns.org
 lalibation.ncclouds.com
 lalibations.opticaberl.com
@@ -5723,6 +5718,7 @@ mh-rdvzmni.cfd
 mhbksdfs.art
 mhburdagln.shop
 mhdsgfsdgh.art
+mhdshgsdfv.art
 mheresrandevu.cfd
 mhhhrrrrs.duckdns.org
 mhilernduhlzi.cfd
@@ -5745,6 +5741,7 @@ mhrs-yenidenoo.sbs
 mhrs.85-235-74-24.sslip.io
 mhrsgad.art
 mhrsgfrgr.com
+mhrsgovvtrr.online
 mhrsislemleriniz.blogspot.com
 mhrsmlimlsmsm.duckdns.org
 mhrsmsmsmsmsms.xyz
@@ -5826,7 +5823,6 @@ mhssraca.website
 mhssracb.cyou
 mhssracb.rest
 mhssracb.sbs
-mhssragd.sbs
 mhssrawga.buzz
 mhssrawga.cfd
 mhsssraa.cfd
@@ -6169,6 +6165,7 @@ norveta.cyou
 nostrashop.xyz
 notebookklm.com
 noticiasfy.com
+novaarackiralafilo.com
 novafilokurumsal.net
 novafilom.com
 novafilorental.com
@@ -6499,6 +6496,7 @@ pera-stili.shop
 peregrinecooksoft.com
 perfectcookingsuite.com
 pergalomon.giize.com
+permissibleplane.com
 perplecity.ai
 perplexity-advertising.com
 perplexity-beta-ads.com
@@ -7921,7 +7919,6 @@ tebpromo.site
 tebrafa.site
 tebresmiiii.duckdns.org
 tebsolansod.co
-technicais.sytes.net
 technovariant.cyou
 techrelay.top
 techsupport2337.onmicrosoft.com
@@ -8949,7 +8946,6 @@ www-verytbd-cept-izinler.myonlineportal.ch
 www-voltbde-cepte-ayrica.myonlineportal.ch
 www-web-cept-tb.myonlineportal.ch
 www-webactry-cptetbde.myonlineportal.ch
-www-ziraat-bank-com-tr-internet-islemleri.my-homeip.de
 www.helloharmonyos.com
 www.ruhsuzpanel6.site
 www.ruhsuzpanel9.site
@@ -9213,6 +9209,7 @@ zhifu.tronide.cc
 zibll.tg
 zibomifac.company
 zilihojifieresede.club
+zipfiloarackiralama.com
 zir-bank-turkiye.top
 ziraat-ban-emekli.my-homeip.com
 ziraat-bank-giris.online
