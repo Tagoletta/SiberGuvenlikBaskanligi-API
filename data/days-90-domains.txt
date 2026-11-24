@@ -69,6 +69,7 @@
 101-extra-bugune-ozel-mobil-sponsor-tr.online-sepet-sponsor-tr.lol
 101-extra-bugune-ozel-online-alisveris-sepet-mobil-indirimi-tr.cepinde.online
 101-extra-bugune-ozel-online-alisveris-sepeti-mobilde-tr.bireyselcep-mobilde.online
+101-extra-bugune-ozel-online-mobil-indirim.mooo.com
 101-extra-bugune-ozel-online-mobil-sepet-indirimleri-tr.magaza-mobil.online
 101-extra-cepte-online-siparis-onay-bugune-ozel-indirim-tr.mobils-tr.online
 101-extra-mobil-alisveris-bugune-ozel-indirim-tr.shoplas-tr.online
@@ -923,7 +924,6 @@
 8ll.im
 8n1oewttplbxet1u.site
 8r03l.com
-8xmw2325sm6ha235fds3.duckdns.org
 8xzlyusic3.localto.net
 8zx8zc89ds8.duckdns.org
 90899889.sbs
@@ -3078,8 +3078,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliye.net
@@ -3165,6 +3165,7 @@ citi-garantibbva-bell.ph
 citi-garantibbva.ph
 civicpulse.info
 civicscope.blog
+ciwadz.bigdatafuturedev.buzz
 cj.catcoinglobal.top
 ckaude.ai
 ckksslslwl.click
@@ -3498,13 +3499,7 @@ destekyardim.com
 destekyardimlari.net
 detailsarrival.com
 detaybakiye.lol
-detectsysscanner.at
-detectsysscanner.com
-detectsysscanner.de
-detectsysscanner.xn--q9jyb4c
 determine-renewal-lawn-starter.trycloudflare.com
-detsysscanner.com
-detsysscanner.xn--q9jyb4c
 deuedu.ccwu.cc
 dev-tools.cfd
 dev.diyanetisleribakanligi.vercel.app
@@ -5122,7 +5117,6 @@ gelbanaburadasendegelola.guru
 gelbrdanjal3694.duckdns.org
 gelburuagelaldepodan2297.duckdns.org
 geldivegidiceksadecezaman.sbs
-geleceginvizyonadresi.sbs
 gelecekhedefleri.com
 gelendengidenden.duckdns.org
 gelengecenalsindiye.sbs
@@ -5885,7 +5879,6 @@ hesapta-tr.online
 hew58le4thhchsxs.lan64.de
 hexnoxpr.world
 heyhru.com
-heymens.duckdns.org
 hfgjjkrewjk.com
 hflx64mniw165hv3s1.com
 hfnvmfvkjmv38292.click
@@ -6991,7 +6984,6 @@ istkartibasvr.online
 istkartlahmnadak.com
 istkartlahmnodesal.xyz
 istkartlahzlacn.duckdns.org
-istkartlassnyada.com
 istkartlasuathmnal.com
 istkwrnrmk.sbs
 istnnop.com
@@ -9121,7 +9113,6 @@ npugovua.cfd
 nq8h0vi.s.gy
 nqwetah.blogspot.com
 nrrhrsctyylnmase.com
-ns-wwwhaber7com.coliculpas.cfd
 ns-wwwhaber7com.gratispilots.beer
 ns-wwwhaber7com.grippex.cfd
 ns-wwwhaber7com.logwayaceite.cfd
@@ -9423,7 +9414,6 @@ online-satislari-burada.com
 online-sbm.org.tr
 online-shoptrx.online
 online-siparis-ver-101-tr-mobil.duckdns.org
-online-siparis.com
 online-siparisler-burda.com
 online-siparisler-onaylama.com
 online-sozlesme.e-islem-hizmet.com
@@ -9567,7 +9557,6 @@ otokofilomkurumsal.net
 otokokurumsal.com
 otokokurumsal.net
 otomakdenemelerimzer.duckdns.org
-otomaktifgaleryys.duckdns.org
 otoplusarabam.com
 otopluseskisehir.com
 otopluskampanya.com
@@ -10051,6 +10040,7 @@ pttavm.ile-guvenli-web-tr.com
 pttavm.ile-guvenlice-web-tr.com
 pttavm.ile-odemeyi-tamamla.com
 pttavm.ile-onay-sepete.net.tr
+pttavm.ile-sepet-islemleri.net.tr
 pttavm.ile-sepete-islemler.info.tr
 pttavm.ile-sepete-islemler.net.tr
 pttavm.ile-sepete-islemler.org.tr
@@ -12019,8 +12009,6 @@ technicais.sytes.net
 technovariant.cyou
 techrelay.top
 techsupport2337.onmicrosoft.com
-techsysscanner.com
-techsysscanner.lol
 teenage-summaries-wild-weekly.trycloudflare.com
 teenfinger.online
 tej0kygaj0g3-tad7.workers.dev
@@ -12157,7 +12145,6 @@ tkrbonline.com
 tkshop.la
 tlaknasan.net
 tlaknasma.net
-tlcscanner.com
 tlkgecebrsylrdnylrs.duckdns.org
 tlknan.net
 tlknatan.net
@@ -12696,6 +12683,7 @@ us956web-zoom.us
 us968web-zoom.us
 usa.on1xvpn.com
 usdgsdgsd.shop
+usdt.aml-confirm.pro
 usefulchain.com
 user2.bsnotespublication.com
 usinagesuperieur.enervscler.com

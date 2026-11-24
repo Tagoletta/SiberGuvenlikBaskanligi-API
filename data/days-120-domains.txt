@@ -82,6 +82,7 @@
 101-extra-bugune-ozel-mobil-sponsor-tr.online-sepet-sponsor-tr.lol
 101-extra-bugune-ozel-online-alisveris-sepet-mobil-indirimi-tr.cepinde.online
 101-extra-bugune-ozel-online-alisveris-sepeti-mobilde-tr.bireyselcep-mobilde.online
+101-extra-bugune-ozel-online-mobil-indirim.mooo.com
 101-extra-bugune-ozel-online-mobil-sepet-indirimleri-tr.magaza-mobil.online
 101-extra-cepte-online-siparis-onay-bugune-ozel-indirim-tr.mobils-tr.online
 101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online
@@ -2649,7 +2650,6 @@ avskiralamayeri.com
 avskiralikaraba.com
 avskiralikaraclar.com
 avskiralla.com
-avskoc.org
 avskockiralama.com
 avskocrental.net
 avskurumsalkirala.com
@@ -3977,8 +3977,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -4087,6 +4087,7 @@ citi-garantibbva.ph
 city.eatnowliving.top
 civicpulse.info
 civicscope.blog
+ciwadz.bigdatafuturedev.buzz
 cix132jxk123z123z123.shop
 cj.catcoinglobal.top
 cjghnb555.duckdns.org
@@ -4133,7 +4134,6 @@ climberbycuno.live
 clioobanby.duckdns.org
 cliosnurpl.live
 clkkkprmsynkrdibsvrrr.pro
-clockaskdjjkx1k32x4314.cfd
 clonatiempo.com
 clothes.life-collective.top
 cloud-electronic.com
@@ -9360,7 +9360,6 @@ istanbuulonlinebelgem.uk
 istancanbulbelgim.xyz
 istanfess.xyz
 istanfreefess.xyz
-istankart.xyz
 istankarttt.xyz
 istankartttcan.xyz
 istatlmenus.com
@@ -14032,6 +14031,7 @@ pttavm.ile-guvenli-web-tr.com
 pttavm.ile-guvenlice-web-tr.com
 pttavm.ile-odemeyi-tamamla.com
 pttavm.ile-onay-sepete.net.tr
+pttavm.ile-sepet-islemleri.net.tr
 pttavm.ile-sepete-islemler.info.tr
 pttavm.ile-sepete-islemler.net.tr
 pttavm.ile-sepete-islemler.org.tr
@@ -16966,7 +16966,6 @@ tk-tapursevrandvun.net
 tk-tapursevrandvun.org
 tk.dev
 tk.iweibu.com
-tkg-edvtap-randv.org
 tkg-edvtap-randvv.org
 tkg-edvtapkonrandv.org
 tkg-edvtepkonv.org
@@ -17738,6 +17737,7 @@ us968web-zoom.us
 usa.on1xvpn.com
 usachvpn.su
 usdgsdgsd.shop
+usdt.aml-confirm.pro
 usefulbasketlane.shop
 usefulcartcenter.shop
 usefulchain.com
@@ -18155,7 +18155,6 @@ web-siparis-ver.sbs
 web-sipariskampanya.sbs
 web-siparislerim.sbs
 web-tapsnrsandvun.info
-web-tapsnrsandvun.net
 web-tr-islemler-get-alisveris.online
 web-tr-islemler-getalisveris.online
 web-tr-islemlerim-getalisveris.online

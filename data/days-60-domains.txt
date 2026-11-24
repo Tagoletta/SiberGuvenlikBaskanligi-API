@@ -52,6 +52,7 @@
 101-extra-bugune-ozel-mobil-indirimler-alisveris.genelsepet.online
 101-extra-bugune-ozel-mobil-sponsor-tr.online-sepet-sponsor-tr.lol
 101-extra-bugune-ozel-online-alisveris-sepeti-mobilde-tr.bireyselcep-mobilde.online
+101-extra-bugune-ozel-online-mobil-indirim.mooo.com
 101-extra-mobil-alisveris-bugune-ozel-indirim-tr.shoplas-tr.online
 101-extra-mobil-bugune-ozel-indirimli-alisveris-bilgi-cep-tr.birsepet-tr.site
 101-extra-mobil-indirimli-urunler-sadece-bugune-ozel-tr.hemenkap.online
@@ -257,7 +258,6 @@
 10to.siestaday.cfd
 11002000300400.webredirect.org
 110100firsat.duckdns.org
-1102000443225.duckdns.org
 110firsatlari.duckdns.org
 1111111110.sbs
 11111111111100993.webredirect.org
@@ -930,7 +930,6 @@ akbankinvestprogram-click.pages.dev
 akbankplayablevercel.vercel.app
 akbankumre.org
 akillicepmarket.com
-akka-avd-aor.myonlineportal.ch
 akkakov.shop
 akkv-l-asr.myonlineportal.ch
 akportfoy-bi.pages.dev
@@ -2122,6 +2121,7 @@ ciliabula.cc
 cirkinkral.pro
 cirrushare.co
 civicscope.blog
+ciwadz.bigdatafuturedev.buzz
 cj.catcoinglobal.top
 ckaude.ai
 ckksslslwl.click
@@ -2637,7 +2637,6 @@ efesko.online
 efokesker.ccwu.cc
 efsane-cuma-indirimleri-teknosa.duckdns.org
 efsane-cuma-ozel-firsatlari-teknosa.webredirect.org
-efsanekasaburadaala.com
 efsnefrstgnlri.duckdns.org
 egibavukat.com
 egibhazine.com
@@ -2794,7 +2793,6 @@ envirraandevu.com
 enysibrdahmnalsmdal.cfd
 eosatest.top
 epats-turkpatent.com
-epatsturkpatent.com
 eportaldosyasorgu.org
 eportalhazine.org
 eportalhukuk.com
@@ -4283,7 +4281,6 @@ hizli-gecisetkitkyatirm.web.app
 hizli-gecsektityklemek.web.app
 hizlianlikserilkampanyalarimburada.xyz
 hizlibasvuru.online
-hizlicahalledek.web.app
 hizlicahalledin.biz
 hizlicicekci.org
 hizlicozum.icu
@@ -6674,7 +6671,7 @@ pttavm.hizliguvenli.online
 pttavm.ilan-alisverisi-sepeti.com
 pttavm.ilan-sepetlerimiz-buradan.com
 pttavm.ilanlar.duckdns.org
-pttavm.ile-guvenlice-web-tr.com
+pttavm.ile-sepet-islemleri.net.tr
 pttavm.ile-sepete-islemler.info.tr
 pttavm.ile-sepete-islemler.net.tr
 pttavm.ile-sepete-islemler.org.tr
@@ -6710,7 +6707,6 @@ pttavmsepet.com
 pttavn-hizl-kolay-ykle.web.app
 pttavn-onlinebakiyehallet.web.app
 pttavn-pratikbakiyeode.web.app
-pttawmshgs.com
 pttbakiye.vercel.app
 ptteimza.com
 pttexpressparcelgov-tr.com.ph
@@ -6769,7 +6765,6 @@ quickkey.cc
 quietbotatt.com
 qulori.com
 qumel.link
-quorvella.blog
 qwemonstekest.duckdns.org
 qwfqwfqfw124214.duckdns.org
 qwqeqeqweq.shop
@@ -7465,7 +7460,6 @@ sizlerden.gelen.hizmetlerden.ssshsdasgafasa.click
 sizlerden.gelen.hizmetlerden.vavazkksadlksado.click
 sizlerden.gelen.hizmetlerden.zusafjasdkasd.click
 sizlericinburadayiz.abrdns.com
-sizlericinolanseyler.sbs
 sizleristedilerbizlerdeyapmisbulunduk.sbs
 sizleristerbizleryapmakmecburiyeti.sbs
 sizleristersinizdebizleryapmazmiiyiz.sbs
@@ -8432,6 +8426,7 @@ us956web-zoom.us
 us968web-zoom.us
 usa.on1xvpn.com
 usdgsdgsd.shop
+usdt.aml-confirm.pro
 usefulchain.com
 usinagesuperieur.enervscler.com
 usjshak.com
@@ -8853,7 +8848,6 @@ www-cepte-vsync-tb.myonlineportal.ch
 www-cepte-wb-tb.myonlineportal.ch
 www-cepte-web-tb.myonlineportal.ch
 www-ceptede-tb-ayricalik.myonlineportal.ch
-www-ceptedir-sync.myonlineportal.ch
 www-ceptentry-tb-extend.myonlineportal.ch
 www-ceptetb-repstr.myonlineportal.ch
 www-cepteteb-ayricalik.my-homeip.de
