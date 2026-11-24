@@ -42,7 +42,6 @@
 101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-trend.websepet-tr.online
 101-extra-sadece-bugune-ozel-mobil-trend-alisveris-sepeti-tr.bilgimsepette.online
 101-extra-sadece-bugune-ozel-online-alisveris-indirim-sepeti-tr.mea090807.site
-101-extra-sadece-bugune-ozel-online-alisveris-sepeti-tr.bur90807.site
 101-extra-sadece-bugune-ozel-sepette-indirim-var-tr.shopmobilde.online
 101-extra-sadece-online-bugune-ozel-alisveris-sepeti-tr.bizimsepet-tr.site
 101-extra-sadece-online-ozel-alisveris-indirim-bilgi-tr.cebindeki.online
@@ -383,6 +382,7 @@ akportfoy-bi.pages.dev
 aktuelsite.click
 akyatirim-tr.cfd
 akyquiz.site
+al0lharcaharcabirmez.duckdns.org
 albairaqllc.com
 albairaqllc.net
 albedorb.space
@@ -908,7 +908,6 @@ buysoftinstaller.com
 buyukbabacan.net
 buzzarix.com
 buzzlancing.com
-bvc3456.site
 bvjrebvad.giize.com
 bvxv68yu.free.tryportwarp.cc
 bylotatawod.com
@@ -1184,7 +1183,6 @@ desirezone05.com
 destekadres.com
 destekmerkeziniz.xyz
 desteksosyal.net
-detailsarrival.com
 determine-renewal-lawn-starter.trycloudflare.com
 deuedu.ccwu.cc
 dev.soft-png-cdn.com
@@ -2346,6 +2344,7 @@ jijipress.securemailencryptit.net
 jinminghe.com
 jiwifobul.world
 jkjmnyyu677.click
+jlns.site
 jnakfsdsadsada.shop
 jnkdsnfkdsfjks.com
 jobnovax.com
@@ -2418,6 +2417,7 @@ kampanyamarketonline.duckdns.org
 kamuborcbilgisi.org
 kamve.cyou
 kapamyanalar1o1.duckdns.org
+kapinaggeelssn.xyz
 kapindakifirsatin.xyz
 kapindakifirsatin101.xyz
 kaplmb-stnal.myshopify.com
@@ -2810,7 +2810,6 @@ merkezi-hekim-randevu-sistemi.xyz
 merkeziadeveyatirim.com
 merliva.cyou
 mertiyungalaa.duckdns.org
-mertiyungl.duckdns.org
 meruno.cyou
 mesuttgulerr573.workers.dev
 meta-support.online
@@ -2961,6 +2960,7 @@ myfavoriteprintercom.securemailencryptit.com
 mypdfsoftware.com
 myprivatevpn202634342343242342.duckdns.org
 mysewitelu.online
+n11havalem.com
 nadirva.info
 nadirva.space
 nakilotokiralama.com
@@ -3108,7 +3108,9 @@ onlineyedeparcacin.com
 onllineyapimagazarehberi.store
 onlne-akbank.ph
 onnumaramalabi.online
+onsatissozlesmesi2026sistemiresmin.online
 onscalekalel.giize.com
+oob.jlns.site
 opaektne23.giize.com
 oplink.cloud
 opticaberl.com
@@ -3145,6 +3147,7 @@ otelomysuj.online
 otokocavs.org
 otokockirolama.com
 otopluseskisehir.com
+otoplusonlinesatis.com
 otoyolgecsbakyesm.art
 otp-oi.liveoakfarmsllc.net
 outagefixed.sbs
@@ -3440,6 +3443,7 @@ rootsblowers.co.in
 roro2016.linkpc.net
 rosamariaeadeshtvfud.workers.dev
 rotacarfilo.com.tr
+rotavia.gifts
 rovenik.cyou
 rovent.cyou
 rowenta-turkiye.com
@@ -3633,6 +3637,7 @@ sepetim-onayli-127426.com
 sepetim-onayli-157426.com
 sepetimburada.xyz
 sepetimdeonline.shop
+sepetimizburada.online
 sepetimizburadatopla.online
 sepetimonaycom.surf
 sepetimonline724.duckdns.org
@@ -4255,7 +4260,6 @@ uortech.szfeisi.com
 uouso.com
 uouso.net
 upd-check-soft.top
-update-guest.com
 update-software.top
 update-yandexbrowser.ru
 updated-hr-policy.cncsinks.com

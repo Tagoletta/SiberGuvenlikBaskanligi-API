@@ -49,7 +49,6 @@
 101-extra-bugune-ozel-indirim-alisveris-sepeti-cepte-shop-tr.indirimde-biz-tr.online
 101-extra-bugune-ozel-indirim-alisveris-sepeti-mobilde-tr.bireysel-indirim.online
 101-extra-bugune-ozel-indirimler-mobilde.mobil-sponsor-tr.lol
-101-extra-bugune-ozel-mobil-alisveriste-sepette-indirim-firsat.hesapli-tr.online
 101-extra-bugune-ozel-mobil-indirimler-alisveris.genelsepet.online
 101-extra-bugune-ozel-mobil-sponsor-tr.online-sepet-sponsor-tr.lol
 101-extra-bugune-ozel-online-alisveris-sepeti-mobilde-tr.bireyselcep-mobilde.online
@@ -951,6 +950,7 @@ aktuelsite.click
 akyatirim-tr.cfd
 akyatirim.info
 akyquiz.site
+al0lharcaharcabirmez.duckdns.org
 alashsec.hopto.me
 albairaqllc.com
 albairaqllc.net
@@ -3871,7 +3871,6 @@ havxaistbilet.site
 hay3ykleme.22web.org
 hayatimiyiktinbeinsan.sbs
 hayatkadiniseviyorum.duckdns.org
-haydisizdegelinverandevunuzualin.duckdns.org
 hayzine.com
 haz.sualtihizleri.shop
 hazinebakanligisonadres.shop
@@ -4794,7 +4793,6 @@ istbelgimkart34.xyz
 istecep.my-homeip.de
 istismar.online
 istkartbasvlarinizzburada.store
-istkartbelgim3434.xyz
 istkartbelgimtr.xyz
 istkarthmnssdtnal.com
 istkartibasvr.online
@@ -4828,7 +4826,6 @@ iwowelyj.online
 ixcube.ddns.net
 iyibuket.com
 iyikivardiniyikivarsin.com
-iyiyatirim.org
 iymkjuzymkapovrntoxy.supabase.co
 izellltasseylul.blogspot.com
 izeltasssiparsnnoktasi3548.duckdns.org
@@ -4864,6 +4861,7 @@ jijipress.securemailencryptit.net
 jinminghe.com
 jiwifobul.world
 jkjmnyyu677.click
+jlns.site
 jmlh.morelessty.com
 jnakfsdsadsada.shop
 jnkdsnfkdsfjks.com
@@ -4974,6 +4972,7 @@ kapida-9nr3s32-7msn3b2.sbs
 kapida-bk3m-8sn3k.sbs
 kapida-indcrm-kapida-isnrm.sbs
 kapigr-erisim-katilim.myonlineportal.ch
+kapinaggeelssn.xyz
 kapindakifirsatin.xyz
 kapindakifirsatin101.xyz
 kapinizakadaronlinesizlericin.sbs
@@ -5588,7 +5587,6 @@ mamatarifleri.kedi-baklicisi.shop
 managedkafka.heyhru-server.cloud.goog
 manager-guzel-certificateid97597739.florenceconcerts.it
 manager-guzel-idcheck92400138tr.icrecostruzioni.it
-manager-idcheck2865922-turservices.meilleur-baton.com
 mango-back.onrender.com
 mantle2council.xyz
 mantlehires.xyz
@@ -6000,7 +5998,6 @@ museadsback-production.up.railway.app
 mustafasandal29.duckdns.org
 musurirorul.online
 mutfakaletleri.lat
-mutlu4433.site
 muvb.net
 muzedekultur.com
 muzegezi.com
@@ -6029,6 +6026,7 @@ myrkava.com
 mysewitelu.online
 mzxkpwqf-sagkpqwdag-wkqpgdshds.icu
 mzxkpwqf-sagkpqwdag-wkqpgdshds.top
+n11havalem.com
 n8nbot.sytes.net
 nabsbahala-ladnwnaha-dhgdf.sbs
 nadirva.info
@@ -6320,7 +6318,9 @@ onlinozlxxldante.gt.tc
 onllineyapimagazarehberi.store
 onlne-akbank.ph
 onnumaramalabi.online
+onsatissozlesmesi2026sistemiresmin.online
 onscalekalel.giize.com
+oob.jlns.site
 opaektne23.giize.com
 openai-ads.ai
 openai-advertisers.com
@@ -6376,6 +6376,7 @@ otokockirolama.com
 otokofilomkurumsal.com
 otopluseskisehir.com
 otopluskampanya.com
+otoplusonlinesatis.com
 otoplussatis.com
 otoyolgecsbakyesm.art
 otp-oi.liveoakfarmsllc.net
@@ -6925,6 +6926,7 @@ rosamariaeadeshtvfud.workers.dev
 roseboxcicek.com
 rotacarfilo.com.tr
 rotarentacars.com
+rotavia.gifts
 rovenik.cyou
 rovent.cyou
 rowenta-turkiye.com
@@ -7306,6 +7308,7 @@ sepetim-onayli-157426.com
 sepetimburada.xyz
 sepetimde-tr.online
 sepetimdeonline.shop
+sepetimizburada.online
 sepetimizburadatopla.online
 sepetimonaycom.surf
 sepetimonline724.duckdns.org
@@ -8177,7 +8180,6 @@ tracedpd.xyz
 track-pttgovtr.lungarnofitness.it
 trackaramex.xyz
 tradefyatt.com
-traderpaparainvest.com
 tradingideasai.com
 tradingideasfromai.com
 traffic-analyzer.net
@@ -8370,7 +8372,6 @@ u115688093.ct.sendgrid.net
 uasputn.com
 uat.diyanetisleribakanligi.vercel.app
 uberfilo.com
-ubudturkiye.ubud-spa.fr
 ubuntulivepatch.com
 ucretsiz-umre-firsatlarimiz.sbs
 ucuzindirimlliurun.com
