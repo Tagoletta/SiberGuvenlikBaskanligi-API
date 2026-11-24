@@ -244,7 +244,6 @@
 101extrakapidanaldinaldin.sbs
 101fiifirsat.duckdns.org
 101firsatlarikacirrma.duckdns.org
-101flrsatlarlburada1o1.duckdns.org
 101hemenkapinnda.duckdns.org
 101hizlialisverishizmeti.duckdns.org
 101hizlikapinda.com
@@ -2214,6 +2213,7 @@ cop31saglik.com
 cop31saglikbakanligi.com
 copiot.com
 copytrade.lat
+cordela-sigorta.pages.dev
 corehost.ddns.net
 corexyfi.com
 corlinexa.online
@@ -2525,6 +2525,7 @@ dunyaportfoy.com
 durakdisplay.com
 durakdisplay.net
 durmdfnmcvkjn873982.shop
+duyuraktuel.cfd
 dybgiris.com
 dybgirisim.com
 dybkatilim.com
@@ -5623,6 +5624,7 @@ marketai.tr
 marketindirimkacmaz.duckdns.org
 marketlumena.com
 marketonlinealisveris.duckdns.org
+marketozelfiyat.cfd
 marketten-alim.sbs
 marketx-tr.online
 marksajndspencer.com.ph
