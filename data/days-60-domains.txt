@@ -1395,6 +1395,7 @@ avsfiiloarackirala.com
 avsfiiloarackiralama.com
 avsfiilokurumsal.com
 avsfiilorentc.com
+avsfiilorentcar.com
 avsfiloarackiralamakurumsal.com
 avsfilokiiralama.com
 avsfilokiralaa.com
@@ -2558,7 +2559,6 @@ dzone01.site
 dzone02.site
 dzone3.site
 e-alisveris-kampanyalar.sbs
-e-alisveris.sbs
 e-alisverissepet.sbs
 e-bayi-hgs.lol
 e-devlet-trust.xyz
@@ -6882,6 +6882,7 @@ rekokekosserrt.sbs
 relklam.cfd
 remark.tanktvvip.com
 remekehe.duckdns.org
+renavora.gifts
 rendeburg.com
 render-984.pages.dev
 renfilo.com
@@ -7028,6 +7029,7 @@ s-guvenlimuhasebeodemebirimi.duckdns.org
 s-guvenlimuhasebeodemeleriniz.duckdns.org
 s-guvenlimuhasebeodemenoktaniz.duckdns.org
 s-guvenlisatisonay.com
+s-param-guvende.s-onayi-tr.sbs
 s-paramguvende.bilgi-urundetayi.online
 s-sozlesmen.alisverslersepet-1.sbs
 s-sozlesmen.e-islem-hizmet.com
@@ -8497,7 +8499,6 @@ uzygroup.org
 uzygroups.com
 uzygrp.com
 v1.io92jujjs33.com
-v30105.site
 v7.thisisafalsepositive.ru
 v707070.site
 v99999.site
@@ -8857,7 +8858,6 @@ www-cepte-de-tb.myonlineportal.ch
 www-cepte-down-tb.myonlineportal.ch
 www-cepte-entry-tvb.myonlineportal.ch
 www-cepte-found-tb.myonlineportal.ch
-www-cepte-frst-sync.myonlineportal.ch
 www-cepte-iste-tvb.myonlineportal.ch
 www-cepte-katil-tb.myonlineportal.ch
 www-cepte-mikro-tb.myonlineportal.ch
@@ -9190,7 +9190,6 @@ yonelt.site
 yonelttir.live
 yonlen-buradan-sorgu.cyou
 yonlendi.space
-yonlendiring.space
 yons.ink
 yonv.ink
 yonver.cc
