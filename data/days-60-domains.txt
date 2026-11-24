@@ -265,13 +265,13 @@
 111111111111uu11.xyz
 11111128200049.bounceme.net
 1111112820004933.bounceme.net
-11111128830029.bounceme.net
 11112222244444.webredirect.org
 11112222244494.webredirect.org
 111hizligiris.duckdns.org
 111rl.link
 1124111123.com
 112hizligiris.duckdns.org
+1176340126744.cloud
 11axiontheravexultronicengineering.cyou
 11kasmtw.blogspot.com
 11rl.link
@@ -1161,7 +1161,6 @@ aracim360.vercel.app
 aracim360.xyz
 aracim360bakiye.cfd
 arackiralagarent.com
-aracla.com
 aracmuayanemonline.com
 aracmuayanerandevu.xyz
 aracmuayanerandevutr.com
@@ -2863,7 +2862,6 @@ evindebunlardanolsun.xyz
 evinealabilecegineniyiler.sbs
 evlerbasvurularbenim.com
 evlerimbasvurubenim.com
-evrak-dogrulama-uyap.vercel.app
 evrensorgupaneli.click
 evrensorgupaneli.online
 evtokibasvuru.com
@@ -3522,7 +3520,6 @@ giris-cepte-teb.finansbul.online
 giris-islemler.teb.com.se
 giris-sekermenkul.pro
 giris-ziraatmobile.com
-giris.aracla.com
 giris.mobil-teb.com
 giris.mobil-ziraat.org
 giris.portal-disisleri.org
@@ -6211,6 +6208,7 @@ odeme-onay-1292.com
 odeme-onay-1293.com
 odeme-onayli-tr.online
 odemeonayli-tr.online
+odgiris.com
 oefiratturkmhrsde.ffio.site
 oefsanebasladi.sbs
 oelreksd.shop
@@ -6755,7 +6753,6 @@ rafaelreklam.sbs
 rafaeltokyotebmeb.sbs
 rafaelx.online
 rafateb.space
-rafoskr.ccwu.cc
 rafoteb.space
 ragbetteknoloji.com
 ralphlaurenturkiye.me
