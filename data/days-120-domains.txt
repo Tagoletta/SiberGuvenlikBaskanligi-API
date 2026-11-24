@@ -495,7 +495,6 @@
 124215151512.duckdns.org
 1244422115455455888899991.duckdns.org
 1244422115455455888899993.duckdns.org
-124451545544554888787996.duckdns.org
 124451545544554888787997.duckdns.org
 124451545544554888787998.duckdns.org
 1249124919.duckdns.org
@@ -953,6 +952,7 @@
 5234183747924819.duckdns.org
 524125213.sbs
 52727281727.duckdns.org
+5312211422245222224552245590.xyz
 5325394324325.xyz
 53298528959812.sbs
 53532512412.sbs
@@ -14762,6 +14762,7 @@ sahib.inden-get.com
 sahibinden-get-paramguvende-ode.gt.tc
 sahibinden-get.alisveris-guvende-10.sbs
 sahibinden-get.alisveris-sepet-guvende-20.sbs
+sahibinden-get.alisveris-sepeti-guvende-25.sbs
 sahibinden-get.alisverisepet-islem-10.sbs
 sahibinden-get.alisverisepetin-12.sbs
 sahibinden-get.alisverisepetin-14.sbs
@@ -18716,7 +18717,6 @@ xsadcasyiwaiwai.top
 xshaon123.sbs
 xsjyt.buzz
 xss.xs1.ccwu.cc
-xswwwxswwsx.duckdns.org
 xtpj2bzxip6iq7n3bnz.info
 xuenoerlingeriellc.net
 xvla9qtmz8crk4pb.cfd

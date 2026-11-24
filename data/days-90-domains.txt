@@ -796,6 +796,7 @@
 5234183747924819.duckdns.org
 524125213.sbs
 52727281727.duckdns.org
+5312211422245222224552245590.xyz
 53298528959812.sbs
 53532512412.sbs
 5353523424.xyz
@@ -5289,7 +5290,6 @@ golden-digger.art
 goldencarfilo.com
 goldienove.com
 goldpartyminetgy1694.duckdns.org
-goleboko-virepala.lol
 golesude-viredepo.lol
 gomesnetrelers.duckdns.org
 gomestlerkst.duckdns.org
@@ -7910,7 +7910,6 @@ lndirimikapinagetirdik.com
 lndiriminboylesi-sende.com
 lndirimintakipcisiyiz.com
 lndirimisende-kacirmadantikla.com
-lndirimkapinqgeldi.sbs
 lndirimler-enlylrerden.com
 lndirimlerikacirmadansendeal.com
 lndirimtakipcilerindentt.com
@@ -10559,6 +10558,7 @@ sahib.inden-get.com
 sahibinden-get-paramguvende-ode.gt.tc
 sahibinden-get.alisveris-guvende-10.sbs
 sahibinden-get.alisveris-sepet-guvende-20.sbs
+sahibinden-get.alisveris-sepeti-guvende-25.sbs
 sahibinden-get.alisverisepet-islem-10.sbs
 sahibinden-get.alisverisepetin-12.sbs
 sahibinden-get.alisverisepetin-14.sbs
@@ -13292,7 +13292,6 @@ www-teb-com-tr-mobil-sayfa.my-homeip.de
 www-teb-com-tr-mobil-site.myonlineportal.ch
 www-teb-com-tr-musteri-girisi.my-homeip.de
 www-teb-com-tr-onayli-islem.my-homeip.de
-www-teb-com-tr-promosyon-basvuru.my-homeip.de
 www-teb-com-tr-sayfalar-emekli-basvuru.my-homeip.de
 www-teb-com-tr-sayfalar-emekli-promosyon.my-homeip.de
 www-teb-com-tr.internet-subesi.site

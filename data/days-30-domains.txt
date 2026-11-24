@@ -213,6 +213,7 @@
 51291271766.cloud
 51299657326612.cloud
 524125213.sbs
+5312211422245222224552245590.xyz
 53298528959812.sbs
 53532512412.sbs
 541251765.cloud
@@ -3511,6 +3512,7 @@ sagltmslml.net
 sahabinden.info
 sahibinden-get.alisveris-guvende-10.sbs
 sahibinden-get.alisveris-sepet-guvende-20.sbs
+sahibinden-get.alisveris-sepeti-guvende-25.sbs
 sahibinden-get.alisverislersepet-20.sbs
 sahibinden-get.alisverislersepet-30.sbs
 sahibinden-get.e-hizmetler-10.sbs
@@ -4530,7 +4532,6 @@ www-tesctb-exit-cepte.myonlineportal.ch
 www-tesitb-thangu-cepte.myonlineportal.ch
 www-tesptb-cepte-wond.myonlineportal.ch
 www-toltb-ceptd-ayrica.myonlineportal.ch
-www-tooltb-accuary-cepte.myonlineportal.ch
 www-toolytb-cepte-extend.myonlineportal.ch
 www-tvbde-nerede-ayrica.myonlineportal.ch
 www-verytbd-cept-izinler.myonlineportal.ch
