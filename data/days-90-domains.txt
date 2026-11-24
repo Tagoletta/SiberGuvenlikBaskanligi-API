@@ -253,6 +253,7 @@
 101-extra-sadece-online-ozel-shop-urun-bilgileri-alisveris.bilgiselshopier.site
 101-extra-sepette-indirim-sadece-bugune-ozel-tr.getshop-tr.online
 101-firsatlari.duckdns.org
+101-harcaa.duckdns.org
 101-kampaanya.duckdns.org
 101-kampanyalaribuguneozel.sbs
 101-mobil-bugune-ozel-alisveris-sepeti-indirim-mobilde-tr.sepetimde.online
@@ -639,6 +640,7 @@
 2616160175.cloud
 2616766158.cloud
 265271.duckdns.org
+2660127752123.cloud
 266016565925.cloud
 2660172556.cloud
 2660176266.cloud
@@ -2609,6 +2611,7 @@ bonusbasvurulari15234.sbs
 bonusbasvurulari32634.sbs
 bonusbasvurusayfasi12367123.sbs
 bonusbasvurusayfasi123q5233.sbs
+bonusbasvurusayfasi1254123.sbs
 bonusbasvurusayfasi125562705.sbs
 bonusbasvurusayfasi1256705.sbs
 bonusbasvurusayfasi126532.sbs
@@ -4279,7 +4282,6 @@ esubedunya.com
 esubedunyamportfoy.com
 esubem-teb.my-homeip.de
 esubem.kuzeymenkultr.com
-esubem.my-homeip.de
 esubereferansinfo.com
 esvfecawvjmchjslqyemho2fiduc59wzn.oast.fun
 etahkimceza.com
@@ -4421,7 +4423,6 @@ eylulkmpnybslngc.duckdns.org
 eylulkmpnykcmz.duckdns.org
 eylulllkmpnycs.duckdns.org
 eylulozelkmpnya.duckdns.org
-eylulsonundayizbizler.duckdns.org
 ezikchecker.xyz
 ezikmisinolmsiz.xyz
 f1ledenlcer.giize.com
@@ -4692,6 +4693,7 @@ fiieherzamansizlerle.duckdns.org
 fiillledenindro.giize.com
 file.archat.us
 file.dgjm.online
+filegust.sbs
 filemarketi.com.tr
 filemmarket.xyz
 filemmrkt.click
@@ -5443,6 +5445,7 @@ grntm.com
 grnttam.com
 groundvy.space
 groundvy.xyz
+growthmentorx.com
 groy.cc
 grprmognri.cfd
 gryacvm.click
@@ -5514,7 +5517,6 @@ guvenllisiparis.com
 guvenotoydkpr.netlify.app
 guvercinseverlergrubu.com
 guzel-certificateidcheck472984-servis.foxis.it
-guzel-gunlerde-kullanmaniz-dilegiyle.sbs
 guzel-servis-checkerid2985205.geobi.eu
 guzelkizlarllal.duckdns.org
 gvncmdjslas.shop
@@ -5728,6 +5730,7 @@ haoekang.com
 haoekang.net
 harasin-ox.lvborses.net
 harberza.blog
+harca-harca-bittmez.duckdns.org
 harcaharcabitmeza10.store
 harcaharcabitmezfirsat.blogspot.com
 harcanan-tutar.my-homeip.de
@@ -9668,7 +9671,6 @@ painel.installscenter.com
 painelwebradiodigital.awardspace.info
 pakssarzameen.org
 palagire-saladiro.lol
-palasude-salabazi.lol
 paletsobacim.com
 pallas-records.biz
 pallas-records.com
@@ -10274,8 +10276,6 @@ rafaeltokyotebmeb.sbs
 rafaelx.ccwu.cc
 rafaelx.online
 rafaelxleokralinyo34.sbs
-rafatafakitap123x545x.shop
-rafatafatufatifa41x12313.shop
 rafateb.space
 rafatfitkx213123v5c.shop
 rafattifaaaj12k3x12312.shop
@@ -10598,7 +10598,6 @@ saabaah-izeltas.dnsup.net
 saaoniaa.opik.net
 sabanc-holding.sbs
 sabitgilni2026.com
-sackdalskx13x1312.shop
 sadakilo-kuljhere.lol
 sadasd123asd.duckdns.org
 sadashdha923sadhadw.click
@@ -12854,6 +12853,7 @@ vbvbngfgger.com
 vbvgfvbb5.click
 vc998741.site
 vegapdf.com
+velfrey.digital
 velmantoa.icu
 veloracicek.com
 velouraintimates.com
@@ -13198,6 +13198,7 @@ www-async-cebteteb.myonlineportal.ch
 www-at-ayricalik-tb.myonlineportal.ch
 www-atbde-ayricalik-dunyasi.myonlineportal.ch
 www-atime-zonetb-cepte.myonlineportal.ch
+www-aurtb-webtan-cptayrica.myonlineportal.ch
 www-avr-cep-web.myonlineportal.ch
 www-ayicalikla-dolu-tbc.myonlineportal.ch
 www-ayri-calik-tb-on.myonlineportal.ch
