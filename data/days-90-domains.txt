@@ -1338,7 +1338,6 @@ akaryakithesaplama.com
 akbank-4us.pages.dev.com
 akbank-aivisibility.lovable.app
 akbank-data.pages.dev
-akbank-direkt-firsatkampanyasi-esubetr.ph
 akbank-odeme.online
 akbank-tr.info
 akbank-tr.live
@@ -1349,7 +1348,6 @@ akbankdirectonlineislemler.ph
 akbankdiretk.ph
 akbankinvesthub.net
 akbankinvestprogram-click.pages.dev
-akbankonline-giris.ph
 akbankplayablevercel.vercel.app
 akbankumre.org
 akbnkpk.cfd
@@ -3097,8 +3095,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliye.net
@@ -3497,6 +3495,7 @@ denizfinansman.cfd
 denizonlinebasvur.duckdns.org
 denmarkh.shop
 depinvesting.online
+depordansprdhlznxsgodqertnm7359.duckdns.org
 depordansprsgodqertnm8469.duckdns.org
 dermatologie-klinik.st2.al
 dertler-derya.sbs
@@ -5261,7 +5260,6 @@ girisdyb.com
 girisicbc.com
 girisimdb.com
 girislerburdansk.duckdns.org
-giristurkiyegovtr.vercel.app
 girisyap-hizli.abrdns.com
 girisyap-hizlica.abrdns.com
 girisyap-hizlidan.abrdns.com
@@ -5365,7 +5363,6 @@ gov-tr-traficfine.pdl-wespenverdelging.be
 gov-tr.cam
 gov-tr.cfd
 gov-tr.sbs
-gov-trendyol.com.ph
 gov.online
 gov.zapto.org
 gov12366.com
@@ -5896,7 +5893,6 @@ herkesinbakipaldigi.sbs
 herkesinkendikampanyasi.sbs
 herkessahibiiolsun.sbs
 herkestarafindansahipolunsundiye.sbs
-herseyguzelolacaksendegelyao15.click
 herseyhizlicaveguzelce.com
 heryereherkesehaberverin.sbs
 herykenan.duckdns.org
@@ -6428,7 +6424,6 @@ honemkslerkter.duckdns.org
 honeskdefeter.duckdns.org
 honeycombcreativeex3q2zcommercehub.cfd
 hooiuse.click
-horferruhs.duckdns.org
 horizon-frankfurt-pharmacology-charleston.trycloudflare.com
 horizonmindventure.sbs
 hosemejst.duckdns.org
@@ -6718,6 +6713,7 @@ inatboxz.com.tr
 inboxsession.info
 inciravm.com
 indirim-101-mobil-sadece-online-ozel-indirimler-tr.online
+indirim-cepte.blog
 indirim.ninja
 indirimde-biz-tr.online
 indirimfirsatlariturkiye.pages.dev
@@ -6811,7 +6807,6 @@ interestinghub.site
 interiumdev.xyz
 internal.diyanetisleribakanligi.vercel.app
 internationalbusinessmaclsihinesibm.vu
-internatsube-akbank.ph
 internet-direktsube.com.ph
 internet-speed-check.com
 internet-sube-cepteteb.my-homeip.de
@@ -9435,6 +9430,7 @@ onay-mobilden111.com
 onay-sizlerin.biz.tr
 onay-sizlerin.com
 onay-sizlerin.net
+onay-sizlerin.tr
 onayda-sepet-7180.com
 onayda-sepet-7181.com
 onayda-sepet-7182.com
@@ -12302,6 +12298,7 @@ toplukonut35912911.vercelcloud.com
 toplukonut81.verceljs.com
 toplukonutaptdetayli.vercelapi.com
 toplukonutdavetli.vercelapi.com
+toplukonutdetayli.verceljs.com
 toplukonutdetayli.vercelsh.com
 toplukonutevdetaylari.vercelhost.com
 toplukonuthh.verceldomain.com
