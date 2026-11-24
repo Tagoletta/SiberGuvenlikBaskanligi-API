@@ -328,6 +328,7 @@
 101-mobilde-sadece-bugune-ozel-sepet-indirimleri-tr.mobilsepet-tr.online
 101-mobilde-sadece-online-mobile-ozel-indirim-sepeti-tr.e-extra-tr.online
 101-mobilde-sadece-online-ozel-alisveris-indirimleri-tr.payssepet.site
+101-online-alisveris-tr.cebinde-giris.online
 101-online-bugune-ozel-indirimli-sepet-alisverisi-mobilde-tr.extrasepet.online
 101-online-mobil-sepet-extra-alisveris-tr.strangled.net
 101-online-sadece-bugune-ozel-indiirm-sepeti-mobil-tr.shopextra.online
@@ -895,6 +896,7 @@
 4312211422245222224552245594.xyz
 4312211422245222224552245595.xyz
 4312211422245222224552245596.xyz
+4312211422245222224552245597.xyz
 4324qww212.com
 434gssg.giize.com
 4410686281275.cloud
@@ -1702,7 +1704,6 @@ akmobil-ceptebasvuru-ekrani-com.duckdns.org
 akmobil-ceptebasvuru-ekrani-com.webredirect.org
 akmobil-cepteislemler-ekrani-com.webredirect.org
 akmobil-onlinebasvuru-ekrani-com.webredirect.org
-akmobil-onlineislem-ekrani.duckdns.org
 akmobil-onlineislem-guncel-ekran.duckdns.org
 akmobildend.duckdns.org
 akmpxnya-101eylul.site
@@ -3579,6 +3580,7 @@ buydealexpress.com
 buysoftinstaller.com
 buyukbabacan.net
 buyukcekilis.online
+buza323.site
 buzzarix.com
 buzzlancing.com
 bva-appbonus.shop
@@ -3934,7 +3936,6 @@ cepteteb-emekliye.my-homeip.de
 cepteteb-emekliyle.my-homeip.de
 cepteteb-esube.my-homeip.de
 cepteteb-internet.my-homeip.de
-cepteteb-merkeziislemler.my-homeip.de
 cepteteb-mobil-bankacilik.my-homeip.de
 cepteteb-pro.my-homeip.de
 cepteteb-sube.my-homeip.de
@@ -3976,8 +3977,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -5749,6 +5750,7 @@ ext.dl.wel1.ru
 extension.io-safe.icu
 extlib.anyevonline.com
 extott.szbboys.com
+extra-mobil-online-indirim-sepeti-tr.trendsepet.bar
 extrasepet.online
 extrashoot.cfd
 extrashop-mobil.online
@@ -6787,7 +6789,6 @@ gentle.best
 gentlevector.com
 geoveral.ink
 geoveral.space
-gerasfdtjeagh.duckdns.org
 gerceklesen-degisim.ink
 gerdelerdesess.duckdns.org
 gerdenleawkelr.duckdns.org
@@ -6872,7 +6873,6 @@ gibsorgulama.net
 gibtakip.net
 gidayenifirsatindirimler.com
 giftavora.com
-giftcornera.homes
 giperon.net
 gipulora-menaxosi.lol
 gir-vesile-ifade.casa
@@ -7133,13 +7133,11 @@ gp.bit728.eu.cc
 gppmikicc.com
 gptbot.sytes.net
 grabrtttt.nicepage.io
-gracefully-archie-963.rehost.page
 graconxonjal.empresaeficiente.sbs
 granadaluxuribelek.com
 granadaluxuries.com
 granderevolucao.store
 grandtemizelotel.com
-granlyx.com
 granti-web.nicepage.io
 granti-webbn.nicepage.io
 grantibbva-turkey.com
@@ -7693,7 +7691,6 @@ havaistxbilet.online
 havaistxnbul.com
 havale-gonderici.com
 havale-gonderim.com
-havale-ilan.com
 havale-ode.com
 havale-odemem.com
 havalem-fast.com
@@ -8562,7 +8559,6 @@ homegoodsway.shop
 homehub.opik.net
 homekitchenes.store
 homelee-web-world.cyou
-homeliora.cyou
 homelivinggoods.shop
 homeneedslane.shop
 homeneedsmarket.shop
@@ -9357,7 +9353,6 @@ istanbuulonlinebelgem.uk
 istancanbulbelgim.xyz
 istanfess.xyz
 istanfreefess.xyz
-istankarttt.xyz
 istankartttcan.xyz
 istatlmenus.com
 istbabahrzmns.store
@@ -13261,7 +13256,6 @@ oznelfirsatlar.abrdns.com
 ozon.bsnotespublication.com
 ozons.shop
 p55abnw2pnsz0bo.icu
-p5t8r3w9n2x6.click
 paanzi.tools
 package-proxy.cf11oobworker.workers.dev
 package-proxy.cf5oobworker.workers.dev
@@ -13872,6 +13866,7 @@ preview.diyanetisleribakanligi.vercel.app
 preview.evsahibibasvuru.com
 pricealarmsvolatilitywarnings.pro
 prime-store-tr.online
+primechecker.store
 primegoarackiralama.com
 primelynx.top
 primemarclab.com
@@ -14136,7 +14131,6 @@ pyrzdnsndys2313.com
 q-parkfine.cfd
 q1ls1ho9x7wsxlu.icu
 q2nbfinansbank.vg
-q3w8n5r2t6p9.click
 q6z1t4x8n2.lol
 qamarbrothers.com
 qantasrewardsa-homes.info
@@ -14313,7 +14307,6 @@ randevu.vilan.online
 randevucunuz.com
 randevuhaliyle.duckdns.org
 randevuhzmtlebrusds.store
-randevuhzmtlerburdsas.store
 randevulugunlerburada.duckdns.org
 randevumtuvturkorg.duckdns.org
 randevunoktasi.duckdns.org
@@ -14353,7 +14346,6 @@ rd-rhbrsglik.cfd
 rd1800vire.shop
 rd1kdekdkde.com
 rdcouncil.xyz
-rdnvshrizmebutdsf.online
 rdrplay.ru
 rdsjcnc1.click
 rdtalents.xyz

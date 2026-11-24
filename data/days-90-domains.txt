@@ -298,6 +298,7 @@
 101-mobilde-sadece-bugune-ozel-sepet-indirimleri-tr.mobilsepet-tr.online
 101-mobilde-sadece-online-mobile-ozel-indirim-sepeti-tr.e-extra-tr.online
 101-mobilde-sadece-online-ozel-alisveris-indirimleri-tr.payssepet.site
+101-online-alisveris-tr.cebinde-giris.online
 101-online-bugune-ozel-indirimli-sepet-alisverisi-mobilde-tr.extrasepet.online
 101-online-mobil-sepet-extra-alisveris-tr.strangled.net
 101-online-sadece-bugune-ozel-indiirm-sepeti-mobil-tr.shopextra.online
@@ -490,8 +491,6 @@
 1339500385355.duckdns.org
 13395003853566003.duckdns.org
 13395003853fark.duckdns.org
-1379889898999899096.duckdns.org
-1379889898999899097.duckdns.org
 1379889898999899098.duckdns.org
 1379889898999899099.duckdns.org
 13798898989998990995.duckdns.org
@@ -534,7 +533,6 @@
 182webpp.click
 182websp.com
 182wepps.com
-182weps.com
 182wepst.cfd
 182wepst.click
 185125125.click
@@ -754,6 +752,7 @@
 4312211422245222224552245594.xyz
 4312211422245222224552245595.xyz
 4312211422245222224552245596.xyz
+4312211422245222224552245597.xyz
 4324qww212.com
 434gssg.giize.com
 4410686281275.cloud
@@ -1450,7 +1449,6 @@ alisverisepetin-13.sbs
 alisverisepetislem-15.sbs
 alisverisfirsati.com
 alisverisfirsatlari.com
-alisverishizmeti.online
 alisverishizmetin-10.sbs
 alisverishizmetin-20.sbs
 alisverishizmetin-25.sbs
@@ -2768,6 +2766,7 @@ buydealexpress.com
 buysoftinstaller.com
 buyukbabacan.net
 buyukcekilis.online
+buza323.site
 buzzarix.com
 buzzlancing.com
 bva-customer.sbs
@@ -3075,8 +3074,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliye.net
@@ -3340,7 +3339,6 @@ cslt168.com
 csmonestler.duckdns.org
 cspagtssnkmpnya.duckdns.org
 csperagustosayikmpny.duckdns.org
-cspragstsayn.duckdns.org
 ct-a7k2.ekampanya.online
 ct-m9x4.ekampanya.online
 ct-q3w8.ekampanya.online
@@ -4353,6 +4351,7 @@ expres-tr.online
 extension.io-safe.icu
 extlib.anyevonline.com
 extott.szbboys.com
+extra-mobil-online-indirim-sepeti-tr.trendsepet.bar
 extrasepet.online
 extrashop-mobil.online
 extremeadventure.org
@@ -4362,7 +4361,6 @@ eylul-burada.biz.tr
 eylul-burada.org.tr
 eylul-izeltassepet.dnsup.net
 eylulaylburda.com
-eylulbasiaazkaldi.duckdns.org
 eylulbasindaonlineyiz.duckdns.org
 eylulbittibitiyorsla.duckdns.org
 eylulcskmpnya.duckdns.org
@@ -5412,7 +5410,6 @@ guach.net
 guardiancapitalway.com
 guardiangrowthfunding.com
 gufesu.space
-gulercicek.com
 gulusunbilebaskadir.xyz
 gumburgumburdom.com
 guncel24.pro
@@ -6316,7 +6313,6 @@ hmnbhcdbsd.art
 hmnbrdafrstkpn.shop
 hmnbsdbsd.art
 hmnbsvranlk.art
-hmnislmeonktar.net
 hmnislmeonktasr.net
 hmnislmkntaos.net
 hmnkmpsnde.shop
@@ -6576,7 +6572,6 @@ ilan-sepetleri-burda.com
 ilan-sepetlerimiz-alisveris.com
 ilan-sepetlerimiz-burada.com
 ilan-siparis-tr.online
-ilanda-sepetim-1105.com
 ilangetsiparis.online
 ilanguvende.online
 ilanguvenli.online
@@ -7453,7 +7448,6 @@ kkmsorgulamaislemleri.web.app
 kknbabeex.shop
 kktcedevlet.console.icont.ai
 kladenslesdwa.duckdns.org
-klarnagarantibbva.com.ph
 klasmansmcs.click
 klasmanssld.click
 klaspatikatki1974.duckdns.org
@@ -9346,7 +9340,6 @@ okadarbasvrduksenkaldnbtek.info
 okpay.dev
 okpay.saveai.vip
 okreyxsle.top
-oksdtm.com
 okta-garantibbva.com.ph
 oktasession.com
 okul.acildi.ho.sadhjefaksaf.click
@@ -9909,6 +9902,7 @@ presswavxo.org
 preview.diyanetisleribakanligi.vercel.app
 preview.evsahibibasvuru.com
 pricealarmsvolatilitywarnings.pro
+primechecker.store
 primegoarackiralama.com
 primelynx.top
 primemarclab.com
@@ -10959,7 +10953,6 @@ selgeresortbeachside.com
 selgesidebeachhotel.com
 selgesideotel.com
 selincicek.com
-sellectum.com
 selnora.cyou
 semifinalggist.info
 semracicek.com
@@ -11051,7 +11044,6 @@ settings-iliskilendirme.myonlineportal.ch
 setupmypasskey.com
 setuppdfsoft.com
 sevcactamh-r.click
-sevcactamh-r.sbs
 sevdlyrklrdeebtyz.duckdns.org
 sevmemeyeyeminetmistim.sbs
 sewap426322plus.shop
@@ -13724,7 +13716,6 @@ ziraat-yenilenensubemiz.com.ph
 ziraat.finance
 ziraatbank-bankofamerican.com.ph
 ziraatbank-com-tr.my-homeip.de
-ziraatbank-ssa.com.ph
 ziraatbank-turkey.com
 ziraatbank.abrdns.com
 ziraatbank.onrender.com
