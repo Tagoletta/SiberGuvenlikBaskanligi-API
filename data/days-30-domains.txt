@@ -35,7 +35,6 @@
 101-extra-sadece-bugune-ozel-alisveris-indirimi-mobil-tr.links36.site
 101-extra-sadece-bugune-ozel-alisveris-indirimi-mobil-tr.nz030201.site
 101-extra-sadece-bugune-ozel-alisveris-indirimi-online-tr.e-mails-tr.com
-101-extra-sadece-bugune-ozel-alisveris-sepeti-tr.cde7444.site
 101-extra-sadece-bugune-ozel-alisveris-sepeti-tr.cepteindirims-tr.online
 101-extra-sadece-bugune-ozel-alisveris-tr-mobil.hemenal.site
 101-extra-sadece-bugune-ozel-indirim-sepeti-cepte-tr.b70004.site
@@ -45,7 +44,6 @@
 101-extra-sadece-bugune-ozel-sepette-indirim-var-tr.shopmobilde.online
 101-extra-sadece-online-bugune-ozel-alisveris-sepeti-tr.bizimsepet-tr.site
 101-extra-sadece-online-ozel-alisveris-indirim-bilgi-tr.cebindeki.online
-101-extra-sadece-online-ozel-alisveris-indirim-sepeti-tr.4111z.site
 101-extra-sepette-indirim-sadece-bugune-ozel-tr.getshop-tr.online
 101-kampaanya.duckdns.org
 101-kampanyalaribuguneozel.sbs
@@ -63,6 +61,7 @@
 101-mobil-extra-sadece-bugune-ozel-sepet-indirimi-tr.indirimsepeticep.online
 101-mobil-sadece-bugune-ozel-alisveris-indirim-sepetleri-tr.trendextraa.online
 101-mobilde-sadece-online-ozel-alisveris-indirimleri-tr.payssepet.site
+101-online-mobil-sepet-extra-alisveris-tr.strangled.net
 101-sadece-bugune-ozel-alisveris-indirim-sepeti-tr.sepetindevar-tr.online
 101-sadece-bugune-ozel-alisveris-indirimi-mobil-sepette.hostextra.online
 10100kampanya.duckdns.org
@@ -1144,6 +1143,7 @@ dashboard.asteara.org
 dashboard.cklomino.ink
 dashboard.gaganata.ink
 data-sys-seq.top
+data-zt.newpayapp.com
 datamons.org
 dayeenterprises.co
 dazzlingguitar.com
@@ -1240,6 +1240,7 @@ dongu-concepts-gw2l.vercel.app
 dopinghafiza-p47ba1kww-doping.vercel.app
 doretyhome.space
 douwen.me
+downtrendyol.me
 drawn-sacrifice-asking-microphone.trycloudflare.com
 drivezylo.com
 drstoller.co
@@ -1286,6 +1287,7 @@ e2lshs9wv2kk8l46h.theworkpc.com
 e3l34e5877l579lh.mytunnel.org
 e5s4h22el4hw89h5.opik.net
 e5v2e66hle4e4shs.eth64.de
+eadlisorgu.org
 earn.fm
 eastggsdbda.giize.com
 eavukatgib.com
@@ -1345,7 +1347,6 @@ ehukukuyap.com
 ehukukuzlasma.com
 eigencouncil.xyz
 eignecloudhires.xyz
-eikimfirstlari.hizlifirsatim.com
 eil786npto9u5bq.icu
 ekim-cumhuriyet-bayrami59.67g7g.top
 ekimfirsatlari.click
@@ -1715,6 +1716,7 @@ gelbrdanjal3694.duckdns.org
 gelburuagelaldepodan2297.duckdns.org
 gelecekhedefleri.com
 gelendengidenden.duckdns.org
+gelisera.gifts
 gelisimkoprusu.com
 gelisimrehberligi.com
 genelisbasvurulari.com
@@ -1987,7 +1989,6 @@ hftaninyldzi.online
 hftsnkcrmzfirs.duckdns.org
 hgbvvbnbn454.shop
 hgjmkb3434.shop
-hgs-bakye-yuklme.art
 hgsbayieyukmelmefs.art
 hhadssasdkasd.click
 hicetnihil.top
@@ -2043,6 +2044,7 @@ hlushkova.top
 hmbmsk.org
 hmbportal.com
 hmbuyap.com
+hmbvezne.online
 hmbveznedar.online
 hmnbrdafrstkpn.shop
 hmnlaktnasmat.blogspot.com
@@ -2133,6 +2135,7 @@ ilan-mobilder.com
 ilan-siparis-tr.online
 ile-sepet-islemleri.com.tr
 ile-sepet-islemleri.net
+ile-sepet-islemleri.net.tr
 ile-siparisver.com.tr
 ile-siparisver.net.tr
 ileguvende.site
@@ -2423,6 +2426,7 @@ kapindakifirsatin101.xyz
 kaplmb-stnal.myshopify.com
 kaplmslcksorgl.web.app
 kaplumbaga-satinal.myshopify.com
+kapriva.online
 karacadovs.shop
 karacahappy.shop
 karayel.live
@@ -2447,7 +2451,6 @@ kasmmykmpybsv48213.online
 katkat-koop.duckdns.org
 katkatlahemen.duckdns.org
 katlakatlakoop.duckdns.org
-katlg1001helbi.duckdns.org
 kdgmv9049f.shop
 kecifang.com
 kecifang.net
@@ -2999,6 +3002,7 @@ newblackage.com
 newly1-iste64.cfd
 newminersage.com
 newnewnew.gotdns.org
+newpayapp.com
 newsbrightglow.digital
 newsdigestdesk.com
 newsmyorf.com
@@ -3037,7 +3041,6 @@ nomenfex.com
 nomenpro.com
 nopanel-246624.top
 nopanel-366213.top
-nopanel-463125.top
 nordline.vip
 north-faceturkiye.com
 north-star.vip
@@ -4567,7 +4570,6 @@ xss.xs1.ccwu.cc
 xwdhwse8ql.route64.de
 xwlink.cloud
 xyrqaventhryxion.cyou
-xzmvxzmavsk-xzmvkzxda-dssafkas.sbs
 ya-user-experience.ru
 yakindsasdf438.online
 yakndaasonaerecek1325.click
@@ -4662,7 +4664,6 @@ z1raatb4nkasi.duckdns.org
 z3z07444.site
 z4t8n2v6q1.lol
 z52e4as6.s.gy
-z98333z.site
 zahlung-p.ftwestseattle.com
 zaifso.com
 zalimdunyaa.click

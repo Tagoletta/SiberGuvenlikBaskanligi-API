@@ -328,6 +328,7 @@
 101-mobilde-sadece-online-mobile-ozel-indirim-sepeti-tr.e-extra-tr.online
 101-mobilde-sadece-online-ozel-alisveris-indirimleri-tr.payssepet.site
 101-online-bugune-ozel-indirimli-sepet-alisverisi-mobilde-tr.extrasepet.online
+101-online-mobil-sepet-extra-alisveris-tr.strangled.net
 101-online-sadece-bugune-ozel-indiirm-sepeti-mobil-tr.shopextra.online
 101-online-siparis-ver-sadece-bugune-ozel-tr.blogers.online
 101-sadece-bugune-ozel-alisveris-indirim-sepeti-tr.sepetindevar-tr.online
@@ -1353,7 +1354,6 @@ a101magazafislerionline.net
 a101magazafislerionlinefirsati.com
 a101market.duckdns.org
 a101market.netlify.app
-a101market.xyz
 a101marketalisverisleri.com
 a101marketaliverisaktif.duckdns.org
 a101marketfirsatlarimiz.duckdns.org
@@ -3977,8 +3977,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -4440,6 +4440,7 @@ dashboard.gaganata.ink
 dassdaasd12.blogspot.com
 dassdaasd16.blogspot.com
 data-sys-seq.top
+data-zt.newpayapp.com
 datamons.org
 datapulseforge1.lol
 datapulseforge10.lol
@@ -4873,6 +4874,7 @@ dovizbasvuru-acikdenizmobilbank.org.ph
 dowlfles.online
 downlf.online
 downlfl.online
+downtrendyol.me
 doxilu-pemaritun.lol
 dpdasv.sbs
 dpriv.my-homeip.de
@@ -5035,6 +5037,7 @@ e5v2e66hle4e4shs.eth64.de
 e7xq3vkn9zmp4lra.cfd
 eadaletcezadosya.org
 eadli.org
+eadlisorgu.org
 eare23.s.gy
 earn.fm
 earnvia.top
@@ -6739,6 +6742,7 @@ gelengecenalsindiye.sbs
 gelengidenalsindiye.lol
 gelerdesewend.duckdns.org
 geliridaresibaskanligi.org
+gelisera.gifts
 gelisimkoprusu.com
 gelisimrehberligi.com
 geliyorevet.click
@@ -7828,7 +7832,6 @@ hemenhediyeburada.online
 hemenhizlikalirizbizantepekibi.duckdns.org
 hemenislemkn-nsonuc.net
 hemenislemlerm.lol
-hemenislemnktasna.net
 hemenislmatknas.net
 hemenislmkntokas.net
 hemenislmnktasia.net
@@ -8464,6 +8467,7 @@ hmbportal.com
 hmbsorgu.net
 hmbsorgu.org
 hmbuyap.com
+hmbvezne.online
 hmbveznedar.com
 hmbveznedar.online
 hmbveznedar.org
@@ -8887,6 +8891,7 @@ ile-onay-sepete.com
 ile-sepet-islemler.com.tr
 ile-sepet-islemleri.com.tr
 ile-sepet-islemleri.net
+ile-sepet-islemleri.net.tr
 ile-sepete-islemler.com.tr
 ile-sepetim.com.tr
 ile-sepetiniz.com.tr
@@ -9382,7 +9387,6 @@ istkartlahzlacn.duckdns.org
 istkartlassnyada.com
 istkartlasuathmnal.com
 istkartsamabggy.icu
-istkkartttbelggimm.xyz
 istkrdabadss.duckdns.org
 istkrtlabradahzlandm.com
 istkwrnrmk.sbs
@@ -9725,6 +9729,7 @@ kaplumbagaci.com
 kapmasanisansandalyen.sbs
 kapmasanivesandalyeni.sbs
 kapotrtaotcar.duckdns.org
+kapriva.online
 kapsandalyenimasani.sbs
 karaca-a5q5-git-main-redmi1.vercel.app
 karaca-defas.homes
@@ -12325,6 +12330,7 @@ newly1-iste64.cfd
 newminersage.com
 newnewnew.gotdns.org
 newpasskey.com
+newpayapp.com
 newsbox-2026.co.com
 newsbrightglow.digital
 newsdigestdesk.com
@@ -13018,7 +13024,6 @@ onlinefba.com
 onlineflrsat.com
 onlinegetodeme.com
 onlineislemden.com
-onlineislemmerkezleria101.pages.dev
 onlineislevtuv.com
 onlinekampanyasi.duckdns.org
 onlinekoopmarket.app
