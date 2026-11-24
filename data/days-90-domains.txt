@@ -37,7 +37,6 @@
 101-bugune-ozel-extra-indirim-sadece-online-tr.marketplus-tr.online
 101-bugune-ozel-extra-mobilde-sepet-indirimi-tr.store-plus.online
 101-bugune-ozel-mobil-alisveris-extra-indirimleri-tr.shopmax-tr.online
-101-bugune-ozel-sadece-online-sepet-indirimleri-tr-mobil.sepetim-tr.online
 101-cep-bugune-ozel-online-sepet-alisveris-indirimi-sepette-tr.ticaret-tr.online
 101-de-bugune-ozel-indirimli-firsatlar-hemen-siparis-ver.com
 101-de-bugune-ozel-online-alisveris-tr.internet-alisveris-sepeti.com
@@ -1940,7 +1939,6 @@ asmdkasmk43k712.duckdns.org
 asnc-tebde-ayricalikli.myonlineportal.ch
 asncxbyaaasdanala.15334265341523.sbs
 asncxbyaaasdanala.46584546584.sbs
-asncxbyaaasdanala.4849846518494221.sbs
 asncxbyaaasdanala.4875648646541.sbs
 asncxbyaaasdanala.4894564986451.sbs
 asncxbyaaasdanala.48965165841844.sbs
@@ -3095,8 +3093,8 @@ cezadosyabilgisi.com
 cezadosyasorgulama.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliye.net
@@ -4259,7 +4257,6 @@ esorgumaliye.com
 espresssotalents.xyz
 esracicekcilik.com
 esube-qnbfinansbank.ph
-esube-teb-com-cepteteb.my-homeip.de
 esube-teb-com-tr.my-homeip.de
 esube-teb-com-tr.myonlineportal.de
 esube-teb-online.my-homeip.de
@@ -7066,7 +7063,6 @@ iymkjuzymkapovrntoxy.supabase.co
 izaksoqwer.blogspot.com
 izaorw0f.blogspot.com
 ize0ltas-ex0tr4.blogspot.com
-izelkqrwq.blogspot.com
 izellltasseylul.blogspot.com
 izeltas-online.dnsup.net
 izeltas-onlinex.dnsup.net
@@ -7396,7 +7392,6 @@ kemalradio.com
 kendineiyibak3r.xyz
 kendinicin.abrdns.com
 kendinkullan.abrdns.com
-kennszaltas.blogspot.com
 kentcicek.com
 kentducks.duckdns.org
 kenzzyslay.duckdns.org
@@ -9413,7 +9408,6 @@ oktasession.com
 okul.acildi.ho.sadhjefaksaf.click
 okuladonuskmp-101.com
 okuneva.sbs
-olaraganba.click
 oldsvlseeyluldeyzb.giize.com
 oli.koeln-gastro.com
 olihigiferesevubugu.club
@@ -12599,7 +12593,6 @@ tuvaslaturtuv.com
 tuvastuvastuv.com
 tuvkranvevusdum.com.tr
 tuvlabrdnhepgr.com
-tuvramuayne.site
 tuvrand.dnsup.net
 tuvrandanvernede.com
 tuvrandanvernede.online
@@ -12863,7 +12856,6 @@ veradix.blog
 verceldomain.com
 vercelserver.com
 vercianto.com.tr
-verenacicek.com
 vergidairesi.org
 veriearth.space
 verifcontrol-update.top

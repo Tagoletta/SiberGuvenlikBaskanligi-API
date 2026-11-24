@@ -784,7 +784,6 @@ bireysel-basvur.my-homeip.de
 bireysel-basvuru.my-homeip.de
 bireysel-basvurum.com
 bireysel-cebte.my-homeip.de
-bireysel-cepte.my-homeip.de
 bireyselcep-mobilde.online
 bireyselekranlarformlar.duckdns.org
 bireyselformekrani.duckdns.org
