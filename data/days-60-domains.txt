@@ -3680,7 +3680,6 @@ gratis-tr.sendreward.com
 gratis.aarikpokras.com
 gratis.adblickgranos.com
 gratis.cmogaming.com
-gratis.fandomhousepress.com
 gratis.ianmaffett.com
 gratis.iynsed.com
 gratis.nexiapy.com
@@ -4343,7 +4342,6 @@ hizliislem.net
 hizliislemlerr.art
 hizlikontrolmerkezi.abrdns.com
 hizlionline-bilgi.com
-hizlionlinekredibasvurusu.loseyourip.com
 hizliotoavs.com
 hizliotokirala.com
 hizliotokirala.net
