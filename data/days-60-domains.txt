@@ -235,7 +235,6 @@
 1010010000020045.webredirect.org
 10100kampanya.duckdns.org
 10101firsattl.duckdns.org
-10108283004588.bounceme.net
 1014545082504588.bounceme.net
 101aldinaldinextra.sbs
 101aldinextrakapidan.sbs
@@ -1972,6 +1971,7 @@ careffoursa.vercel.app
 carefourgirismobil.cfd
 carefoursa.vercel.app
 carenta360.com
+carfilogomavs.com.tr
 cark-cekilisi.info
 carloxmextos.org
 carrefoursafirsatlariniz991.duckdns.org
@@ -7969,7 +7969,6 @@ tb-cpt-optimizeweb.myonlineportal.ch
 tbackend-production-39ca.up.railway.app
 tbinyo.ccwu.cc
 tbpromo.ccwu.cc
-tbtokyo.cc.cd
 tbxkpwqf-asdgkpqwdag-wdqpgdshds.cfd
 tbxkpwqf-asdgkpqwdag-wdqpgdshds.sbs
 tc-kuveytturk.ph
