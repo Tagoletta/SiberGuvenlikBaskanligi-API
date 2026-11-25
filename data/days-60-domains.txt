@@ -235,6 +235,7 @@
 101-sadece-online-ozel-sepete-ekle.online-mobil-cep-tr.com
 1010010000020045.webredirect.org
 10100kampanya.duckdns.org
+1010140ileheemen.webredirect.org
 10101firsattl.duckdns.org
 101aldinaldinextra.sbs
 101aldinextrakapidan.sbs
@@ -883,6 +884,7 @@ aeloria.blog
 aertyudmmd.com
 aesqehyu4lzshl.ipv64.net
 af.sdfg54dsf8gdfg.com
+afpakfanwoentaxsa.giize.com
 afuwigile.site
 afyondanvekilime.online
 agenciatributarianew.cfd
@@ -3748,7 +3750,6 @@ gumburgumburdom.com
 guncel24.pro
 guncelicerigimiz.abrdns.com
 guncellemezamani.abrdns.com
-guncelsikayetler-553.sbs
 guncelsikayetler-554.sbs
 guncelsikayetler-557.sbs
 guncelsistemgirisi.abrdns.com
@@ -5330,6 +5331,7 @@ kopermatfrklamlariiriind.blogdns.com
 kopermatfrklamlarriindd.dnsdojo.com
 koplafnmece.giize.com
 kopmarkts.is-leet.com
+kopmarktssss.leitungsen.de
 kopmenst.duckdns.org
 kopukluj.hali-yiklamasi.lol
 koravimix.com
@@ -8048,6 +8050,7 @@ teb-com-tr-promo.internet-subesi.site
 teb-com-tr.internet-subesi.site
 teb-com-tr.mobil-bankacilik.site
 teb-com.internet-subesi.site
+teb-emek-pro.my-homeip.de
 teb-emekli.internet-subesi.site
 teb-emeklilik-promosyon-mobil.myonlineportal.de
 teb-internet.mobil-bankacilik.site
@@ -8209,6 +8212,7 @@ tofegetuz.info
 tog-t10.com
 togg-arac-kredileri.com
 togg-basvuru-siparis.com
+togg-basvuru.org
 togg-e.com
 togg-faizsizlimitlerim.com
 togg-finansman.com
@@ -9053,6 +9057,7 @@ www-helptb-cepte-ayrica.myonlineportal.ch
 www-heptecp-ayicalik-tvb.myonlineportal.ch
 www-heptecpte-ayricaliklarla.myonlineportal.ch
 www-hidetb-launcher-cepte.myonlineportal.ch
+www-hizmettb-sozcepte-ayrica.myonlineportal.ch
 www-hlptb-cepte-ayrica.myonlineportal.ch
 www-iletitb-gorunum-ascepte.myonlineportal.ch
 www-imp-tb-cepte.myonlineportal.ch
