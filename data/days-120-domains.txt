@@ -318,6 +318,7 @@
 101-mobil-extra-sadece-online-ozel-indirimler-tr.shopspay.online
 101-mobil-extra-sadece-online-ozel-sepette-alisveris-tr.cepte-al.online
 101-mobil-online-alisverisi-extra.cebinde-giris.online
+101-mobil-online-cepinde-alisveris-tr.cebindesepet.online
 101-mobil-online-extra-indirimler-sadece-bugune-ozel-tr.shopping-tr.online
 101-mobil-sadece-bugune-ozel-alisveris-indirim-sepetleri-tr.trendextraa.online
 101-mobil-sadece-bugune-ozel-extra-indirim-sepeti-cep.trendy-shop-tr.online
@@ -918,6 +919,7 @@
 47859632prmsynnbsvrrkmpnyyyy.online
 47859632prmsynnbsvrrkmpnyyyy.pro
 4812183513hizlcsmler-aracm360ptavm.online
+48128bsvrrkredisnfrstl.online
 48512365482451615.duckdns.org
 486456841589.sbs
 48921492132.sbs
@@ -1702,6 +1704,7 @@ akbankdirectonlineislemler.ph
 akbankdiretk.ph
 akbankinvesthub.net
 akbankinvestprogram-click.pages.dev
+akbankkampanya.vercel.app
 akbankonline-giris.ph
 akbankplayablevercel.vercel.app
 akbankumre.org
@@ -4020,8 +4023,8 @@ cezadosyasorgulama.com
 cezagov.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -10067,6 +10070,7 @@ kinovialun.duckdns.org
 kinveralis.online
 kipdownon.net
 kira-sozlesmesi-sistemi.vercel.app
+kiralikarabanavs.com
 kiralikaraclarimislemler.com
 kiralikkonutbasvurularim.cfd
 kiralikotoavs.com
@@ -15149,6 +15153,7 @@ sahibindenkaskodestek.com
 sahibindenonlinedestek.com
 sahibindenparam-guvende.bilgi-urundetayi.online
 sahibindenparamguvende.bilgi-urundetayi.online
+sahibindenparamguvende.ilan-siparis-servisi.online
 sahibindenparamguvende.ilanguvende.online
 sahibindenparamguvende.islemonaylatr.online
 sahibindenparamguvende.store

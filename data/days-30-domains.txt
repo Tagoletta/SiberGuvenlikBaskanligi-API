@@ -63,6 +63,7 @@
 101-mobil-extra-sadece-bugune-ozel-online-alisveris-sepeti.links1333.site
 101-mobil-extra-sadece-bugune-ozel-sepet-indirimi-tr.indirimsepeticep.online
 101-mobil-online-alisverisi-extra.cebinde-giris.online
+101-mobil-online-cepinde-alisveris-tr.cebindesepet.online
 101-mobil-sadece-bugune-ozel-alisveris-indirim-sepetleri-tr.trendextraa.online
 101-mobilde-sadece-online-ozel-alisveris-indirimleri-tr.payssepet.site
 101-online-alisveris-tr.cebinde-giris.online
@@ -202,6 +203,7 @@
 4312211422245222224552245596.xyz
 4312211422245222224552245597.xyz
 4410686281275.cloud
+48128bsvrrkredisnfrstl.online
 486456841589.sbs
 48921492132.sbs
 489658656165.sbs
@@ -401,6 +403,7 @@ akbankdirect.online
 akbankdirectonlineislemler.ph
 akbankdiretk.ph
 akbankinvestprogram-click.pages.dev
+akbankkampanya.vercel.app
 akbankplayablevercel.vercel.app
 akillisecimler.org
 akkakov.shop
@@ -885,7 +888,6 @@ bonusbasvurusayfasi326525.sbs
 bonusbasvurusayfasi32675685.sbs
 bonusbasvurusayfasi906705.sbs
 bookpan.net
-bopaje7148.site
 bopirugibov.com
 borcbilgisi.org
 borgerproperties.opticaberl.com
@@ -2002,7 +2004,6 @@ harikaservis-66024f4ca84b.herokuapp.com
 hasdawww.click
 havaistxbilet.online
 havasfilo.com
-hay3ykleme.22web.org
 hazinebakanligisonadres.shop
 hazineceza.com
 hazinevemaliye.shop
@@ -2560,6 +2561,7 @@ kingdavote.com
 kinveralis.online
 kipdownon.net
 kira-sozlesmesi-sistemi.vercel.app
+kiralikarabanavs.com
 kiralikotoavs.com
 kiredi-bbav-birligi.sbs
 kissfirsatlariiprsmynn.ksmmkmpnylrbsvr8547.click
@@ -3458,7 +3460,6 @@ pttavm.ile-sepete-islemler.org.tr
 pttavm.ile-siparisver.com.tr
 pttavm.ile-siparisver.org.tr
 pttavm.ileguvende.site
-pttavm.islem-siparisver.com
 pttavm.mobil-odemesepeti777.com
 pttavm.odeme-onay-1286.com
 pttavm.odeme-onay-1291.com
@@ -3468,9 +3469,7 @@ pttavm.sepete-ekle.com
 pttavm.sepette-ekle.com.tr
 pttavm.siparisini-olustur.com
 pttavm.sorunsuzsiparis.online
-pttavmhgsyukle.club
 pttavmkmsorgulamamiz.com
-pttavmsepet.com
 ptteimza.com
 pttexpressparcelgov-tr.com.ph
 pttkolayklemekbakie.web.app
@@ -3715,6 +3714,7 @@ sahibindendestekkasko.com
 sahibindenekstra.com
 sahibindeniletisimdestek.com
 sahibindenonlinedestek.com
+sahibindenparamguvende.ilan-siparis-servisi.online
 sahibindenparamguvende.tr-siparisget.online
 sahibindensatici.live
 sahibindensatis.live
@@ -4732,7 +4732,6 @@ xsadcasyiwaiwai.top
 xsjyt.buzz
 xss.xs1.ccwu.cc
 xtmx.cc
-xwdhwse8ql.route64.de
 xwlink.cloud
 xyrqaventhryxion.cyou
 ya-user-experience.ru
