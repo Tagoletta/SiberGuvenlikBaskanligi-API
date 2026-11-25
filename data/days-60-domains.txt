@@ -235,7 +235,6 @@
 1010010000020045.webredirect.org
 10100kampanya.duckdns.org
 10101firsattl.duckdns.org
-1014545082504588.bounceme.net
 101aldinaldinextra.sbs
 101aldinextrakapidan.sbs
 101anindafirsatyakala.duckdns.org
@@ -462,6 +461,7 @@
 289coommunity.xyz
 29299124124.com
 298863298728.moy.su
+2ev5.newpayapp.com
 2f1222412541225452255891.duckdns.org
 2myrquanthovexialinfrastructures.cyou
 2myxenthariqovexialcorporation.xyz
@@ -578,6 +578,7 @@
 5312211422245222224552245593.xyz
 5312211422245222224552245597.xyz
 5312211422245222224552245598.xyz
+5312211422245222224552245599.xyz
 53298528959812.sbs
 534834kmpnyabsvr.online
 53532512412.sbs
@@ -1126,6 +1127,7 @@ apexaccs.org
 apexbuilders.site
 apexfdn.xyz
 api-gohome.douwen.me
+api-zt.newpayapp.com
 api.alivenow.tv
 api.avonlo.com
 api.cerysoi.ink
@@ -2205,6 +2207,7 @@ clickfusion.lol
 clickksy.icu
 clioobanby.duckdns.org
 cliosnurpl.live
+cloaderx.sytes.net
 cloud-update.live
 cloud.cmatgldn.click
 cloudataserver.com
@@ -2399,6 +2402,7 @@ depinvesting.online
 depordansprdhlznxsgodqertnm7359.duckdns.org
 depordansprsgodqertnm8469.duckdns.org
 dermatologie-klinik.st2.al
+derotaps.icu
 dertler-derya.sbs
 des199.site
 deserbet.link
@@ -2469,7 +2473,6 @@ dijitalmobilgiris-ziraatwebkampanya.sbs
 dijitalonay.online
 dijitalsepet-online.sbs
 dijitalsiparis-online.sbs
-dijitalsube-onlinebasvur.sbs
 dijitaltrgib.com
 dijitalweb-ziraatbireysel.sbs
 dildochecker.site
@@ -2612,7 +2615,6 @@ e-rndval.cfd
 e-rndval.com
 e-saglkrhber.cfd
 e-sahibinden.ile-sepetten-islem.com
-e-sepetalisveris.sbs
 e-servisler10.sbs
 e-sozlesmem.com
 e-store-tr.online
@@ -2685,7 +2687,6 @@ efendybungalow.us
 efendybungalows.com
 efendyluxurybungalov.com
 efendyluxurybungalow.com
-efescim.cc.cd
 efesfiloarackiralama.com
 efesfilokirala.com
 efesfilokiralama.com
@@ -2819,6 +2820,7 @@ emekli-promosyon.my-homeip.de
 emekli.my-homeip.de
 emeklilere-cepteteb-com.my-homeip.de
 emeklirotasi.cyou
+emekliye-teb-promosyonu.my-homeip.de
 emekrentacar.net
 emiondafe.giize.com
 emlakatasehirrrssl.duckdns.org
@@ -3180,7 +3182,6 @@ feelsprizz.net
 feints.cfd
 fekolakki.co
 felfelikolen.sbs
-femonester.duckdns.org
 fep0bupuhag2-o0kk.workers.dev
 ferhatgelbanaat.duckdns.org
 ferrari-invite.com
@@ -5893,6 +5894,7 @@ mhsagh.fun
 mhsagh.rest
 mhsagh.sbs
 mhsglklamhr.cfd
+mhsglklarnvdu.cfd
 mhsmsmsmsmsms.xyz
 mhsmsmsmsmszz.xyz
 mhsraca.cfd
@@ -6766,7 +6768,6 @@ ptt.mobilservisler-75.sbs
 ptt.mobilservisleri-42.sbs
 ptt360avm.com
 pttavm-bireysel-siparis.com
-pttavm-gecisbakiyenoktasi.web.app
 pttavm-hemen-siparis.com
 pttavm-siparis.ile-guvenlice-web-tr.com
 pttavm-siparisim.ile-guvenlice-web-tr.com
@@ -7369,6 +7370,7 @@ secure-dns-hub.com
 secure-docs.liveoakfarmsllc.net
 secure-docs.lvborses.net
 secure-facebook-update-system.ph
+secureapi-connect.xyz
 secured-ilan.com
 securedocinstaller.com
 securefileoffice365pdf.pages.dev
@@ -7644,6 +7646,7 @@ sojmalketler.com
 sokaklarinhepsiadi.duckdns.org
 sokcepte-kampxny.com
 sokmafetil.com
+sokmakltil.xyz
 sokmakterin.com
 sokmarketekstrakampanya2.duckdns.org
 sokmarketik.com
