@@ -233,7 +233,6 @@
 101-sadece-bugune-ozel-online-indirim-alisveris-sepeti-tr.bilgishop.online
 101-sadece-online-ozel-sepete-ekle.online-mobil-cep-tr.com
 1010010000020045.webredirect.org
-1010010177200.bounceme.net
 101001310177200.bounceme.net
 10100kampanya.duckdns.org
 10101firsattl.duckdns.org
@@ -577,6 +576,7 @@
 524125213.sbs
 5312211422245222224552245590.xyz
 5312211422245222224552245591.xyz
+5312211422245222224552245593.xyz
 53298528959812.sbs
 534834kmpnyabsvr.online
 53532512412.sbs
@@ -7229,6 +7229,7 @@ sahibinden-paramguvende.get-odeme.online
 sahibinden-paramguvende.getilan.online
 sahibinden-paramguvende.guvenli-alisveris-tr.online
 sahibinden-paramguvende.ilan-detayi-tr.online
+sahibinden-paramguvende.ilan-siparis-servisi.online
 sahibinden-paramguvende.ilan-siparisim.online
 sahibinden-paramguvende.servis-hizmet.online
 sahibinden-paramguvende.siparisim-guvenli.online

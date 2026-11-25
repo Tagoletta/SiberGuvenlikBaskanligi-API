@@ -222,6 +222,7 @@
 524125213.sbs
 5312211422245222224552245590.xyz
 5312211422245222224552245591.xyz
+5312211422245222224552245593.xyz
 53298528959812.sbs
 534834kmpnyabsvr.online
 53532512412.sbs
@@ -3697,6 +3698,7 @@ sahibinden-param-guvende.tr-siparisget.online
 sahibinden-param-guvende.tr-siparisgets.online
 sahibinden-paramguvende-tr.siparis-onayi.shop
 sahibinden-paramguvende.guvenli-alisveris-tr.online
+sahibinden-paramguvende.ilan-siparis-servisi.online
 sahibinden-paramguvende.servis-hizmet.online
 sahibinden-paramguvende.tr-siparisget.online
 sahibinden-sepet.guvendeticaretnet.store
