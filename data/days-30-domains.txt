@@ -408,6 +408,7 @@ akbankplayablevercel.vercel.app
 akillisecimler.org
 akkakov.shop
 akportfoy-bi.pages.dev
+aktuel-gunun-firsatlari-bim.duckdns.org
 aktuel-gunun-firsatlari-bim.webredirect.org
 aktuelsite.click
 akyatirim-tr.cfd

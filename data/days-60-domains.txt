@@ -957,6 +957,7 @@ aktaring.online
 aktfburd.shop
 aktfburda.sbs
 aktflercdnbers.giize.com
+aktuel-gunun-firsatlari-bim.duckdns.org
 aktuel-gunun-firsatlari-bim.webredirect.org
 aktuelfirsati.duckdns.org
 aktuelindrm-101.com
