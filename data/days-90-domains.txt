@@ -3107,6 +3107,7 @@ cepteteb-emekliyle.my-homeip.de
 cepteteb-esube.my-homeip.de
 cepteteb-internet.my-homeip.de
 cepteteb-mobil-bankacilik.my-homeip.de
+cepteteb-mobilim.my-homeip.de
 cepteteb-pro.my-homeip.de
 cepteteb-sube.my-homeip.de
 cepteteb-tr.my-homeip.de
@@ -4674,7 +4675,6 @@ favelotu-mikadese.lol
 faxtronics.com
 fb-form.pages.dev
 fb36660.site
-fbareferans.com
 fbfnsdhcn.click
 fblogin.click
 fbnsdjdskjfs.shop
@@ -4728,7 +4728,9 @@ fiillledenindro.giize.com
 file-market.com
 file.archat.us
 file.dgjm.online
+filebinsubesin.sbs
 filegust.sbs
+filehingulsubes.sbs
 filemarketi.com.tr
 filemmarket.xyz
 filemmrkt.click
@@ -5888,7 +5890,6 @@ hepsi10bu1re.com
 hepsi10bu2ral.com
 hepsiberada.live
 hepsiburada-bool.com.ph
-hepsiburada-kep.com
 hepsiburada-kinotam.ph
 hepsiburada-mobilepay-indeed.ph
 hepsiburada-norton.com.ph
@@ -8276,6 +8277,7 @@ marketpulse.lol
 marketsiparis.lol
 marketsiparis.xyz
 marketsiparisfile.lol
+marketsiparisfile.xyz
 marketsore24tr.com
 marketten-alim.sbs
 marketteplus-tr.online

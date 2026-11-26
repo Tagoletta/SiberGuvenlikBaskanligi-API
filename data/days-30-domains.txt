@@ -1030,7 +1030,6 @@ cepapsdpasd.duckdns.org
 cepfirsati.cyou
 cepkanyon.com
 cepmobil-com.my-homeip.de
-cepmobil-teb.my-homeip.de
 cepmobili-teb.my-homeip.de
 cepoffices.co
 cepoffices.com
@@ -1057,10 +1056,10 @@ cepteteb-com-tr-emekli-ozel.my-homeip.de
 cepteteb-den.my-homeip.de
 cepteteb-emekli-teb.my-homeip.de
 cepteteb-mobil-bankacilik.my-homeip.de
+cepteteb-mobilim.my-homeip.de
 cepteteb-pro.my-homeip.de
 cepteteb-tr.my-homeip.de
 ceptetebte-tr.my-homeip.de
-cepteteteb-cepteteb.duckdns.org
 cex9fo17tyc4glmylk.live
 cezadosyabilgi.com
 cezagov.com
@@ -1635,7 +1634,9 @@ fiieherzamansizlerle.duckdns.org
 fiillledenindro.giize.com
 file-market.com
 file.dgjm.online
+filebinsubesin.sbs
 filegust.sbs
+filehingulsubes.sbs
 filemarketi.com.tr
 filemmarket.xyz
 filemmrkt.click
@@ -1913,7 +1914,6 @@ gtaiscoming.rest
 gufesu.space
 gumburgumburdom.com
 guncel24.pro
-guncelicerigimiz.abrdns.com
 guncelsikayetler-557.sbs
 gunespark.online
 gunun-firsatlari-bim-aktuel.duckdns.org
@@ -2880,6 +2880,7 @@ marketozelfiyat.cfd
 marketsiparis.lol
 marketsiparis.xyz
 marketsiparisfile.lol
+marketsiparisfile.xyz
 marketsore24tr.com
 marksandsopencer.com.ph
 marsalek.cy
@@ -4784,7 +4785,6 @@ yarinabirikim.cyou
 yasadiklarimbanaagirgeldi.sbs
 yasamalaniportali.com
 yasamvegundemim.net
-yasinbulutgot.duckdns.org
 yatirim-fonu.com
 yatirim-fonu.live
 ydx-stat.ru
