@@ -24,6 +24,7 @@
 101-extra-bugune-ozel-online-alisveris-sepeti-mobilde-tr.bireyselcep-mobilde.online
 101-extra-bugune-ozel-online-mobil-indirim.mooo.com
 101-extra-mobil-alisveris-bugune-ozel-indirim-tr.shoplas-tr.online
+101-extra-mobil-alisveris-cep.trendburdacep.online
 101-extra-mobil-bugune-ozel-indirimli-alisveris-bilgi-cep-tr.birsepet-tr.site
 101-extra-mobil-online-bugune-ozel-alisveris-sepet-indirim-tr.mobilci.online
 101-extra-mobil-ozel-alisveris-firsatlari-tr.extraburada.online
@@ -193,7 +194,6 @@
 3xentavexoriontechnologies.cyou
 3z1a4.site
 3z4.xyz
-3zz844.site
 403-forbidden.icu
 403-forbidden.sbs
 404-found.icu
@@ -262,6 +262,7 @@
 60.yourhh.com
 612a.duckdns.org
 6312211422245222224552245590.xyz
+6312211422245222224552245591.xyz
 6454845.xyz
 651c4138-94f4e-90784-9167-81s7528d91b4-67lc6hj.com
 66126121.xyz
@@ -579,7 +580,6 @@ arorafabrika.com
 arorayedekparcamagaza.com
 arvessa.sbs
 arviscar.com.tr
-aryadisticaret.com
 arztasmtwas.com
 arzumasnatw.com
 arzumcaymaknnne.com
@@ -603,11 +603,9 @@ asdasdsadsad.online
 asdasdsasadasdsasadasdsad.online
 asdasfvzx.art
 asdfadsf2.giize.com
-asdfasgvaa.art
 asdfvdzfad.art
 asdjnfewjnjfeqasd.duckdns.org
 asdn382390230.shop
-asdsaddsdwqdwq.blogspot.com
 aselsan-platform.shop
 aselsan-tr.top
 aselsan.live
@@ -693,6 +691,7 @@ avskiralamamerkezi.com
 avskiralamayeri.com
 avskiralla.com
 avskurumsalotomotiv.com
+avsotokirala.net
 avsotomobilkirala.com
 avsotomotivkirala.com
 avsotomotivturkiye.com
@@ -744,7 +743,6 @@ basvuru-cep-teb.my-homeip.de
 basvuru-sayfasi.duckdns.org
 basvuruformev.com
 basvuruilkevimform.com
-basvurularbasladitoki.cloud
 basvurulari-gov.com
 basvurumevler.com
 basvurusayfan1453.sbs
@@ -861,7 +859,6 @@ bizleberaber.abrdns.com
 bizlehizli.abrdns.com
 bizlerdensizlere.abrdns.com
 bizmemhehrese.xyz
-bkjhfkdfjfds.duckdns.org
 bklfbmearve.giize.com
 bktlegal.waitesguide.co
 blackfridayge.top
@@ -1324,7 +1321,6 @@ dolu-yatrmotiv.info
 dolu-yatrmotiv.pro
 doluyatmrov.info
 dongu-concepts-gw2l.vercel.app
-dopinghafiza-p47ba1kww-doping.vercel.app
 doretyhome.space
 dorukk.digital
 douwen.me
@@ -1605,7 +1601,6 @@ fallback-c2.rplix.cc
 farixus.com
 fastfilo.net
 fasthavale.cyou
-faturasorgu.com.tr
 faxtronics.com
 fb-form.pages.dev
 fbnsdjdskjfs.shop
@@ -1695,6 +1690,7 @@ form-viva.site
 forma-viva.com
 formbasvuruev.com
 forpickerpuck.org
+frankyybabasahalaratekrargeld.xyz
 frawlix.com
 free-turkishairlines.ph
 freedata-giveaway.com
@@ -2119,7 +2115,6 @@ hlushkova.top
 hmbmsk.org
 hmbvezne.online
 hmbveznedar.online
-hmnlaktnasmat.blogspot.com
 hmnlsimlntkans.net
 hmnltkansn.net
 hmnodemesatnalsd.com
@@ -2359,7 +2354,6 @@ islemlerin-sepet-25.sbs
 islemlerinmobil-17.sbs
 islemsepetleri-45.sbs
 islemtalepmobil.online
-islemynmd.net
 islmkntaln.net
 islmlrmlhmn.net
 islmtlaknsan.net
@@ -2947,7 +2941,6 @@ mhrsrandevuburada.com
 mhrsrandevulari.com
 mhrsrandevumtr.org
 mhrsrandevuolustur.lol
-mhrsrandevuonline.com
 mhrsrandevuonline.lol
 mhrsrandevuonline.vip
 mhrsrandevuonline.xyz
@@ -3058,6 +3051,7 @@ muzedekultur.com
 muzekapilarim.com
 muzeleritaniyorum.com
 muzemitaniyorum.com
+muzetasarim.com
 mvnrepo.net
 mxzkvaksapf-samxzkvsap-asfkwqpsaf.sbs
 mydirect.space
@@ -3517,6 +3511,7 @@ randeuvhziosdmbrus.store
 randevu.vilan.online
 randevuhzmtlebrusds.store
 randevurehberi-2026.help
+randevuyenigelir.duckdns.org
 randnevunvi.com
 raponto.xyz
 rasncbfncnm.com
@@ -4052,7 +4047,6 @@ t0kiieevleriiibasvuru.sbs
 t2154bb2122.duckdns.org
 t7q4x1n8v3.lol
 tablacysexplorer.com
-tacadi1155.online
 tacadi1155.shop
 tahtuhuge-redetereye.lol
 taikotalent.xyz
@@ -4168,6 +4162,7 @@ tkg-tap-randvznsz.online
 tkg-tap-randvznsz.site
 tkg-tapursavnevun.com
 tkg-tapursavnevun.site
+tkg-tapursavnevunz.com
 tkg-tapvzsurandevun.com
 tkg-tapvzsurandevun.net
 tkg-tapvzsurandevunz.net
@@ -4177,9 +4172,7 @@ tkg-tpuransevdnuz.com.tr
 tkglobalstoree.com
 tkgm.quest
 tkkoop-online.app
-tkkoopalisveris.app
 tkoop.com.tr
-tkoop.hizlifirsatim.com
 tkoopjet.sbs
 tkoopt.duckdns.org
 tkrbkupasionline.com
@@ -4225,7 +4218,6 @@ tokibloklari.vercelfastcdn.com
 tokievlerbizim.com
 tokigenelmudurluk.vercelfastcdn.com
 tokimntokimm-knt-projem.com
-tokisahibibasvurusu.xyz
 tokkibasvurunkasim.com
 tomsturkiye.com
 tools-masak-ai-sri26.pages.dev
@@ -4553,6 +4545,7 @@ web-haber.cyou
 web-haberler-sayaci.cfd
 web-haberler-sayaclar.sbs
 web-vodafone.netlify.app
+web00132r.site
 web3sahne.online
 webapp.webstatici-whatsapp.com
 webdisk.101-de-indirimler-bugune-ozel-firsatlar.duckdns.org
@@ -4633,7 +4626,6 @@ www-blgtb-ceptedir-o.myonlineportal.ch
 www-browserweb-tbcpt-start.myonlineportal.ch
 www-budgettb-ayrica-cepte.myonlineportal.ch
 www-cepte-mobile.my-homeip.de
-www-ceptentry-tb-extend.myonlineportal.ch
 www-cepteteb-li-com.myonlineportal.ch
 www-cepteteb.my-homeip.de
 www-ceptetebmobil-com-tr.my-homeip.de
