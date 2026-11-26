@@ -3740,6 +3740,7 @@ sahibindenparamguvende.ilan-siparis-servisi.online
 sahibindenparamguvende.tr-siparisget.online
 sahibindensatici.live
 sahibindensatis.live
+sahibindenteslimat.com
 sahiblndendestek.com
 sahibnden-paramguvende-tr.siparis-onayi.shop
 sahlbindendestek.com
