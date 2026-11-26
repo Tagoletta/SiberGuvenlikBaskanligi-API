@@ -3387,8 +3387,8 @@ cezadosyasorgulama.com
 cezagov.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliye.net
@@ -13591,7 +13591,6 @@ web-tr-islemler-getalisveris.online
 web-tr-islemlerim-getalisveris.online
 web-tr-islemlerin-getalisveris.online
 web-vodafone.netlify.app
-web.evsahibibasvuru.com
 web00132r.site
 web1.evsahibibasvuru.com
 web3sahne.online
