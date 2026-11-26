@@ -40,6 +40,7 @@
 101-bugune-ozel-extra-indirim-sadece-online-tr.marketplus-tr.online
 101-bugune-ozel-extra-mobilde-sepet-indirimi-tr.store-plus.online
 101-bugune-ozel-mobil-alisveris-extra-indirimleri-tr.shopmax-tr.online
+101-cebinde-alisveris-extra-tr.bilgicepte.online
 101-cep-alisveris-mobil-tr.indirim-cepte.blog
 101-cep-bugune-ozel-online-sepet-alisveris-indirimi-sepette-tr.ticaret-tr.online
 101-de-bugune-ozel-indirimli-firsatlar-hemen-siparis-ver.com
@@ -2617,6 +2618,7 @@ belsis.lol
 belsis.sbs
 belsis1.world
 belsis2.world
+belsis3.click
 bementlaw.ncclouds.com
 bencalsyrmhrsrndvlrdan.lol
 bencalsyrmhrsrndvlrdan.online
@@ -3549,6 +3551,7 @@ coinank.top
 coingateai.com
 cokguzelolaysendekatil75.info
 cokomokoskams.duckdns.org
+col0sad1xc2.duckdns.org
 collartitle.info
 com-access-sharepoint.com
 com-kampanyarezervasyon.space
@@ -3850,7 +3853,6 @@ dfwioeiofwr.info
 dfxsj.com
 dgsjkfjsdjfsgdsgsg.shop
 dgxyt.com
-dhl-tr.top
 dhlno.cfd
 dhsssrasc.shop
 dhsssrasc.site
@@ -3913,7 +3915,6 @@ dijitaltrgib.com
 dijitalurun-aynigunkapinda.duckdns.org
 dijitalweb-basvurlarim.sbs
 dijitalweb-kategori.sbs
-dijitalweb-simdibasvur.sbs
 dijitalweb-siparisver.sbs
 dijitalweb-talepler.sbs
 dijitalweb-ziraatbireysel.sbs
@@ -4110,6 +4111,7 @@ e-devletblog.blogspot.com
 e-devletplatformu.xyz
 e-devlettc.netlify.app
 e-disisleri.com
+e-gonderitakiptt.site
 e-hgs-bayi.lol
 e-hgs.de
 e-hizmetler-10.sbs
@@ -5647,7 +5649,6 @@ goalods.lol
 goaowet.tools
 godofthunder.st
 gofunspohk.top
-gogle-travelflights.com
 gogle-travelflights.info
 gogreenrei.waitesguide.co
 gohome.7me.wang
@@ -5802,7 +5803,6 @@ gunun-firsatlari-bim-aktuel.duckdns.org
 gununhaberleri.online
 gununindirimi.cfd
 gupiao.dev
-guretesede-resedese.lol
 gustavomartinz.duckdns.org
 gustavopelnikanli.duckdns.org
 gustonaleyi.giize.com
@@ -7659,7 +7659,6 @@ karacafirsat.shop
 karacahappy.shop
 karacahomeliving.shop
 karacakitchen.homes
-karacakitchen.shop
 karacaonlinetrs.shop
 karacaoutlet.homes
 karacasale.shop
@@ -7879,7 +7878,6 @@ klmgarantibbva.com.ph
 klmlesorgla.com
 klmnbnndansnrasn.beer
 klomensta.duckdns.org
-klomtresorgulamayapburdagovptt.duckdns.org
 klomtresrgulamaislemlerinizbrdanyazi.duckdns.org
 klookku.top
 klsamdass.shop
@@ -8252,7 +8250,6 @@ le9e3l9ss89s4464.mytunnel.org
 leaks-entry.com
 leaksentry-security.com
 leamingtonfoods.waitesguide.co
-leandelerklande.duckdns.org
 leanna.ydns.eu
 learnedcomics.com
 lebraku-lyt-g.myonlineportal.ch
@@ -10868,6 +10865,7 @@ rfes42432423erwdfa1312df.icu
 rfzqw.com
 rhbersaglk.cfd
 rhbr-dvl.cfd
+rhbrlesglk.cfd
 rhodeislandhomepage.com
 rhumbixproposal.ncclouds.co
 rhythova.com
@@ -12628,9 +12626,7 @@ thalwicklifestyle.com
 thebeltonegroup.opticaberl.com
 thecovnresation.com
 thecovnresation.net
-thegreatestheartbreak.xyz
 thenextplanet.cfd
-thesewap426322.shop
 thesoftwarerepo.com
 theunforgiven.p8.hu
 thisisafalsepositive.ru

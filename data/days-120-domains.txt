@@ -49,6 +49,7 @@
 101-bugune-ozel-extra-mobilde-sepet-indirimi-tr.store-plus.online
 101-bugune-ozel-mobil-alisveris-extra-indirimleri-tr.shopmax-tr.online
 101-bugune-ozel-sadece-online-sepet-indirimleri-tr-mobil.sepetim-tr.online
+101-cebinde-alisveris-extra-tr.bilgicepte.online
 101-cep-alisveris-mobil-tr.indirim-cepte.blog
 101-cep-bugune-ozel-online-sepet-alisveris-indirimi-sepette-tr.ticaret-tr.online
 101-cepte-sadece-online-ozel-sepet-indirimleri-mobilde-tr-extra.elektro-tr.online
@@ -3260,6 +3261,7 @@ belsis.lol
 belsis.sbs
 belsis1.world
 belsis2.world
+belsis3.click
 bementlaw.ncclouds.com
 benbenks.duckdns.org
 bencalsyrmhrsrndvlrdan.lol
@@ -4462,6 +4464,7 @@ coingateai.com
 cokguzelolaysendekatil75.info
 cokomokoskams.duckdns.org
 cokyt.top
+col0sad1xc2.duckdns.org
 collartitle.info
 com-access-sharepoint.com
 com-kampanyarezervasyon.space
@@ -5277,6 +5280,7 @@ e-devletplatformu.xyz
 e-devletresmituvturk.site
 e-devlettc.netlify.app
 e-disisleri.com
+e-gonderitakiptt.site
 e-hgs-bayi.lol
 e-hgs.de
 e-hizmetler-10.sbs
@@ -6840,7 +6844,6 @@ garanti-servis-noktasi.cloud
 garanti-sube-bonus-islemlerim.mayddns.com
 garanti-varlik-merkezi.cloud
 garanti-yatirim-destek.cloud
-garanti.3w17.com
 garanti.abrdns.com
 garanti.giris.yansitek.cam
 garantiadresfinans.cloud
@@ -6960,7 +6963,6 @@ garantili-islemlerim-bireysel-com.webredirect.org
 garantili-islemlerim-cepte-com.webredirect.org
 garantilihall.shop
 garantillifk.cfd
-garantillik.cfd
 garantimobilfinansman.cloud
 garantimobilkasa.cloud
 garantinakitdijital.cloud
@@ -9756,7 +9758,6 @@ izeltascxy.dnsup.net
 izeltasssiparsnnoktasi3548.duckdns.org
 izeltoot.dnsup.net
 izlakosta.blogspot.com
-izle-listeleme.garden
 izlts-online.dnsup.net
 izltskznew.blogspot.com
 izmiora.live
@@ -9816,7 +9817,6 @@ jgnvmmfk3432.click
 jgsbdrd.cc
 jgvmfkcml34ws.shop
 jhflt6l0dwminsl494836rb.org
-jhtlncm8494849.click
 jiaheqs.com
 jiancai008.com
 jiaoyang677.sbs
@@ -14900,6 +14900,7 @@ rfes42432423erwdfa1312df.icu
 rfzqw.com
 rhbersaglk.cfd
 rhbr-dvl.cfd
+rhbrlesglk.cfd
 rhodeislandhomepage.com
 rhumbixproposal.ncclouds.co
 rhythmza.com
@@ -15667,7 +15668,6 @@ sdfadsff1241sfdsaf.cfd
 sdfadsff1261sfdsaf.cfd
 sdfdsafasdasd.duckdns.org
 sdfsdfgdgf.duckdns.org
-sdfsdfggfd.duckdns.org
 sdfsdgsfd.duckdns.org
 sdfsfgdfgdsfgds.webredirect.org
 sdfvksdfvksdvfk.shop
