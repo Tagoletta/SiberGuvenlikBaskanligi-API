@@ -6225,6 +6225,7 @@ mhr-sonlinex.sbs
 mhrdnve.cfd
 mhremhmsdfksdfkasfa.duckdns.org
 mhrhssrs.duckdns.org
+mhrndvuilebsladi.cfd
 mhrndvumhsglk.cfd
 mhrrs-randevular.com
 mhrs-gecelrburas.sbs
@@ -7239,6 +7240,7 @@ pttavm.odeme-onay-1291.com
 pttavm.odeme-sepet-1920.com
 pttavm.online-satislari-burada.com
 pttavm.sepete-ekle.com
+pttavm.sepetinize-ekleyin.com.tr
 pttavm.sepette-ekle.com.tr
 pttavm.siparis-olustur.com
 pttavm.siparis-onay-7269.com
@@ -9533,7 +9535,6 @@ www-ceptede-tb-ayricalik.myonlineportal.ch
 www-ceptentry-tb-extend.myonlineportal.ch
 www-ceptetb-repstr.myonlineportal.ch
 www-cepteteb-ayricalik.my-homeip.de
-www-cepteteb-com-tr-promosyon.my-homeip.de
 www-cepteteb-li-com.myonlineportal.ch
 www-cepteteb.my-homeip.de
 www-ceptetebmobil-com-tr.my-homeip.de

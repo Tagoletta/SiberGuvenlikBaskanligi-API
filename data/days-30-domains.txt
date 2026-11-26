@@ -3262,6 +3262,7 @@ mhilrndvuzmni.cfd
 mhmhmmrsms.click
 mhr-sonlinex.sbs
 mhrdnve.cfd
+mhrndvuilebsladi.cfd
 mhrndvumhsglk.cfd
 mhrs-gecelrburas.sbs
 mhrs-yenidenoo.sbs
@@ -3836,6 +3837,7 @@ pttavm.odeme-onay-1291.com
 pttavm.odeme-sepet-1920.com
 pttavm.online-satislari-burada.com
 pttavm.sepete-ekle.com
+pttavm.sepetinize-ekleyin.com.tr
 pttavm.sepette-ekle.com.tr
 pttavm.sorunsuzsiparis.online
 pttavmkmsorgulamamiz.com
