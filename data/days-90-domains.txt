@@ -2751,7 +2751,6 @@ bireyselyapikredimoblilgirisbasvuru.vercel.app
 bireyselyapimobilekreditr.vercel.app
 birimmahkeme.org
 birimportal.org
-birimsorgu.org
 birisineozeldegilbutunhalkaozel.sbs
 birlik.digital
 birlikte-iyilik.vercel.app
@@ -9145,7 +9144,6 @@ mobildeniz.securelink.cfd
 mobildeniz.trdnz.cfd
 mobildeniz.yeniyilaozel.cfd
 mobile-cepteb.online
-mobile-digital.shop
 mobile-facebook.com.ph
 mobilehalkdankmagaza.duckdns.org
 mobilguvenle.sbs
