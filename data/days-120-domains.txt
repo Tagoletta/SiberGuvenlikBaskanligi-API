@@ -2883,6 +2883,7 @@ avsfilorentkirala.com
 avsfilorentkiralama.com
 avsfilorezervasyon.net
 avsfiloturkey.net
+avsgrouprentcar.com
 avsguncel.com
 avshepyaninda.com
 avsilecomtr.com
@@ -4256,8 +4257,8 @@ cezadosyasorgulama.com
 cezagov.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -15846,7 +15847,6 @@ server-dark-raptor.com
 server.activeworkshops.com
 server.vietnam852.com
 servetsayar.top
-service-center-instagram.com
 service-infos.info
 service-nowinc.com
 service.saveai.vip

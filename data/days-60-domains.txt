@@ -1180,7 +1180,6 @@ alisverisepetislem-15.sbs
 alisverisfirsati.com
 alisverisfirsatlari.com
 alisverisimeyonlendirarzum.online
-alisverisinsepet-17.sbs
 alisverisinsepet-18.sbs
 alisverisinsepet-20.sbs
 alisverisislemler-10.sbs
@@ -1624,6 +1623,7 @@ avsfilorentacarkurumsal.com
 avsfilorentkirala.com
 avsfilorentkiralama.com
 avsfiloturkey.net
+avsgrouprentcar.com
 avsguncel.com
 avshepyaninda.com
 avsilecomtr.com
@@ -1655,7 +1655,6 @@ axmonest.duckdns.org
 aynnnnnn.duckdns.org
 ayrica-cepteteb.my-homeip.de
 ayrica-ceptetebde.my-homeip.de
-ayricalik-cepte.myonlineportal.ch
 ayricalik-tepte.my-homeip.de
 ayricalikl-ceptetebde.my-homeip.de
 ayricalikla-ceptetebde.my-homeip.de
@@ -7660,7 +7659,6 @@ saglam-seyahatim.pages.dev
 saglik-rhbr.cfd
 saglik-rnd.cfd
 sagliklifirma.lol
-saglikliolunuz.com
 saglikrandevum.lol
 saglikrandevutr.online
 saglikrhbr.cfd
@@ -7688,7 +7686,6 @@ sahibinden-get.alisveris-sepeti-guvende-35.sbs
 sahibinden-get.alisverisepet-islem-10.sbs
 sahibinden-get.alisverisepetislem-15.sbs
 sahibinden-get.alisverisepetler-10.sbs
-sahibinden-get.alisverisinsepet-17.sbs
 sahibinden-get.alisverisinsepet-18.sbs
 sahibinden-get.alisverisinsepet-19.sbs
 sahibinden-get.alisverisinsepet-20.sbs
@@ -9089,7 +9086,6 @@ urebanned.icu
 urebanned.sbs
 urebanned.top
 urganltd.com
-urgansorgupanel.ct.ws
 uroker.casa
 urosefif.world
 urunbitmedengerekeniyapanlar.sbs
