@@ -1723,7 +1723,6 @@ alisverisitesi.co
 alisverislersepet-10.sbs
 alisverislersepet-20.sbs
 alisverisonlinex.duckdns.org
-alisverisptt-avm.ph
 alisveriste-tr.online
 alisverix-tr.online
 alisverix.online
@@ -1800,6 +1799,7 @@ amznkmps.loseyourip.com
 amzssapplication.com
 anadolu.menkulcuzdanim.com
 anadoludijitalim.online
+anadolufilokiralama.com
 anadolugroup.online
 anadolumenkulyatirimdegerler.com
 anadoluyatirimmenkuldeger.com
@@ -3398,8 +3398,8 @@ cezadosyasorgulama.com
 cezagov.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliye.net
@@ -7638,7 +7638,6 @@ kampnyysonfrsltarrbasvrr1932.online
 kamppanyalarikacirmaa.com
 kamppanyalarryuzbirdee.com
 kamuborcbilgisi.org
-kamuceza.org
 kamudavabilgi.org
 kamudavam.org
 kamudavasorgu.net
@@ -8178,7 +8177,6 @@ kucoiins.cam
 kuev.top
 kugogogosahdahs99sad.lol
 kugosahdhashd9sdas9sw.click
-kuhugug-redesede.lol
 kukluhguhuderesede.lol
 kulkiwears.sbs
 kullanimkosulu.abrdns.com
