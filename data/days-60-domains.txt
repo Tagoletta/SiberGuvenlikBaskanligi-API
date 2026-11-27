@@ -471,7 +471,6 @@
 2591106860.cloud
 2616160175.cloud
 2616766158.cloud
-265271.duckdns.org
 2660127752123.cloud
 266016565925.cloud
 27hz5.com
@@ -739,7 +738,6 @@
 6643454.sbs
 671267.xyz
 6712671.xyz
-6734737373.click
 674535huc2424.xyz
 6ab8c.com
 6adsbhad.duckdns.org
@@ -992,6 +990,7 @@ abn3l8febkskxmce0tat6ide.store
 absntmartnremy.giize.com
 abuzbiirharcabitmez.duckdns.org
 acayioynamazgencler.duckdns.org
+accenture.international-interviews.com
 account-sync-data.com
 accounts-bvets-au.cncsinks.com
 accounts-cgi.lvborses.net
@@ -3922,6 +3921,7 @@ gibsorgulama.net
 gibtakip.net
 giris-cepte-teb.finansbul.online
 giris-islemler.teb.com.se
+giris-mobilde.online
 giris-mobile-teb.my-homeip.de
 giris-sekermenkul.pro
 giris-ziraatmobile.com
@@ -3993,6 +3993,7 @@ google-link.my-homeip.de
 google.centerhoti.com
 google.morelessty.com
 google.natrlyi.com
+google.webinar-cloud.com
 googleadshizmeti.gleeze.com
 googlemeet-join.com
 googlemeet.pro
@@ -4850,7 +4851,6 @@ hzlmyndsvzen.site
 hzlrnd.cfd
 hzlsaglkrhbr.cfd
 hzlsstmlndaaarserrn.com
-hzlszsndnsmlk.com
 hzlszsndnsmlk.info
 hzlszsndnsmlk.net
 hzlszsndnsmlk.online
@@ -5457,6 +5457,7 @@ kartulisuperi.duckdns.org
 karyacicek.shop
 kasdertmonst.duckdns.org
 kasdwqwdasd.click
+kasim-ozel.online
 kasimaozel.cfd
 kasimdarhber.cfd
 kasimfirsatlariibassvrkmpny.kmnpyfrstlarrbsvr139154.online
@@ -5513,7 +5514,6 @@ kgm-gov.onl
 kgm.ukyaj.cc
 kgm460.top
 kgmgom.cfd
-kgmgov.cfd
 kgmgovi.cfd
 kgmgovm.cfd
 kgmgovs.cfd
@@ -5794,7 +5794,6 @@ lab.diyanetisleribakanligi.vercel.app
 laboredtire.com
 lakalakalklakak.shop
 lake-90.com
-laktanasma.net
 laleliburgaz.giize.com
 lalezarte346655ter.duckdns.org
 lalibation.ncclouds.com
@@ -6357,6 +6356,7 @@ mhsssraa.cfd
 mhsssraa.rest
 mhsssraa.sbs
 mhsssras.sbs
+mhyklerdnvusm.cfd
 miboykr.xyz
 michaelkors-turkiye.com
 microscoft.vip
@@ -6762,6 +6762,7 @@ nv-online.click
 nv4r8z1p6.lol
 nvidia-aidat.netlify.app
 nvidia-destek.vercel.app
+nvidia.feedback-study.com
 nvirandevuekrakodeme.online
 nvirandevumvar.online
 nvirandevuncep.com
@@ -7828,7 +7829,6 @@ sahibindenonlinedestek.com
 sahibindenparam-guvende.bilgi-urundetayi.online
 sahibindenparamguvende.bilgi-urundetayi.online
 sahibindenparamguvende.ilan-siparis-servisi.online
-sahibindenparamguvende.store
 sahibindenparamguvende.tr-siparisget.online
 sahibindenparamguvendeget.wordpress.com
 sahibindenparamguvendegetilan.wordpress.com
@@ -8304,6 +8304,7 @@ sponsorlukrehberi.online
 sponsorluorganizasyon.online
 sporoslrws.click
 sportstation.top
+spotify.interview-experts.com
 sprmntdengoldprty1784.duckdns.org
 sptsptfrsatlar.xyz
 sputnk.com
@@ -9012,6 +9013,7 @@ tuvturk-muayene.org
 tuvturk.adblickgranos.com
 tuvturk.co
 tuvturk.sendreward.com
+tuvturkklakskfa.xyz
 tuvturkrandevu.ink
 tuvturkrandevumuayene.com
 tuvturkx.com
@@ -9023,7 +9025,6 @@ tvtr-randevu.web.app
 tvtrarcmynb.sbs
 tvtrkkkrdnvvvuu.duckdns.org
 tvtrkogren.org
-tvtrkrndv.duckdns.org
 tvtrkslerdenrvd.duckdns.org
 tvturandevusu.cfd
 tvvtrzzrrrserndvs.space
@@ -9187,7 +9188,6 @@ valmira.cyou
 valnikat.com
 valtrixera.com
 vankedileri.kedi-baklicisi.shop
-varaka.click
 varflex.coserflwang.com
 vartn8iau6vpk.org
 vastrend.com

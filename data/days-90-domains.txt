@@ -1331,7 +1331,6 @@ a101ekimayistanleyfirsati.gleeze.com
 a101extra.sbs
 a101eylulfirsatlari.duckdns.org
 a101firsaturunu.duckdns.org
-a101haftaninbirgunindirimi.com
 a101harcaharcabitmezseri.duckdns.org
 a101harcaharcabitttmez.xyz
 a101heyecanli.xyz
@@ -1397,6 +1396,7 @@ abuzbiirharcabitmez.duckdns.org
 abwbevehwmnend.org
 ac-arla.myonlineportal.ch
 acayioynamazgencler.duckdns.org
+accenture.international-interviews.com
 access-gate-knssk.b-cdn.net
 account-sync-data.com
 accounts-bvets-au.cncsinks.com
@@ -3393,8 +3393,8 @@ cezadosyasorgulama.com
 cezagov.com
 cezagovtr.org
 cezahazine.com
-cezainfaz.org
 Cezainfaz.org
+cezainfaz.org
 cezamali.com
 cezamali.org
 cezamaliye.net
@@ -5604,6 +5604,7 @@ giresunilozelidare.cyou
 girihub.info
 giris-cepte-teb.finansbul.online
 giris-islemler.teb.com.se
+giris-mobilde.online
 giris-mobile-teb.my-homeip.de
 giris-sekermenkul.pro
 giris-turkiye-gov-tr-translate-goog.translate.goog
@@ -5697,6 +5698,7 @@ google-link.my-homeip.de
 google.centerhoti.com
 google.morelessty.com
 google.natrlyi.com
+google.webinar-cloud.com
 googleadshizmeti.gleeze.com
 googlecomfunkyehh.vercel.app
 googlemeet-join.com
@@ -7721,6 +7723,7 @@ kartulisuperi.duckdns.org
 karyacicek.shop
 kasdertmonst.duckdns.org
 kasdwqwdasd.click
+kasim-ozel.online
 kasimaozel.cfd
 kasimdarhber.cfd
 kasimfirsatlariibassvrkmpny.kmnpyfrstlarrbsvr139154.online
@@ -9047,6 +9050,7 @@ mhsssrassd.live
 mhsysndvuesa.site
 mhtsrsagdsg.site
 mhtsrscgdsg.site
+mhyklerdnvusm.cfd
 miboykr.xyz
 mibusare-yedolapi.lol
 michaelkors-turkiye.com
@@ -9612,6 +9616,7 @@ nv-online.click
 nv4r8z1p6.lol
 nvidia-aidat.netlify.app
 nvidia-destek.vercel.app
+nvidia.feedback-study.com
 nviilerrndevusu.org
 nviirandevubilgilendirme.blogspot.com
 nviirandevubilgilendirme10.blogspot.com
@@ -12157,6 +12162,7 @@ sponsporlu-reklam-cekilisim.online
 sponsporlucekilisim.online
 sporoslrws.click
 sportstation.top
+spotify.interview-experts.com
 spraygroundtr.com
 sprmntdengoldprty1784.duckdns.org
 sptsptfrsatlar.xyz
@@ -13142,6 +13148,7 @@ tuvturk.adblickgranos.com
 tuvturk.co
 tuvturk.sbs
 tuvturk.sendreward.com
+tuvturkklakskfa.xyz
 tuvturkrandevu.ink
 tuvturkrandevumuayene.com
 tuvturkrandevun.com
