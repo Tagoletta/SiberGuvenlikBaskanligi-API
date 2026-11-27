@@ -506,7 +506,6 @@
 123512351235.duckdns.org
 1235616345234.sbs
 12381239.xyz
-124124124.duckdns.org
 1241251.xyz
 124215151512.duckdns.org
 1244422115455455888899991.duckdns.org
@@ -4284,8 +4283,8 @@ cezadosyasorgulama.com
 cezagov.com
 cezagovtr.org
 cezahazine.com
-Cezainfaz.org
 cezainfaz.org
+Cezainfaz.org
 cezakayit.com
 cezamahkeme.com
 cezamahkeme.org
@@ -8979,6 +8978,7 @@ hsb.varlikportfolio.com
 hsbcbank-finance.com
 hsbcrewards-homesa.info
 hsbcrewards-homesb.info
+hsbctw.top
 hsdgmfsodg.art
 hsdomynl.xyz
 hsfdgsdg.art
@@ -12296,6 +12296,7 @@ mobil-dijital-firsatlar.sbs
 mobil-erisim-cepteteb.my-homeip.de
 mobil-firsat-hizmetleri.vercel.app
 mobil-indirimleri.online
+mobil-onay-cepte.my-homeip.de
 mobil-onay-cepteteb.my-homeip.de
 mobil-simdi.com
 mobil-siparis-odeme.com
@@ -14333,7 +14334,6 @@ powerlivings.com
 powerquizmaster.com
 poyuturyew-esederese.lol
 pppprrdannnn.duckdns.org
-pppzirpppsf.nicepage.io
 pproxy.top
 pr-arabacekilisi.online
 prairiepomes.com
@@ -14727,7 +14727,6 @@ quorenthos.vip
 quorvella.blog
 quorzenfy.com
 qwdx12xqadxqx.duckdns.org
-qwdx21x1xd12.duckdns.org
 qwe9r.com
 qwemonstekest.duckdns.org
 qwertyuiopa.pro
@@ -18289,7 +18288,6 @@ urunhizmetleri.online
 urunlerdekampanyalar.duckdns.org
 urunlerin-online-satisi.com
 urunodeme-tr.online
-urunodemetr.online
 us.dev
 us.download
 us956web-zoom.us
@@ -18440,6 +18438,7 @@ varflex.coserflwang.com
 varlikatlas.info
 vartn8iau6vpk.org
 vastrend.com
+vastt2ascaca.ooguy.com
 vasw.faswq.bls.vvasw.c.kasdwqwdasd.click
 vatandas-basvuru-islemleri.sbs
 vatandas-uyap-gov-tr-evrak-dogrulama-uyap.vercel.app
@@ -19315,7 +19314,6 @@ xn--hzlkmpssa-vpbc.com
 xn--inatboxapksonsrm-wzbb.com.tr
 xn--inatboxykle-0hb.com.tr
 xn--kmsorguznf-6uba.com
-xn--markafrasst101-bgc.com.tr
 xn--nadrgold-e2a.com
 xn--netfix-t9a.com.tr
 xn--nvirandevutrkaymakamlk-6ld.com
@@ -19872,7 +19870,6 @@ ziraatssbank.xyz
 ziraattarimsa.cfd
 ziraattli.sbs
 ziraatyatirimborsahesabi.pro
-zirailillf.cfd
 ziraitarimfs.cfd
 ziralmobilislemlerl.duckdns.org
 ziralmobilonlineislemlerimtr.duckdns.org
