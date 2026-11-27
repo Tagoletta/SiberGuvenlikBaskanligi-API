@@ -1896,6 +1896,7 @@ bilgilendirmesler.date
 bilgilendirmetakgu-516ff.web.app
 bilgilendirmezamani.abrdns.com
 bilgimahkeme.org
+bilgin.gifts
 bilgisel-cepte.online
 bilgivermeservisi.bid
 bilipta.top
@@ -3123,7 +3124,6 @@ emlakatasehirrrssl.duckdns.org
 emlakjetmuhasebe.org
 empowerementplan.com
 emptytownmoon.de
-emreakkaya.av.tr
 en-uygun-is-merkezi.vercel.app
 enaltin-enpara.ph
 enbuyukaskimsensin.sbs
@@ -4887,6 +4887,7 @@ i-nfodegerler.com
 i-saglkrnd.cfd
 i5r4z.com
 iac-ab.waitesguide.co
+ialscasoclxc.kocyapimarket.net
 iascmaklscmasc.ciceklerinizburada.online
 iayps.com
 ibrahimtatlisesplak.duckdns.org
@@ -7814,7 +7815,6 @@ sahibinden-param-guvende.servis-hizmet.online
 sahibinden-param-guvende.siparis-get-servis.online
 sahibinden-param-guvende.siparis-onayi.online
 sahibinden-param-guvende.siparis-onayla.online
-sahibinden-param-guvende.siparisim-guvenli.online
 sahibinden-param-guvende.tr-servis-onay.online
 sahibinden-param-guvende.tr-servis-onayi.online
 sahibinden-param-guvende.tr-siparisget.online
@@ -9087,6 +9087,7 @@ tvtrkkkrdnvvvuu.duckdns.org
 tvtrkogren.org
 tvtrkslerdenrvd.duckdns.org
 tvturandevusu.cfd
+tvvtrrk.org
 tvvtrzzrrrserndvs.space
 tw-koryu.org
 twcdwf.com
