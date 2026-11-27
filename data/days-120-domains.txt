@@ -7923,7 +7923,6 @@ halimdenanla.dnsup.net
 halk-kampanya-ozel.online
 halk-kampanya-ozel.site
 halkacikmagazam.duckdns.org
-halkbankasipromosyondeneme.duckdns.org
 halkbankonlinedestek.com
 halkblgi.cfd
 halkbnk.com.tr
