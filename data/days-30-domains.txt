@@ -166,7 +166,6 @@
 22245112245542224554254591.xyz
 22245112245542224554254592.xyz
 22245112245542224554254593.xyz
-22245112245542224554254594.xyz
 22245112245542224554254595.xyz
 22245112245542224554254597.xyz
 22245112245542224554254598.xyz
@@ -251,6 +250,7 @@
 404-found.icu
 404-found.xyz
 412prmsnynkbmp.online
+415591276923.cloud
 429472ae25.nxcli.io
 4312211422245222224552245590.xyz
 4312211422245222224552245591.xyz
@@ -308,8 +308,10 @@
 512512351213hizlcsmler-aracm360ptavm.space
 5125125125.duckdns.org
 512551213hizlcsmler-aracm360ptavm.online
+512695872123.cloud
 51291271766.cloud
 51299657326612.cloud
+5169426237609.cloud
 524125213.sbs
 52ndk.com
 5312211422245222224552245590.xyz
@@ -323,6 +325,7 @@
 534834kmpnyabsvr.online
 53532512412.sbs
 541251765.cloud
+54126694271275.cloud
 5430811591840151.sbs
 544504d7fe1e.xyz
 551099127572.cloud
@@ -372,6 +375,7 @@
 63tk8.com
 6454845.xyz
 651c4138-94f4e-90784-9167-81s7528d91b4-67lc6hj.com
+6612012775751.cloud
 66126121.xyz
 66166266457721.cloud
 6643454.sbs
@@ -615,6 +619,7 @@ akbankinvestprogram-click.pages.dev
 akbankkampanya.vercel.app
 akbankplayablevercel.vercel.app
 akillisecimler.org
+akpinar.gifts
 akportfoy-bi.pages.dev
 aktuel-gunun-firsatlari-bim.duckdns.org
 aktuel-gunun-firsatlari-bim.webredirect.org
@@ -1332,7 +1337,6 @@ chappal-tr.live
 charlottetilbury-turkiye.com
 chat.tk-malll.shop
 chatknow.dev
-chatlgpt.com
 chatwoot.dev
 cheatscan.club
 cheatseller.com
@@ -1516,6 +1520,7 @@ desirezone05.com
 destekadres.com
 destekmerkeziniz.xyz
 desteksosyal.net
+destination-continent-academy-remind.trycloudflare.com
 determine-renewal-lawn-starter.trycloudflare.com
 deuedu.ccwu.cc
 dev.soft-png-cdn.com
@@ -1709,7 +1714,6 @@ elevenlebs.io
 elitecheatsx.live
 elitemods.shop
 eloqyra.com
-elpolacosur.dynuddns.com
 elvoranix.com
 elvoranix.online
 email-mfa.org
@@ -3246,6 +3250,7 @@ menkulvcuzdan.com
 meravito.com
 merayona.top
 mercortalents.xyz
+meridya.online
 merio.top
 merkez-bankasi.info
 merkez-bankasi.live
@@ -4141,7 +4146,6 @@ sahibinden.sepetimdeonline.shop
 sahibinden.ulak.pp.ua
 sahibindenarap.com
 sahibindendestekkasko.com
-sahibindenekstra.com
 sahibindeniletisimdestek.com
 sahibindenonlinedestek.com
 sahibindenparamguvende.ilan-siparis-servisi.online
@@ -5093,7 +5097,6 @@ wosback.cc
 wovplaying.help
 wrqrasgfqqwr.sbs
 wrtuzhgfzd.sharedmsform.com
-wumingcccv.com
 wuoppin.xyz
 ww-fibabanka.ph
 ww38.k3rdxp0igzguybu6ua1.com

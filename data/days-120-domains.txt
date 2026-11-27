@@ -541,8 +541,6 @@
 13112026.com
 13222112211445799890.duckdns.org
 13222112211445799891.duckdns.org
-13222214544588989990898.duckdns.org
-13222214544588989990899.duckdns.org
 133213345665578555989899090.duckdns.org
 133213345665578555989899091.duckdns.org
 133213345665578555989899092.duckdns.org
@@ -940,6 +938,7 @@
 412542212224555455589991.duckdns.org
 412prmsnynkbmp.online
 41414155.duckdns.org
+415591276923.cloud
 41865485646468.sbs
 41m4at124bsbs.com
 421412421412124.duckdns.org
@@ -1031,9 +1030,11 @@
 512512351213hizlcsmler-aracm360ptavm.space
 5125125125.duckdns.org
 512551213hizlcsmler-aracm360ptavm.online
+512695872123.cloud
 51291271766.cloud
 51299657326612.cloud
 51515151222.duckdns.org
+5169426237609.cloud
 52165215.sbs
 5234183747924819.duckdns.org
 524125213.sbs
@@ -1061,6 +1062,7 @@
 541221125565556559998.duckdns.org
 541221125565556559999.duckdns.org
 541251765.cloud
+54126694271275.cloud
 5426554265521.duckdns.org
 5430811591840151.sbs
 543543534534.sbs
@@ -1148,6 +1150,7 @@
 65321478prsmynnbsvrrkmpnyaaa.online
 6544722454548.duckdns.org
 65744257157467.duckdns.org
+6612012775751.cloud
 66126121.xyz
 66166266457721.cloud
 6643454.sbs
@@ -1930,6 +1933,7 @@ akmobil-cepteislemler-ekrani-com.webredirect.org
 akmobildend.duckdns.org
 akmpxnya-101eylul.site
 akonlinereklamlar.sbs
+akpinar.gifts
 akportfoy-bi.pages.dev
 akra-frontdeskt.com
 akraantalyafrontdesk.com
@@ -1981,7 +1985,6 @@ albarakaaiprojects.com
 albarakafinanceeg.com
 albarakamenkulkiymetler.com
 albarakamenkulyatirim.com
-albayquery.space
 albedorb.space
 albedorb.world
 albinofennel.com
@@ -2327,7 +2330,6 @@ ar-safar.myonlineportal.ch
 ara-asa-atk.my-homeip.de
 araba--paribu.com
 araba--paribu.live
-araba-cekilisi-paribu.ezgateway.net
 araba-cekilisi-paribu.mywire.org
 araba-cekilisi.live
 araba-cekilisi.online
@@ -4855,6 +4857,7 @@ destekyardim.com
 destekyardim.net
 destekyardimlari.net
 destekyatirimmenkuldegerler.com
+destination-continent-academy-remind.trycloudflare.com
 detailsarrival.com
 detaybakiye.lol
 detectsysscanner.at
@@ -11794,6 +11797,7 @@ merhametsizlerdiyari.xyz
 meridian-protocol.org
 meridiangroup-corp.com
 meridizo.com
+meridya.online
 merio.top
 meritbetcasinogiris.icu
 meritbetgirisguncel.icu
@@ -14964,7 +14968,6 @@ rndvalhmn.cfd
 rndvalmazmni.cfd
 rndvalvode.cfd
 rndvklyal.cfd
-rndvlahzmetler.com
 rndvualmrse.cfd
 rndvualsna.cfd
 rndvuburdaalingelin.duckdns.org
