@@ -4268,6 +4268,7 @@ ceptetebli-ayricalik.my-homeip.de
 ceptetebli-basvurum.my-homeip.de
 ceptetebli-emekliye.my-homeip.de
 ceptetebli-kampanya.my-homeip.de
+ceptetebli-mobil.my-homeip.de
 ceptetebliye-ozel.my-homeip.de
 ceptetebte-tr.my-homeip.de
 ceptetep-firsat.my-homeip.de
@@ -13856,7 +13857,6 @@ paribu-araba-cekilis.online
 paribu-araba-cekilisi.com
 paribu-araba-cekilisi.live
 paribu-araba-cekilisi.online
-paribu-araba-kazanma.com
 paribu-araba.live
 paribu-araba.online
 paribu-arababurada.com
@@ -13991,8 +13991,6 @@ paribununhediyekampanyalari.online
 paribununhediyelicekilisleri.online
 paribununodulluyarismalari.online
 paribununsponsorlucekilisleri.online
-paribupepe-cekilisim.com
-paribupepe-cekilisin.com
 paribupepe-hediyem.com
 paribupepe-hediyem.info
 paribupepe-hediyem.link
