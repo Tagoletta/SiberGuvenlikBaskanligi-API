@@ -1053,6 +1053,7 @@ advertising-gemini.com
 adwadad.duckdns.org
 adyvidavi.online
 aeeum.com
+aekarackiralama.org
 aeloria.blog
 aertyudmmd.com
 aesqehyu4lzshl.ipv64.net
@@ -1195,7 +1196,6 @@ alisverisepetislem-15.sbs
 alisverisfirsati.com
 alisverisfirsatlari.com
 alisverisimeyonlendirarzum.online
-alisverisinsepet-18.sbs
 alisverisinsepet-20.sbs
 alisverisislemler-10.sbs
 alisverisislemler-20.sbs
@@ -1613,6 +1613,7 @@ avmsiparisolustur.com
 avnarabakiralama.com
 avndsalpokjbv.duckdns.org
 avnfilo.com
+avnrentcar.com
 avs-rentacars.com
 avsaraba.com
 avsarabakiralama.net
@@ -2235,6 +2236,7 @@ carefoursa.vercel.app
 carellacicek.com
 carenta360.com
 carfilogomavs.com.tr
+carfilovista.com.tr
 carloxmextos.org
 carrefoursafirsatlariniz991.duckdns.org
 carrefuorsa.sbs
@@ -4014,6 +4016,7 @@ gohome.7me.wang
 gohome.dev
 gohome.douwen.me
 gokretmade.giize.com
+gokyolu.gifts
 gol.to
 golden-digger.art
 goldencarfilo.com
@@ -4320,7 +4323,6 @@ hblnife.co
 hblnife.com
 hdbnyaprcamsnncnbnlr.rest
 hdbrdanrvalsnbrdn.sbs
-hdemiradiyamanedutr.weebly.com
 hdf.hedefborsa.com
 hdfdsi84j3h.top
 hdhisdhjad.sbs
@@ -4743,7 +4745,6 @@ hizliotokiralama.net
 hizliservis-35bca7801b37.herokuapp.com
 hizlisgecisnayolsyukleyn.art
 hizliyapiyoruzherseyi.duckdns.org
-hizlkmsorgu.web.app
 hizmet-akbank.ph
 hizmetelerism.cfd
 hizmetimizaktiftaklaci.myshopify.com
@@ -7822,7 +7823,6 @@ sahibinden-get.x-mobil-islem-guvenceli.com
 sahibinden-getilan.islemler-web-tr-getalisveris.online
 sahibinden-getilan.islemler-webtr-getalisveris.online
 sahibinden-getilan.tr-alisveris-web-getislemler.online
-sahibinden-getilan.tr-alisveris-webislemler-get.online
 sahibinden-getilan.tr-web-alisveris-get-islemler.online
 sahibinden-getilan.tr-webalisverisler-tr-getislemler.online
 sahibinden-getilan.web-tr-islemlerim-getalisveris.online
@@ -8059,7 +8059,6 @@ servisepetin-20.sbs
 servisinguvenli-68.sbs
 servisinguvenli-75.sbs
 servisinguvenli-80.sbs
-servislerinislemler.sbs
 sessivesnet.us
 sessseehlheeh2r896hlvlhd3se.freeddns.org
 setup-assistant.com
@@ -8907,7 +8906,6 @@ tpk-rndv-tkkg.online
 tpkcosbs.info
 tpkulesrglm.click
 tptptptptppa.duckdns.org
-tr-alisveris-webislemler-get.online
 tr-cepteteb-emekli.my-homeip.de
 tr-get-islemler-web-alisveris.online
 tr-islemler-web-tr-getalisveris.online
