@@ -320,7 +320,6 @@
 12245112245542224554254597.xyz
 12245112245542224554254598.xyz
 12245112245542224554254599.xyz
-1227300299930.webredirect.org
 1228282919903.webhop.me
 122991888277.servehttp.com
 12301203124.click
@@ -339,7 +338,6 @@
 1271772882038.duckdns.org
 127199292020199.servehttp.com
 127919552784050.webredirect.org
-1279199552030.duckdns.org
 127985698545789555899855990.xyz
 127985698545789555899855992.xyz
 127985698545789555899855993.xyz
@@ -1022,6 +1020,7 @@ adeccohr-calendly.com
 adeccohr-jobs.com
 adenpanel.world
 adfsfdsfa.duckdns.org
+adkrentacar.com
 adlibirimi.org
 adliyearabulucu.org
 adliyemaliye.org
@@ -1508,7 +1507,6 @@ asdfdajsdks.shop
 asdffdsdfs.duckdns.org
 asdfsadfsdf.webredirect.org
 asdfvdzfad.art
-asdghbvdasha.art
 asdhashdhashd88238sadh.click
 asdjnfewjnjfeqasd.duckdns.org
 asdkjfrnwjfe.duckdns.org
@@ -1609,6 +1607,7 @@ avmsiparisolustur.com
 avnarabakiralama.com
 avndsalpokjbv.duckdns.org
 avnfilo.com
+avnfilo.net
 avnrentcar.com
 avs-rentacars.com
 avsaraba.com
@@ -3021,7 +3020,6 @@ egngovrn.web.id
 egnngovern.my.id
 ehazine.org
 ehazineceza.com
-ehazinedava.com
 ehazinedosya.com
 ehazinegib.com
 ehazinegov.com
@@ -3835,6 +3833,7 @@ garenta.com-onlinearackirala.info
 garentabayim.com
 garentabayimrent.com
 garentacarkiralama.net
+garentafilorental.net
 garentam.com
 garentam.org
 garentamerkez.com
@@ -7639,7 +7638,6 @@ ruhsuzhizmetleri.click
 ruhsuzpanel10.site
 ruhsuzpanel2.click
 ruhsuzpanel2.shop
-ruhsuzpanel2.website
 ruhsuzpanel26.click
 ruhsuzpanel3.website
 ruhsuzpanel3.world
@@ -7758,7 +7756,6 @@ sahibinden-get.alisveris-sepeti-guvende-35.sbs
 sahibinden-get.alisverisepet-islem-10.sbs
 sahibinden-get.alisverisepetislem-15.sbs
 sahibinden-get.alisverisepetler-10.sbs
-sahibinden-get.alisverisinsepet-18.sbs
 sahibinden-get.alisverisinsepet-19.sbs
 sahibinden-get.alisverisinsepet-20.sbs
 sahibinden-get.alisverislersepet-20.sbs
@@ -8664,7 +8661,6 @@ tebbireyselsube2018.com.ph
 tebbise.duckdns.org
 tebbreee.duckdns.org
 tebcim.space
-tebde-basvuru-cep.myonlineportal.ch
 tebden-basvuru.mobil-bankacilik.site
 tebefes.site
 tebefeso.bounceme.net
